@@ -60,3 +60,35 @@ Wie lassen sich die Kompetenzanforderungen technischer Führungskräfte im Konte
 - [ ] Kompetenzen identifiziert
 - [ ] Mapping erstellt
 - [ ] Interviews durchgeführt
+
+## Workflow & Aufgabenmanagement
+
+Für die Organisation des Projekts wird ein GitHub Project Board verwendet.
+
+### Board-Struktur
+Die Aufgaben durchlaufen folgende Phasen:
+
+Backlog → To Do → In Progress → In Review → Done
+
+### Bedeutung der Spalten
+- **Backlog**: Alle erstellten Aufgaben, die noch nicht gestartet wurden
+- **To Do**: Aufgaben, die als nächstes bearbeitet werden
+- **In Progress**: Aufgaben, an denen aktuell gearbeitet wird
+- **In Review**: Aufgaben, die fertig sind und überprüft werden
+- **Done**: Abgeschlossene und geprüfte Aufgaben
+
+### Prioritäten
+- **high-priority**: kritisch für den Fortschritt
+- **medium-priority**: wichtig, aber nicht dringend
+- **low-priority**: nachrangig
+
+### Meilensteine
+- **MS1**: Problem, Ziel und Forschungsfrage
+- **MS2**: Literatur und Methodik
+- **MS3**: Mapping und empirische Auswertung
+- **final**: Abschluss und Präsentation
+
+### Arbeitsweise im Team
+- Jede Aufgabe wird nach Möglichkeit einer Person zugewiesen
+- Aufgaben werden vor Abschluss im Review geprüft
+- "Done" bedeutet: vollständig erledigt und überprüft
