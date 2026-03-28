@@ -111,3 +111,13 @@ Hängt ab von: #Issue-Nummer
 
 Beispiel:
 Hängt ab von: #1
+
+### Kategorien (Labels)
+
+Zur besseren Strukturierung der Aufgaben werden folgende Kategorien verwendet:
+
+- **docs**: Dokumentation, Texte, Projektpaper
+- **literature**: Literaturrecherche und Quellenarbeit
+- **analysis**: Analyse, Mapping und inhaltliche Auswertung
+- **data**: Datenerhebung und Interviews
+- **presentation**: Präsentationen und Poster
