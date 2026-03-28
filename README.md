@@ -92,3 +92,22 @@ Backlog → To Do → In Progress → In Review → Done
 - Jede Aufgabe wird nach Möglichkeit einer Person zugewiesen
 - Aufgaben werden vor Abschluss im Review geprüft
 - "Done" bedeutet: vollständig erledigt und überprüft
+
+### Abhängigkeiten
+
+Zur Strukturierung des Projekts werden Abhängigkeiten zwischen den Aufgaben definiert.
+
+Diese orientieren sich an der logischen Reihenfolge der Arbeit:
+
+- Forschungsproblem → Forschungsziel → Forschungsfrage
+- Literatur → Kompetenzanalyse → Mapping
+- Mapping → Interviews → Framework
+- Framework → Projektpaper → Präsentation
+
+Abhängigkeiten werden direkt in den jeweiligen Issues dokumentiert.
+
+Format:
+Hängt ab von: #Issue-Nummer
+
+Beispiel:
+Hängt ab von: #1
