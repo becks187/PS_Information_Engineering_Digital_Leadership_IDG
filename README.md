@@ -121,3 +121,19 @@ Zur besseren Strukturierung der Aufgaben werden folgende Kategorien verwendet:
 - **analysis**: Analyse, Mapping und inhaltliche Auswertung
 - **data**: Datenerhebung und Interviews
 - **presentation**: Präsentationen und Poster
+
+
+# Überarbeitung (Feedback-basiert)
+
+## Hintergrund
+Die folgenden Anpassungen wurden basierend auf Feedback aus dem Kick-off-Meeting vorgenommen.
+
+## Anpassungen
+
+- Forschungsproblem wurde präzisiert und stärker auf die Rolle innerer Kompetenzen fokussiert
+- Zusammenhang zwischen digitaler Transformation und Inner Development Goals klarer herausgearbeitet
+- Forschungsziel konkretisiert und strukturierter formuliert
+- Fokus auf technische Führungsrollen (CIO, CDO, CTO) geschärft
+
+## Ziel der Überarbeitung
+Verbesserung der Klarheit, wissenschaftlichen Fundierung und Nachvollziehbarkeit der Arbeit.
