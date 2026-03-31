@@ -1,0 +1,33 @@
+Forschungsproblem: 
+- Trotz technologischer Lösungen für die SDGs (Sustainable Development Goals) mangelt es oft an der inneren Kapazität, um mit der Komplexität digitaler Transformationsinitiativen umzugehen (Jordan, 2021; Pöhlmann & Hodapp, 2025).
+
+- Technik allein reicht für erfolgreiche digitalen Transformation nicht mehr aus. Führungskräfte benötigen „Inner Skills“, um menschlichen Faktor erfolgreich zu integrieren (Schwarzmüller et al., 2017; Jordan, 2021).
+
+- Es ist essential für digitale Transformation, welche IDG-Kompetenzen für CIO, CDO, CTO relevant sind (Walchshofer & Riedl, 2017; Peach & Vogel, 2022).
+
+
+Forschungsziel:
+- Identifikation notwendiger Kompetenzen der IDG für erfolgreichen menschenzentrierte digitale Transformation, durch Analyse des bestehenden IDG-Rahmen anhand ihrer Relevanz für CIO, CTO und CDO
+
+- Erstellung eines Frameworks der relevanten Fähigkeiten für technische Führungsrollen basierend auf Literatur
+
+- Framework empirisch reflektieren durch Interviews mit Experten 
+
+- Anschließend eine Weiterentwicklung des Frameworks (z.B. in Form von Handlungsempfehlungen) anhand der Validierung
+
+
+Forschungsfrage: bei Gestaltung nicht notwendig (nur Wiederholung des Ziels)
+
+
+Literatur:
+Jordan, T. (2021). Inner Development Goals: Background, method and the IDG framework. IDG Foundation. https://drive.google.com/file/d/13fcf9xmYrX9wrsh3PC3aeRDs0rWsWCpA/edit?usp=embed_facebook
+
+Paech, A., & Vogel, D. (2022). IT-Führungsrollen des Top-Management-Teams im öffentlichen Sektor. HMD Praxis der Wirtschaftsinformatik, 59(3), 854–866. https://doi.org/10.1365/s40702-022-00873-w
+
+Pöhlmann, K., & Hodapp, J. (2025). Transformational Skills für die digitale und nachhaltige Transformation: Innere Entwicklung als Schlüssel zur Veränderung von (Projektmanagement-) Kultur. 10.18420/pvm2025_13. https://dl.gi.de/handle/20.500.12116/47821
+
+Schwarzmüller, T., Brosi, P., & Welpe, I. M. (2017). Führung 4.0 – Wie die Digitalisierung Führung verändert. In A. Hildebrandt & W. Landhäußer (Hrsg.), CSR und Digitalisierung: Der digitale Wandel als Chance und Herausforderung für Wirtschaft und Gesellschaft (S. 617–628). Springer. https://doi.org/10.1007/978-3-662-53202-7_43
+
+Walchshofer, M., & Riedl, R. (2017). Der Chief Digital Officer (CDO): Eine empirische Untersuchung. HMD Praxis der Wirtschaftsinformatik, 54(3), 324–337. https://doi.org/10.1365/s40702-017-0320-7
+
+
