@@ -23,8 +23,9 @@ literatur/
 - Boosting SMEs digital transformation … dynamic capabilities
 - Developing digital transformation leadership for digital-age organizational agility
 - DT leadership competencie contingency approach
-- Digital_Transformation_Leadership_Bridging_Technic *(noch in /ps ie/ root)*
+- Digital_Transformation_Leadership_Bridging_Technic
 - digital transformation leadership
+- EFFECTIVE LEADERSHIP APPROACHES IN SOCIO-TECHNICAL CHANGE
 - Identifying key leadership competencies for digital …
 - Integration of traditional, transitioning & transformative digital
 - Leadership behaviours to promote organisational performance in private
@@ -32,6 +33,11 @@ literatur/
 - The 'transformative leadership compass' (6 competencies)
 - The interplay of digital transformation and employee competency – DSR
 - The role of digital leaders' emotional intelligence in mitigating employee technostress
+- admsci-15-00043
+- digital transformation meta
+- s41598-025-34966-5
+- sustainability-13-01530-v2
+- sustainability-17-02285
 
 ### CIO / CDO / CTO Rollen
 - Das Zusammenspiel von CEO und CDO bei der digitalen Transformation
