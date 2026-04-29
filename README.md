@@ -49,6 +49,9 @@ Wie lassen sich die Kompetenzanforderungen technischer Führungskräfte im Konte
 ## Projektstruktur
 - **docs/** → Dokumente, Exposé, finale Arbeit, Organisation
 - **literatur/** → wissenschaftliche Quellen und Notizen
+  - `raw/` → Original-PDFs/DOCX (read-only)
+  - `wiki/` → Markdown-Notizen, Abbildungen (Obsidian)
+  - `index/` → MOCs, Themen-Cluster, Übersicht
 - **daten/** → erhobene Daten (z. B. Interviews, Jobanzeigen)
 - **analyse/** → Coding und Mapping (Kern der Arbeit)
 - **präsentationen/folien** → Präsentationen
