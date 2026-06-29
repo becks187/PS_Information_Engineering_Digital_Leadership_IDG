@@ -1,0 +1,2329 @@
+
+--- [PAGE 1] ---
+Journal of Cleaner Production 450 (2024) 141670
+Available online 7 March 2024
+0959-6526/© 2024 Elsevier Ltd. All rights reserved.
+Unveiling green digital transformational leadership: Nexus between green 
+digital culture, green digital mindset, and green digital transformation 
+Mahmoud Abdulhadi Alabdali a, Muhammad Zafar Yaqub a, Reeti Agarwal b,*, Hind Alofaysan c, 
+Amiya Kumar Mohapatra d 
+a Department of Business Administration, Faculty of Economics and Administration, King Abdulaziz University, Jeddah, Kingdom of Saudi Arabia 
+b Jaipuria Institute of Management, Lucknow, Vineet Khand, Gomti Nagar, Lucknow, Uttar Pradesh, India 
+c Department of Economics, College of Business Administration, Princess Nourah bint Abdulrahman University, P.O. Box 84428, Riyadh 11671, Saudi Arabia 
+d Jaipuria Institute of Management, Indore, India   
+A R T I C L E  I N F O   
+Handling Editor: Cecilia Maria Villas Bˆoas de 
+Almeida  
+Keywords: 
+Green digital transformational leadership 
+Green digital mindset 
+Green digital transformation 
+Organizational green digital culture 
+Sustainability 
+PLS-SEM 
+A B S T R A C T   
+The study’s primary purpose has been to examine the association between Green Digital Transformational 
+Leadership, Green Digital Mindset, and Green Digital Transformation Under Varying Permutations of Organi­
+zational Green Digital Culture. Using the Stimuli-Organism-Response theory and the transformational leadership 
+theory as the underpinning theoretical frameworks, the direct, indirect, and moderated roles of in effectuating 
+have been investigated. After performing PLS-based structural equation modeling on the data collected from 240 
+respondents approached via LinkedIn, a direct as well as indirect positive linkage between Green Digital 
+Transformational Leadership, Green Digital Mindset, and Green Digital Transformation has been empirically 
+substantiated, emphasizing the importance of Green Digital Transformational Leadership in enabling Green 
+Digital Transformation through the cultivation of an ecologically aware mindset among their followers. The 
+significant positive moderation effect of Organizational Green Digital Culture on the Green Digital Trans­
+formational Leadership - Green Digital Mindset relationship reveals that the nurturing of an effective Organi­
+zational Green Digital Culture could amplify the instrumentality of Green Digital Transformational Leadership in 
+maturing Green Digital Mindset among the followers, which has been regarded as an essential precursor for 
+Green Digital Transformation. Besides expanding the body of knowledge by offering rare insights into the 
+interplay among Green Digital Transformational Leadership, Green Digital Mindset, and Green Digital Trans­
+formation, the newfangled model provides significant implications for the organizations’’, teams’, and/or 
+leaders’ pursuits of capacitating green digital transformation through the culmination of green digital mindset 
+among the followers, and the cultivation of an enabling green digital culture.   
+1. Introduction 
+The green transformation concept, while emphasizing the signifi­
+cance of sustainability and environmental responsibility (Abbas and 
+Khan, 2023; Withisuphakorn et al., 2019), signifies the making of 
+conscious choices by the organizational leadership to truncate the 
+(adverse) effects on the environment, conserve natural resources, and 
+protect the planet for future generations, through encouraging the 
+adoption of sustainable practices while promoting a culture of envi­
+ronmental responsibility (Huang et al., 2023; Lamba et al., 2023). The 
+process entails the establishment of a collective vision and harmonizing 
+efforts to promote ecological sustainability, cooperation, originality, 
+and consistent integration and enhancement of sustainable methodolo­
+gies, technologies, and practices within an organization (Dhir et al., 
+2023; Iqbal and Piwowar-Sulej, 2023). As organizations all over the 
+world are progressively seeking to adopt green practices and digital 
+innovation, understanding how leaders inspire and intellectually stim­
+ulate their followers/teams toward sustainable digital efforts has 
+become quite crucial and has attracted significant research and mana­
+gerial attention in recent times (AlNuaimi et al., 2022; Al-Swidi et al., 
+2021; Talwar et al., 2022). 
+As a pro-active and essential response to the emerging environmental 
+* Corresponding author. 
+E-mail addresses: malabdali@hotmail.com (M.A. Alabdali), mzyaqoub@kau.edu.sa (M.Z. Yaqub), reeti.agarwal@jaipuria.ac.in (R. Agarwal), HBALofaysan@pnu. 
+edu.sa (H. Alofaysan), amiya.mohapatra@jaipuria.ac.in (A.K. Mohapatra).  
+Contents lists available at ScienceDirect 
+Journal of Cleaner Production 
+journal homepage: www.elsevier.com/locate/jclepro 
+https://doi.org/10.1016/j.jclepro.2024.141670 
+Received 14 October 2023; Received in revised form 27 February 2024; Accepted 4 March 2024   
+
+--- [PAGE 2] ---
+Journal of Cleaner Production 450 (2024) 141670
+2
+issues, the idea of green digital transformational leadership (hereafter, 
+GDTL) has emerged, which emphasizes the role of leaders in not just 
+prioritizing green initiatives but also enhance followers’ technological 
+readiness, spark creativity, and enable teamwork to actualize long-term 
+organizational through an effective orchestration of green digital 
+transformation (Ali et al., 2023; Li et al., 2020). The GDTL approach 
+centers on motivating and allowing employees to adopt ecologically 
+conscious conduct and advocate for sustainability in their professional 
+endeavors (Sidney et al., 2022; Weber et al., 2022). This leadership 
+style’s salient characteristics include sustainability, cooperation, in­
+genuity, and continuous improvement (Althnayan et al., 2022; Awan 
+et al., 2023). The implementation of GDTL entails the creation of a 
+conducive organizational culture, advocating for environmental con­
+sciousness and education, and cultivating employee involvement and 
+engagement in sustainability endeavors (Begum et al., 2022b; Riva 
+et al., 2021). The prime focus of this leadership approach is to establish a 
+collective vision for ecological sustainability and inspire employees to 
+undertake measures that could facilitate the realization of this vision 
+(Singh et al., 2020; Zhu et al., 2022). 
+GDTL requires a potent realization and advocacy about the signifi­
+cance of environmental sustainability amongst all employees (Cop et al., 
+2020). This includes encouraging environmentally responsible actions 
+and creating avenues for employee involvement and engagement in 
+sustainability initiatives (Rizvi and Garg, 2021; Suliman et al., 2023). 
+GDTL, thus, encompasses various interrelated facets, such as the influ­
+ence of organizational culture on the formation of employees’ attitudes 
+and conduct towards environmental sustainability and the significance 
+of proficient communication and leadership in promoting sustainable 
+transformation (Liu and Song, 2023; Sun et al., 2022). This leadership 
+style has been found to profoundly enhance employee engagement and 
+motivation to embrace environmentally responsible behaviors (Bhatt 
+et al., 2020; Iqbal and Piwowar-Sulej, 2023). 
+According to a recent report by Accenture.com (Accenture, 2022), 
+integrating digital technologies can accentuate digital transformation 
+and promote environmental sustainability. The report suggests that 
+digital technologies can potentially decrease global carbon emissions by 
+as much as 20% (Accenture, 2022). A survey conducted by Deloitte.com 
+(Deloitte, 2022) found that a significant proportion of millennials (75%) 
+consider a company’s environmental and social commitments when 
+deciding about their employment, indicating a growing inclination to­
+wards preferences for sustainability in the professional sphere. 
+Furthermore, Nicoletti Jr. et al. (2022) contend that organizations that 
+demonstrate a robust dedication to sustainability exhibit superior per­
+formance compared to their counterparts over an extended period. 
+Research has also shown the efficacy of GDTL in fostering sustainable 
+practices within organizations (Chen and Yan, 2022; Malodia et al., 
+2023). (Begum et al. (2022b), and Farrukh et al. (2022) reveal that the 
+implementation of GDTL has the potential to induce a change in the 
+cognitive orientation of employees, encouraging them to adopt digital 
+technologies that support ecological sustainability (Chu et al., 2023; 
+Farooq et al., 2021). This, in turn, can foster sustainable digital trans­
+formation within organizational settings (Bhutto et al., 2021; Chaudhary 
+et al., 2023). Due to its momentous efficacy to simultaneously affect 
+desirable outcomes in the digital and ecological transformation do­
+mains, GDTL has gained significant attention from both researchers and 
+practitioners in recent times (Chaudhary et al., 2023; Muisyo et al., 
+2023). 
+It has been proposed that GDTL can be implemented effectively in 
+different organizational contexts (Singh et al., 2020) and can lead to 
+measurable improvements by increasing focus on green digital trans­
+formation (GDT) (Kristoffersen et al., 2021; Pan and Nishant, 2023) by 
+creating an organizational green digital culture (Rizvi and Garg, 2021; 
+Yes¸iltas¸ et al., 2022) and employees’ green digital mindset (Hooi et al., 
+2022; Raza and Khan, 2022). Employee green digital mindset (hereafter, 
+GDM) pertains to employees’ cognitive dispositions, convictions, and 
+principles in the context of utilizing digital innovations to advance 
+ecological sustainability (Iqbal and Piwowar-Sulej, 2023; Leso et al., 
+2023). The GDM of employees encompasses the promotion of digital 
+literacy and the cultivation of awareness regarding the environmental 
+ramifications of digital technologies among the workforce (Ly, 2023; 
+Singh et al., 2020). Green digital transformation (hereafter, GDT) en­
+visages digital technologies to facilitate ecological sustainability and 
+advance sustainable practices within organizational settings (Weber 
+et al., 2022). This entails utilizing technological advancements, such as 
+automation, data analytics, artificial intelligence, etc., to mitigate 
+environmental effects, enhance resource utilization, and foster sustain­
+able practices throughout an enterprise’s activities (Borowski, 2021; 
+Ruan et al., 2022). Thus, GDT commends the integration of sustainable 
+digital practices enabled by modern digital technologies and the advo­
+cacy of responsible leadership practices (Feng et al., 2022). The prime 
+objective of GDT is to establish a sustainable and ecologically account­
+able organization through an adequate integration of digital technolo­
+gies to facilitate sustainable actions at the micro, meso, and macro levels 
+(Feroz et al., 2021). 
+The convergence of leadership (style), (employee) attitude, and 
+sustainability (outcomes) have gained profound centrality in the 
+scholarly discourse in this digitalization and sustainability-driven age. 
+Using the Stimuli-Organism-Response (SOR) framework and the trans­
+formational leadership model as the underpinning theories, this study 
+seeks to contribute to the burgeoning scholarly discourse by examining 
+the interactions between GDTL and GDM to discern how they affect the 
+course of green digital transformation (GDT) under varying permuta­
+tions of organizational green digital culture (hereafter, OGDC). Focusing 
+on the need for further research to discover the factors affecting the 
+acceptance and execution of green practices by organizations, particu­
+larly in developing countries (Widisatria and Nawangsari, 2021; Zhao 
+and Huang, 2022), the pivot of this study is the mediating role of GDM of 
+employees in the relationship between GDTL and GDT. Besides, it seeks 
+to unravel the fundamental mechanisms and boundary conditions by 
+examining the moderation effect of OGDC (Luu, 2022; ¨Ozgül and Zehir, 
+2022; S¸engüllendi et al., 2023) in causing GDTL to affect GDM (Alra­
+sheedi et al., 2022; Gilch and Sieweke, 2021). As such, the study en­
+deavors to answer the following research questions. 
+RQ1: Does GDTL indeed enhance employee GDM? 
+RQ2: How can GDTLs impact the successful orchestration of GDT? 
+RQ3: Does GDM mediate the impact of GDTL on GDT? 
+RQ4: How does OGDC augment the development of GDM in em­
+ployees through GDTL? 
+Through providing answers to these research questions, the contri­
+bution of the current study is twofold: 1) This research integrates and 
+extends the transformational leadership theory (Bass and Avolio, 1993) 
+with stimuli-organism-response model (Mehrabian and Russell, 1974) to 
+the sustainably context to fathom the efficacy of GDTL in accentuating 
+GDT through enhancing employee GDM under disrate contextual con­
+ditions. 2) This study makes vital theoretical and practical contributions 
+by elucidating upon the mechanism and contextual conditions girdling 
+employees’ perceptions and receptivity to their GDT leaders’ efforts in 
+combating challenges inherent in orchestrating green digital trans­
+formations in their organizations (Begum et al., 2022a; Farrukh et al., 
+2022). Additionally, the research could provide useful insights into 
+employees’ attitudes toward digital and green transformation and the 
+role of GDTL in effectuating these attitudes (Brunetti et al., 2020; Olya 
+et al., 2019). Another contribution of this study could be traced back to 
+its usage of Middle Eastern data, which could not only provide rare in­
+sights into the dynamics of green digital transformation in this unique 
+Saudi Arabian context which is currently undergoing a social, digital, 
+and ecological transformation under its overarching Vision 2030. 
+Badghish et al. (2023), but could also cement generalizability of the etic 
+theories coined in the West to other socio-cultural settings. 
+The remainder of the paper is structured like so. Section two presents 
+M.A. Alabdali et al.                                                                                                                                                                                                                            
+
+--- [PAGE 3] ---
+Journal of Cleaner Production 450 (2024) 141670
+3
+a review of the extant literature along with the conceptual model and the 
+study hypotheses. Section three discusses methodology. Section four 
+rolls out the results. Section five organizes a discussion stemming from 
+these results and highlights this study’s theoretical and practical con­
+tributions. The final section concludes the entire discussion, duly high­
+lighting its limitations and suggesting some avenues for future research. 
+2. Literature review 
+A burgeoning corpus of scholarly works has posited that the concepts 
+of green and environmental sustainability are gaining paramount 
+prominence in organizational decision-making (Çop et al., 2021; Hus­
+sain et al., 2022). Besides, there is increasing scholarly attention on the 
+significance of leadership in facilitating sustainable digital trans­
+formations within corporate entities through fostering environmentally 
+conscious attitudes and conduct at all levels (Begum et al., 2022b; Wang 
+et al., 2021). The GDTL approach has quickly emerged as a practical 
+approach towards advancing ecological sustainability and facilitating 
+sustainable transformation (Awan et al., 2023; Sun et al., 2022). Simi­
+larly, the implementation of (Industry 5.0) digital technologies can 
+profoundly augment the process of achieving sustainable digital trans­
+formation and promoting ecological sustainability (Porfírio et al., 2021; 
+Yaqub and Alsabaan, 2023). 
+Green and digital activities complement each other in numerous 
+ways, contributing to a more sustainable future (Ros´ario and Dias, 
+2022). The convergence of these two has paved the way for innovative 
+solutions and transformative practices that benefit the planet and soci­
+ety (George et al., 2021). One of the most significant contributions of the 
+digital realm to the green movement is the increased accessibility to 
+information (Wang et al., 2021). Internet and digital technologies have 
+revolutionized how we gather and disseminate knowledge about envi­
+ronmental issues (Feroz et al., 2021; Hsu et al., 2020). People can now 
+access vast amounts of information on sustainable practices, renewable 
+energy solutions, conservation efforts, and eco-friendly products with 
+only a few clicks (Valerio-Ure˜na and Rogers, 2019). This ease of access 
+to information empowers individuals and organizations to make 
+informed choices and take proactive steps toward reducing their 
+ecological footprints (D’Amato et al., 2019; Mehmood et al., 2022). 
+Besides, digital technologies have played a crucial role in optimizing 
+resource consumption and minimizing waste generation (Kurniawan 
+et al., 2022). Additionally, advanced data analytics and machine 
+learning algorithms are employed to optimize industrial processes, 
+transportation networks, and supply chains, significantly reducing en­
+ergy consumption and greenhouse gas emissions (Zhang et al., 2021). 
+The digital realm has also provided a platform for raising awareness 
+and mobilizing collective action on environmental issues (Tim et al., 
+2018). Digital technology platforms have become powerful tools for 
+environmental advocacy, allowing individuals and organizations to 
+amplify their voices and reach a global audience (Zawieska et al., 2022). 
+Green digital technologies, platforms, petitions, and crowdfunding ini­
+tiatives have driven environmental conservation and green efforts, 
+supported reforestation projects, and promoted sustainable practices 
+(Buttic`e et al., 2019). The digital sphere has fostered a global commu­
+nity, connecting like-minded individuals and organizations across bor­
+ders to collaborate and work towards common environmental goals 
+towards a green digital mindset (Liu and Song, 2023). On the other 
+hand, green initiatives have also benefited from digital technologies. 
+The increased adoption of renewable energy sources such as solar and 
+wind power has been made possible through advancements in digital 
+monitoring, control systems, and energy storage solutions (Wang et al., 
+2021b). These digital advancements enhance the efficiency and effec­
+tiveness of green technologies, making them more viable and attractive 
+options for sustainable living and transforming our lives (Zhang et al., 
+2023). 
+GDTL, which amalgamates green, digital, and transformational ap­
+proaches to leadership, signifies a visionary and innovative perspective 
+that facilitates sustainable change within organizations and society 
+through green, digital, and/or technological activities (Sidney et al., 
+2022; Al-Ghazali et al., 2022). Leaders with a profound comprehension 
+of environmental challenges and the potential of digital technologies to 
+tackle them are highly adept (Gilli et al., 2023; Yang et al., 2022). They 
+motivate and enable their teams to adopt environmentally sustainable 
+practices, leverage digital technologies, and generate beneficial in­
+fluences on the natural world (Wang et al., 2021). They use progressive 
+methodologies that foster the implementation of environmentally 
+friendly technologies, facilitate cooperation, and propel the shift toward 
+a more ecologically sound future (Stanley et al., 2021). This holds the 
+vision of utilizing digital innovations to address environmental concerns 
+(Zawieska et al., 2022; Feroz et al., 2021). Their leadership style is 
+transformative and serves as a source of inspiration for others (more 
+specifically, the followers) to adopt similar practices, thereby generating 
+a ripple effect of favorable outcomes in the realm of eco-friendly digital 
+pursuits (Zafar et al., 2022; Li et al., 2020b). 
+The complementarity between green and digital activities is evident 
+in how they reinforce and amplify each other’s impact (Yang et al., 
+2022). Transformational leaders can use digital technologies to provide 
+information, optimize resource consumption, foster collaboration, and 
+raise awareness (Philip, 2021). Green initiatives benefit from digital 
+advancements in improving efficiency, monitoring, and control (Lee 
+et al., 2023). Together, they form a powerful alliance that has the po­
+tential to accelerate the transition toward a sustainable and environ­
+mentally conscious future (Feroz et al., 2021; Stanley et al., 2021). The 
+contemporary literature unravels that an emerging strategy for 
+improving ecological sustainability and facilitating sustainable trans­
+formation in organizations is the green digital transformational leader­
+ship approach (Awan et al., 2023; Sun et al., 2022), wherein the use of 
+digital technology by leaders can enhance the process of achieving 
+sustainable digital transformation while encouraging ecological sus­
+tainability (AlNuaimi et al., 2022; Liao et al., 2023). 
+There has been mounting interest in studying GTL and its effect on 
+companies. A snapshot of the trend in previous studies carried out in 
+GTL is presented in Fig. 1, which brings forth the progressive attention 
+being paid by researchers in this area. As can be seen in Fig. 1, research 
+in GTL is a relatively recent phenomenon, with only one paper being 
+published yearly till 2019. The number of papers being published yearly 
+reached a figure of 7 papers and above in the year 2020. Growth in the 
+number of research publications in this area reached double digits in 
+2021, with the number of papers published becoming more than triple 
+(31) in 2022 compared to the number of publications in 2021 (10). The 
+number of publications has increased to 34 in 2023, showing the 
+growing interest of academia in the field of GTL. Hence, there is growing 
+scope for increased research in this area. However, despite the 
+increasing interest in GTL, there is a scarcity of empirical research 
+examining the effectiveness of this leadership style in promoting envi­
+ronmental sustainability in organizations (Farrukh et al., 2022; Li et al., 
+2020; Odugbesan et al., 2023). 
+Despite their commendable contributions in advancing the scholarly 
+discourse, the previous studies related to GDTL feature several gaps. 
+Firstly, the studies are limited to studying the GTL style in specific in­
+dustrial contexts like manufacturing SMEs (Farrukh et al., 2022; Singh 
+et al., 2020), restaurants (Tosun et al., 2022), grocery, food, personal 
+care (Hameed et al., 2022), hospitality (Khanra et al., 2021; 
+¨O˘gretmeno˘glu et al., 2022) and others (Odugbesan et al., 2023). The 
+current study extends the application of GDTL in the multi-industry 
+context. Secondly, no studies have explicitly focused on the Middle 
+Eastern or Saudi Arabian contexts despite the great potential to examine 
+the dynamics of green and digital transformation in these contexts. Our 
+research focuses exclusively on examining the impact of the GDTL style 
+in Saudi Arabian organizations. Thirdly, the (mediating or moderating) 
+conditions that have mainly been employed while studying the role of 
+GDTL have mostly been related to green human resource management 
+practices (Farrukh et al., 2022), green performance (Tosun et al., 2022), 
+M.A. Alabdali et al.                                                                                                                                                                                                                            
+
+--- [PAGE 4] ---
+Journal of Cleaner Production 450 (2024) 141670
+4
+and perceived organizational support (Hameed et al., 2022), among 
+others. Consequently, our use of GDM and OGDC as mediating and 
+moderating conditions in examining GDTL-GDT linkage seems quite 
+new-fangled (Abbas and Khan, 2023; Azhar and Yang, 2022). The un­
+derpinning theories for our conceptualization of the relevant associa­
+tions among the subject construct in our study have been the 
+Stimulus-Organism-Response (hereafter, SOR) framework and the 
+transformational leadership theory. 
+2.1. The underpinning theories 
+2.1.1. The Stimulus-Organism-Response (SOR) framework 
+The SOR framework suggests that external stimuli affect individuals, 
+subsequently shaping their behaviors (Mehrabian and Russell, 1974). 
+The framework postulates that stimuli like GDTL style (Dhir et al., 2021; 
+Lee et al., 2023; Timpanaro, 2023) and OGDC (Chou et al., 2022) may 
+influence employees’ (organism) perceptions and attitudes (including 
+GDM), eventually shaping their behavioral responses (Saleem et al., 
+2020; Sun et al., 2022), which would be their participation in GDT 
+initiatives. The strategy of digital green transformation seeks to advance 
+sustainable environmental practices through digital technologies (Car­
+ayannis and Morawska-Jancelewicz, 2022; Paiola et al., 2021; Pathak 
+et al., 2024). In alignment with the SOR framework, adopting and 
+implementing green digital transformation driven by modern technol­
+ogies acts as an external stimulus (Gupta and Bose, 2022; Priyono et al., 
+2020). This influences employees’ internal organizations, such as their 
+attitudes and perceptions about digital green transformation (Du and 
+Yan, 2022; Liu and Song, 2023), impacting their readiness to adopt 
+digital technologies for environmental sustainability (Qu et al., 2022; 
+Widisatria and Nawangsari, 2021). The SOR framework forms the 
+theoretical foundation for understanding the relationships between 
+GDTL, GDT, and employees’ behavioral responses via their green digital 
+mindset. Using this framework, our study aims to decipher how GDTL 
+and GDM influence GDT and foster ecologically responsible actions at 
+work. 
+2.1.2. Transformational leadership theory 
+TL theory (Bass and Avolio, 1993) signifies transformational lead­
+ership as a management concept that inspires employees to devise new 
+approaches to expand and enhance an organization’s success (Afsar and 
+Umrani, 2020). It seeks to create a vision, effectively communicate it to 
+followers, and then align its followers’ goals and values with that vision 
+(Steinmann et al., 2018). The critical facets of such a leadership style 
+include idealized influence, inspirational motivation, individualized 
+consideration, and intellectual stimulation (Bass, 1985; Zafar et al., 
+2023). TLs can inspire and empower followers by enabling the work 
+environment for growth, development, and success (Nuel et al., 2021). 
+Transformational leaders initiate cultural change by understanding the 
+existing culture, reorienting it toward a novel vision, and reevaluating 
+collective assumptions, values, and norms (Bass and Avolio, 1993; ¨Ozgül 
+and Zehir, 2022). Integrating transformational leadership with green 
+and digital leadership results in GDTL, which emphasizes motivating 
+employees to engage in behaviors that contribute to long-term envi­
+ronmental viability (Chams and García-Bland´on, 2019; Widisatria and 
+Nawangsari, 2021). 
+OGDC is the fundamental aspect that establishes the core values, 
+beliefs, and standards that shape an organization’s approach to green 
+digital transformation (Trapp and Kanbach, 2021; Pan et al., 2022). It 
+cultivates a mentality that gives importance to sustainability and envi­
+ronmental awareness, molding the decision-making process and 
+impacting the company’s behavior (Zhang et al., 2023; Al-Ghazali et al., 
+2022). While in the other hand, GDM cultivated within the framework of 
+GDC enables individuals to actively participate in green digital trans­
+formation endeavors (Martínez-Pel´aez et al., 2023; Liao et al., 2023). It 
+fosters a conviction in the capacity of digital technologies to tackle 
+environmental issues and motivates individuals to pursue creative so­
+lutions (Liu et al., 2022; Samuel et al., 2022). Besides that, GDT, fueled 
+by GDC and GDM, manifests as a tangible shift in operational practices 
+and technological adoption (Aboelmaged and Hashem, 2019; Al-Swidi 
+et al., 2021). It encompasses implementing environmentally friendly 
+digital solutions, promoting sustainable resource management, and 
+reducing environmental impact (Aftab et al., 2022; Althnayan et al., 
+2022). These three components are inextricably linked, forming a syn­
+ergistic loop that drives sustainable progress. GDC shapes GDM, which 
+in turn informs GDT. As GDT unfolds, it reinforces GDC and GDM, 
+creating a continuous and sustainable improvement cycle. 
+To more effectively implement GDT, exploring its multifaceted as­
+pects and implications is crucial (Vial, 2019; Xue et al., 2022). Research 
+in this field can shed light on the strategies, challenges, and outcomes 
+associated with GDT initiatives (Brunetti et al., 2020; He and Su, 2022). 
+Moreover, examining the role of leadership, organizational culture, 
+stakeholder engagement, and technological advancements in facilitating 
+GDT can offer insights for practitioners, academics, and policymakers 
+(Ciasullo and Lim, 2022; Ros´ario and Dias, 2022). Continuous academic 
+investigation and analysis of GDT can enhance understanding of its 
+significance, consequences, and capacity to foster a sustainable and 
+technologically advanced future (Cheng et al., 2023; Gomez-Trujillo and 
+Gonzalez-Perez, 2021). Such research can aid organizations in navi­
+gating this transformative process, making informed decisions that 
+contribute to positive environmental change while harnessing the po­
+tential of digital technologies. Thus, our current study adds to previous 
+knowledge and theory on GDT by highlighting the impact of GDTL and 
+GDM on GDT in an organization. Additionally, the role of GDM in the 
+relationship has also been investigated. 
+Despite the growing interest in GDTL, empirical research examining 
+its impact on GDC creation, GDT facilitation, and its relationship with 
+Fig. 1. Number of Studies on GTL over the years (Source: Authors’ work).  
+M.A. Alabdali et al.                                                                                                                                                                                                                            
+
+--- [PAGE 5] ---
+Journal of Cleaner Production 450 (2024) 141670
+5
+GDM is limited. This study addresses this gap by investigating these 
+relationships, specifically exploring how GDTL impacts GDM develop­
+ment and GDT adoption (Fig. 2). Furthermore, the study explores the 
+moderating role of GDC in the relationship between green digital 
+transformational leadership and the mediating role of employees’ GDM. 
+The following section discusses the nature, scope, and hypothesized 
+associations among our conceptual model’s subject constructs. 
+2.2. The study constructs 
+2.2.1. Green digital transformation (GDT) - the outcome 
+Green Digital Transformation (GDT) refers to integrating digital 
+technologies into an organization to enhance environmental sustain­
+ability (Liao et al., 2023) by encouraging eco-friendly innovation, 
+maximizing resource consumption, and reducing waste (Feng et al., 
+2022; Weber et al., 2022). The activities under it include integrating 
+intelligent building technology, adopting energy-efficient equipment, 
+collaborating virtually to cut down on travel, and using data analytics to 
+optimize resource use, minimize waste, and promote eco-friendly 
+innovation (Feng et al., 2022; Zoppelletto et al., 2023). GDT signifies 
+a fundamental shift in business models, aiming to align strategies with 
+environmental sustainability objectives (Feroz et al., 2021; Leso et al., 
+2023). Modern organizations recognize the importance of sustainable 
+practices in the evolving digital landscape (Eisner et al., 2022; Mousa 
+and Othman, 2020). GDT emerges as a transformative strategy that 
+blends digital tech and sustainability to achieve ecological goals 
+(Gomez-Trujillo and Gonzalez-Perez, 2021; Robertsone and Lapin¸ a, 
+2023). Organizations can leverage digital tools to enhance operations, 
+reduce environmental impact, and move towards a more sustainable 
+future (Ruan et al., 2022; Xiong et al., 2022). 
+2.2.2. Green digital transformational leadership (GDTL)- the antecedent 
+GDTL is a leadership approach that intends to create a sustainable 
+and environmentally conscious organizational culture (Farrukh et al., 
+2022; Weber et al., 2022). The GDTL approach goes beyond standard 
+forms of leadership, which only emphasizes the importance of attaining 
+organizational goals. Instead, it places an emphasis on the significance 
+of being a good steward of the environment (Khan and Khan, 2022; Zhao 
+and Huang, 2022). This is accomplished by motivating and empowering 
+employees to develop environmentally friendly practices and behaviors 
+(Ly, 2023). This style of leadership encourages the preservation of the 
+natural environment by motivating subordinates to alter the attitudes, 
+values, and actions they have towards it with the goal of creating a 
+greener and more sustainable organization (Rizvi and Garg, 2021), 
+Providing employees with the support and resources they need to adopt 
+environmentally 
+friendly 
+practices, 
+cultivating 
+a 
+culture 
+of 
+environmental responsibility within the organization, and establishing a 
+clear vision and goals for environmental sustainability are all aspects of 
+green digital transformational leadership (Ansari et al., 2021; ¨Ozgül and 
+Zehir, 2022). This, in turn, results in advantages for both organizations 
+and society (Tosun et al., 2022). 
+2.2.3. Employees’ green digital mindset (EGDM) 
+EGDM pertains to individuals’ consciousness, comprehension, and 
+motivation to utilize digital transformation ecologically sustainably 
+(Chen and Yan, 2022). The adoption of environmentally responsible 
+habits when using digital technology and the support of ecologically 
+sustainable practices are integral components of GDM (Ansari et al., 
+2021; Pradana et al., 2022). Culminating EGDM may be an important 
+precursor to GDT as it could catalyze employees’ participation in GDT 
+initiatives. 
+2.2.4. Organizational green digital culture (OGDC)- the moderator 
+OGDC encompasses shared values, beliefs, and behaviors prioritizing 
+sustainability through digital technologies (Rizvi and Garg, 2021; Zhen 
+et al., 2021). It fosters environmentally conscious practices using digital 
+tools, encouraging employees’ participation in sustainability initiatives 
+(Kim et al., 2020; Weber et al., 2022). GDM-related practices include 
+deploying green technology, developing sustainability policy using 
+digital platforms, and involving staff in digital sustainability projects 
+(Pradana et al., 2022; Wang et al., 2021). 
+2.2.5. The control variables 
+Wang et al. (2023) stated that organization size, age, staff age, in­
+dustry nature, qualification, and background influence environmental 
+activities. Thus, this research used organization size (OS) and partici­
+pants’ age (age) as control variables. 
+2.3. Hypotheses of study 
+2.3.1. GDTL, GDM and GDT 
+The synergy of green and digital activities can foster a more sus­
+tainable future (Ros´ario and Dias, 2022) by driving innovative practices 
+benefiting the planet and society (George et al., 2021). With the internet 
+and technology revolutionizing knowledge sharing on environmental 
+concerns (Feroz et al., 2021; Hsu et al., 2020), digital advancements 
+have considerably improved accessibility to environmental information 
+(Wang et al., 2021). People may easily access a wealth of information 
+and knowledge about sustainability, renewable energy, conservation, 
+and eco-friendly items with only a few clicks nowadays (Valerio-Ure˜na 
+and Rogers, 2019), enabling them to make well-informed decisions and 
+engage in environmentally favorable actions (D’Amato et al., 2019; 
+Fig. 2. The conceptual model.  
+M.A. Alabdali et al.                                                                                                                                                                                                                            
+
+--- [PAGE 6] ---
+Journal of Cleaner Production 450 (2024) 141670
+6
+Mehmood et al., 2022). As a result, digital technology can support 
+organizational green activities and encourage using renewable energy 
+sources (Wang et al., 2021). However, for effective synergy of green and 
+digital activities in organizations, leadership is crucial (Ly, 2023; Zhao 
+and Huang, 2022). Several recent studies, such as Farrukh et al. (2022), 
+and Odugbesan et al. (2023) have highlighted the efficacy of green 
+leadership and/or digital leadership in producing desirable performance 
+outcomes in various contexts. Besides, Zhao and Huang, 2022) have 
+profoundly elucidated the instrumentality of effective leadership in 
+materializing digital and sustainability outcomes through creating a 
+synergy of green and digital activities in the organizations. Extending 
+insights from these studies to the GDT context, we hypothesize. 
+H1.
+GDTL has a direct positive association with (successful imple­
+mentation of) GDT. 
+Though previous studies have studied the association of GDTL and 
+certain behavioral outcomes in several contexts (Farrukh et al., 2022; 
+Odugbesan et al., 2023; Singh et al., 2020), there has been an acute 
+shortage of research analyzing the role of GDTL in maturing EGDM and 
+its consequent impact on green digital transformation (GDT) of an or­
+ganization. An organization’s sustainability journey can be seen holis­
+tically by examining the relationship between GDTL, employee GDM, 
+and organizational GDT, which can also offer important insights into the 
+tactics, attitudes, and values that support a thriving, environmentally 
+conscious digital transformation. Ly (2023) highlights the role of lead­
+ership in motivating and empowering employees to develop environ­
+mentally friendly practices and behaviors. Rizvi and Garg (2021) reveal 
+green digital leadership encourages preserving the natural environment 
+by motivating subordinates to alter their attitudes, values, and actions 
+towards it to create a greener and more sustainable organization 
+through effective integration and exploitation of digital technologies. 
+Besides, researchers like Ansari et al. (2021) and ¨Ozgül and Zehir (2022) 
+contend that by providing employees with the support and resources 
+they need to adopt environmentally friendly practices, GDTLs could 
+cement their orientation, passion, and commitment for green digital 
+initiatives. In accordance with these assertions, we hypothesize. 
+H2.
+GDTL has a significant positive association with employee GDM. 
+2.4. EGDM and GDT 
+An individual with a green digital mindset (GDM) uses digital tech­
+nology with awareness and consideration for the environment (Ojo 
+et al., 2019; Uvarova et al., 2021). It entails employing digital tech­
+nology to assist sustainability while implementing eco-friendly practices 
+(Ansari et al., 2021; Pradana et al., 2022), highlighting the contribution 
+of digital technologies to sustainability and value (D’Amato et al., 2019; 
+Singh et al., 2020). This is accomplished through more eco-aware 
+company practices in the digital age, less energy use, and decreased 
+carbon emissions (Zhen et al., 2021). Technology is critical in translating 
+these values, significantly impacting people’s willingness to employ in 
+green activities (Hooi et al., 2022; Lusiani et al., 2020). Developing GDM 
+involves adopting eco-responsible digital behaviors, considering the 
+environmental impact of technology, and advocating for sustainability 
+in digital business (Feroz et al., 2021; Samuel et al., 2022). By reducing 
+energy waste, this mentality helps the environment by reducing the 
+carbon footprint of the digital industry (Chen and Yan, 2022; Katz et al., 
+2022). Employees are influenced by green and digital transformational 
+leadership (GDTL), preparing them for change (¨Ozgül and Zehir, 2022; 
+Ruan et al., 2022). The organization’s growth is fueled by this interac­
+tion, which results in a seamless alignment of digital environmental 
+goals with organizational goals (Dittes et al., 2019; Du and Yan, 2022). 
+The current study examines the mediating role of GDM in the interaction 
+between visionary leaders and organizational journeys to discover the 
+connection between GDTL and GDM further. Therefore, the following 
+two hypotheses were developed. 
+H3.
+Employees’ GDM has a significant positive association with GDT. 
+H4.
+Employees’ GDM mediates the relationship between GDTL and 
+GDT. 
+2.5. The moderating role of OGDC 
+Through digital technology, OGDC produces advantages like 
+improved participation, reputation, stakeholder relationships, cost sav­
+ings, efficiency, and reduced environmental impact (Bass and Avolio, 
+1993; Qu et al., 2022). Previous studies have explored the influence of 
+GDC on the association between green core competencies, green 
+absorptive capacity, and digital tech and have highlighted that 
+nurturing green core competencies is crucial for green innovation, with 
+a supportive GDC playing a pivotal role in fostering green absorptive 
+capacity through digital tools (Abbas and Khan, 2023; Isensee et al., 
+2020). 
+A supportive OGDC plays a crucial role in fostering green absorptive 
+capacity through digital tools and is essential for fostering sustainability 
+in businesses. It is entwined with digital culture (Roscoe et al., 2019) 
+with green digital transformational leadership encouraging and 
+empowering employees to adopt this green culture. However, the link 
+between the GDC and GDTL is intricate and extends beyond simple ef­
+fects (Zhang et al., 2021; Zhen et al., 2021). GDC can operate as a 
+mediator intimately linked to GDTL to affect the creation and manifes­
+tation of a Green Digital Mindset (GDM) in the workforce (Hu et al., 
+2023; Sidney et al., 2022). 
+This interactive process ingrains sustainability principles within the 
+organization wherein aligned values foster a conducive environment for 
+GDM development (Qu et al., 2022; Zhen et al., 2021), driving ecolog­
+ically sound decision-making and green digital transformation via dig­
+ital technologies. Despite previous studies, the intricate association 
+between GDC, GDTL, and GDM calls for further empirical and theoret­
+ical investigation. Our research aims to analyze the mechanisms through 
+which organizational context and leadership jointly drive sustainable 
+practices, digital transformation, and green initiatives using digital 
+technologies. Hence, the fifth hypothesis is proposed as follows. 
+H5.
+OGDC moderates the relationship between GDTL and employees’ 
+GDM. 
+3. Research methodology 
+3.1. The measurement scales 
+The measurement instrument (the questionnaire) consisted of two 
+parts. The first part contained the measurement scales for the four 
+constructs adapted from previous studies (Appendix Table A1). GDTL 
+was measured using six items adopted from (Chen and Chang, 2013). Six 
+items to measure OGDC were adopted from Marshall et al. (2015). For 
+GDM, seven items were adapted from Steg et al. (2005). Finally, the GDT 
+was measured using a three-item scale adapted from Aral and Weill 
+(2007). All responses were recorded using a seven-point Likert scale 
+(Fornell and Larcker, 1981), with one point denoting “strongly disagree” 
+and seven points denoting “strongly agree.” The second section of the 
+questionnaire consisted of measures to capture the participants’ demo­
+graphical information, including their profession, occupation level, 
+department, qualification, company size, industry, location, age, 
+gender, and work experience (Appendix Table A2). A couple of experts 
+from the sector conducted a review of the questionnaire before its 
+deployment. The questionnaire was translated into Arabic with subse­
+quent back-translation to English, as recommended by Brislin (1980), to 
+ensure consistency in their clarity and meaning. 
+3.1.1. The pilot testing 
+Before administering the study to the intended participants, to 
+ensure the validity and applicability of the questionnaire, a pilot study 
+M.A. Alabdali et al.                                                                                                                                                                                                                            
+
+--- [PAGE 7] ---
+Journal of Cleaner Production 450 (2024) 141670
+7
+was steered with a select group of individuals as recommended by 
+(Boote, 1981; Cronbach, 1971; Reynolds and Diamantopoulos, 1998). 
+The pilot study contained 40 samples for “Cronbach’s alpha (CA)” 
+testing, and all elements’ values met the threshold of more than 0.7. The 
+“coefficient of determination (R2)” in the pilot study was substantial for 
+both GDM and GDT (Hair et al., 2021). Thus, all items were retained in 
+the questionnaire for formal data collection. 
+3.2. Sampling and data collection 
+The sampled population for this study is executives working in 
+various firms in the Saudi Arabian industry. Using the a priori method, 
+we determined the sample size for the structural model (Soper, 2023). 
+The minimum required sample size to detect the desired effect was 
+determined to be 137, given the medium effect size of 0.3 (Cohen, 
+1992), with a targeted statistical power level of 0.80, using four latent 
+variables measured through 22 items at a significance level of 0.01. 
+Thus, the final sample size (n = 240) was larger than the suggested 
+minimum of 137. A significantly larger sample size was selected to 
+decrease the margin of error and bias and obtain a higher level of ac­
+curacy with higher confidence and insightful information (Gumpili and 
+Das, 2022). 
+A questionnaire-based survey method was adopted for the collection 
+of data. The participants for the study were selected and approached via 
+LinkedIn using the convenience and snowball sampling method known 
+for its efficiency in obtaining timely responses (Al-Swidi et al., 2021). 
+Data was collected using web-based questionnaires and a note on the 
+research objective to provide a basic idea about the proposed research. 
+The questionnaires were distributed through one of the author’s Link­
+edIn profiles, employing the messaging feature of the site. Five hundred 
+messages were sent to targeted participants via the LinkedIn message 
+feature. 
+The LinkedIn profile of one of the authors with 21 years of profes­
+sional experience, with around 30,000 network members, made it 
+possible to reach the desired sample for data collection. A message was 
+sent to the relevant connections using their first names to emphasize the 
+electronic questionnaire’s importance, increase the likelihood of 
+participation, and facilitate completion. Using web-based question­
+naires was employed because it is a technology that streamlines and 
+speeds up the process, saving money, time, and effort. (Fowler, 2013; 
+Weber et al., 2005). 
+LinkedIn is considered a powerful tool for reaching targeted samples 
+and effective data collection in business research (Alabdali and Salam, 
+2022). The initial phase involved the identification of the intended re­
+cipients and the development of communication that effectively eluci­
+dated the objectives and advantages of the investigation. Leveraging the 
+messaging functionality of LinkedIn as a means of gathering data can 
+yield favorable outcomes in terms of engaging with a sizable pool of 
+prospective respondents (Cerruto et al., 2022; Ebert et al., 2018; Mah­
+moud et al., 2022). To optimize response rates, follow-up messages were 
+also sent to the participants. 
+3.3. Analytical strategy 
+The measurement and structural model have been analyzed using a 
+PLS-based structural equation modeling (SEM) technique using 
+SmartPLS 4.0 (Ringle et al., 2022). The reliability and (convergent and 
+discriminant) validity of the measurement model, along with the rele­
+vant statistics to assess the hypothesized main, mediating, and moder­
+ating effects of the structural model, were obtained/assessed by framing 
+PLS Algorithms and Bootstrapping following Hair et al. (2021). Addi­
+tionally, PLS blindfolding calculations were employed for the predictive 
+relevance of the test. Following Anderson and Gerbing’s (1988) and Ali 
+et al.’s (2023), the analyses were performed in three steps. Performing 
+descriptive statistics was the first step, then computing the measurement 
+model to adjudge validity and reliability, and finally, testing the 
+structural model to see if it could be considered appropriate to test the 
+hypotheses. The following sections present the extensive series of ana­
+lyses carried out in the present study and the emergent findings. 
+4. Results 
+4.1. Descriptive analysis 
+The response to the demographic variables aids in identifying the 
+profile of the sample of our study, as depicted in Table 1. Women 
+constituted 35% of the sample size, half of the participants were in their 
+senior career level (51%), 70% of the participants were less than 40 
+years old, 95% of respondents were at a supervisor cadre or above, and 
+93% had a bachelor’s degree or above. These demographic details 
+validate the profiles of the participants as qualified to participate and 
+respond in terms of their experience and maturity to the core elements to 
+be analyzed in the study. Furthermore, one of the features of PLS-SEM is 
+that it can deal with the data without assuming normality (Hair et al., 
+2021). 
+4.2. Common method bias/variance (CMB/CMV) 
+To identify problems with “common method variance” (CMV) in 
+PLS-SEM models, the MLMV methodology (“measured latent marker 
+variable”) was used (Chang et al., 2020). Years of experience was a 
+measured variable that did not belong to the same domain as the other 
+variables; thus, it was included in the model. Table 2 shows that the R2 
+values of both GDM and GDT did not differ after adding the years of 
+experience (YoE) (Fig. 3), which suggested that the model of this study 
+did not have CMB/CMV issues (Terho et al., 2022; Yoshikuni and 
+Albertin, 2020). Additionally, a random variable was also included in 
+the data set, and the VIF was checked to determine if it was still less than 
+3.3 for both the inner and outer models (Table 3), which was also 
+confirmed hence no CMV issue as recommendations of Kock (2020). 
+Table 1 
+Profile of the respondents.  
+Respondents (n = 240) 
+# 
+%  
+# 
+% 
+Area   
+Functions   
+Saudi Arabia 
+229 
+96% 
+Sales 
+12 
+5% 
+Other 
+11 
+4% 
+Marketing 
+2 
+1% 
+Gender   
+Supply chain 
+10 
+4% 
+Male 
+155 
+65% 
+HR 
+75 
+31% 
+Female 
+85 
+35% 
+IT 
+23 
+10% 
+Age (years)   
+Strategy 
+15 
+6% 
+20–30 
+44 
+18% 
+Finance 
+12 
+5% 
+31–40 
+125 
+52% 
+Admin 
+43 
+18% 
+41–50 
+60 
+25% 
+Operations 
+47 
+20% 
+51–60 
+11 
+5% 
+Industry   
+Experience (years)   
+FMCG 
+4 
+2% 
+<1 
+2 
+1% 
+Healthcare 
+50 
+21% 
+2–5 
+35 
+15% 
+Food & beverage 
+14 
+6% 
+6–10 
+60 
+25% 
+Manufacturing 
+16 
+7% 
+11–15 
+56 
+23% 
+Oil and gas 
+18 
+8% 
+16–20 
+58 
+24% 
+Retails 
+3 
+1% 
+21+
+29 
+12% 
+IT 
+7 
+3% 
+Education   
+Telecom 
+23 
+10% 
+High school or less 
+2 
+1% 
+Public sector 
+9 
+4% 
+Diploma 
+15 
+6% 
+Aviation 
+25 
+10% 
+Bachelor 
+128 
+53% 
+Education 
+5 
+2% 
+Master 
+82 
+34% 
+Real estate 
+5 
+2% 
+Ph.D. 
+13 
+6% 
+Banking 
+9 
+4% 
+Occupational Level   
+Insurance 
+15 
+6% 
+Entry 
+12 
+5% 
+Others 
+37 
+15% 
+Specialist/Supervisor 
+105 
+44% 
+Organization Size 
+Manager/Sr Manager 
+77 
+32% 
+<100 
+14 
+6% 
+Director 
+34 
+14% 
+100–500 
+38 
+16% 
+Leadership 
+12 
+5% 
+501–1000 
+23 
+10%    
+1001–5000 
+69 
+29%    
+>5000+
+96 
+40%  
+M.A. Alabdali et al.                                                                                                                                                                                                                            
+
+--- [PAGE 8] ---
+Journal of Cleaner Production 450 (2024) 141670
+8
+4.3. Assessment of the measurement model 
+4.3.1. Reliability and convergent validity 
+Items’ reliability has been assessed through the significance and 
+values of the factor loadings. All factor loadings were significant and 
+above 0.579, indicating sufficient items’ reliability (Hair et al., 2021). 
+The (internal consistency) reliability at the construct levels has been 
+assessed through Cronbach Alpha (CA) and composite reliability (C.R.). 
+All four constructs exhibited adequate reliability since the values of both 
+C.A. and C.R. have been sufficiently above 0.7 (Hair Jr. et al., 2020; Hair 
+et al., 2021). Moreover, Convergent validity has been assessed through 
+AVE, where all the values exceeded the threshold value of 0.50, 
+reflecting sufficient convergent validity (Hair et al., 2021; Sarstedt et al., 
+2022). Relevant statistics are contained in Table 3. 
+4.3.2. Discriminant validity 
+Discriminant validity has been ascertained through Fornell Larcker 
+Criterion (1981) and the heterotrait-monotrait ratio (HTMT) values. 
+Sufficient discriminant validity could be witnessed in Table 4, as the 
+square root of AVE in all instances has been greater than the correlations 
+of the latent variables, as suggested by Fornell & Larcker (1981). Be­
+sides, all HTMT values have been less than 0.9 (Franke and Sarstedt, 
+2019; Rasoolimanesh, 2022). 
+4.3.3. Assessment of multicollinearity 
+The “variance inflation factor” (VIF) has been used to evaluate po­
+tential collinearity using benchmark VIF <3 (Hair et al., 2021; Kim, 
+2019; Shrestha, 2020). Table 3 demonstrates that the VIF is less than 
+three for individual constructs; hence, multicollinearity is not an issue. 
+4.4. Assessment of the structural model 
+Following recommendations from Hair et al. (2019), the path coef­
+ficient, bias-corrected confidence interval, and model-fit measures using 
+bootstrapping 10,000 were obtained to assess the structural model. 
+4.4.1. Model’s goodness-of-fit, explanatory and predictive power 
+The “standardized root mean square residuals” (SRMR) are reported 
+with a threshold value of less than 0.08, which has been used to assess 
+the model’s goodness of fit, as suggested by Henseler et al. (2015). 
+Table 2 
+Common method bias/variance (CMB/CMV).   
+Q2 
+R2 Without Marker Variable 
+R2 with Marker Variable 
+GDM 
+0.187 
+0.228 
+0.237 
+GDT 
+0.128 
+0.217 
+0.228  
+Fig. 3. Marker variable.  
+Table 3 
+Reliability and convergent validity.  
+Construct 
+Item 
+F.L. 
+VIF 
+CA 
+CR 
+AVE 
+Green digital Mindset 
+(GDM)    
+0.887 
+0.911 
+0.593 
+GDM1 
+0.250 
+1.626    
+GDM2 
+0.211 
+2.167    
+GDM3 
+0.144 
+1.842    
+GDM4 
+0.202 
+1.999    
+GDM5 
+0.176 
+2.182    
+GDM6 
+0.163 
+2.228    
+GDM7 
+0.152 
+2.088    
+Green Digital 
+Transformation (GDT)    
+0.853 
+0.910 
+0.772 
+GDT1 
+0.399 
+1.902    
+GDT2 
+0.353 
+2.366    
+GDT3 
+0.386 
+2.176    
+Green Digital 
+Transformational 
+Leadership (GDTL)    
+0.882 
+0.911 
+0.630 
+GDTL1 
+0.182 
+1.770    
+GDTL2 
+0.213 
+1.671    
+GDTL3 
+0.218 
+1.993    
+GDTL4 
+0.205 
+2.149    
+GDTL5 
+0.221 
+2.577    
+GDTL6 
+0.220 
+2.482    
+Organizational Green 
+Digital Culture 
+(OGDC)    
+0.882 
+0.910 
+0.629 
+OGDC1 
+0.241 
+2.086    
+OGDC2 
+0.252 
+2.348    
+OGDC3 
+0.137 
+1.607    
+OGDC4 
+0.214 
+2.183    
+OGDC5 
+0.251 
+2.768    
+OGDC6 
+0.148 
+1.845    
+F.L. Factor Loadings; VIF, Variance Inflation Factor; CA, Cronbach Alpha; C.R., 
+Composite Reliability; AVE; Average Variance Extracted 
+Table 4 
+The discriminant validity.   
+GDM 
+GDT 
+GDTL 
+OGDC 
+GDM 
+0.770 
+0.485h 
+0.425 h 
+0.376 h 
+GDT 
+0.433 
+0.879 
+0.381h 
+0.500 h 
+GDTL 
+0.400 
+0.331 
+0.794 
+0.710 h 
+OGDC 
+0.361 
+0.447 
+0.625 
+0.793  
+M.A. Alabdali et al.                                                                                                                                                                                                                            
+
+--- [PAGE 9] ---
+Journal of Cleaner Production 450 (2024) 141670
+9
+Moreover, the squared Euclidean distance (dULS) and geodesic distance 
+(dG) were both found to be lower than the upper bound of the CI 95% 
+and 99% (Henseler et al., 2015). The NFI also indicates a good fit for this 
+study’s model, as it is close to 1 (Lohm¨oller, 2013) confirming the model 
+fit. Hence, the model’s goodness of fit has been ascertained through all 
+these indices. Relevant statistics are reported in Table 5. 
+R2 represents the variation in the endogenous construct explained 
+collectively by all exogenous constructs, which encapsulates the model’s 
+ability to explain the variance (Shmueli and Koppius, 2011). The R2 
+values of 0.75, 0.50, and 0.25 could be regarded as substantial, mod­
+erate, and weak, respectively (Henseler et al., 2009). In the current 
+study, the R2 value for the endogenous construct was found to be 0.217. 
+This value indicates that approximately 22% of the variance in the 
+endogenous construct is explained by the variance of the exogenous 
+constructs. This result suggests that the model has weak illustrative 
+strength (Chin, 1998; Hair et al., 2019), which is still quite acceptable 
+given the low number of predictors (only two) and the complex nature 
+and context of this study (Zhang, 2022). 
+f2 represents the significance of the effect size of each predictor. The 
+threshold values for f2 of 0.02, 0.15, and 0.35 represent small, medium, 
+and large effects, respectively (Chin, 1998). The f2 values are 0.038, 
+0.060, and 0.137, with the effect being between small to medium for H1, 
+H2 and H3. However, all of the results are inside the small, medium, and 
+large threshold ranges of 0.02, 0.15, and 0.35, respectively, as defined 
+by (Cohen, 2013). 
+Additionally, Chin (2010) suggested that a Q2 value larger than zero 
+implies that the model is predictively relevant. The PLS Blindfolding 
+calculator was run to determine the predictive relevance of the study. Q2 
+values were 0.187 and 0.128 for GDM and GDT, respectively, above 0, 
+indicating that the model’s predictive power was well established (Edeh 
+et al., 2023; Wang and Rhemtulla, 2021). 
+4.4.2. Analysis of the direct, mediating and moderating effects 
+The path coefficient (β) values were examined to test the impact of 
+exogenous constructs on the mediating and endogenous constructs (see 
+Fig. 4). According to the values presented in Table 6, all three direct 
+effect hypotheses were empirically substantiated. H1 results demon­
+strate a significant positive relationship between GDTL and GDT (β =
+0.188, t = 3.107, and p = 0.002. H2 results highlight the significant 
+positive relationship between GDTL and GDM (β = 0.276, t = 3.612, and 
+p = 0.000). Similarly, Finally, H3 results corroborate a significant pos­
+itive relationship between GDM and GDT (β = 0.358, t = 5.560, and p =
+0.000). 
+The results of H4 corroborated a significant indirect relationship 
+between GDTL and GDT mediated by GDM (β = 0.099, t = 3.748, and p 
+= 0.000). Therefore, the results support the mediation hypothesis, 
+indicating that GDM partially mediates the positive influence of GDTL 
+on GDT. Hence, GDTL not only directly influences GDT but also indi­
+rectly influences it through the development of GDM in employees. 
+H 5 results indicate a significant interaction effect between GDC and 
+GDTL in predicting GDM (β = 0.212, t = 3.517, and p = 0.000). 
+Therefore, the results support the hypothesis that the relationship be­
+tween GDTL and GDM is moderated by GDC, indicating that the effect of 
+GDTL on GDM varies depending on the level of GDC. Fig. 5 encapsulates 
+the essence of this moderation effect. 
+Table 7 displays the influence of including the control variables on 
+the relationships between the variables. Several noteworthy findings 
+emerged when analyzing the relationships while controlling for other 
+factors. GDM significantly predicted GDT (β = 0.351, t = 5.299, p =
+0.000). This positive and statistically significant relationship persisted 
+even after considering other variables. In addition, GDTL was signifi­
+cantly associated with GDM and GDT. Controlling for other variables, 
+GDTL predicted GDM (β = 0.291, t = 3.761, p = 0.000) and GDT (β =
+0.206, t = 3.268, p = 0.001). 
+Furthermore, OGC demonstrated a positive and statistically signifi­
+cant relationship with GDM (β = 0.231, t = 2.857, P = 0.004). This 
+association remained significant when other factors were considered. 
+Moreover, the interaction between OGDC and GDTL also exhibited a 
+statistically significant relationship with GDM (β = 0.193, t = 3.284, p =
+0.001) after controlling for other variables. However, the control vari­
+ables OS and Age did not show statistically significant relationships with 
+GDM or GDT in either the presence or absence of control variables. In 
+contrast, the control variables OS and Age did not exhibit significant 
+relationships with GDM or GDT, suggesting that they may not substan­
+tially impact the observed associations (see Fig. 6). 
+5. Discussion 
+5.1. Discussion of results 
+The findings of this study empirically supported hypothesis one, 
+which postulated a direct positive association between GDTL and GDT. 
+It is in line with some of the previous studies, such as Farrukh et al. 
+(2022) Hameed et al. (2022), Singh et al. (2020), Odugbesan et al. 
+(2023) which attested to the instrumentality of green leadership and/or 
+digital leadership in producing desirable performance outcomes. On the 
+top of it, Ly (2023), and Zhao and Huang, 2022) confirmed efficacy of 
+effective leadership in materializing digital and sustainability outcomes 
+through creating synergy of green and digital activities in the 
+organizations. 
+Hypothesis two, which postulated a significant positive association 
+between GDTL and GDM, is empirically supported and attests to the 
+efficacy of GDTL in nurturing employees’ GDM. This finding is consis­
+tent with some of the prior studies that have underscored the signifi­
+cance of leadership in promoting eco-friendly attitudes and/or mindsets. 
+For example, ¨Ozgül and Zehir (2022) and Samuel et al. (2022) found 
+that GDTL surpasses conventional methods by significantly emphasizing 
+environmental stewardship and fostering a sustainability mindset by 
+utilizing digital technologies. Feroz et al. (2021) and Ruan et al. (2022) 
+also revealed that GDTLs encourage employees to adopt environmen­
+tally responsible practices and behaviors by offering support and re­
+sources, promoting a culture of sustainability, and establishing specific 
+sustainability objectives while embracing modern digital trans­
+formation, encouraging the development of a green mindset amongst 
+employees wherein technologies can be applied to improve resource 
+efficiency and utilization. Zhu et al. (2022) also concluded that GDTL 
+can affect employees’ attitudes and actions concerning the ecological 
+consequences of green digital technology. 
+The findings of this study also lend credence to hypothesis three, 
+which puts forth a positive association between EGDM and GDT, which 
+means that the cultivation of EGDM facilitates the effective orchestra­
+tion of GDT. This finding is in line with previous research. Studies 
+conducted by Feng et al. (2022), Peng et al. (2021), Wang et al. (2023), 
+and Xue et al. (2022) also found a positive connection between EGDM 
+and GDT which indicate that the manifestation of GDTL traits by leaders 
+can encourage GDM among followers, thereby increasing the probability 
+of successful materialization of GDT within organizations. 
+Hypothesis four, which postulated a positive mediation of EGDM in 
+causing GDTL to produce desired effects on GDT, has also been 
+corroborated by the findings of this study. This findings is consistent 
+with similar findings of some of the previous studies Chen & Yan (2022), 
+Feroz et al. (2021), Katz et al. (2022), ¨Ozgül and Zehir (2022), Ros´ario 
+and Dias (2022), Ruan et al. (2022), and Samuel et al. (2022) which 
+Table 5 
+Model fit.   
+Saturated model 
+Estimated model 
+SRMR 
+0.071 
+0.079 
+d_ULS 
+1.258 
+1.576 
+d_G 
+0.411 
+0.428 
+NFI 
+0.816 
+0.810  
+M.A. Alabdali et al.                                                                                                                                                                                                                            
+
+--- [PAGE 10] ---
+Journal of Cleaner Production 450 (2024) 141670
+10
+investigated the instrumentality of employee attitudes in enabling 
+leaderships’ efforts in producing desirable sustainability outcomes. Such 
+results indicate that the manifestation of GDTL traits by leaders can 
+encourage GDM among followers, which in turn complements organi­
+zational efforts to orchestrate a successful GDT. 
+Hypothesis five, which postulated a significant moderating effect of 
+Fig. 4. Structural model result.  
+Table 6 
+Assessment of the structural model.  
+Relationship 
+β 
+Std Error 
+t-values 
+CI 2.5% 
+CI 97.5% 
+p-values 
+Decision 
+H1: GDTL - > GDT 
+0.188 
+0.061 
+3.107 
+0.071 
+0.311 
+0.002** 
+Supported 
+H2: GDTL - > GDM 
+0.276 
+0.076 
+3.612 
+0.129 
+0.429 
+0.000*** 
+Supported 
+H3: GDM - > GDT 
+0.358 
+0.064 
+5.560 
+0.232 
+0.482 
+0.000*** 
+Supported 
+H4: GDTL - > GDM - > GDT (Mediation) 
+0.099 
+0.026 
+3.748 
+0.050 
+0.153 
+0.000*** 
+Supported 
+H5: OGDC x GDTL - > GDM (Moderation) 
+0.212 
+0.060 
+3.517 
+0.082 
+0.318 
+0.000*** 
+Supported 
+Notes: ***p < 0.001, **p < 0.01, *p < 0.05. 
+Fig. 5. The slop graph of moderation.  
+M.A. Alabdali et al.                                                                                                                                                                                                                            
+
+--- [PAGE 11] ---
+Journal of Cleaner Production 450 (2024) 141670
+11
+OGDC in the GDTL-EGDM linkage, has also been empirically supported 
+by the study’s findings, which means that the impact of GDTL on GDM is 
+more significant when organizational culture strongly endorses green 
+initiatives and sustainability. This supports the findings of some of the 
+previous studies undertaken in this area, such as Wang et al. (2023) and 
+Xue et al. (2022). By cultivating a sustainable and digitally innovative 
+culture, GDTLs can augment employees’ predispositions and preferences 
+to adopt eco-friendly digital tools, technologies, and practices, thereby 
+advancing the materialization of an organization’s environmental and 
+digital goals. By cultivating a culture that prioritizes green and digital 
+initiatives, organizations can augment their employees’ GDM (Katz 
+et al., 2022; Ros´ario and Dias, 2022; Xu et al., 2023), thereby facilitating 
+the effective execution of GDT endeavors (Feng et al., 2022; Peng et al., 
+2021). This finding underscores the significance of effective leadership 
+in promoting environmentally responsible behaviors through fostering 
+the assimilation of digital technologies to achieve ecological sustain­
+ability, which is consistent with Sun et al. (2022). 
+Putting in a nutshell, the results of this study indicate that GDTLs’ 
+efforts to bring about a GDT could succeed if they could rally support 
+from their followers through nurturing GDM within a workforce 
+wherein the efficacy of GDTL to affect EGDM increases manifold if a 
+potent OGDC is put in place. Alternatively, cultivating an organizational 
+culture that places importance on environmentally conscious practices 
+can ameliorate the efficacy of GDTL’s efforts in culminating positive 
+attitudes towards sustainability and digitalization among employees to 
+actualize a green digital transformation. 
+5.2. Theoretical contributions 
+The study yields various contributions. Firstly, the findings of this 
+study add to the understanding, integration, and extension of the 
+Stimulus-Organism-Response 
+(SOR) 
+framework 
+and 
+the 
+trans­
+formational leadership theory to the GDT context. The study provides 
+significant insight into how external stimuli, such as GDTL and OGDC, 
+influence employees’ GDM of employees (Organism) to elicit their 
+positive contributions (response) in the successful orchestration of GDT. 
+Secondly, the study enhances our understanding of the contextual con­
+ditions supporting GDT by examining the interaction between GDTL and 
+OGDC in maturing EGDM. The research recognizes the interrelatedness 
+and intricacy of environmental and digital systems following systems 
+thinking and complexity theories. The need to adopt a holistic approach 
+to green digital transformation is highlighted, taking into account the 
+interdependencies and feedback loops among technological, environ­
+mental, social, and economic issues. Thirdly, the study contributes 
+significantly by providing interdisciplinary insights and bridging the gap 
+between many academic fields, such as corporate culture, environ­
+mental psychology, and leadership studies. The study combines orga­
+nizational 
+culture 
+and 
+digital 
+transformation 
+theories 
+with 
+environmental sustainability, suggesting that a green digital culture is 
+crucial for achieving successful green digital transformation. It high­
+lights the importance of corporations fostering a culture that prioritizes 
+environmental responsibility and utilizes digital technologies to 
+accomplish sustainability objectives. The understanding of how these 
+factors interact and have an impact on each other is improved by this 
+interdisciplinary approach. Fourth, the academic literature is enriched 
+by this research’s depth and breadth of understanding of how 
+Table 7 
+Model compared with and without control variable.  
+With Control Variable 
+Without Control Variable  
+Original sample 
+t values 
+p values  
+Original sample 
+t values 
+p values 
+GDM - > GDT 
+0.351 
+5.299 
+0.000 
+GDM - > GDT 
+0.358 
+5.560 
+0.000 
+GDTL - > GDM 
+0.291 
+3.761 
+0.000 
+GDTL - > GDM 
+0.276 
+3.612 
+0.000 
+GDTL - > GDT 
+0.206 
+3.268 
+0.001 
+GDTL - > GDT 
+0.188 
+3.107 
+0.002 
+OGC - > GDM 
+0.231 
+2.857 
+0.004 
+OGC - > GDM 
+0.241 
+2.945 
+0.003 
+OGC x GDTL - > GDM 
+0.193 
+3.284 
+0.001 
+OGC x GDTL - > GDM 
+0.212 
+3.517 
+0.000 
+OS - > GDM 
+0.085 
+1.507 
+0.132     
+OS - > GDT 
+0.065 
+1.092 
+0.275     
+Age - > GDM 
+0.030 
+0.485 
+0.628     
+Age - > GDT 
+−0.047 
+0.808 
+0.419      
+Fig. 6. Model with Control Variable. Age = Participant age and OS = Organization Size.  
+M.A. Alabdali et al.                                                                                                                                                                                                                            
+
+--- [PAGE 12] ---
+Journal of Cleaner Production 450 (2024) 141670
+12
+organizations negotiate the nexus of sustainability and technology. The 
+study extends transformational leadership theory by stressing the sig­
+nificance of integrating environmental sustainability factors into lead­
+ership practices. It highlights how leaders may encourage and persuade 
+followers to adopt green digital transformation through visionary 
+communication, intellectual stimulation, individualized thoughtfulness, 
+and inspirational motivation. Fifth, the newfangled model enhances our 
+understanding of the (behavioral) dynamics of GDT in the unique but 
+neglected Saudi (or Middle Eastern) context. Lastly, the findings of this 
+study could add to the universality of the etic theories advanced from 
+the West to different regional and/or socio-cultural settings. 
+5.3. Practical implications 
+The outcomes of this research have several practical insinuations 
+that organizations can consider. Firstly, the findings of this study 
+implicate the organizations in the cultivation and advancement of GDTL 
+as an instrument to spark GDT. The results indicate that leaders who 
+demonstrate GDT behaviors can have a favorable impact on the 
+ecological mindset of their followers to effectuate their positive contri­
+butions to GDT. Consequently, organizations should focus on GDTL 
+development to enable digitalization-enabled eco-friendly initiatives 
+and practices through training and development programs, mentoring, 
+practical self-awareness, stakeholder engagement, etc. The sustainabil­
+ity goals and principles should be integrated into the company’s mission 
+statement, values and performance objectives. Secondly, an effective 
+OGDC that fosters sustainability and digital innovation must be devel­
+oped to create an enabling environment for the GDTLs’ efforts to pro­
+duce desired GDT outcomes. This could be effectively done by creating 
+green digital teams, deputing green digital champions, educating fol­
+lowers on green digital initiatives, encouraging their participation in 
+such initiatives, maintaining a continual feedback loop, fostering/ 
+cementing green digital readiness at all levels, etc. Workshops and 
+seminars should be organized to educate both the leaders and the em­
+ployees about the importance of sustainability and the role digital 
+technologies can play in facilitating a green culture. Thirdly, by creating 
+effective configurations with GDTL, OGDC, and EGDM, organizations 
+could profoundly enhance the efficacy of their strategies and efforts to 
+institute a successful GDT. This could be done by educating and enabling 
+leaders to exercise creative leadership configurations contingent upon 
+leader and follower characteristics (e.g., followers’ readiness, interper­
+sonal trust, referent power, etc.), organizational characteristics (e.g., 
+complexity, lifecycle, culture, etc.), and situational contingencies (e.g., 
+environmental uncertainty, technological shifts, competition, etc.). 
+Companies can offer mentorship opportunities where experienced 
+leaders can guide employees in integrating sustainability considerations 
+into their activities. Fourthly, organizations must continuously strive to 
+exploit the nexus, synergy, and/or complementarity between green and 
+digital resources to enhance their green digital performance. Key per­
+formance indicators and metrics can be established to track the progress 
+related to digital transformation goals. By implementing these prag­
+matic approaches, entities can establish a sustainable culture, involve 
+their workforce in eco-friendly endeavors, and contribute to a more 
+ecologically sound and sustainable future. 
+Additionally, courses and programs amalgamating leadership, sus­
+tainability, and digital transformation could be contrived based on the 
+findings of our study, which could also serve as an effective subject 
+matter for classes, workshops, and training courses aiming to enable 
+future leaders to meet the challenges of the dynamic marketplace in this 
+Silicon Age. At the public policy level, academic discoveries influence 
+policy proposals. Findings from the research can be used to promote 
+legislation that encourages and supports green digital transitions across 
+a wide range of sectors. 
+6. Conclusion 
+This study examined the nexus between GDTL, GDC, GDM, and GDT. 
+The findings reveal a significant positive role of GDTL in affecting GDT 
+directly and indirectly through maturing EGDM, underscoring the sig­
+nificance of leadership conduct in propelling ecological sustainability in 
+corporate settings. Furthermore, a positive mediating role of EGDM in 
+the GDTL-GDT linkage and the moderating role of OGDC in the rela­
+tionship between GDTL and EGDM has also been empirically substan­
+tiated, highlighting the complex dynamics of the successful 
+orchestration of GDT in this knowledge and sustainability-driven age. 
+We envision a world where sustainability and digital transformation 
+go hand in hand, industrial settings where organizations embrace green 
+leadership, cultivate a culture of environmental consciousness, and 
+create psychological enablements like EGDM, and a society in which 
+individuals are inspired to make sustainable choices in their everyday 
+lives, both within and outside of work. The narrative centers around a 
+central character who exemplifies the tenets of GDTL, guiding a group 
+toward pioneering digital remedies that foster commercial triumph and 
+prioritize environmental welfare. However, significant impediments 
+could surface as this journey progresses. In their individual and team 
+capacities, the employees may encounter resistance, competing prior­
+ities, and unforeseen obstacles. However, their unwavering dedication 
+to sustainability could engender persistence in overcoming these ob­
+stacles. An effectual exhibition of GDT behaviors from their leaders 
+augmented by a strong OGDC could create just the right enabling 
+environment for these employees to contribute cogently to the GDT 
+initiatives aiming at electrifying their organizations’ sustainability 
+performance. 
+6.1. Limitations and future research directions 
+Although this study significantly contributes to the comprehension 
+of the association between “green digital transformational leadership” 
+(GDTL), “green digital mindset” (GDM), and” green digital trans­
+formation” (GDT), it is essential to acknowledge certain constraints. The 
+constraints underscore domains in which future investigations can 
+augment our comprehension of the subject matter. 
+First, the generalizability of the results may be constrained by the 
+specific sample and context in which they are based. Subsequent in­
+vestigations should replicate this study by employing heterogeneous 
+samples from various industries and cultural contexts to augment the 
+generalizability of the results. Comparative studies that examine the 
+manifestation of GDTL, GDM, and GDT across diverse settings, including 
+various industries, organizational sizes, and cultural contexts, would 
+enhance our understanding of these phenomena. Exploring possible 
+discrepancies in the associations between these constructs within 
+different settings can provide insights into the limitations and situa­
+tional elements that influence these associations. Intervention studies 
+are also valuable for investigating the effectiveness of targeted strategies 
+in promoting sustainability and digital transformation. Such studies may 
+involve implementing interventions facilitated by OGDC to develop 
+GDTL, foster GDM, and promote GDT. Through these interventions, 
+valuable insights can be gained regarding the effectiveness of specific 
+strategies in driving the desired outcomes. These types of studies have 
+the potential to provide valuable insights into evidence-based ap­
+proaches that organizations can adopt when pursuing sustainability 
+goals. 
+Second, this research utilized a cross-sectional design, which cap­
+tures a momentary representation of the associations between variables 
+at a particular instance. Longitudinal or experimental methodologies 
+may offer a more comprehensive understanding of the causal associa­
+tions among GDTL, EGDM, and GDT over time. This methodology could 
+yield valuable perspectives on the enduring ramifications and interplay 
+of said constructs and their developmental trajectory within organiza­
+tional contexts. 
+M.A. Alabdali et al.                                                                                                                                                                                                                            
+
+--- [PAGE 13] ---
+Journal of Cleaner Production 450 (2024) 141670
+13
+Third, the research depended on self-report measures, which are 
+susceptible to common method and potential response biases. Subse­
+quent investigations should consider including objective metrics or 
+diverse data sources to augment the veracity of outcomes. A multilevel 
+analysis can provide a wide-ranging understanding of the interplay and 
+impact of GDTL, OGDC, EGDM, and GDT constructs across various 
+organizational levels, including individual, team, and organizational 
+levels. Multilevel analysis can apprehend the subtleties and fluctuations 
+of these interconnections within intricate organizational frameworks. 
+Fourth, the data utilized in this investigation were obtained from a 
+single source, with a predominant reliance on employees’ subjective 
+evaluations and self-appraisals. Integrating multiple data sources, 
+including assessment of leaders and objective performance metrics, can 
+yield a more comprehensive understanding of the relationships being 
+examined. Further investigation is warranted to explore the mediation 
+and moderation mechanisms underlying the association between GDTL, 
+GDM, and GDT. Examining variables such as personal drives, societal 
+expectations, and institutional resources can facilitate the identification 
+of supplementary factors that impact these associations. 
+Fifth, further investigations may focus on examining the influence of 
+contextual conditions like digital maturity and digital capabilities (at 
+individual and firm levels) in enabling GDTL to produce desired GDT 
+outcomes. Examining such associations could yield valuable informa­
+tion on how firms can successfully incorporate green digital efforts into 
+their broader digital plans. Investigating the relationships between an 
+organization’s digital abilities and GDTL, GDC, and GDM could provide 
+insights into the skills and resources required to promote an environ­
+mentally conscious digital mindset and carry out green digital 
+transformation projects. 
+CRediT authorship contribution statement 
+Mahmoud Abdulhadi Alabdali: Writing – review & editing, 
+Writing – original draft, Project administration, Conceptualization. 
+Muhammad Zafar Yaqub: Software, Methodology, Formal analysis, 
+Data curation, Conceptualization. Reeti Agarwal: Writing – review & 
+editing, Visualization, Validation, Methodology. Hind Alofaysan: 
+Writing – review & editing. Amiya Kumar Mohapatra: Writing – re­
+view & editing. 
+Declaration of competing interest 
+The author(s) declare no conflict of interest with respect to the 
+research, authorship, and/or publication of this article. 
+Data availability 
+Data will be made available on request. 
+Acknowledgement 
+This research was funded by Princess Nourah bint Abdulrahman 
+University 
+Researchers 
+Supporting 
+Project 
+number 
+(PNURSP2024R548), Princess Nourah bint Abdulrahman University, 
+Riyadh, Saudi Arabia.  
+Appendix  
+Table A1 
+Measurement Items  
+Construct 
+Item 
+Adopted from 
+GDTL 
+1. The leader provides a clear environmental and digital technology vision for the followers to follow. 
+Chen and Chang (2013) 
+2. The leader inspires followers with environmental plans to have impact, utilizing digital technologies and sustainable results. 
+3. The leader gets the employees to work together for the same green environmental, digital, and sustainable goals. 
+4. The leader encourages employees to achieve environmental and digital transformation goals. 
+5. The leader acts by considering the environmental beliefs related to green and digital practices of the individuals. 
+6. The leader stimulates subordinates to think about green and digital ideas and initiatives. 
+GDC 
+1. The firm provides information to employees to understand the importance of sustainability and digitalization. 
+Marshall et al. (2015) 
+2. The firm tries to promote sustainability through digitalization as a major goal across all departments. 
+3. The firm has a clear policy statement urging sustainability and green digital practices in every area of operations. 
+4. Sustainability and green digital practices were a high priority activity in the firm. 
+5. Sustainability and green digital practices were a central corporate value in the firm. 
+6. The firm has a responsibility to be sustainable green digitalized organization using the most recent technology 
+GDM 
+1. I feel personally obligated to save as much energy as possible by using digital technology. 
+Steg et al. (2005) 
+2. I feel morally obligated to save energy such as using smart devices, low-consumption energy machines. etc., regardless of what others do. 
+3. I feel guilty when I waste energy 
+4. I feel morally obliged to use green digital technology instead of regular electricity 
+5. If I would buy a new appliance, I would feel morally obligated to buy a green technology device that has an energy-efficient and 
+recyclability 
+6. I feel obliged to bear green practices, the environment, and nature in mind in my daily behavior 
+7. I would be a better person if I use modern digital technology that saves energy 
+GDT 
+1. Our firm is driving new business processes built on [green] technologies 
+2. Our firm is integrating [green] digital technologies into its business activities and operations. 
+3. Our business operations are shifting towards making use of [green] digital technologies 
+Aral and Weill (2007)   
+Table A2 
+Demographic Items  
+Region: 
+2. Specialist or supervisory level 
+1. Saudi Arabia 
+3. Manager/Sr Manager level 
+2. Other GCC 
+4. Head/Director level 
+3. Middle East 
+5. Leadership/C-suite level 
+4. Europe 
+Department: 
+5. North America 
+1. Sales 
+(continued on next page) 
+M.A. Alabdali et al.                                                                                                                                                                                                                            
+
+--- [PAGE 14] ---
+Journal of Cleaner Production 450 (2024) 141670
+14
+Table A2 (continued) 
+6. South America 
+2. Marketing 
+7. Africa 
+3. Supply chain/logistics 
+8. Asia 
+4. HR 
+Gender: 
+5. IT 
+1. Male 
+6. Strategy 
+2. Female 
+7. Finance/accounting 
+Age: 
+8. Administration/other support function 
+1.20–30 years old 
+9. Operations 
+2.31–40 years old 
+Industry: 
+3.41–50 years old 
+1. FMCG 
+4.51–60 years old 
+2. Healthcare and Pharma 
+Total Year of Experience: 
+3. Food and beverage 
+1.1 year or less 
+4. Manufacturing 
+2.2–5 years 
+3.6–10 years 
+5. Oil & gas 
+4.11–15 years 
+6. Retails 
+5.16–20 years 
+7. IT Technology 
+6.21 years and above years 
+8. Telecommunication 
+Educational Level: 
+9. Public sector/Government entity 
+1. High school or less 
+10. Aviation 
+2. Diploma 
+3. Bachelor 
+11. Other 
+4. Master 
+12. Education 
+5. PhD 
+13. Real estate 
+Occupational level: 
+14. Banking/investment 
+1. Entry level 
+15. Insurance/brokerage 
+Organizational size: 
+1. Less than 100 employees 
+2.100–500 employees 
+3.501–1000 employees 
+4.1001–5000 employees 
+5. More than 5000 employees  
+References 
+Abbas, J., Khan, S.M., 2023. Green knowledge management and organizational green 
+culture: an interaction for organizational green innovation and green performance. 
+J. Knowl. Manag. 27 (7), 1852–1870. 
+Aboelmaged, M., Hashem, G., 2019. Absorptive capacity and green innovation adoption 
+in SMEs: the mediating effects of sustainable organisational capabilities. J. Clean. 
+Prod. 220, 853–863. 
+Accenture, 2022. Companies can improve sustainability by finding carbon emissions hot 
+spots across their supply chains, accenture report shows. https://newsroom.accent 
+ure.com/news/2022/companies-can-improve-sustainability-by-finding-ca 
+rbon-emissions-hot-spots-across-their-supply-chains-accenture-report-shows. 
+(Accessed 2 November 2023). 
+Afsar, B., Umrani, W.A., 2020. Transformational leadership and innovative work 
+behavior: the role of motivation to learn, task complexity and innovation climate. 
+Eur. J. Innovat. Manag. 23 (3), 402–428. .  
+Aftab, J., Abid, N., Sarwar, H., Veneziani, M., 2022. Environmental ethics, green 
+innovation, and sustainable performance: exploring the role of environmental 
+leadership and environmental strategy. J. Clean. Prod. 378, 134639. 
+Alabdali, M.A., Salam, M.A., 2022. The impact of digital transformation on supply chain 
+procurement for creating competitive advantage: an empirical study. Sustainability 
+14 (19), 12269. 
+Al-Ghazali, B.M., Gelaidan, H.M., Shah, S.H.A., Amjad, R., 2022. Green transformational 
+leadership and green creativity? The mediating role of green thinking and green 
+organizational identity in SMEs. Frontiers in Psychology 13, 977998. 
+Ali, M., Malik, M., Yaqub, M.Z., Jabbour, C.J.C., de Sousa Jabbour, A.B.L., Latan, H., 
+2023. Green means long life - green competencies for corporate sustainability 
+performance: a moderated mediation model of green organizational culture and top 
+management support. J. Clean. Prod., 139174 https://doi.org/10.1016/j. 
+jclepro.2023.139174. 
+AlNuaimi, B.K., Singh, Ren, S., Budhwar, P., Vorobyev, D., 2022. Mastering digital 
+transformation: the nexus between leadership, agility, and digital strategy. J. Bus. 
+Res. 145, 636–648. 
+Alrasheedi, N.S., Sammon, D., McCarthy, S., 2022. Understanding the characteristics of 
+workforce transformation in a digital transformation context. J. Decis. Syst. 31 
+(Suppl. 1), 362–383. https://doi.org/10.1080/12460125.2022.2073636. 
+Al-Swidi, A.K., Gelaidan, H.M., Saleh, R.M., 2021. The joint impact of green human 
+resource management, leadership and organizational culture on employees’ green 
+behaviour and organisational environmental performance. J. Clean. Prod. 316, 
+128112. 
+Althnayan, S., Alarifi, A., Bajaba, S., Alsabban, A., 2022. Linking environmental 
+transformational leadership, environmental organizational citizenship behavior, and 
+organizational sustainability performance: a moderated mediation model. 
+Sustainability 14 (14), 8779. 
+Anderson, J.C., Gerbing, D.W., 1988. Structural equation modeling in practice: a review 
+and recommended two-step approach. Psychol. Bull. 103 (3), 411–423. https://doi. 
+org/10.1037/0033-2909.103.3.411. 
+Ansari, N.Y., Farrukh, M., Raza, A., 2021. Green human resource management and 
+employees pro-environmental behaviours: examining the underlying mechanism. 
+Corp. Soc. Responsib. Environ. Manag. 28 (1), 229–238. https://doi.org/10.1002/ 
+csr.2044. 
+Aral, S., Weill, P., 2007. IT assets, organizational capabilities, and firm performance: how 
+resource allocations and organizational differences explain performance variation. 
+Organ. Sci. 18 (5), 763–780. https://doi.org/10.1287/orsc.1070.0306. 
+Awan, F.H., Dunnan, L., Jamil, K., Gul, R.F., 2023. Stimulating environmental 
+performance via green human resource management, green transformational 
+leadership, and green innovation: a mediation-moderation model. Environ. Sci. 
+Pollut. Control Ser. 30 (2), 2958–2976. 
+Azhar, A., Yang, K., 2022. Examining the influence of transformational leadership and 
+green culture on pro-environmental behaviors: empirical evidence from Florida city 
+governments. Rev. Publ. Person. Adm. 42 (4), 738–759. 
+Badghish, S., Ali, I., Ali, M., Yaqub, M.Z., Dhir, A., 2023. How socio-cultural transition 
+helps to improve entrepreneurial intentions among women? J. Intellect. Cap. 24 (4), 
+900–928. https://doi.org/10.1108/JIC-06-2021-0158. 
+Bass, B.M., 1985. Leadership and Performance beyond Expectations. Free Press, NY.  
+Bass, B.M., Avolio, B.J., 1993. Transformational leadership and organizational culture. 
+Publ. Adm. Q. 112–121. 
+Begum, S., Ashfaq, M., Xia, E., Awan, U., 2022a. Does green transformational leadership 
+lead to green innovation? The role of green thinking and creative process 
+engagement. Bus. Strat. Environ. 31 (1), 580–597. 
+Begum, S., Xia, E., Ali, F., Awan, U., Ashfaq, M., 2022b. Achieving green product and 
+process innovation through green leadership and creative engagement in 
+manufacturing. J. Manuf. Technol. Manag. 33 (4), 656–674. 
+Bhatt, Y., Ghuman, K., Dhir, A., 2020. Sustainable manufacturing. Bibliometrics and 
+content analysis. J. Clean. Prod. 260, 120988. 
+Bhutto, T.A., Farooq, R., Talwar, S., Awan, U., Dhir, A., 2021. Green inclusive leadership 
+and green creativity in the tourism and hospitality sector: serial mediation of green 
+psychological climate and work engagement. J. Sustain. Tourism 29 (10), 
+1716–1737. 
+Boote, A.S., 1981. Reliability testing of psychographic scales. J. Advert. Res. 21 (5), 
+53–60. 
+Borowski, P.F., 2021. Digitization, digital twins, blockchain, and industry 4.0 as elements 
+of management process in enterprises in the energy sector. Energies 14 (7), 1885. 
+Brislin, R.W., 1980. Translation and content analysis of oral and written materials. 
+Methodology 389–444. 
+Brunetti, F., Matt, D.T., Bonfanti, A., De Longhi, A., Pedrini, G., Orzes, G., 2020. Digital 
+transformation challenges: strategies emerging from a multi-stakeholder approach. 
+The TQM J. 32 (4), 697–724. 
+M.A. Alabdali et al.                                                                                                                                                                                                                            
+
+--- [PAGE 15] ---
+Journal of Cleaner Production 450 (2024) 141670
+15
+Buttic`e, V., Colombo, M.G., Fumagalli, E., Orsenigo, C., 2019. Green oriented 
+crowdfunding campaigns: Their characteristics and diffusion in different 
+institutional settings. Technological Forecasting and Social Change 141, 85–97. 
+Carayannis, E.G., Morawska-Jancelewicz, J., 2022. The futures of europe: society 5.0 and 
+industry 5.0 as driving forces of future universities. J. Knowl. Econ. 13 (4), 
+3445–3471. https://doi.org/10.1007/s13132-021-00854-2. 
+Cerruto, F., Cirillo, S., Desiato, D., Gambardella, S.M., Polese, G., 2022. Social network 
+data analysis to highlight privacy threats in sharing data. J. Big Data 9 (1), 19. 
+https://doi.org/10.1186/s40537-022-00566-7. 
+Chams, N., García-Bland´on, J., 2019. On the importance of sustainable human resource 
+management for the adoption of sustainable development goals. Resour. Conserv. 
+Recycl. 141, 109–122. 
+Chang, S.-J., Van Witteloostuijn, A., Eden, L., 2020. Common method variance in 
+international business research. Res. Methods in Int. Bus. 385–398. 
+Chaudhary, S., Kaur, P., Alofaysan, H., Halberstadt, J., Dhir, A., 2023. Connecting the 
+Dots? Entrepreneurial Ecosystems and Sustainable Entrepreneurship as Pathways to 
+Sustainability. Business Strategy and the Environment. https://doi.org/10.1002/ 
+bse.3466 bse.3466.  
+Chen, Y.-S., Chang, C.-H., 2013. The determinants of green product development 
+performance: green dynamic capabilities, green transformational leadership, and 
+green creativity. J. Bus. Ethics 116 (1), 107–119. https://doi.org/10.1007/s10551- 
+012-1452-x. 
+Chen, Y.-S., Yan, X., 2022. The small and medium enterprises’ green human resource 
+management and green transformational leadership: a sustainable moderated- 
+mediation practice. Corp. Soc. Responsib. Environ. Manag. 29 (5), 1341–1356. 
+Cheng, X., Xue, T., Yang, B., Ma, B., 2023. A digital transformation approach in 
+hospitality and tourism research. Int. J. Contemp. Hospit. Manag. 35 (8), 
+2944–2967. https://doi.org/10.1108/IJCHM-06-2022-0679. 
+Chin, W.W., 1998. The partial least squares approach to structural equation modeling. 
+Modern Methods for Bus. Res. 295 (2), 295–336. .  
+Chin, W.W., 2010. How to write up and report PLS analyses. In: In Handbook of Partial 
+Least Squares: Concepts, Methods and Applications. Springer, Berlin, Heidelberg, 
+pp. 655–690. 
+Chou, S.-F., Horng, J.-S., Liu, C.-H., Yu, T.-Y., Kuo, Y.-T., 2022. Identifying the critical 
+factors for sustainable marketing in the catering: the influence of big data 
+applications, marketing innovation, and technology acceptance model factors. 
+J. Hospit. Tourism Manag. 51, 11–21. 
+Chu, L.K., Do˘gan, B., Dung, H.P., Ghosh, S., Alnafrah, I., 2023. A step towards ecological 
+sustainability: how do productive capacity, green financial policy, and uncertainty 
+matter? Focusing on different income level countries. J. Clean. Prod. 426, 138846 
+https://doi.org/10.1016/j.jclepro.2023.138846. 
+Ciasullo, M.V., Lim, W.M., 2022. Digital transformation and business model innovation: 
+advances, challenges, and opportunities. Int. J. Qual. Innovat. 6 (1), 1–6. 
+Cohen, J., 1992. A power primer. Psychol. Bull. 112 (1), 155–159. 
+Cohen, J., 2013. Statistical Power Analysis for the Behavioral Sciences. Academic press. 
+Cop, S., Alola, U.V., Alola, A.A., 2020. Perceived behavioral control as a mediator of 
+hotels’ green training, environmental commitment, and organizational citizenship 
+behavior: a sustainable environmental practice. Bus. Strat. Environ. 29 (8), 
+3495–3508. 
+Çop, S., Olorunsola, V.O., Alola, U.V., 2021. Achieving environmental sustainability 
+through green digital transformational leadership policy: can green team resilience 
+help? Bus. Strat. Environ. 30 (1), 671–682. 
+Cronbach, L.J., 1971. Test validation. In: Thorndike, R. (Ed.), Educational Measurement, 
+second ed. American Council on Education, Washington DC, p. 443. 
+D’Amato, A., Giaccherini, M., Zoli, M., 2019. The role of information sources and 
+providers in shaping green behaviors. Evidence from Europe. Ecol. Econ. 164, 
+106292. 
+Deloitte, 2022. Deloitte Global 2022 Gen Z and Millennial Survey accessed on December 
+2023 at. https://www2.deloitte.com/content/dam/Deloitte/dk/Documents/human- 
+capital/Deloitte-Millennials-Gen-Z-Survey-2022-Denmark.pdf. 
+Dhir, A., Khan, S.J., Islam, N., Ractham, P., Meenakshi, N., 2023. Drivers of sustainable 
+business model innovations. An upper echelon theory perspective. Technol. Forecast. 
+Soc. Change 191, 122409. 
+Dhir, A., Talwar, S., Sadiq, M., Sakashita, M., Kaur, P., 2021. Green apparel buying 
+behaviour: a Stimulus–Organism–Behaviour–Consequence (SOBC) perspective on 
+sustainability-oriented consumption in Japan. Bus. Strat. Environ. 30 (8), 
+3589–3605. https://doi.org/10.1002/bse.2821. 
+Dittes, S., Richter, S., Richter, A., Smolnik, S., 2019. Toward the workplace of the future: 
+how organizations can facilitate digital work. Bus. Horiz. 62 (5), 649–661. 
+Du, Y., Yan, M., 2022. Green transformational leadership and employees’ taking charge 
+behavior: the mediating role of personal initiative and the moderating role of green 
+organizational identity. Int. J. Environ. Res. Publ. Health 19 (7), 4172. 
+Ebert, J.F., Huibers, L., Christensen, B., Christensen, M.B., 2018. Or web-based 
+questionnaire invitations as a method for data collection: cross-sectional 
+comparative study of differences in response rate, completeness of data, and 
+financial cost. J. Med. Internet Res. 20 (1), e24. 
+Edeh, E., Lo, W.-J., Khojasteh, J., 2023. Review of partial least squares structural 
+equation modeling (PLS-SEM) using R: a workbook. Struct. Equ. Model.: A 
+Multidiscip. J. 30 (1), 165–167. https://doi.org/10.1080/10705511.2022.2108813. 
+Joseph F. Hair Jr., G. Tomas M. Hult, Christian M. Ringle, Marko Sarstedt, Nicholas 
+P. Danks, Soumya Ray. Cham, Switzerland: Springer, (2021). 197 pp. $0, Open 
+Access; $59.99, Hardcover Book.  
+Eisner, E., Hsien, C., Mennenga, M., Khoo, Z.-Y., D¨onmez, J., Herrmann, C., Low, J.S.C., 
+2022. Self-assessment framework for corporate environmental sustainability in the 
+era of digitalization. Sustainability 14 (4), 2293. 
+Farooq, K., Yusliza, M.Y., Wahyuningtyas, R., Haque, A. ul, Muhammad, Z., Saputra, J., 
+2021. Exploring challenges and solutions in performing employee ecological 
+behaviour for a sustainable workplace. Sustainability 13 (17), 9665. 
+Farrukh, M., Ansari, N., Raza, A., Wu, Y., Wang, H., 2022. Fostering employee’s pro- 
+environmental behavior through green transformational leadership, green human 
+resource management and environmental knowledge. Technol. Forecast. Soc. 
+Change 179, 121643. 
+Feng, H., Wang, F., Song, G., Liu, L., 2022. Digital transformation on enterprise green 
+innovation: effect and transmission mechanism. Int. J. Environ. Res. Publ. Health 19 
+(17), 10614. 
+Feroz, A.K., Zo, H., Chiravuri, A., 2021. Digital transformation and environmental 
+sustainability: a review and research agenda. Sustainability 13 (3), 1530. 
+Fornell, C., Larcker, D.F., 1981. Structural Equation Models with Unobservable Variables 
+and Measurement Error: Algebra and Statistics. Sage Publications Sage CA, Los 
+Angeles, CA.  
+Fowler Jr., F.J., 2013. Survey Research Methods. Sage publications. 
+Franke, G., Sarstedt, M., 2019. Heuristics versus statistics in discriminant validity testing: 
+a comparison of four procedures. Internet Res. 29 (3), 430–447. 
+George, G., Merrill, R.K., Schillebeeckx, S.J.D., 2021. Digital sustainability and 
+entrepreneurship: how digital innovations are helping tackle climate change and 
+sustainable development. Entrep. Theory Pract. 45 (5), 999–1027. https://doi.org/ 
+10.1177/1042258719899425. 
+Gilch, P.M., Sieweke, J., 2021. Recruiting digital talent: the strategic role of recruitment 
+in organisations’ digital transformation. German J. Human Resour. Manag.: Z. für 
+Pers. 35 (1), 53–82. https://doi.org/10.1177/2397002220952734. 
+Gilli, K., Nippa, M., Knappstein, M., 2023. Leadership competencies for digital 
+transformation: An exploratory content analysis of job advertisements. German 
+Journal of Human Resource Management: Zeitschrift Für Personalforschung 37 (1), 
+50–75. https://doi.org/10.1177/23970022221087252. 
+Gomez-Trujillo, A.M., Gonzalez-Perez, M.A., 2021. Digital transformation as a strategy to 
+reach sustainability. Smart and Sustain. Built Environ. 11 (4), 1137–1162. 
+Gumpili, S.P., Das, A.V., 2022. Sample size and its evolution in research. IHOPE J. 
+Ophthalmol. 1, 9–13. 
+Gupta, G., Bose, I., 2022. Digital transformation in entrepreneurial firms through 
+information exchange with operating environment. Inf. Manag. 59 (3), 103243. 
+Hair, J.F., Hult, G.T.M., Ringle, C.M., Sarstedt, M., Danks, N.P., Ray, S., 2021. Evaluation 
+of the structural model. In: Hair, J.F., Hult, G.T.M., Ringle, C.M., Sarstedt, M., 
+Danks, N.P., Ray, S. (Eds.), Partial Least Squares Structural Equation Modeling (PLS- 
+SEM) Using R. Springer International Publishing, pp. 115–138. https://doi.org/ 
+10.1007/978-3-030-80519-7_6. 
+Hair, J.F., Risher, J.J., Sarstedt, M., Ringle, C.M., 2019. When to use and how to report 
+the results of PLS-SEM. Eur. Bus. Rev. 31 (1), 2–24. 
+Hair Jr., J.F., Howard, M.C., Nitzl, C., 2020. Assessing measurement model quality in 
+PLS-SEM using confirmatory composite analysis. J. Bus. Res. 109, 101–110. 
+Hameed, Z., Naeem, R.M., Hassan, M., Naeem, M., Nazim, M., Maqbool, A., 2022. How 
+GHRM is related to green creativity? A moderated mediation model of green 
+transformational leadership and green perceived organizational support. Int. J. 
+Manpow. 43 (3), 595–613. 
+He, J., Su, H., 2022. Digital transformation and green innovation of Chinese firms: the 
+moderating role of regulatory pressure and international opportunities. Int. J. 
+Environ. Res. Publ. Health 19 (20), 13321. 
+Henseler, J., Ringle, C.M., Sarstedt, M., 2015. A new criterion for assessing discriminant 
+validity in variance-based structural equation modeling. J. Acad. Market. Sci. 43 (1), 
+115–135. https://doi.org/10.1007/s11747-014-0403-8. 
+Henseler, J., Ringle, C.M., Sinkovics, R.R., 2009. The use of partial least squares path 
+modeling in international marketing. New Chall. Int. Marketing (Adv. Int. Market.) 
+20, 277–319. https://doi.org/10.1108/s1474-7979(2009)0000020014. Emerald 
+Group.  
+Hooi, L.W., Liu, M.-S., Lin, J.J., 2022. Green human resource management and green 
+organizational citizenship behavior: do green culture and green values matter? Int. J. 
+Manpow. 43 (3), 763–785. 
+Hsu, A., Khoo, W., Goyal, N., Wainstein, M., 2020. Next-generation digital ecosystem for 
+climate data mining and knowledge discovery: a review of digital data collection 
+technologies. Front. Big Data 3, 29. 
+Hu, C., Liang, M., Wang, X., 2023. Achieving green tourism through environmental 
+perspectives of green digital technologies, green innovation, and green HR practices. 
+Environ. Sci. Pollut. Control Ser. 30 (29), 73321–73334. https://doi.org/10.1007/ 
+s11356-023-27254-0. 
+Huang, L., Guo, Z., Deng, B., Wang, B., 2023. Unlocking the relationship between 
+environmentally specific transformational leadership and employees’ green 
+behaviour: a cultural self-representation perspective. J. Clean. Prod. 382, 134857. 
+Hussain, Y., Abbass, K., Usman, M., Rehan, M., Asif, M., 2022. Exploring the mediating 
+role of environmental strategy, green innovations, and transformational leadership: 
+the impact of corporate social responsibility on environmental performance. 
+Environ. Sci. Pollut. Control Ser. 29 (51), 76864–76880. 
+Iqbal, Q., Piwowar-Sulej, K., 2023. Organizational citizenship behavior for the 
+environment decoded: sustainable leaders, green organizational climate and person- 
+organization fit. Baltic J. Manag. 18 (3), 300–316. https://doi.org/10.1108/BJM-09- 
+2021-0347. 
+Isensee, C., Teuteberg, F., Griese, K.-M., Topi, C., 2020. The relationship between 
+organizational culture, sustainability, and digitalization in SMEs: a systematic 
+review. J. Clean. Prod. 275, 122944. 
+Katz, I.M., Rauvola, R.S., Rudolph, C.W., Zacher, H., 2022. Employee green behavior: a 
+meta-analysis. Corp. Soc. Responsib. Environ. Manag. 29 (5), 1146–1157. https:// 
+doi.org/10.1002/csr.2260. 
+M.A. Alabdali et al.                                                                                                                                                                                                                            
+
+--- [PAGE 16] ---
+Journal of Cleaner Production 450 (2024) 141670
+16
+Khan, A.N., Khan, N.A., 2022. The nexuses between transformational leadership and 
+employee green organisational citizenship behaviour: role of environmental attitude 
+and green dedication. Bus. Strat. Environ. 31 (3), 921–933. 
+Khanra, S., Dhir, A., Kaur, P., M¨antym¨aki, M., 2021. Bibliometric analysis and literature 
+review of ecotourism: toward sustainable development. Tourism Manag. Perspect. 
+37, 100777. 
+Kim, J.H., 2019. Multicollinearity and misleading statistical results. Korean J. 
+Anesthesiol. 72 (6), 558–569. 
+Kim, W.G., McGinley, S., Choi, H.-M., Agmapisarn, C., 2020. Hotels’ environmental 
+leadership and employees’ organizational citizenship behavior. Int. J. Hospit. 
+Manag. 87, 102375. 
+Kock, N., 2020. Harman’s single factor test in PLS-SEM: checking for common method 
+bias. Data Anal. Perspectives J. 2 (2), 1–6. 
+Kristoffersen, E., Mikalef, P., Blomsma, F., Li, J., 2021. The effects of business analytics 
+capability on circular economy implementation, resource orchestration capability, 
+and firm performance. Int. J. Prod. Econ. 239, 108205. 
+Kurniawan, T.A., Othman, M.H.D., Hwang, G.H., Gikas, P., 2022. Unlocking digital 
+technologies for waste recycling in Industry 4.0 era: A transformation towards a 
+digitalization-based circular economy in Indonesia. Journal of Cleaner Production 
+357, 131911. 
+Lamba, H.K., Kumar, N.S., Dhir, S., 2023. Circular economy and sustainable 
+development: a review and research agenda. Int. J. Prod. Perform. Manag. https:// 
+doi.org/10.1108/IJPPM-06-2022-0314 ahead-of-print No. ahead-of-print.  
+Lee, T.H., Kuo, F.-I., Liu, J.-T., 2023. Influence analysis of employees’ support for 
+corporate environmental responsibility: evidence from Taiwan’s recreational areas. 
+Curr. Issues Tourism 26 (1), 31–46. https://doi.org/10.1080/ 
+13683500.2021.2001440. 
+Leso, B.H., Cortimiglia, M.N., Ghezzi, A., Minatogawa, V., 2023. Exploring digital 
+transformation capability via a blended perspective of dynamic capabilities and 
+digital maturity: a pattern matching approach. Rev. Manag. Sci. https://doi.org/ 
+10.1007/s11846-023-00692-3. 
+Li, W., Bhutto, T.A., Xuhui, W., Maitlo, Q., Zafar, A.U., Bhutto, N.A., 2020. Unlocking 
+employees’ green creativity: the effects of green transformational leadership, green 
+intrinsic, and extrinsic motivation. J. Clean. Prod. 255, 120229. 
+Li, Z., Xue, J., Li, R., Chen, H., Wang, T., 2020. Environmentally specific transformational 
+leadership and employee’s pro-environmental behavior: the mediating roles of 
+environmental passion and autonomous motivation. Front. Psychol. 11, 1408. 
+Liao, H.-T., Pan, C.-L., Zhang, Y., 2023. Smart digital platforms for carbon neutral 
+management and services: business models based on ITU standards for green digital 
+transformation. Front. Ecol. Evolution 11, 1134381. 
+Liu, Q., Trevisan, A.H., Yang, M., Mascarenhas, J., 2022. A framework of digital 
+technologies for the circular economy: digital functions and mechanisms. Bus. Strat. 
+Environ. 31 (5), 2171–2192. https://doi.org/10.1002/bse.3015. 
+Liu, Y., Song, P., 2023. Digital transformation and green innovation of energy 
+enterprises. Sustainability 15 (9), 7703. 
+Lohm¨oller, J.-B., 2013. Latent Variable Path Modeling with Partial Least Squares. 
+Springer Science & Business Media. 
+Lusiani, M., Abidin, Z., Fitrianingsih, D., Yusnita, E., Adiwinata, D., Rachmaniah, D., 
+Fauzi, A., Purwanto, A., 2020. Effect of servant, digital and green leadership toward 
+business performance: evidence from Indonesian manufacturing. Sys. Rev. Pharm. 
+11 (11), 1351–1361. 
+Luu, T.T., 2022. How customers matter to tourism employees’ green creative behavior? 
+J. Sustain. Tourism 1–35. https://doi.org/10.1080/09669582.2022.2113790. 
+Ly, B., 2023. Inclusion leadership and employee work engagement: the role of 
+organizational commitment in Cambodian public organization. Asia Pac. Manag. 
+Rev. 29 (1), 44–52. https://doi.org/10.1016/j.apmrv.2023.06.003. 
+Mahmoud, A.B., Reisel, W.D., Fuxman, L., Hack-Polay, D., 2022. Locus of control as a 
+moderator of the effects of COVID-19 perceptions on job insecurity, psychosocial, 
+organisational, and job outcomes for MENA region hospitality employees. Eur. 
+Manag. Rev. 19 (2), 313–332. https://doi.org/10.1111/emre.12494. 
+Malodia, S., Dhir, A., Alshibani, S.M., Christofi, M., 2023. Born global: antecedents and 
+consequences of innovation capabilities. Asia Pac. J. Manag. 1–34. 
+Marshall, D., McCarthy, L., McGrath, P., Claudy, M., 2015. Going above and beyond: how 
+sustainability culture and entrepreneurial orientation drive social sustainability 
+supply chain practice adoption. Supply Chain Manag.: Int. J. 20 (4), 434–454. 
+Martínez-Pel´aez, R., Ochoa-Brust, A., Rivera, S., F´elix, V.G., Ostos, R., Brito, H., et al., 
+2023. Role of digital transformation for achieving sustainability: mediated role of 
+stakeholders, key capabilities, and technology. Sustainability 15 (14), 11221. 
+Mehmood, U., Agyekum, E.B., Kotb, H., Milyani, A.H., Azhari, A.A., Tariq, S., Haq, Z. ul, 
+Ullah, A., Raza, K., Velkin, V.I., 2022. Exploring the role of communication 
+technologies, governance, and renewable energy for ecological footprints in G11 
+countries: implications for sustainable development. Sustainability 14 (19), 12555. 
+Mehrabian, A., Russell, J.A., 1974. A verbal measure of information rate for studies in 
+environmental psychology. Environ. Behav. 6 (2), 233. 
+Mousa, S.K., Othman, M., 2020. The impact of green human resource management 
+practices on sustainable performance in healthcare organisations: a conceptual 
+framework. J. Clean. Prod. 243, 118595. 
+Muisyo, P.K., Su, Q., Julius, M.M., Hossain, S.F.A., 2023. GHRM and employer branding: 
+empirical study in developing and developed economies. Manag. Res. Rev. 46 (10), 
+1297–1314. https://doi.org/10.1108/MRR-04-2022-0280. 
+Nicoletti Jr., A., de Oliveira, M.C., Helleno, A.L., de Souza Campos, L.M., Alliprandini, D. 
+H., 2022. The organization performance framework considering competitiveness and 
+sustainability: the application of the sustainability evaluation model. Prod. Plann. 
+Control 33 (13), 1215–1230. https://doi.org/10.1080/09537287.2020.1857873. 
+Nuel, O.I.E., Ifechi, A.N., Emmanuella, U.I., 2021. Transformational leadership and 
+organizational success: evidence from tertiary institutions. J. Econ. Bus. 4 (1), 
+170–182. 
+Odugbesan, J.A., Aghazadeh, S., Al Qaralleh, R.E., Sogeke, O.S., 2023. Green talent 
+management and employees’ innovative work behavior: the roles of artificial 
+intelligence and transformational leadership. J. Knowl. Manag. 27 (3), 696–716. 
+¨O˘gretmeno˘glu, M., Akova, O., G¨oktepe, S., 2022. The mediating effects of green 
+organizational citizenship on the relationship between green transformational 
+leadership and green creativity: evidence from hotels. J. Hospit. Tour. Insights 5 (4), 
+734–751. 
+Ojo, A.O., Raman, M., Downe, A.G., 2019. Toward green computing practices: a 
+Malaysian study of green belief and attitude among Information Technology 
+professionals. J. Clean. Prod. 224, 246–255. 
+Olya, H.G., Bagheri, P., Tümer, M., 2019. Decoding behavioural responses of green hotel 
+guests: a deeper insight into the application of the theory of planned behaviour. Int. 
+J. Contemp. Hospit. Manag. 31 (6), 2509–2525. 
+¨Ozgül, B., Zehir, C., 2022. Top management’s green transformational leadership and 
+competitive advantage: the mediating role of green organizational learning 
+capability. J. Bus. Ind. Market. 38 (10), 2047–2060. https://doi.org/10.1108/JBIM- 
+01-2022-0043. 
+Paiola, M., Schiavone, F., Grandinetti, R., Chen, J., 2021. Digital servitization and 
+sustainability through networking: some evidence from IoT-based business models. 
+J. Bus. Res. 132, 507–516. 
+Pan, S.L., Nishant, R., 2023. Artificial intelligence for digital sustainability: an insight 
+into domain-specific research and future directions. Int. J. Inf. Manag. 72, 102668. 
+Pathak, K., Prakash, G., Jain, M., Agarwal, R., Attri, R., 2024. Do eco labels matter for 
+green business strategy and sustainable consumption? A mixed method investigation 
+on green products. Business Strategy and the Environment. bse.3687. https://doi. 
+org/10.1002/bse.3687. 
+Peng, J., Chen, X., Zou, Y., Nie, Q., 2021. Environmentally specific transformational 
+leadership and team pro-environmental behaviors: the roles of pro-environmental 
+goal clarity, pro-environmental harmonious passion, and power distance. Hum. 
+Relat. 74 (11), 1864–1888. 
+Pan, C., Abbas, J., ´Alvarez-Otero, S., Khan, H., Cai, C., 2022. Interplay between corporate 
+social responsibility and organizational green culture and their role in employees’ 
+responsible behavior towards the environment and society. J. Clean. Prod. 366, 
+132878. 
+Philip, J., 2021. Viewing digital transformation through the lens of transformational 
+leadership. Journal of Organizational Computing and Electronic Commerce 31 (2), 
+114–129. 
+Porfírio, J.A., Carrilho, T., Felício, J.A., Jardim, J., 2021. Leadership characteristics and 
+digital transformation. J. Bus. Res. 124, 610–619. 
+Pradana, M., Silvianita, A., Syarifuddin, S., Renaldi, R., 2022. The implication of digital 
+organisational culture on firm performance. Front. Psychol. 13, 840699. 
+Priyono, A., Moin, A., Putri, V.N.A.O., 2020. Identifying digital transformation paths in 
+the business model of SMEs during the COVID-19 pandemic. J. Open Innov.: 
+Technol., Market, and Complexity 6 (4), 104. 
+Qu, X., Khan, A., Yahya, S., Zafar, A.U., Shahzad, M., 2022. Green core competencies to 
+prompt green absorptive capacity and bolster green innovation: the moderating role 
+of organization’s green culture. J. Environ. Plann. Manag. 65 (3), 536–561. https:// 
+doi.org/10.1080/09640568.2021.1891029. 
+Rasoolimanesh, S.M., 2022. Discriminant validity assessment in PLS-SEM: a 
+comprehensive composite-based approach. Data Anal. Perspectives J. 3 (2), 1–8. 
+Raza, S.A., Khan, K.A., 2022. Impact of green human resource practices on hotel 
+environmental performance: the moderating effect of environmental knowledge and 
+individual green values. Int. J. Contemp. Hospit. Manag. 34 (6), 2154–2175. 
+Reynolds, N., Diamantopoulos, A., 1998. The effect of pretest method on error detection 
+rates: experimental evidence. Eur. J. Market. 32 (5/6), 480–498. 
+Ringle, C.M., Wende, S., Becker, J.-M., 2022. SmartPLS 4. Oststeinbek: SmartPLS. 
+Retrieved from. https://www.smartpls.com. 
+Riva, F., Magrizos, S., Rubel, M.R.B., 2021. Investigating the link between managers’ 
+green knowledge and leadership style, and their firms’ environmental performance: 
+the mediation role of green creativity. Bus. Strat. Environ. 30 (7), 3228–3240. 
+Rizvi, Y.S., Garg, R., 2021. The simultaneous effect of green ability-motivation- 
+opportunity and transformational leadership in environment management: the 
+mediating role of green culture. Benchmark Int. J. 28 (3), 830–856. 
+Robertsone, G., Lapin¸ a, I., 2023. Digital transformation as a catalyst for sustainability 
+and open innovation. J. Open Innov.: Technol., Market, and Complexity 9 (1), 
+100017. 
+Ros´ario, A.T., Dias, J.C., 2022. Sustainability and the digital transition: a literature 
+review. Sustainability 14 (7), 4072. 
+Roscoe, S., Subramanian, N., Jabbour, C.J.C., Chong, T., 2019. Green human resource 
+management and the enablers of green organisational culture: enhancing a firm’s 
+environmental performance for sustainable development. Bus. Strat. Environ. 28 (5), 
+737–749. https://doi.org/10.1002/bse.2277. 
+Ruan, T., Gu, Y., Li, X., Qu, R., 2022. Research on the practical path of resource-based 
+enterprises to improve environmental efficiency in digital transformation. 
+Sustainability 14 (21), 13974. 
+Saleem, M., Qadeer, F., Mahmood, F., Ariza-Montes, A., Han, H., 2020. Ethical leadership 
+and employee green behavior: a multilevel moderated mediation analysis. 
+Sustainability 12 (8), 3314. 
+Samuel, G., Lucivero, F., Somavilla, L., 2022. The environmental sustainability of digital 
+technologies: stakeholder practices and perspectives. Sustainability 14 (7), 3791. 
+Sarstedt, M., Radomir, L., Moisescu, O.I., Ringle, C.M., 2022. Latent class analysis in PLS- 
+SEM: a review and recommendations for future applications. J. Bus. Res. 138, 
+398–407. 
+M.A. Alabdali et al.                                                                                                                                                                                                                            
+
+--- [PAGE 17] ---
+Journal of Cleaner Production 450 (2024) 141670
+17
+S¸engüllendi, M.F., Bilgetürk, M., Afacan Fındıklı, M., 2023. Ethical leadership and green 
+innovation: the mediating role of green organizational culture. J. Environ. Plann. 
+Manag. 1–22. https://doi.org/10.1080/09640568.2023.2180347. 
+Shrestha, N., 2020. Detecting multicollinearity in regression analysis. Am. J. Appl. Math. 
+Stat. 8 (2), 39–42. 
+Shmueli, G., Koppius, O.R., 2011. Predictive analytics in information systems research. 
+MIS Q. 35 (3), 553–572. https://doi.org/10.2307/23042796. 
+Sidney, M.T., Wang, N., Nazir, M., Ferasso, M., Saeed, A., 2022. Continuous effects of 
+green transformational leadership and green employee creativity: a moderating and 
+mediating prospective. Front. Psychol. 13, 840019. 
+Singh, Del Giudice, M., Chierici, R., Graziano, D., 2020. Green innovation and 
+environmental performance: the role of green transformational leadership and green 
+human resource management. Technol. Forecast. Soc. Change 150, 119762. 
+Soper, D.S. (2023). A-priori sample size calculator for structural equation models 
+[Software]. http://wwwdanielsopercom/statcalc, accessed on 2.June.2023.. 
+Stanley, S.K., Hogg, T.L., Leviston, Z., Walker, I., 2021. From anger to action: differential 
+impacts of eco-anxiety, eco-depression, and eco-anger on climate action and 
+wellbeing. The J. Clim. Change and Health 1, 100003. 
+Steg, L., Dreijerink, L., Abrahamse, W., 2005. Factors influencing the acceptability of 
+energy policies: a test of VBN theory. J. Environ. Psychol. 25 (4), 415–425. 
+Steinmann, B., Klug, H.J., Maier, G.W., 2018. The path is the goal: how transformational 
+leaders enhance followers’ job attitudes and proactive behavior. Front. Psychol. 9, 
+1–15. .  
+Suliman, M.A., Abdou, A.H., Ibrahim, M.F., Al-Khaldy, D.A.W., Anas, A.M., Alrefae, W. 
+M.M., Salama, W., 2023. Impact of green transformational leadership on employees’ 
+environmental performance in the hotel industry context: does green work 
+engagement matter? Sustainability 15 (3), 2690. 
+Sun, X., El Askary, A., Meo, M.S., Hussain, B., others, 2022. Green transformational 
+leadership and environmental performance in small and medium enterprises. Econ. 
+Res.-Ekonomska Istraˇzivanja 35 (1), 5273–5291. 
+Talwar, S., Kaur, P., Nunkoo, R., Dhir, A., 2022. Digitalization and sustainability: virtual 
+reality tourism in a post pandemic world. J. Sustain. Tourism 1–28. https://doi.org/ 
+10.1080/09669582.2022.2029870. 
+Terho, H., Giovannetti, M., Cardinali, S., 2022. Measuring B2B social selling: key 
+activities, antecedents, and performance outcomes. Ind. Market. Manag. 101, 
+208–222. 
+Tim, Y., Pan, S.L., Bahri, S., Fauzi, A., 2018. Digitally enabled affordances for 
+community-driven environmental movement in rural Malaysia. Information Systems 
+Journal 28 (1), 48–75. 
+Timpanaro, G., 2023. Agricultural food marketing, economics and policies. Agriculture 
+13 (Issue 4), 761. MDPI. https://www.mdpi.com/2077-0472/13/4/761. 
+Tosun, C., Parvez, M.O., Bilim, Y., Yu, L., 2022. Effects of green transformational 
+leadership on green performance of employees via the mediating role of corporate 
+social responsibility: reflection from North Cyprus. Int. J. Hospit. Manag. 103, 
+103218. 
+Trapp, C.T., Kanbach, D.K., 2021. Green entrepreneurship and business models: deriving 
+green technology business model archetypes. J. Clean. Prod. 297, 126694. 
+Uvarova, I., Mavlutova, I., Atstaja, D., 2021. Development of the green entrepreneurial 
+mindset through modern entrepreneurship education. IOP Conf. Ser. Earth Environ. 
+Sci. 628 (1), 012034. https://iopscience.iop.org/article/10.1088/1755-1315/628 
+/1/012034/meta. 
+Valerio-Ure˜na, G., Rogers, R., 2019. Characteristics of the digital content about energy- 
+saving in different countries around the world. Sustainability 11 (17), 4704. 
+Vial, G., 2019. Understanding digital transformation: a review and a research agenda. 
+J. Strat. Inf. Syst. 28 (2), 118–144. 
+Wang, L., Chen, Y., Ramsey, T.S., Hewings, G.J., 2021. Will researching digital 
+technology really empower green development? Technol. Soc. 66, 101638. 
+Wang, Y.A., Rhemtulla, M., 2021. Power analysis for parameter estimation in structural 
+equation modeling: a discussion and tutorial. Adv. Methods and Practices in Psychol. 
+Sci. 4 (1), 251524592091825 https://doi.org/10.1177/2515245920918253. 
+Wang, Z., Ye, Y., Liu, X., 2023. How CEO responsible leadership shapes corporate social 
+responsibility and organization performance: the roles of organizational climates 
+and CEO founder status. Int. J. Contemp. Hospit. Manag. https://doi.org/10.1108/ 
+IJCHM-11-2022-1498 ahead-of-print No. ahead-of-print.  
+Weber, B.A., Yarandi, H., Rowe, M.A., Weber, J.P., 2005. A comparison study: paper- 
+based versus web-based data collection and management. Appl. Nurs. Res. 18 (3), 
+182–185. 
+Weber, E., Büttgen, M., Bartsch, S., 2022. How to take employees on the digital 
+transformation journey: an experimental study on complementary leadership 
+behaviors in managing organizational change. J. Bus. Res. 143, 225–238. 
+Widisatria, D., Nawangsari, L.C., 2021. The influence of green transformational 
+leadership and motivation to sustainable corporate performance with organizational 
+citizenship behavior for the environment as a mediating: case study at PT Karya 
+Mandiri Sukses Sentosa. Eur. J. Bus. Manag. Res. 6 (3), 118–123. 
+Withisuphakorn, P., Batra, I., Parameswar, N., Dhir, S., 2019. Sustainable development 
+in practice: case study of L’Or´eal. J. Bus. Retail Manag. Res. 13, 10, 24052/JBRMR/ 
+V13ISSP/ART-4.  
+Xiong, L., Ning, J., Dong, Y., 2022. Pollution reduction effect of the digital 
+transformation of heavy metal enterprises under the agglomeration effect. J. Clean. 
+Prod. 330, 129864. 
+Xu, J., Yu, Y., Zhang, M., Zhang, J.Z., 2023. Impacts of digital transformation on eco- 
+innovation and sustainable performance: evidence from Chinese manufacturing 
+companies. J. Clean. Prod. 393, 136278. 
+Xue, L., Zhang, Q., Zhang, X., Li, C., 2022. Can digital transformation promote green 
+technology innovation? Sustainability 14 (12), 7497. 
+Yang, Y., Lu, H., Liang, D., Chen, Y., Tian, P., Xia, J., Wang, H., Lei, X., 2022. Ecological 
+sustainability and its driving factor of urban agglomerations in the Yangtze River 
+Economic Belt based on three-dimensional ecological footprint analysis. J. Clean. 
+Prod. 330, 129802. 
+Yaqub, M.Z., Alsabaan, A., 2023. Industry 4.0 enabled digital transformation: prospects, 
+instruments, challenges and implications for business strategies. Sustainability 15, 
+8553. https://doi.org/10.3390/su15118553. 
+Yes¸iltas¸, M., Gürlek, M., Kenar, G., 2022. Organizational green culture and green 
+employee behavior: differences between green and non-green hotels. J. Clean. Prod. 
+343, 131051. 
+Yoshikuni, A.C., Albertin, A.L., 2020. Leveraging firm performance through information 
+technology strategic alignment and knowledge management strategy: an empirical 
+study of IT-Business Value. Int. J. Regul. Govern. 8 (10), 304–318. 
+Zafar, H., Ho, J.A., Cheah, J.-H., Mohamed, R., 2022. Catalyzing voluntary pro- 
+environmental behavior in the textile industry: environmentally specific servant 
+leadership, psychological empowerment, and organizational identity. J. Clean. Prod. 
+378, 134366. 
+Zafar, H., Malik, A., Gugnani, R., Agarwal, R., Nijjer, S., 2023. Green thumbs at work: 
+boosting employee eco-participation through ecocentric leadership, green crafting, 
+and green human resource management. J. Clean. Prod., 139718 
+Zawieska, J., Obracht-Prondzy´nska, H., Duda, E., Uryga, D., Romanowska, M., 2022. In 
+search of the innovative digital solutions enhancing social pro-environmental 
+engagement. Energies 15 (14), 5191. 
+Zhang, H., 2022. Structural equation modeling. In: Zhang, H. (Ed.), Models and Methods 
+for Management Science. Springer Nature Singapore, pp. 363–381. https://doi.org/ 
+10.1007/978-981-19-1614-4_10. 
+Zhang, J., Ul-Durar, S., Akhtar, M.N., Zhang, Y., Lu, L., 2021. How does responsible 
+leadership affect employees’ voluntary workplace green behaviors? A multilevel 
+dual process model of voluntary workplace green behaviors. J. Environ. Manag. 296, 
+113205. 
+Zhang, W., Zhang, W., Daim, T.U., 2023. The voluntary green behavior in green 
+technology innovation: the dual effects of green human resource management 
+system and leader green traits. J. Bus. Res. 165, 114049. 
+Zhao, W., Huang, L., 2022. The impact of green transformational leadership, green HRM, 
+green innovation and organizational support on the sustainable business 
+performance: evidence from China. Econ. Res.-Ekonomska Istraˇzivanja 35 (1), 
+6121–6141. 
+Zhen, Z., Yousaf, Z., Radulescu, M., Yasir, M., 2021. Nexus of digital organizational 
+culture, capabilities, organizational readiness, and innovation: investigation of SMEs 
+operating in the digital economy. Sustainability 13 (2), 720. 
+Zhu, J., Tang, W., Zhang, B., Wang, H., 2022. Influence of environmentally specific 
+transformational leadership on employees’ green innovation behavior—a moderated 
+mediation model. Sustainability 14 (3), 1828. 
+Zoppelletto, A., Orlandi, L.B., Zardini, A., Rossignoli, C., Kraus, S., 2023. Organizational 
+roles in the context of digital transformation: a micro-level perspective. J. Bus. Res. 
+157, 113563. 
+M.A. Alabdali et al.                                                                                                                                                                                                                            

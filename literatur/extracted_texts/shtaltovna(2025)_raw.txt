@@ -1,0 +1,918 @@
+--- [PAGE 1] ---
+Transdisciplinary Competencies for the Future:  
+Bridging the Gap Between Emotional Intelligence, Digital Literacy,  
+Inner Development Goals, and Employability 
+ 
+ 
+ 
+ 
+ 
+ABSTRACT1 
+ 
+Transformative potential of the knowledge economy of the XXI 
+century, establishment of networked society, emergency 
+digitization due to the pandemic and wartime measures have 
+imposed elaborate interdisciplinary and interoperable demands 
+on the marketability of Liberal Arts skills and competences, upon 
+entering the workforce.  
+This study examines the gap between transdisciplinary future 
+skіlls hіghlіghted іn the World Economіc Forum’s (WEF) 
+"Future of Jobs" reports and those sought by learners іn 
+Coursera’s Global Skіlls іndex. The emphasis lies on the role of 
+Core skills combined with the Inner Development Goals (IDGs) 
+framework in bridging these gaps. The proposed strategy 
+roadmap links IDGs with the demands for future skills and 
+Humanity-focused Higher Education (HiEd), besides, it provides 
+actionable recommendations for HiEd staff, business schools and 
+policymakers. By combining Inner Development with 
+Leadership Skills and Digital Skills Programs in HiEd we may 
+have a hope to stimulate employability for the AI age both for 
+individuals' inner growth and collaboration/co-creation skills in 
+teams and larger communities in a turbulent job market of 2025-
+2050. 
+The study results disclose the comprehensive review of dynamics 
+of the digital skills development and application to construe 
+interdisciplinary, AI-interoperable competencies of students and 
+educators in Europe through the span of educational activities in 
+the time-frame of the pandemic emergency digitization measures 
+of 2020-2021 and wartime emergency digitization measures of 
+2022-2024 in Ukraine (including AI-enhanced communication as 
+a staple of transdisciplinary education as of 2023).  
+The paper introduces a model of AI-interoperable digital skills 
+for education and professional application in different social 
+spheres. The survey analysis is used to evaluate the dimensions 
+of interdisciplinarity, informed by the interoperability of soft 
+skills, professional communication skills, and digital skills across 
+contrasting frameworks of e-competence, Inner Development 
+Goals, professional digital communication, and professional 
+training.  
+ 
+1 Peer-editor: Olena Tupakhina, Dr. Hab., Zaporizhzhya National University, Vice 
+Rector, Ukraine 
+Keywords: Inner Development Goals (IDGs), Interoperability, 
+Transdisciplinarity, EQ, AI-literacy, Digital literacy, Digital 
+skills, Employability, Higher Education 
+ 
+1.  INTRODUCTION 
+ 
+Transformative shifts in the knowledge economy of the XXI 
+century, Industry 4.0/5.0, Society 5.0 development and 
+elaboration of networked society, emergency digitization due to 
+wartime measures and the establishment of the AI Age have 
+imposed pressing revisions onto interdisciplinary and cross-
+sectorial job market demands of Liberal Arts university 
+graduates’ skillsets, upon entering the workforce. This, in turn, 
+stipulates reevaluation of the interdisciplinary approaches to 
+comprehensive professional competences in education and 
+application.  
+The pandemic induced amplified digitalization measures in the 
+higher education sphere, informed by the need to take quick 
+comprehensive action in order to achieve the overarching result 
+to transform educational scenarios into interdisciplinary digital, 
+blended, and hybrid frameworks. Taking into account the context 
+of the erupted military intervention on Ukraine in February 2022, 
+and the ensuing information warfare in various digital 
+environments (social media, news coverage, digital 
+communications), the specific value of the learning outcomes 
+and outputs is allocated to the digitally enhanced educational 
+communication as a tool of the internationally broadcast strife of 
+Ukraine for freedom and sovereignty.  
+The rapid advancement of technology and evolving economic 
+landscapes have reshaped the global job market, prompting 
+organizations like the World Economic Forum (WEF) to analyze 
+and project future skills demands through their "Future of Jobs" 
+reports. Meanwhile, platforms such as Coursera's Global Skills 
+Index provide a snapshot of the skills learners are actively 
+pursuing today. Within this context, the Inner Development 
+Goals (IDGs) framework has emerged as a key movement, 
+aiming to cultivate the inner capacities necessary to meet the 
+challenges of sustainable development and global complexity. As 
+universities prepare students to navigate an increasingly dynamic 
+ 
+ Rusudan MAKHACHASHVILI 
+Borys Grinchenko Kyiv Metropolitan University,  
+Bulvarno-Kudryavska-st., 18/2,  Kyiv, Ukraine
+Kyiv School of Economics,
+Mykoly Shpaka-str., 3, 02000, Kyiv, Ukraine 
+Yuliya SHTALTOVNA
+Hochschule Fresenius, 
+Jägerstraße 32, 10117, Berlin, Germany;  
+Proceedings of the 29th World Multi-Conference on Systemics, Cybernetics and Informatics (WMSCI 2025)
+341
+https://doi.org/10.54808/WMSCI2025.01.341
+ISBN: 978-1-950492-85-5
+ISSN: 2771-0947
+
+--- [PAGE 2] ---
+and complex world, the integration of Emotional Intelligence 
+(EQ) into curricula becomes vital. The future of education stands 
+at the intersection of technology, sustainability, and human 
+development. Here, smart campuses—equipped with AI, virtual 
+reality (VR), and data analytics —are revolutionizing learning 
+environments, offering tailored educationa l experiences that 
+support emotional and cognitive growth [22]. Such technological 
+advancements for more adaptive educational systems necessitate 
+a shift in the role of educators from traditional knowledge 
+providers to facilitators of essential competencie s in both the 
+digital age and sustainability [37]. 
+The study objective is to introduce a comprehensive 
+international perspective and data -corroborated research on 
+multi-disciplinary, digital and AI literacies for pre/in -service 
+teachers in Europe. That dir ects the inquiry to the aim of 
+exploring the critical intersection of Emotional Intelligence (EQ), 
+Inner Development Goals (IDGs), and future employability 
+within higher business education frameworks. Specifically, the 
+study aims to identify and analyze gaps between the future skills 
+demanded by employers, highlighted in the World Economic 
+Forum’s "Future of Jobs" reports —and the skills prioritized by 
+learners, as revealed by Coursera’s Global Skills Index.  
+Through integrating the IDGs framework, this pape r seeks to 
+propose actionable strategies and recommendations for higher 
+education institutions, educators, and policymakers. Ultimately, 
+it advocates for embedding emotional intelligence and inner 
+development within curricula to effectively bridge identifi ed 
+skills gaps, thereby preparing students holistically for the 
+challenges of the digital and AI-driven era. 
+The study design includes the following steps:  
+- A systematic literature review and comparative content 
+analysis with consistent transdisciplinary s kills 
+benchmarking, drawing explicitly on authoritative 
+white papers published by the World Economic Forum 
+(WEF), specifically the "Future of Jobs" reports from 
+the years 2016, 2018, 2020, and 2023  [31], and 
+Coursera’s Global Skills Reports  published annually 
+from 2018 to 2023 [33]; 
+- The modelling of interoperability between various 
+competency principles, derivative of twenty -first-
+century skills [4; 7; 9]  and projected digital  and AI  
+literacy requirements for education across core digital 
+literacy frameworks (European e -Competence 
+Framework [13], UNESCO revised ICT Competence 
+framework for educators  [29] and European 
+Commission Digital Competence Framework: 
+DigComp 2.2 [12]);  
+- The survey method application for diagnostic analysis 
+of different  digital literacy components and 
+dimensions, as well as digital skills implementation, 
+used to assess the parameters of efficiency of 
+transforming real -life linguistic education practices 
+into the digital and hybrid format; 
+- The identification of the interoperability between 
+various groups of applied digital /AI skills and soft 
+skills, instrumental to develop interdisciplinary 
+professional competence. 
+The inquiry employs the combination of mixed methods [3, 8] – a 
+proportional arrangement of quantitative and qualitative inquiry 
+to assess in -depth aspects of subjective and individual quality 
+estimation of digital distant, hybrid and AI-enhanced learning.  
+The survey structure comprised of 16 complex diagnostic 
+questions (multiple choice, criteria comparison and Likert scale 
+score types), divided into the following categories: 1) questions 
+on overall assessment of digital  and AI  literacy level  in the 
+framework of wartime emergency; 2) questions on diagnostics of 
+specialists according to the established frameworks of digital/AI 
+competencies and e-skills in the professional field ; 3) questions 
+on diagnostics of interoperability of linguistic / communicative / 
+soft professional and digital skills. 
+The inquiry is conducted through the consistent study of 
+digitization measures and outcomes for Arts and Sciences 
+education programs in Ukraine, beginning with the timespan of 
+the Covid-19 pandemic and transcending into the crisis paradigm 
+of active warfare in different regions of Ukraine, across different 
+education levels. 
+The inquiry's main findings disclose global event horizon and 
+paradigm shifts  [30] in the interdisciplinary trends of digital 
+education in the pandemic timeframe and through the emergency 
+of the warzone in Ukraine and in the EU; transformative changes 
+of the network society and education as an interdisciplinary, 
+multi-lingual socio -cultural institution in the digital age; 
+experiences, challenges, digital advances and specific national 
+gains in quality assurance of Humanities education in the 
+sustainable and emergency paradigms.  
+The study results disclose the comprehensive review of dynamics 
+of the digital skills development and application to construe 
+interdisciplinary, AI-interoperable competencies of students and 
+educators in Ukraine through the span of educational activities in 
+the time-frame of the pandemic emergency digitization measures 
+of 2020-2021 and wartime emergency digitization measures of 
+2022-2025 in Ukraine (including AI-enhanced communication as 
+a staple of transdisciplinary education as of 2023).  
+ 
+2.  FINDINGS 
+ 
+Conceptual Grid of the Inquiry 
+The following grid of groundwork concepts is applied to profile 
+the digitization of higher education in the pandemic and wartime 
+timeframes:  
+• TRANSDISCIPLINARITY;  
+• INTEROPERABILITY;  
+• DIGITAL LITERACY;  
+• COMPLEX SKILLS;  
+• AI-INTEROPERABLE DIGITAL SKILLS. 
+The meaning of TRANSDISCIPLINARITY is synthesized for 
+the purpose of this study as an agglomeration of two or more 
+fields of knowledge into one scope/goal of study, inquiry or 
+activity [2; 6; 14; 17; 20]. 
+The concept of  INTEROPERABILITY is disclosed  across 
+different approaches [19; 26; 27] as a characteristic of an object, 
+product or system, that allows its interface to be comprehensible, 
+to work with other objects, products or systems. 
+A model of soft skills paradigms and digital AI-literacy 
+frameworks INTEROPERABILITY in digital education is 
+devised and corroborated through several iterations of surveys in 
+the timespan of emergency digitization of 2022-2025: 
+1) European E -competence Framework Guideline (European 
+Commission, 2021) [13], customized according to European 
+Professional Competence Framework, accommodates the 
+following soft skills in terms of digital competence 
+requirements for vocational activity in FLE: service 
+orientation; attention to detail, learning strategies, 
+leadership and social influence, cognitive creativity and 
+flexibility, coordination and time -management; human 
+resources management; 
+2) UNESCO AI Competence Frameworks (teachers/students) 
+(UNESCO, 2024) [29], customized for pre-service teachers 
+of foreign languages, accommodates the following types of 
+soft skills in terms of digital competence requirements: 
+Proceedings of the 29th World Multi-Conference on Systemics, Cybernetics and Informatics (WMSCI 2025)
+342
+
+--- [PAGE 3] ---
+collaboration, team -work, problem-solving, reasoning and 
+ideation.  
+3) Digital Competence 2.2 framework (European 
+Commission, 2023) [12] for general public, accommodates 
+the following soft skills in terms of digital competence 
+requirements for efficient digital citizenship: 
+Communication and collaboration, creativity and 
+adaptability, learning and innovation, trustworthiness, 
+emotional intelligence, complex problem solving; 
+4) AI and Digital Transformation Competency Framework 
+(UNESCO, 2024) [28] for public sector, accommodates the 
+following soft skills in terms of digital competence 
+requirements: service orientation; attention to detail, 
+learning strategies, leadership a nd social influence, 
+cognitive creativity and flexibility; 
+5) Skills in the Age of AI framework (WEF, 2024  [31] for 
+workforce accommodates the following soft skills in terms 
+of digital competence requirements:  communication, 
+critical thinking, creativity, emotional intelligence, 
+adaptability, and decision-making; 
+6) Europe’s Digital Decade policy program (Digital Dec ade 
+2030) [11] for countries accommodates the following soft 
+skills in terms of digital competence requirements: 
+communication; content creation; critical thinking; lifelong 
+learning. 
+This study core argument revolves around transdisciplinary 
+integration o f emotional intelligence and transformative skills 
+within educational frameworks, prioritizing competencies such 
+as resilience, empathy, well-being, and sustainability [38]. These 
+priorities are directly aligned with the IDG framework, which 
+emphasizes the development of inner capacities to empower 
+students to navigate a VUCA (Volatility, Uncertainty, 
+Complexity, and Ambiguity) world effectively  [43, 44] . As 
+concerns over mental health and sustainability become more 
+pressing, the imperative fo r universities to embed these 
+competencies within curricula and campus life is clear, ensuring 
+a holistic approach to student development [34, 35]. 
+Therefore, this study dives into the transformative potential of 
+SMART Higher Education Institutions (HEIs) and international 
+management and business schools in shaping a more inclusive 
+and democratized educational landscape for a 5.0 society. These 
+institutions advocate for interconnected, ethically informed, and 
+networked learning practices that not only keep pace with 
+technological changes but also remain grounded in sustainable 
+and inclusive development goals. By adopting such a 
+comprehensive approach, educational systems can better prepare 
+graduates to be future -ready leaders who are equipped to drive 
+positive change in society. It underscores the importance of both 
+inner and outer sustainability within educational ecosystems [36, 
+41, 42]. 
+The paper explores processes of change in sustainability 
+education at the individual, collective, and system levels, 
+drawing on  [40], and underscores the importance of resilience 
+and creativity in climate resilience education, focusing on 
+empowering students to transition from climate anxiety to 
+resilience and regeneration  [46]. By integrating these insights 
+with metamodernist frameworks [45] the study advocates for an 
+educational approach that balances technical skills with 
+emotional management, inner development, and sustainability -
+oriented competencies [44], essential for thriving in the digital 
+metamodern era.  The articl e analyzes the correlation between 
+future skills needs identified by the WEF, learning patterns on 
+Coursera, and the IDGs framework, aiming to uncover gaps and 
+propose strategies for better alignment. 
+Interoperability for e -skills and AI skills  is ensured by the 
+communicative nature [18] of interdisciplinary skills in general. 
+The core cross -sectorial domain that is referential for primary 
+skills (social skills, emotional intellect, collaboration, 
+communication, digital literacy), necessary for educational goals 
+achievement, is estimated to be COMMUNICATION, DIGITAL 
+LITERACY, GEN-AI LITERACY in its turn is defined as the 
+ability to use information and communication technologies to 
+find, evaluate, create, and communicate information, requiring 
+both cognitive and technical skills [5; 10; 28]. Digital literacy and 
+e-skills assessment in the educational context has been subject to 
+academic reevaluation due to the objective conditions of the 
+pandemic global lockdown measures and has been approached 
+through different lens: regional variation in digital literacy level 
+development in education [ 16]; technological challenges for 
+development of soft skills [21]; challenges and opportunities of 
+e-learning in higher education [1]. 
+The study premise is based on identification of various 
+competency principles, derivative of 21 st century skills [4; 7; 9; 
+11; 24; 31] for education stakeholders and projected digital and 
+AI literacy requirements.  
+The study identifies and categorizes critical competencies 
+highlighted consistently or emerging across the years in both sets 
+of reports, creating a robust analytical framework for assessing 
+patterns such as skill emergence, co nsistency, or decline. 
+Subsequently, these identified skills gaps are explicitly aligned 
+with the Inner Development Goals (IDGs) framework, aligning 
+competencies within its five dimensions —Being, Thinking, 
+Relating, Collaborating, and Acting . This detailed  alignment 
+enables the study to propose specific curricular strategies for 
+integrating Emotional Intelligence (EQ) and inner developmental 
+competencies, through the integration of EQ and IDGs into 
+higher education curricula is proposed through Kotter’s 8 -Step 
+Change Framework.  
+The study bridges identified transdisciplinary gaps in student 
+employability in a rapidly evolving complex and digitized 
+professional environment of the multilateral polarization that is 
+coming after the era of globalization. 
+The analysis reveals alignment in some technical areas between 
+WEF's projected skills and Coursera learners' focus, but 
+significant gaps persist in cognitive and soft skills. Employers 
+highly value skills like Analytical Thinking, Complex Problem-
+Solving, and Active Learning , which are underemphasized in 
+current learning trends. Similarly, crucial soft skills like 
+Emotional Intelligence , Resilience, and Adaptability are also 
+underrepresented, despite their growing importance. 
+The IDGs address these transdisciplina ry gaps by focusing on 
+inner development alongside technical skills. The Thinking 
+dimension of the IDGs promotes cognitive abilities like 
+analytical thinking and problem -solving, while the Being and 
+Relating dimensions include emotional intelligence, empat hy, 
+and resilience. By incorporating the IDGs into education and 
+professional development, a balanced skill set that aligns with 
+current and future job market demands can be achieved. 
+Educational institutions and organizations can bridge the skills 
+gap by integrating the IDGs into curricula, teaching methods, and 
+assessments. This involves embedding IDG competencies into 
+course objectives, promoting self -awareness and collaboration, 
+and developing evaluation methods to measure both personal 
+growth and soft skills. Organizations can adopt the IDGs to 
+enhance professional development and corporate social 
+responsibility with cultures that value inner growth and 
+sustainable practices. 
+A complex skill is generally understood as a skill requiring to 
+process lots of information and make lots of decisions 
+Proceedings of the 29th World Multi-Conference on Systemics, Cybernetics and Informatics (WMSCI 2025)
+343
+
+--- [PAGE 4] ---
+simultaneously [23; 3 2]. That way, a comprehensive 
+correspondence between 21 st century skills framework , 
+Competences 2020 framework [22 ] and the newly introduced 
+Global Skills 2025 f ramework [ 31] ha s been devised and 
+upgraded. 
+The transdisciplinary integration between the corresponding 
+skillsets across various frameworks could be referred to the 
+following key domains of human activity [23]:  
+- COMMUNICATION; 
+- COGNITIVE ACTIVITY; 
+- PERSONAL INTERACTION; 
+- SOCIAL ACTIVITY; 
+- HEURISTICS; 
+- AI-INTERACTION. 
+ 
+Interoperability of Core Skills and Digital Skills in Education 
+The future landscape of work will place a premium on cognitive 
+skills, particularly creative and analytical thinking, as businesses 
+navigate complex challenges. Self -efficacy skills are becoming 
+increasingly vital, with employers seeking workers who are 
+adaptable, resilient, and committed to lifelong learning. While 
+some traditional skills may see a relative decline in impor tance, 
+the need for technology literacy and ethical competencies is on 
+the rise, driven by technological advancements and societal 
+expectations. Industry-specific trends highlight the necessity for 
+tailored skill development strategies to meet the evolving  
+demands of different sectors. 
+The World Economic Forum's Future of Jobs Reports 2023-2024 
+highlight a significant emphasis on socio -emotional skills, 
+referred to as "Attitudes" within the Global Skills Taxonomy. 
+Across various industries, approximately two-thirds of the skills 
+that companies identify as priorities for workforce development 
+fall under the Skills, Knowledge, and Abilities cluster (often 
+termed "hard skills"), while the remaining one -third consists of 
+Attitudes. 
+Socio-emotional skills  are becoming increasingly prioritized, 
+with attitudes reaching parity with technical skills in training 
+programs. Leadership and social influence  have emerged as 
+key strategic priorities for businesses between 2023 and 2027, 
+surpassing their current ranki ng as core worker skills and 
+emphasizing their growing role in business success and 
+workforce adaptability.  
+Trends in skills strategies show a balance between collaboration 
+and self-efficacy skills, with many sectors emphasizing working 
+with others, such as empathy, active listening, and leadership, 
+over self-management. However, teaching and mentoring skills 
+are receiving minimal attention in most training programs, 
+suggesting a potential gap in nurturing interpersonal guidance 
+roles. 
+The approach to self -efficacy skills varies, with some sectors 
+focusing on resilience, flexibility, and agility,  while others 
+prioritize curiosity and lifelong learning, reflecting the need for 
+continuous personal and professional growth. Motivation and 
+self-awareness are als o emphasized, promoting personal 
+development and growth management.  
+Ethical thinking  shows varied levels of prioritization across 
+sectors, with some focusing more on upskilling employees in 
+these areas. Though global citizenship is not widely prioritized, 
+environmental stewardship is increasingly recognized as a key 
+component in skill strategies, often with a higher perceived future 
+importance than current demand. This shift reflects the rising 
+need for green skills and the growing trend toward Green Digital 
+economy. 
+To gain further insights into these evolving trends, we will 
+analyze the top skills reported from 2018 to 2023. A heat map 
+categorizing skills as Consistent, Emerging, Rising, Declining, or 
+Re-emerging will help visualize changes in learner int erests and 
+priorities (Table 1): 
+ 
+ 
+Table 1. Hotmap Analysis of the Top Skills in Global Skills Reports 
+Proceedings of the 29th World Multi-Conference on Systemics, Cybernetics and Informatics (WMSCI 2025)
+344
+
+--- [PAGE 5] ---
+Subsequently, mapping of core Global  Skills across the  IDG 
+Framework is feasible across such dimensions (Fig. 1): 
+The Being dimension aligns with WEF's emphasis on personal 
+resilience, emotional intelligence, and active learning. Resilience 
+and Stress Tolerance through Inner Peace and Self-Awareness, 
+enabling individuals to manage stress and adapt to change. An 
+Openness and Learning Mindset promotes Active Learning, 
+encouraging continuous personal growth. 
+The Thinking dimension directly addresses the cognitive skills 
+highlighted by the WEF. Critical Thinking and Complexity 
+Awareness enhance Analytical Thinking and Complex Problem-
+Solving abilities. Perspective Skills and Sense -Making 
+contribute to Creativity and Innovation by allowing individuals 
+to integrate diverse viewpoints and generate novel solutions. 
+The Relating dimension integrates Emotional Intelligence and 
+enhances Leadership through Empathy, Compassion, and a sense 
+of Connectedness. By cultivating these qualities, individuals are 
+better equipped to understand and influence others positively. 
+The Collaborating dimension emphasizes effective teamwork 
+and social interaction, aligning with WEF's focus on Leadership 
+and Social Influence. Communication Skills and an Inclusive 
+Mindset enhance Emotional Intelligence and the ability to lead 
+diverse teams. 
+The Acting dimension supports proactive engagement and 
+innovation. Creativity and Courage enable individuals to take 
+initiative and drive change, resonating with WEF's emphasis on 
+Creativity and Initiative. Agency and Perseverance facil itate 
+continuous learning and adaptation, essential for technological 
+proficiency. 
+ 
+Figure 1: Global Skills Mapping Across IDGs Framework 
+ 
+ 
+Furthermore, the study stipulates that digital interoperability for 
+Arts and Humanities skills is ensured by the communicative 
+nature of transdisciplinary skills. The core cross-sectorial domain 
+that is referential for primary skills (social skills, emotional 
+intellect, collaboration, communication, Digital and AI-literacy), 
+necessary for educational goals achievement, is 
+COMMUNICATION. 
+Given the nature of increasingly digitalized context of foreign 
+languages education and communicative application (“the 
+Technospheric shift” [30] and the Age of AI [15; 23]), it is 
+suggested to consider the different  types of information source 
+and information destination (human and machine / computer / 
+program, accordingly) in the structure of the groundwork  
+Communication model (Cf. Claude Shannon [25]), when 
+communication is approached as the core factor of 
+interoperability of source and target knowledge and application 
+domains – both for human and machine interactive purposes (Fig. 
+2): 
+ 
+Proceedings of the 29th World Multi-Conference on Systemics, Cybernetics and Informatics (WMSCI 2025)
+345
+
+--- [PAGE 6] ---
+ 
+ 
+Figure 2: AI-interoperable Communication Cycle in Education 
+ 
+ 
+Therefore, an INTEROPERABLE DIGITAL SKILL for the 
+purpose of this study is defined as a rhizomatic (virally acquired) 
+capability of mutually informed manipulation of digital data, 
+tools, and communication formats, acquired institutionally, 
+intuitively or on the peer-to-peer basis. 
+Subsequently, the interoperable digital skills for AI-enhanced 
+professional activity are modeled across the skills domains of 
+professional activity (as determined by the different competence 
+frameworks) and core domains of professional literacy (Fig. 3): 
+ 
+ 
+Figure 3: Interoperability of Core Skills and Digital/AI-Literacy Frameworks 
+ 
+ 
+Proceedings of the 29th World Multi-Conference on Systemics, Cybernetics and Informatics (WMSCI 2025)
+346
+
+--- [PAGE 7] ---
+The study aims to identify, among other parameters, challenges 
+for actual and underdeveloped cross -sectorial and 
+transdisciplinary skills (hard, technical and soft), that participants 
+of the educational process encountered through the pandemic and 
+warfare emergency digital education measures. 
+ 
+IDG-interoperable Digital and AI-proof Skills for Education 
+A sizable sample of 372 respondents total had been polled across 
+the wartime timeframe (2022-2025). 
+Diagnostics of specialists in Arts and Sciences according to 
+European e-Competence Framework and estimation of digital 
+skills for professional application  - allowed to evaluate of the 
+professional e-competence dimensions among the following: A. 
+PLAN, B. BU ILD, C. RUN, D. ENABLE and E. MANAGE 
+professional processes with the help of digital  and AI-powered 
+tools and services. 
+Within the given dimensions the following top scoring 
+professional goals were estimated: 1) Planning of professional 
+processes (with the  help of AI) (A) – 61% of respondents; 2) 
+Monitoring of professional activity ( with the help of AI ) (C) – 
+50% of respondents; 3) Provision (facilitation) of professional 
+activity ( with the help of AI ) (D) – 47% of respondents. 
+According to the prioritized professional goals, the followings 
+dominant professional e -competence dimensions are identified: 
+1) to PLAN; 2) to RUN; 3) to ENABLE professional processes 
+with the help of AI (for communication and education). 
+The priority types of dominant digital skills for professional 
+application according to the European e-competence framework 
+are estimated as 1) ICT and Gen AI  user skills  – 75% of 
+Gen AI USER SKILLS: Skills for the effective application of 
+ICT systems and devices; Skills to apply ICT systems and GPT 
+models as tools in support of one’s workflow; User skills to use 
+of common software tools and of specialized AI tools supporting 
+business functions within professional area of communicative 
+use. 
+Diagnostics of digital skills for pre-service and in-service 
+teachers according to UNESCO AI Competence Frameworks 
+(teachers/students) – allowed to identify 1) professional activity 
+goals for digital and AI skills application and 2) student-oriented 
+goals of pre-service teachers for digital and AI skills application. 
+The priority (scoring 5-4 on the evaluation scale) professional 
+activity goals for digital and AI skills application are estimated 
+by the stakeholders as: 1) to improve one’s own teaching skills 
+with digital tools and AI tools (65% of respondents). 2) to 
+develop learning materials using digital and AI-powered tools 
+(60% of respondents); 3) to understand the role of digital 
+technologies in language generation and AI-mediated 
+communication (59% of respondents); 4) to develop curricula 
+using digital and AI-powered tools (53% of respondents). 
+The priority (scoring 5-4 on the evaluation scale) student oriented 
+goals for digital and AI skills application are estimated as: 1) to 
+help learn independently via digital and AI tools (66% of 
+respondents); 2) to help to become effective participants in civil 
+society through digital and AI tools (61% of respondents); 3) to 
+teach to solve problems with digital and AI tools (59% of 
+respondents); 4) to teach to think critically using digital and AI 
+tools (54% of respondents); 5) to teach to implement different 
+types of communicative activities (oral, written, listening, 
+dialogue, monologue) – 54%  respondents; 6) to teach to work in 
+a team / organize collaboration with AI-powered tools (53% of 
+respondents);  
+It bears pointing out that the dominant students-oriented goals for 
+digital and AI skills application correspond to the generic soft 
+skills, identified across various frameworks: 1) Learning and 
+innovation; 2) human resources management, social intellect; 3) 
+adaptability and resilience; 4) problem solving and critical 
+thinking; 5) collaboration and communication (Fig. 4). 
+ 
+Figure 4: IDGs-interoperable Core skills in Digital Education Frameworks 
+respondents; 2)  ICT and Gen AI practitioner skills – 74 /% of 
+respondents. 
+According to the Likert Scale assessment ICT and Gen AI user 
+skills get a top ranking of 4 (46% of respondents) and ICT and 
+Gen AI practitioner skills get a top ranking of 5 (37% of 
+respondents). 
+The following specific digital skills for professionals correspond 
+to the prioritized types: 1) ICT and Gen AI PRACTITIONER 
+SKILLS: Skills for language and communication research; Skills 
+for strategic planning of communication; Skills for 
+communicative management; Skills for consulting; 2) ICT and 
+Proceedings of the 29th World Multi-Conference on Systemics, Cybernetics and Informatics (WMSCI 2025)
+347
+
+--- [PAGE 8] ---
+Therefore, AI-Proof and AI -Ready Skills are central to 
+navigating an AI -driven world. AI-Proof Skills , like empathy, 
+compassion, complex problem-solving, and ethical judgment, are 
+inherently human and challenging for AI to replicate. These skills 
+emphasize social dynamics and moral reasoning. AI-Ready Skills 
+enable effective collaboration with AI technologies, requiring a 
+learning mindset, sense -making, creativity, and innovation to 
+harness AI's strategic potential. 
+The IDG framework enhances human-AI colla boration by 
+equipping individuals with creativity, ethical awareness, and 
+agency to use AI innovatively while navigating its moral 
+implications. Aligning with WEF's and the Global Skills Index 
+focus on cognitive, emotional, and social skills, the IDGs 
+cultivate both AI -proof and AI -ready competencies. This 
+approach bridges traditional skills gaps by integrating inner 
+development alongside technical proficiency, preparing 
+individuals for success in an AI-integrated workforce. 
+ 
+3.  CONCLUSIONS 
+ 
+The warfare emergency e-learning measures and underlying shift 
+in the digital economy of Europe towards the rise of AI informed 
+the comprehensive modelling of interoperability between various 
+competency principles, derivative of the soft marketable skills 
+and projected digital literacy requirements across core digital 
+literacy frameworks.  
+Digital domain, digital communication and digital , AI -
+empowered, literacy are assessed as interoperable parameters 
+across different e -competence frameworks, that inform 
+underlying interdisciplinarity of Arts and Sciences  education in 
+the timespan of the wartime emergency e-learning measures. 
+Evaluation of digital and AI-interoperable skills for professional 
+application allowed to determine the priority dimensions of 
+professional e -competence as to plan, to run and to enable  
+professional processes with the help of AI -powered tools and 
+services. The types of dominant digital skills for professional 
+application of are identified as ICT and AI user skills and ICT 
+and AI practitioner skills.  The demands of digital and knowledge 
+economy job market are not met by the Arts and Sciences  
+curriculum design, as the e-business skills are evaluated scoring 
+lowest in priority by stakeholders. 
+The dominant AI-interoperable skills  acquired are: 
+communication, emotional intellect, creativity, problem solving 
+and innovation. Digital and AI literacy features as a prominent 
+interoperable skill, facilitating the application of other types of 
+soft skills of the communicative nature. 
+To ef fectively integrate inner development and emotional 
+intelligence (EQ) within SMAR universities  for AI -powered 
+economy, both curricula and educators' skillsets must undergo 
+strategic change. 
+For Individuals, embracing the Inner Development Goals 
+(IDGs) framework through university programs can strengthen 
+inner capacities in tandem with technical skills. Universities 
+should embed EQ, adaptability, and self -awareness into both 
+curricular and extracurricular activities. This integration could 
+involve modules on  self-reflection, mindfulness, and 
+collaborative learning experiences that promote resilience and 
+adaptability. Such an approach not only enhances students' 
+ability to thrive in a technology-driven workforce but also equips 
+them with critical soft skills f or ethical decision -making, 
+teamwork, and personal growth. Encouraging self -directed 
+learning and peer mentoring can further deepen these capacities. 
+For Organizations, particularly within academic institutions, the 
+IDG framework should be adopted as a cor e component of 
+faculty development. Training programs focused on cultivating 
+empathy, creativity, and critical thinking among teachers are 
+crucial. Educators must shift from traditional teaching models to 
+becoming facilitators of learning, guiding students in developing 
+both their technical and inner capacities. Workshops on 
+developing emotional intelligence, practicing inclusive teaching 
+methods, and a growth mindset can support educators in 
+nurturing well -rounded, innovative, and ethically responsible 
+graduates. Promoting a culture of continuous professional 
+development within universities ensures that educators stay agile 
+and effective as change agents. 
+For Policymakers and Curriculum Designers , SMART 
+universities must align their curricula with IDG princ iples by 
+prioritizing holistic, learner-centered development. This requires 
+a rethinking of current academic structures to incorporate EQ and 
+inner development as foundational competencies, not just 
+supplementary skills. Strategies might include project -based 
+learning with a focus on real-world challenges that require ethical 
+considerations, emotional self -regulation, and collaboration. 
+Moreover, curriculum revisions should emphasize 
+interdisciplinary learning, merging technical knowledge with 
+socio-emotional competencies. A mindset of inner development 
+among educators and students alike requires the curriculum of a 
+transformative experience that prepares individuals to navigate 
+the complexities of the digital era and emerging global challenges 
+effectively. 
+The perspective of the study is in scaling the inquiry to estimate 
+the dimensions of digital and AI literacy formation for for 
+different types of e -learning tools, as well as to diagnose 
+interdisciplinary, AI-powered digitization trends across countries 
+of Europe. 
+ 
+ 
+The paper has been reviewed by Olena Tupakhina, Habilitated 
+Doctor, Vice -Rector, Zaporizhzhya  National University, 
+Ukraine. Empirical findings and theoretical procedures have 
+been conducted under the auspices of Integrated Research 
+framework of Romance and Germanic Philology Department of 
+Borys Grinchenko Kyiv Metropolitan University Digital 
+Transformative Linguistics And Cross -Cultural Communication 
+(0123U102796), framework project COST Action CA21167 
+UniDive: Universality, Diversity and Idiosyncrasy in Language 
+Technology, framework project COST Action CA21114 CLIL: 
+Network for Languages in Educa tion: Towards bi - and 
+multilingual disciplinary literacies; COST Action CA23112 
+COCAG: Critical perspectives on career and career guidance. 
+The authors extend special acknowledgement to the Armed 
+Forces of Ukraine for providing safety to complete this work. 
+ 
+5.  REFERENCES 
+ 
+[1] Al-Jardani, Khalid Salim, “E-Learning in Higher Education: 
+Challenges and Opportunities”, International Journal of 
+Innovation, Creativity and Change, 14 (11), 2020, pp. 58-
+64. 
+[2] Alvargonzález D. “Multidisciplinarity, “Interdisciplinarity, 
+Transdisciplinarity, and the Science ’, International 
+Studies in the Philosophy of Science, Vol. 25(4), 2011, pp. 
+387-403. 
+[3] Almalki, S., “Integrating Quantitative and Qualitative Data 
+in Mixed Methods Research - Challenges and Benefits”, 
+Journal of Education and Learning, 5(3), 2016, pp. 288-
+296. 
+[4] Abbott S., The Glossary of Education Reform. Retrieved 
+from: http://edglossary.org/hidden -curriculum (accessed 
+July 2020), 2013. 
+4.  ACKNOWLEDGEMENT 
+Proceedings of the 29th World Multi-Conference on Systemics, Cybernetics and Informatics (WMSCI 2025)
+348
+
+--- [PAGE 9] ---
+[5] American Library Association, Digital Literacy. Retrieved 
+from: https://literacy.ala.org/digital-literacy, 2020. 
+[6] Callaos N., Ma rlowe T., “Inter -Disciplinary 
+Communication Rigor”.  Rigor and Inter-Disciplinary 
+Communication: Intellectual Perspectives 
+from Different Disciplinary  and Inter -Disciplinary 
+Fields. TIDC, LLC, 2020, pp. 4-29.  
+[7] Davies A., Fidler D. et al, Future Work Skills 2020 , 
+Institute for the Future for University of Phoenix Rese arch 
+Institute. Retrieved from: 
+https://www.iftf.org/uploads/media/SR-
+1382A_UPRI_future_work_skills_sm.pdf, 2011. 
+[8] Dillman, D. A., Smyth, J. D., Christian, Leah Melani, 
+Internet, Phone, Mail and Mixed -Mode Surveys: The 
+Tailored Design Method , 4th edition. J ohn Wiley: 
+Hoboken, NJ, 2014. 
+[9] Dos Reis A., “To Be a (Blended) Teacher in the 21st 
+Century - Some Reflections”, International Journal of 
+Research in E-learning, 1(1), 2015, pp. 11-24. 
+[10] DQ Global Standards Report, World’s first global 
+standard for digital lit eracy, skills and readiness 
+launched by the Coalition for Digital Intelligence.  
+Retrieved from: https://www.dqinstitute.org/, 2019. 
+[11] European Commission. Europe’s Digital Decade 2030 . 
+Retrieved from:  https://digital-
+strategy.ec.europa.eu/en/policies/europes-digital-decade, 
+2024. 
+[12] European Commission, Digital Competence 2.2. Retrieved 
+from: https://ec.europa.eu/jrc/en/digcomp/digital -
+competence-framework, 2024. 
+[13] European Co mmission, European E -Competence 
+Framework Guideline.   Retrieved from: 
+https://www.ecompetences.eu/, 2024. 
+[14] Frodeman R. (ed).  The Oxford Handbook of 
+Interdisciplinarity (2 ed.), OUP, 2017. 
+[15] Heim M., The Metaphysics of Virtual Reality.  LA: 
+Westport Publishers, 1993. 278 p. 
+[16] Gródek-Szostak, Z. , Suder, M., Piechaczek, A., Siguencia, 
+L.O., “Assessment and Comparison of Digital Competences 
+in Education for Selected European Countries”, European 
+Research Studies Journal, 24(1), 2021, pp. 348-361. 
+[17] Holbrook, J. Britt , "What is interdisciplinary 
+communication. Reflections on the very idea of disciplinary 
+integration", Synthese, Vol. 190  (11), 2013, pp. 1865 –
+1879. 
+[18] Hymes, Dell H., “Communicative competence”, 
+Sociolinguistics: selected readings , Harmondsworth: 
+Penguin., 1972, pp. 269–293. 
+[19] Interoperability Working Group , Definition of 
+Interoperability. Retrieved from: http://interoperability -
+definition.info/en/, 2020.  
+[20] Jacobs, J.A. & S. Frickel,  "Interdisciplinarity: a critical 
+assessment", Annual Review of Sociology,  Vol. 35, 2009, 
+pp. 43–65.  
+[21] Liesa-Orús M., Latorre-Cosculluela C.,  Vázquez-Toledo S. 
+and Sierra -Sánchez V., “The Technological Challenge 
+Facing Higher Education Professors: Perceptions of ICT 
+Tools for Developing 21st Century S kills”, Sustainability, 
+12 (5339), 2020, pp. 2-14. 
+[22] Makhachashvili R ., Semenist I.  “Transdisciplinary 
+Communication as a Meta -Framework of Digital 
+Education”, Proceedings of the 26th World Multi -
+Conference on Systemics, Cybernetics and Informatics, 
+WMSCI, 2022, 1, pp. 151–156. 
+[23] Makhachashvili, R.  et al, “Interoperable Digital Skills for 
+Foreign Languages Education in the COVID-19 Paradigm”, 
+Proceedings of the 16th International Multi-Conference 
+on Complexity, Informatics and Cybernetics: IMCIC , 
+2025, pp. 262-266.  
+[24] Makhachashvili, R., Semenist, I., “E-skills and digital 
+literacy for foreign languages education: Student case study 
+in Ukraine'', Proceedings of the 15th Multi-Conference on 
+Computer Science and Information Systems , MCCSIS 
+2021, 2021, pp. 3–14 .  
+[25] Shannon, C. E., "A Mathematica l Theory of 
+Communication", Bell System Technical Journal , 
+Vol.  27 (3), 1948, pp. 379–423.   
+[26] Slater, T.  "Cross-Domain Interoperability" , Network 
+Centric Operations Industry Consortium - NCOIC. 
+Retrieved from: https:// www.ncoic.org, 2013. 
+[27] Slater, T.  "What is Interoperability?",  Network Ce ntric 
+Operations Industry Consortium – NCOIC. Retrieved 
+from: https:// www.ncoic.org, 2012.  
+[28] UNESCO, AI and Digital Transformation Competency 
+Framework, 2022. Retrieved from: 
+https://unesdoc.unesco.org/ark:/48223/pf0000383325. 
+[29] UNESCO, AI Competency Framework for Teachers.  
+Retrieved from: https://www.unesco.org/en/articles/ai-
+competency-framework-teachers, 2024. 
+[30] Vernadsky V. Scientific thought as a planetary 
+phenomenon. Academia, 1991. 
+[31] World Economic Forum, The Future of Jobs Report. 
+Retrieved from: 
+http://www3.weforum.org/docs/WEF_Future_of_Jobs_202
+4.pdf, 2024. 
+[32] Wulf G., Shea, G. “Principles derived from the study of 
+simple skills do not generalize to complex skill learning” , 
+Psychonomic Bulletin & Review , Vol. 9, 2002, pp. 185 –
+211. 
+[33] Coursera. “Global Skills Report 2023”, Coursera, 2023. 
+Available at: https://www.coursera.org/gsi. 
+[34] Disterheft A. “Nurturing a caring university: Exploring 
+inner and outer sustainability for transformative change in 
+higher education”, in Rotondo F. et al. (eds.), Sustainability 
+in Higher Education: Strategies, Performance and 
+Future Challenges, Springer, 2024, pp. 27–51. 
+[35] Fathi K. Multi-Resilience - Development - Sustainability: 
+Requirements for securing the future of societies in the 
+21st century , Springer Fachmedien Wiesbaden, 
+Wiesbaden, 2022. 
+[36] Garcia-Alvarez M., Rekalde -Rodríguez I., Gil -Molina P. 
+“No transition w ithout transformation: Educating 
+sustainability”, in Filho W.L. et al. (eds.), Implementing 
+the UN Sustainable Development Goals – Regional 
+Perspectives, Springer, 2023, pp. 1–35.  
+[37] Jakubik M., Beke J., Shtaltovna Y. “The role of universities: 
+Enhancing stu dents' capabilities for work and life”, in 
+Donald W.E. (ed.), Handbook of Research on Sustainable 
+Career Ecosystems for University Students and 
+Graduates, IGI Global, 2023, pp. 15–37. 
+[38] Leigh S.A.J., Rivers C. “Reflect, Rethink, and Redesign: 
+Responses to Pr ivilege in Management Education ”, 
+Journal of Management Education , 2023, 47(1), pp. 3 –
+10. 
+[39] Makhachashvili R., Semenist I., Shtaltovna Y., Bakhtina A. 
+“Soft skills and ICT tools for final qualification assessment 
+in universities of Ukraine and India in COVID -19 
+framework”, Psychology and Education, 2021, 58(2), pp. 
+849–861. 
+[40]  Pöllänen E., Osika W., Horwitz E.B., Wamsler C. 
+“Education for sustainabilit y: Understanding processes of 
+Proceedings of the 29th World Multi-Conference on Systemics, Cybernetics and Informatics (WMSCI 2025)
+349
+
+--- [PAGE 10] ---
+change across individual, collective, and system levels”, 
+Challenges, 2023, 14(1), pp. 5–24. 
+[41] Shtaltovna Y. “Education environment democratization as a 
+higher education development strategy”, Open 
+Educational E -Environment of M odern University , 
+2016, 2, pp. 273–282. 
+[42] Shtaltovna Y. “The pursuit of democratization in education 
+- Knowing where to go. Concept analysis for the correct use 
+of the term ‘Democratization of Education’”, Open 
+Educational E -Environment of Modern University , 
+2018, 4, pp. 74–82. 
+[43] Shtaltovna Y. “Mapping the academic landscape: A state -
+of-the-art perspective on sustainability, inner development 
+goals and higher education”, Business & Diplomacy 
+Review, 2025, 1(1), pp. 46–62. 
+[44] Shtaltovna Y., Rodriguez Carreon V., Li ndencrona F., 
+Donald W.E. “Cognitive Skills within the Inner 
+Development Goals (IDG) Framework: Empowering 
+Sustainable Careers and Sustainable Development ”, GILE 
+Journal of Skills Development, 2024, 4(1), pp. 74–94. 
+[45] Shtaltovna, Y. “Rewriting the fut ure: How metamodern 
+education can redefine society and leadership ”, GILE 
+Journal of Skills Development, 2024, 4(2), pp. 112-121. 
+[46] Wamsler C., Schäpke N., Fraude  C., Stasiak D., Bruhn T., 
+Lawrence M., Schroeder H., Mundaca L. “Enabling new 
+mindsets and transformative skills for negotiating and 
+activating climate action: Lessons from UNFCCC 
+conferences of the parties”, Environmental Science & 
+Policy, 2020, 112, pp. 227–235. 
+ 
+ 
+ 
+ 
+ 
+ 
+Proceedings of the 29th World Multi-Conference on Systemics, Cybernetics and Informatics (WMSCI 2025)
+350

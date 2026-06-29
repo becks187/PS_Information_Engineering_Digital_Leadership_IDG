@@ -1,0 +1,1323 @@
+
+--- [PAGE 1] ---
+German Journal of 
+Human Resource Management
+﻿1­–26
+© The Author(s) 2022
+Article reuse guidelines: 
+sagepub.com/journals-permissions
+DOI: 10.1177/23970022221087252
+journals.sagepub.com/home/gjh
+Leadership competencies for 
+digital transformation: An 
+exploratory content analysis  
+of job advertisements
+Katharina Gilli 
+Free University of Bozen-Bolzano, Italy
+Michael Nippa
+Free University of Bozen-Bolzano, Italy
+Michael Knappstein
+ISM International School of Management, Germany
+Abstract
+Harnessing the opportunities of emerging information technologies is one of the great challenges 
+companies are facing today. To successfully master digital transformation, organizations need 
+leaders who can grasp the opportunities of digitalization for their business and transform them 
+into new business models. Aiming at providing empirical evidence regarding competencies sought 
+by practitioners for managing digital transformation, we analyze 239 job advertisements targeting 
+digital transformation experts and examine the skills and traits explicitly called for. Our results 
+reveal that technical skills and in-depth expertise in information technologies play only a secondary 
+role in job requirement profiles. Like in earlier strategic change processes, digital transformation 
+experts should primarily possess collaboration, strategic thinking, leadership, customer orientation, 
+and communication skills. Moreover, in contrast to purely conceptual studies limited to skills and 
+abilities, our analyses emphasize the importance of specific personality traits, such as proactivity and 
+creativity, since these are often explicitly mentioned in corresponding job advertisements.
+Keywords
+Change management, digital transformation, job advertisements, leadership, personality traits, 
+skills
+Corresponding author:
+Katharina Gilli, Free University of Bozen-Bolzano, Piazza Università, 1, Bolzano I-39100, Italy. 
+Email: katharina.gilli@unibz.it
+1087252 GJH0010.1177/23970022221087252German Journal of Human Resource ManagementGilli et al.
+research-article2022
+Article
+
+--- [PAGE 2] ---
+2	
+German Journal of Human Resource Management 00(0)
+Introduction
+Due to rapid developments in digital technology, we are facing a new era characterized 
+by high uncertainty and disruption. In the working environment, these developments 
+based on advanced information and communication technology (ICT) recently associ-
+ated with keywords such as internet of things, industry 4.0, augmented reality, machine 
+learning, artificial intelligence, and big data spur extensive transformations of organiza-
+tions (Porter and Heppelmann, 2015; Tapscott, 2015; Weill and Woerner, 2015). As the 
+pace of digital transformation is expected to even accelerate in the future, it is challeng-
+ing the survival of many firms and industries (Bawany, 2020; Fitzgerald et al., 2013; 
+Hess et al., 2016).
+Digital transformation (DT), defined as “a process that aims to improve an entity by 
+triggering significant changes to its properties through combinations of information, 
+computing, communication, and connectivity technologies” (Vial, 2019: 3), is charac-
+terized by velocity and a holistic nature (Hartl and Hess, 2017). DT does not only 
+affect product and service offerings of organizations, but their organizational pro-
+cesses, systems, and operations, too (e.g., Bohnsack et al., 2018; Strohmeier, 2020; 
+Vial, 2019). Consequently, it requires an organization-wide change program, which 
+embraces all impact factors from new strategic initiatives to detailed human resource 
+management measures such as personnel selection, incentivization, or specialized 
+training, to be successful.
+By enabling managers and leaders1 to rethink and to reshape for example customer 
+value propositions and to renew organizational structures and processes resulting in the 
+creation of new business models (Berman, 2012; Hess et al., 2016), DT can radically 
+improve a company’s performance (Bekkhus, 2016; Vale-Feigl, 2021). This poses major 
+challenges for managers. Not only do they have to monitor technological developments 
+and decide which of them represent a threat or an opportunity to their business, but at the 
+same time they must evaluate how they might alter customer needs, product and service 
+specifications, and consequently organizational structures and processes. Such a com-
+prehensive and far-reaching change process furthermore involves the management of 
+paradoxes such as the active involvement of employees who resist organizational and 
+individual changes (Kane et al., 2019; Miller and Dess, 1996).
+Against this backdrop, previous studies have highlighted the importance of develop-
+ing digital competencies for future business success (Hoberg et al., 2015; Sia et al., 2016; 
+Vial, 2019). Moreover, there is ample evidence that many DT processes have failed due 
+to the lack of leadership skills rather than the primary lack of knowledge about digital 
+technologies (Burke, 2008; Deloitte, 2017).
+The general importance of leaders for the success of DT seems to be well substanti-
+ated (e.g., Lenkenhoff et al., 2018; Li et al., 2018; Vasconcelos et al., 2016; Vial, 2019; 
+Voigt et al., 2014). However, the question arises as to which specific leadership compe-
+tencies and skills companies and public administrations need to successfully manage the 
+fundamental transformation in the digital age. A recent literature review by Eberl and 
+Drews (2021) found that the most mentioned attributes of leaders in the digital age are: 
+being visionary, digitally savvy, highly collaborative, adaptable, and motivating. Other 
+
+--- [PAGE 3] ---
+Gilli et al.	
+3
+authors propose that they should act as role models by fostering a supportive attitude 
+toward change (Bondarouk and Ruël, 2008; Paulin, 2014; Sow and Aborbie, 2018) and 
+by ensuring that employees have digital know-how (Day et al., 2014). Additionally, and 
+partially overlapping, the relevance of personal traits such as being visionary, creative, 
+selfless, and flexible has been highlighted (Beeks, 2012; Kane et al., 2019; Mihardjo 
+et al., 2019). The first impression that these are general, conceptually derived wish lists 
+is reinforced by a closer analysis of the literature reviews on this topic (e.g., Eberl and 
+Drews, 2021; Guzmán et al., 2020; Klein, 2020; Vial, 2019).
+What is lacking so far, with rare exceptions, are studies that analyze actual job require-
+ment profiles for leaders of the DT and compare them to these conceptual models. 
+Focusing the analysis on what employers and their HR departments—considering their 
+specific company context—have identified as necessary characteristics of an ideal can-
+didate offers complementary advantages over other empirical methods (Harper, 2012). 
+This is even more true for organizations that are at the beginning of their transformation 
+process and need the right managers to avoid failure in lieu of the far-reaching effects of 
+DT and its strategic relevance and cannot afford a miscast. It can be assumed that HRM 
+managers entrusted with this staffing will define the requirements very carefully and 
+obtain external expertise. This focus also allows for a better separation of positions and 
+competencies that are more concerned with technical aspects of DT (e.g. cloud comput-
+ing, big data analytics) from those that are supposed to orchestrate the necessary and 
+comprehensive organizational change process. Against this background, studies analyz-
+ing the content of job advertisements can enrich conceptual and practical knowledge 
+about leadership competencies needed for successfully mastering DT processes.
+While there are a few relevant studies that have examined required skills by focus-
+ing on certain profiles such as chief digital officers or chief technical officers (Reck 
+and Fliaster, 2019; Singh and Hess, 2017; Wade and Obwegeser, 2019) or have used 
+rather small (Sousa and Rocha, 2019) or national samples (Porfírio et al., 2021; Zeike 
+et al., 2019), to our best knowledge, there is only one study which has analyzed leader-
+ship requirements for DT based on job advertisements (Klus and Müller, 2020). 
+However, as it focuses on just one specific region in Germany, generalizability of 
+results may be limited.
+Hence, following calls for providing empirical evidence from a larger, international 
+sample (Guzmán et al., 2020; Sousa and Rocha, 2019), the objective of this study is to 
+explore and to categorize leadership competencies for DT which are considered neces-
+sary by practitioners. To draw robust conclusions for research and practice, accordingly, 
+239 job advertisements have been analyzed by means of a content analysis. Additionally, 
+we determined the extent to which skills and traits of leaders sought by practitioners to 
+manage DT match competencies identified in conceptual studies.
+The remainder of the paper is structured as follows. In the first section, we revisit 
+concepts related to leadership competencies to develop a conceptual framework for our 
+empirical approach. In the subsequent section, readers are provided with important infor-
+mation regarding the methodology applied. After the presentation of the results, they will 
+be discussed with a special attention to the comparison between the requirements 
+demanded by practitioners and those developed in conceptual studies.
+
+--- [PAGE 4] ---
+4	
+German Journal of Human Resource Management 00(0)
+Concepts related to leadership competencies
+Task and job descriptions and related skill requirements (e.g., Hackman and Lawler, 
+1971; Hackman and Oldham, 1976; Mumford, 1972) as well as leadership skills and 
+personality traits (Mumford et al., 2000; Yukl, 1981) have been studied by management 
+scholars for decades resulting in an abundance of both complementary and competing 
+concepts and findings. Although it is not the purpose of this study to provide a compre-
+hensive literature review in the specific field of leadership skills (Yammarino, 2013; 
+Yukl, 2012, 2013), we conduct a selective overview of leadership skill conceptualiza-
+tions in search of an appropriate framework for systematically analyzing the empirical 
+data collected. After introducing the concept of so-called 21st century skills, a selective 
+overview of general leadership skill conceptualizations is provided.
+Twenty-first century skills
+As the name of this skill set suggests, the concept of 21st century skills attempts to derive 
+important leadership and working skills from trends such as globalization, digitalization 
+and increase of knowledge work. To fulfill increasingly complex tasks, organizations 
+need highly skilled workers, which are expected to efficiently generate new knowledge 
+from an exponentially growing amount of available information and effectively apply it 
+to interconnected problems (Van Laar et al., 2017). The 21st century skill sets have been 
+developed especially for educational purposes as to develop basic skills needed in the 
+future to compete on a global scale and have been concerned with national competitive-
+ness. These skill sets have been suggested by different organizations. Among them, 
+Partnership for 21st Century Skills (2008), which proposed three types of 21st century 
+skills: learning skills (creativity and innovation, critical thinking and problem solving, 
+communication and collaboration), literacy skills (information, media and ICT literacy), 
+and life skills (flexibility and adaptability, initiative and self-direction, social and cross-
+cultural skills, productivity and accountability, leadership and responsibility). Later, it 
+has been suggested to include digital literacy, citizenship, and productivity as important 
+21st century skills (Voogt and Roblin, 2012).
+Even if the concept of 21st century skills is supposed to prepare the next generation 
+for future work challenges, it does not provide an appropriate framework to guide the 
+search for leadership competencies needed for DT. The digital aspects associated with 
+21st century skills are not yet sufficiently defined and, in contrast to digital skills, 21st 
+century skills are not necessarily linked to applications of advanced ICT, particularly in 
+the business context (Van Laar et al., 2017).2
+Leadership competencies: Skills and traits
+According to the seminal work of Boyatzis (1982), management and leadership compe-
+tencies, including traits, self-concept, social role, knowledge, and skills, provide the 
+foundation for successfully performing tasks or achieving goals that require professional 
+expertise and coordination. Organizations that face the challenge of successfully master-
+ing DT need to either train existing staff or hire qualified managers. The latter succeeds 
+
+--- [PAGE 5] ---
+Gilli et al.	
+5
+by focusing on proven or to be developed skills and traits, known to foster change pro-
+cesses, rather than difficult to grasp aspects such as self-concept and social role. This is 
+also explicitly reflected in job descriptions and job advertisements which mainly high-
+light skills and traits which are required or beneficial for the successful completion of 
+organizational tasks (Todd et al., 1995; Verboncu and Zeininger, 2015). For the purpose 
+of this paper, skills and traits are therefore considered as the main building blocks of 
+leadership competencies for DT.
+Differentiation and organizing frameworks regarding leadership skills.  The scholarly litera-
+ture on conceptualizing, analyzing, and discussing leadership competencies, that is, 
+skills and traits, is both broad and highly specialized (see, e.g., Zaccaro et al., 2018 for a 
+detailed review). One of the first conceptualizations of skills needed in organizations is 
+the seminal work “Skills of an Effective Administrator” (Katz, 1955) that identified the 
+necessary skills for successful job performance in managerial tasks. Katz (1955: 33) 
+defines skill as “. . . an ability which can be developed, not necessarily inborn, and 
+which is manifested in performance, not merely in potential.” He concludes that the ideal 
+executive, that is, an executive able to cope efficiently with any problem in any organiza-
+tion, needs to possess three skills, that is, technical, conceptual, and human, which can 
+be trained and developed.
+Subsequently, there have been multiple attempts to define and categorize skills needed 
+for effective management and leadership (e.g., Boyatzis, 1982; Mintzberg, 1973; 
+Peterson and An Fleet, 2004). Building on previous models and categories of leadership 
+skills, more recently the leadership skills strataplex proposed by Mumford et al. (2007), 
+offers a widely accepted framework which seems to be suitable for categorizing leader-
+ship skills required for planning and implementing DT processes. This is all the more the 
+case as Mumford et al. (2007) explicitly emphasize that the effectiveness of leadership 
+skills depends on the characteristics and demands of the specific context: leadership 
+skills needed and effective in one context (e.g., managing a crisis like the current pan-
+demic) are less suitable or even ineffective in a different situation (e.g., building a long-
+term growth strategy). They further conceptualize managerial and leadership skill 
+requirements as being layered (strata) and segmented (plex) and categorize them in terms 
+of four general categories: (1) cognitive, (2) interpersonal, (3) business, and (4) strategic 
+skills. Table 1 provides an overview of the four categories and the respective skills 
+according to Mumford et al. (2007), which will be applied as the organizing framework 
+during the empirical analyses below.
+Differentiation of leadership traits.  For decades, leadership research has focused on iden-
+tifying traits that distinguish leaders from followers. In contrast to skills, which can be 
+learned and developed, traits are described as attributes people have and which cannot be 
+learned—at least not in the short-term—and are difficult to change. Traits are commonly 
+defined as “. . . relatively stable and coherent integrations of personal characteristics 
+that foster a consistent pattern of leadership performance across a variety of group and 
+organizational situations” (Zaccaro et al., 2004: 104). Neither the seminal review of 
+leader trait research by Stogdill (1948) nor subsequent attempts were able to find a uni-
+versal set of traits that consistently differentiates effective from less effective leaders. It 
+
+--- [PAGE 6] ---
+6	
+German Journal of Human Resource Management 00(0)
+has become evident that certain personality traits alone do not guarantee leadership suc-
+cess. Early research in this regard points out that leadership traits are only a necessary but 
+not sufficient precondition for leadership success (Lord et al., 1986). It has been further 
+argued and shown that people who possess certain leadership traits need to make use of 
+them by acting accordingly (e.g., formulating a vision, role modeling, setting goals) to be 
+successful (Kirkpatick and Locke, 1991).
+Irrespective of whether traits need to be combined with skills to be effective for 
+achieving certain objectives, they are an important stream of leadership research and the 
+basis of several leadership theories (Conger and Kanungo, 1987; House, 1977; Sashkin, 
+1989; Yukl, 2013). Although researchers from different disciplines have studied the 
+impact of leader traits on leadership success and have proposed context-specific trait 
+concepts (Goldberg, 1990; Judge et al., 2002; Kirkpatick and Locke, 1991), determining 
+unique leader traits seems to be of special interest for practitioners (e.g., Cantero-Gomez, 
+2019). Additionally, the change management literature which is directly related to DT 
+processes emphasizes the relevance of certain leader traits for the success of change 
+initiatives (e.g., Longshore, 1987). For these reasons it is proposed to include leader 
+traits in the analysis of leadership competencies for DT. However, due to the lack of 
+specific frameworks regarding appropriate or required leader traits for strategic change 
+processes an exploratory approach regarding the search of traits that are important in the 
+context of DT is adopted.
+Methodology
+The current stage of DT, which poses a great challenge for private and public organiza-
+tions as well as the dynamic demand for the development of new skills and traits as, for 
+instance, reflected in the 21st century skills concept, calls for an exploratory research 
+approach.
+Table 1.  The four leadership skill categories according to Mumford et al. (2007).
+Cognitive skills
+Interpersonal skills
+Business skills
+Strategic skills
+Communication skills
+Social perceptiveness
+Operations analysis
+Visioning
+Listening
+Coordination
+Mgmt. of personnel 
+resources
+Systems perception
+Ability to learn and 
+adapt
+Negotiation
+Mgmt. of financial 
+resources
+Systems evaluation
+Active learning
+Establishing 
+relationships
+Mgmt. of material 
+resources
+Identification 
+of downstream 
+consequences
+Critical thinking
+Persuasion skills
+Identification of 
+key causes
+ 
+Problem 
+identification 
+Solution appraisal
+
+--- [PAGE 7] ---
+Gilli et al.	
+7
+Analyzing relevant job advertisements to identify and classify competencies related 
+to leaders hired for managing digital change in organizations allows, among others, to fill 
+the research gap of comparing leadership competencies developed and proposed by 
+scholars with those competencies sought by practitioners. It is a well-established 
+approach applied to investigate skills and traits related to certain organizational and man-
+agerial tasks (e.g., Brooks et al., 2018; Cvetić et al., 2017; Debuse and Lawley, 2009; 
+Den Hartog et al., 2007; Harris et al., 2012; Todd et al., 1995). Countering criticism that 
+organizations may be careless and/or inexperienced regarding formulating and advertis-
+ing clear job opportunities, Todd et al. (1995: 24) found that organizations are “. . . care-
+ful to describe skills they actually require.” The analysis of job advertisements as a form 
+of secondary data also provides certain advantages especially compared to survey-based 
+approaches. Job advertisements need to be as precise as possible so that they mitigate 
+adverse selection problems, are comparatively unbiased, and can be analyzed over time 
+using established content analysis methods (Todd et al., 1995). Although one cannot rule 
+out other biases such as imitation behavior of HR managers who copy job advertise-
+ments from various sources or pre-determination through incorporating ideas derived 
+from conceptualizations, a sufficiently large sample can nevertheless provide a robust 
+understanding of competencies that are regarded as relevant by practitioners (Brooks 
+et al., 2018).
+Data collection and sampling
+Prior to collecting data on job postings, personal interviews with experts and manage-
+ment consultants have been conducted, which revealed that job advertisements in the 
+field of DT management are mainly published on relevant international job portals such 
+as Monster and Vault, and/or on the management consultants’ own career pages. Since 
+one of the leading top management consulting firms, McKinsey & Company, is particu-
+larly active in the field of advising clients in DT, Digital McKinsey has been included as 
+a source for job opportunities. Hence, we searched for, selected, and analyzed relevant 
+job postings advertised on Monster, Vault (collaborating with Indeed), and Digital 
+McKinsey from August to September 2018.3 The search words applied regarding job 
+titles included DT manager, business transformation manager, chief digital officer 
+(CDO), digital strategy consultant, and digital project manager.
+In the case of Monster and Vault, we used the default settings provided on the site, 
+applying “digital” as the main search term. To filter out job offerings that focus on DT 
+management rather than, for example, product development or network administration, 
+we combined “digital” with the search terms “strategy,” “transformation,” “consultant,” 
+or “project manager.” The Python software was used to automatically download the con-
+tent of job advertisements which matched these search terms for further analysis.
+The initial sample consisted of 492 job advertisements. Based on a manual review of 
+the job titles and descriptions by the corresponding author, several job advertisements 
+which, on closer analysis, had nothing to do with DT management were excluded. 
+Software developer, web publisher and domain expert software developer are examples 
+of jobs that were removed from the list. Next, job advertisements were excluded that (a) 
+
+--- [PAGE 8] ---
+8	
+German Journal of Human Resource Management 00(0)
+were related to very specific and narrow digital activities, (b) did not imply activities 
+primarily related to DT, and (c) were related to trainee positions, all of which by defini-
+tion do not contain leadership responsibilities. This concerned, for example, job offers 
+such as digital account representative, digital solutions architect, data science consultant, 
+and digital analytics analyst.
+As a result of this in-depth assessment of initially selected job offerings we were left 
+with a final sample of 239 advertisements. Of these 239 advertisements, 24 were from 
+firms located in Europe, 213 in North America, and 2 in Australia. Regarding previous 
+professional experience our sample contains 96 advertisements related to senior posi-
+tions (explicitly calling for more than 5 years of professional experience) and 44 to junior 
+positions (no experience at all or experience up to 5 years required). The remaining 99 
+job advertisements asked for experience without any further temporal specification and, 
+therefore, could not be assigned. In terms of recruiting employers, our sample includes 
+only private-sector companies of various sizes from a range of sectors, with consulting 
+firms representing by far the largest share (62%).
+Data analysis
+To analyze the data, a content analysis searching for leadership competencies in terms 
+of skills and traits required (Elo and Kyngäs, 2008; Park et al., 2009) has been con-
+ducted. We inductively identified the requirements emerging from the job advertise-
+ments and coded the occurring skills and traits using the MAX QDA software. We 
+applied the Gioia method (Gioia et al., 2013), as it allows a reduction of many codes 
+into fewer categories. By means of a first order analysis, the content of 239 job adver-
+tisements was coded descriptively, summarizing the relevant text passages and explicit 
+skills, competencies, and traits into short, descriptive words. Out of 2781 coded seg-
+ments, we generated 144 first-order concepts which formed the basis for further coding 
+and analysis. Following the suggestion of Gioia et al. (1994), we subsequently applied 
+a second-order analysis to categorize the data at a higher level of theoretical abstraction 
+and to create second-order themes that embrace the first-order concepts (Glaser and 
+Strauss, 1967; Strauss, 1987). For instance, first-order terms such as project manage-
+ment and project budgeting were assigned to the second-order theme project manage-
+ment. Similarly, the first-order terms data analytics, working with data, collecting, and 
+analyzing data, synthesizing data, and exploring data sources, have been subsumed 
+under the second-order theme big data analysis. After checking for category nesting 
+and overlap, 47 second-order themes emerged.
+Most of the job advertisements are structured similarly and comprise qualifications, 
+experience, knowledge, and other job requirements. Consistent with the conceptual 
+approach, we eliminated knowledge, because knowledge overlaps with other job require-
+ments mentioned elsewhere in the job advertisements. Like Klus and Müller (2020), we 
+used four dimensions—qualification, experience, skills, and traits—to assign the 47 
+second-order themes. To reduce complexity and eliminate outliers we decided to remove 
+specific job requirements mentioned less than 10 times leaving us with a final total of 29 
+second-order themes.
+
+--- [PAGE 9] ---
+Gilli et al.	
+9
+First-order concepts
+Second-order themes
+Aggregate / Overarching 
+dimensions
+Qualification
+Computer science, business, engineering, 
+information systems, physics, mathematics, 
+degree required but not specified
+Academic Degree (84)
+Second degree, Phd, MBA
+Undergraduate degree, Bachelor, Bs
+Graduate degree, Master, Msc
+Bachelor (86)
+Master (20)
+Second Degree (12)
+Consulng, consultancy, advisory
+Industry-specific, subject-specific
+Coaching, training
+Consulting (97)
+Industry- or subject-specific 
+(60)
+Coaching & Training (11)
+Experience
+Project management, budgeting projects, 
+financial planning
+Project Management (121)
+Data analytics, working with data, collecting 
+synthesizing, and analyzing data, digital 
+analytics
+Big Data Analytics (94)
+Traits
+Driven, self-starter, pro-activeness, 
+Pro-activeness (54)
+Creativity, think(ing) outside the box
+Willingness to travel (40)
+Strategic Thinking(185)
+Customer Orientation (152)
+Collaboration (199)
+Leadership Skills (165)
+Skills
+Strategy: planning definition, 
+implementation, strategic thinking, digital 
+strategy 
+Customer orientation, client engagement, 
+customer interaction, service orientation
+Collaborative working, team orientation, 
+team player
+Leading, team leading, leading cross-
+functional teams, leader, influencing people
+Creativity (18)
+Willingness to travel
+Communication
+Communication Skills (137)
+Figure 1.  Data structuring illustrated by a selection of second-order themes. Numbers in 
+parentheses refer to the number of job advertisements in which the specific skill requirement 
+was mentioned.
+Results
+The organization of the data from first-order themes to aggregated skill and trait dimen-
+sions is illustrated in Figure 1—using a selection of second-order themes.4
+
+--- [PAGE 10] ---
+10	
+German Journal of Human Resource Management 00(0)
+Taxonomy development
+To develop a taxonomy of leadership skills and traits needed for managing DT success-
+fully, we applied an abductive approach, as suggested by Kalargyrou et al. (2012) and 
+further analyzed the two inductively identified dimensions, that is, skills and traits.
+Accordingly, each job requirement related to leadership skills which derived from the 
+content analysis was subsequently assigned to one of the four leadership skill categories 
+cognitive skills, interpersonal skills, business skills, and strategic skills (Mumford et al., 
+2007). First, we assigned communication skills, problem solving, analytical, and presen-
+tation skills, as well as multi-tasking, time management, adaptability, the ability to 
+explain complex issues in a simple manner, and listening, to the category of cognitive 
+skills. Second, collaboration, leadership skills, and relationship management were 
+assigned to interpersonal skills. Third, project management, technological expertise, big 
+data analysis, coding, and programing, agile and scrum, diverse technological skills such 
+as MS Office and Cloud, business-savviness, e-commerce, and design thinking were 
+assigned to the category of business skills. Finally, strategic skills embrace strategic 
+thinking, customer orientation, change management, business development, and innova-
+tion attitude. Table 2 provides an overview of the taxonomy development for the selected 
+leadership skills derived from the job postings. The number in parentheses in the column 
+of second-order themes indicates the frequency this leadership skill was mentioned in the 
+job requirements in the sample.5
+As previously explained, leadership traits mentioned in job postings for DT leaders 
+are more difficult to cluster and assign due to the lack of a suitable organizing frame-
+work. Thus, only a categorization of first-order concepts derived from the content analy-
+sis to second-order themes was conducted, which were then subsumed under the single 
+dimension “trait” (Kalargyrou et al., 2012). The four second-order themes proposed are 
+pro-activeness, willingness to travel, creativity, and passion (Table 3).
+Descriptive results
+Not surprisingly, the analyzed job postings contained a much greater variety of leader-
+ship skills than leadership traits—26 second-order skill themes compared to four second-
+order trait themes. However, we believe it is surprising that personality traits are 
+mentioned at all in job advertisements relating to DT. It is further noteworthy that pro-
+activeness is mentioned relatively frequently, which indicates that the change process 
+related to the DT of companies differs from the more reactive process of implementing 
+new legal regulations, for example.
+Our study reveals that organizations seeking managers for their DT efforts consider 
+general managerial and leadership skills more important than specific technological 
+skills directly related to digitalization. However, the field of digitalization contains vari-
+ous technologies such as big data analytics, web development, and programing, which is 
+reflected by the high number of mentions (more than 280) in job postings regarding DT. 
+On the other hand, it is notable that key words and terms which are commonly closely 
+related to DT such as Industry 4.0, Internet of things, artificial intelligence, blockchain, 
+or augmented reality did not show up at all.
+
+--- [PAGE 11] ---
+Gilli et al.	
+11
+Table 2.  Overview of leadership skill requirements categorized according to Mumford et al. 
+(2007).
+First-order concepts
+Second-order themes
+Overarching 
+dimensions
+Communication skills
+Communication skills (137)
+Cognitive skills
+Problem solving
+Problem solving (85)
+Analytical skills
+Analytical skills (52)
+Presentation skills
+Presentation skills (48)
+Multi tasking
+Multi-tasking (39)
+Time management
+Time management (37)
+Flexibility/Adaptability
+Adaptability (13)
+Explain complex issues simply/in 
+a simple manner
+Explain complex issues in a 
+simple manner (11)
+Active listening, listening
+Listening (10)
+Collaborative working
+Collaboration (199)
+Interpersonal skills
+Team orientation/team player
+Leadership
+Team leadership (165)
+Team leading (e.g. leading cross-
+functional teams)
+Influencing people
+ 
+External collaboration/
+Stakeholder management
+Relationship management (101)
+ 
+Project management
+Project management (121)
+Business skills
+Budgeting projects/Financial 
+planning
+Technological expertise
+Technological expertise (103)
+Understanding of emerging 
+technologies
+Passion for technology
+Application of technology
+Data analytics / Digital analytics
+Big Data analysis (117)
+Working with (digital) data
+To collect and analyze data
+Synthesizing data
+Exploring data sources
+Web development (CSS, Java, 
+HTML)
+Coding & Programing (61)
+DevOps
+Programing
+Digital architecture
+Scrum (Product owner)
+Agile & Scrum (56)
+Agile methodologies
+Agile environment
+Agile development
+ (Continued)
+
+--- [PAGE 12] ---
+12	
+German Journal of Human Resource Management 00(0)
+Table 3.  Overview of leadership trait requirements.
+First-order concepts
+Second-order themes
+Overarching dimension
+Driven
+Pro-activeness (54)
+Trait
+Self-starter
+Pro-active
+Experimental
+Willingness to travel
+Willingness to travel (40)
+Creative
+Creativity (18)
+Think outside the box
+Passion
+Passion (14)
+Interest
+Enthusiasm
+Motivation
+Numbers in parentheses refer to the number of job advertisements in which the specific trait requirement 
+was mentioned.
+First-order concepts
+Second-order themes
+Overarching 
+dimensions
+MS Office
+Specific technological skills (88)
+Cloud
+CRM/CMS
+Understanding the business
+Business-savvyness (27)
+E-Commerce platforms
+E-Commerce (14)
+Design thinking
+Design thinking (11)
+ 
+ 
+Strategy
+Strategic thinking (185)
+Strategic skills
+Strategy: planning, definition, 
+implementation
+Visioning
+Digital strategy
+Customer orientation/client 
+engagement
+Customer orientation (152)
+Customer interaction
+Service orientation
+Change management 
+(transformational change)
+Change management (95)
+Digital transformation
+Business development
+Business development (45)
+Innovation, innovative thinking
+Innovation attitude (22)
+Numbers in parentheses refer to the number of job advertisements in which the specific skill requirement 
+was mentioned.
+Table 2.  (Continued)
+
+--- [PAGE 13] ---
+Gilli et al.	
+13
+At the next level of analysis, the most important leadership competencies for DT pro-
+cesses were taken in consideration, revealing additional results of interest (Table 4).
+Although one might expect that visionary leadership, foresight, and inspiration would 
+be mentioned most, the five most frequently requested competencies for managing DT 
+within organizations based on our second-order clustering are: collaboration, strategic 
+thinking, team leadership, customer orientation, and communication skills. It should be 
+noted, however, that aligning job requirements mentioned in the job offers to second-
+order themes leaves room for interpretation due to the lack of clear assignment criteria. 
+For example, if the ability for efficient time management (n = 37) is a separate second-
+order theme but assigned to project management skills (n = 121), the latter category 
+would make it to the five most frequently mentioned characteristics.
+In the following paragraphs we will highlight several notable insights related to the 
+overview provided by Table 2. Although all skill categories of the Mumford et al. (2007) 
+framework—cognitive skills (n = 432), interpersonal skills (n = 465), business skills 
+(n = 598), and strategic skills (n = 499)—show a fairly even distribution, specialist exper-
+tise and understanding of the business and related digital technologies appear to be of 
+particular importance for mastering DT.
+Regarding the professional requirements subsumed under business skills, the afore-
+mentioned set of information technology expertise in various fields with a clear focus on 
+applications (e.g., “understanding of emerging technologies”) stands out. The compara-
+tively high number of job postings that explicitly seek candidates with knowledge about 
+scrum and agile organization (n = 56) may indicate the need for implementing digital 
+solutions that increase an organization’s flexibility. In addition, job postings frequently 
+highlight that successful applicants should have project management experience and 
+skills. This may suggest that a large proportion of the advertised positions are looking for 
+a change agent, rather than the creator of digital business solutions.
+However, many companies do not appear to be seeking an operative project manager. 
+Rather they are seeking a manager of DT who can comprehend the strategic dimensions 
+critical to an organization’s successful DT. Many job postings emphasize the need for 
+strategic, long-term, and performance-oriented thinking (n = 185), making these strate-
+gic skills the number two skill category. Such a strategic orientation is also supported by 
+the frequent mention of the need for customer orientation in DT (n = 152). Taking this 
+perspective, DT is not an end in itself but intends to strengthen the strategic positioning 
+vis-à-vis customers. Furthermore, the job advertisements examined explicitly refer to the 
+change management process associated with DT (n = 95).
+Table 4.  Top five leadership competencies needed for digital transformation.
+No.
+Leadership competencies
+Frequency
+1
+Collaboration
+(199)
+2
+Strategic thinking
+(185)
+3
+Team leadership skills
+(165)
+4
+Customer orientation
+(152)
+5
+Communication skills
+(137)
+
+--- [PAGE 14] ---
+14	
+German Journal of Human Resource Management 00(0)
+This is mirrored in the high number of interpersonal skills which are mentioned in 
+the job postings analyzed. DT means a fundamental change in the organization that does 
+not stop at any functional or organizational boundary and, therefore, involves many 
+internal and external stakeholders with whom the manager must work cooperatively. 
+The need to work in a collaborative way across different boundaries and as a respected 
+team player is explicitly mentioned in more than 83% of all analyzed job postings 
+(n = 199). However, being “only” a team player is not sufficient to successfully manag-
+ing digital transformation. Additionally, many firms seek candidates that are able to 
+provide direction and motivation to the change teams (n = 165), making team leadership 
+skills the third most mentioned skill dimension. This is of special interest as most DT 
+teams will be cross-functional.
+Finally, a leader of DT initiatives needs distinct cognitive skills to be successful. 
+Related to the strong customer orientation and collaborative teamwork, it does not come 
+as a surprise that communication skills are explicitly mentioned as a necessary skill set 
+in more than 57% of all job postings (n = 137). If requirements such as presentation 
+skills, listening skills, and the ability to explain complex issues in a simple way are 
+grouped together as communication skills, more than four-fifths of all job advertisements 
+contain these skills (n = 206).
+The prevalence of pro-activeness (n = 54) suggests that many companies are not just 
+aiming at responding to new technology developments but are seeking employees who 
+can identify new business opportunities and subsequently implement them, as well as 
+improve internal business operations. Like many empirical studies, it is important to 
+examine both recurring and infrequent mentions to draw meaningful conclusions. Hence, 
+notably, relatively few job descriptions include creativity (n = 18; 7.5%) or passion 
+(n = 14; 5.9%).
+Comparison with previous studies
+The role of qualifications and prior experience for leadership 
+competencies
+Although this study focuses on leadership competencies consisting of a specific skill 
+set and supportive personality traits for managing DT, the job postings examined pro-
+vided information about qualifications and prior experiences requested for the job (see 
+Figure 1). Our results reveal that while an academic degree, signaling at least a basic 
+knowledge and basic analytical skills, is mentioned as a requirement in almost all cases 
+analyzed (84.5%), a certain level of higher education is often not mandated. From the 
+point of view of managing DT processes, it might have been expected that manage-
+ment-relevant degree programs are preferred, however, results show that no specific 
+discipline dominates DT-related job postings. This suggests that HR practitioners are 
+doubtful that leadership skills on current issues (e.g., digitalization, sustainability, 
+energy transition) are developed in degrees and courses offered by higher education 
+institutions. This finding is in line with findings from related research which highlights 
+similar deficits and resulting challenges of providing employees with skills necessary 
+in the 21st century (Hempsall, 2014; Uhl-Bien et al., 2007).
+
+--- [PAGE 15] ---
+Gilli et al.	
+15
+Highlighting the importance of the specific business context for successful DT initia-
+tives, results show that executives and HR managers explicitly emphasize industry or 
+consulting experience. Two-thirds of all job postings by consulting firms mentioned the 
+need or preference for applicants to have prior consulting experience (97 out of 148), 
+very similar to preference for industry—or subject-specific experience among the other 
+industries (60 out of 91). Interestingly, while employers in this context seem to believe 
+that prior industry experience is beneficial, prior research has shown that it bears hidden 
+costs, too: “. . . in addition to helpful skills and knowledge, workers also carry rigidities 
+that partially offset the benefits of prior related experience.” (Dokko et al., 2009: 63). 
+However, this potential problem applies to most other job advertisements and is not spe-
+cific to jobs in DT. A possible explanation is, that prior industry experience increases the 
+chance that the selected change manager will focus on developing new business models 
+and improving business processes through new digital technologies, rather than first hav-
+ing to fundamentally understand the business. Moreover, seeking candidates with prior 
+experience may be an indication that many organizations continue to struggle with DT 
+and do not know how to handle this process effectively, ultimately leading to failure 
+(Rogers, 2016; Tollman et al., 2017). To reduce the risk of failure, firms which face the 
+need to further digitalization may prefer to hire external leaders who are already experi-
+enced regarding leading DT processes—even if outside of their industry—rather than 
+stick to industry experience.
+Comparison with other approaches aiming at capturing leadership 
+competencies
+Similar to other management fields, there is an ongoing debate regarding whether aca-
+demic teaching—and partially research—is lagging behind practical requirements, espe-
+cially in the field of digital skills (Royle and Laing, 2014) versus whether practitioners 
+do not precisely know what skills and training is required to successfully manage DT 
+processes. Contributing to this debate, we compare our general findings with conceptual 
+studies on leadership skills in the digital age.
+Notably, studies originating from the field of information and computer sciences par-
+ticularly emphasize knowledge in different technology fields of digitalization as leader-
+ship skills. Skills related to the context of business applications, change management, 
+and particularly those related to the participation and persuasion of different stakeholders 
+are given lower priority or are not addressed at all. The “Skills for Digital Transformation” 
+study is a prototypical example (Hoberg et al., 2015). It surveyed CIOs and other execu-
+tives responsible for DT worldwide regarding the importance and availability of skills 
+related to certain domains for successfully performing DT using predefined response 
+categories. Actually, response categories were limited to Entrepreneurship (importance: 
+65%—availability: 34%), Product/Service Integration (66%–36%), Business Networks 
+(71%–42%), Business Change Management (84%–46%), and 10 technological domains 
+such as Blockchain (36%–24%), Social Media (63%–57%), Internet of Things (75%–
+32%), or Digital Security (88%–45%). While it is possible that some of these skills were 
+implicitly categorized under Business Change Management, several important skills 
+
+--- [PAGE 16] ---
+16	
+German Journal of Human Resource Management 00(0)
+subsumed under strategic skills or interpersonal skills (e.g., team collaboration and team 
+leadership) in the Mumford et al. (2007) framework are absent or wrongly assumed to be 
+either not critical for DT or anyhow present in organizations.
+How do our findings contrast with practice-based conceptualizations and proposals 
+on leadership competencies for DT (e.g., Horlacher and Hess, 2016; Reck and Fliaster, 
+2019; Rickards et al., 2015; Wade and Obwegeser, 2019), which often focus on chief 
+digital officers (CDOs), chief information officers (CIOs), or chief technical officers 
+(CTOs)? These studies often emphasize general needs such as collaborating with other 
+executives, thinking strategically and being business-centered, pushing customer cen-
+tricity, designing agile organizations, and having implementation skills. They frequently 
+use aggregated and comparatively vague terminology, which does not appear suitable for 
+establishing a clear requirement profile regarding leadership competencies. However, 
+they provide an idea of how leadership skills and traits need to be directed toward organi-
+zational goals and company performance.
+Compared to results referred to in literature reviews of digital leadership and leader-
+ship competencies for DT (Eberl and Drews, 2021; Guzmán et al., 2020; Klein, 2020; 
+Vial, 2019), our findings provide another interesting insight. It becomes apparent that 
+beyond generic success attributes of leaders (e.g., social intelligence, rewarding, agile, 
+visionary), clearly defining skills and personality traits is necessary to allow operation-
+alization and, consequently, analyses and an assessment regarding job applicants or posi-
+tion holders.
+Despite the fact that the term DT is deeply interwoven with technology (Canaday, 
+2017; O’Neill, 2009; Sebastian et  al., 2017) and data (Chen et  al., 2017; Dhar and 
+Sundararajan, 2007; Dremel et al., 2017), our results provide empirical evidence that 
+general managerial and leadership skills are at least equally relevant as skills related to 
+specific (digital) technologies. This confirms the assumption that DT needs to be under-
+stood as a strategic change process (e.g., Schneider, 2018), requiring leaders to under-
+stand the business and their teams, in addition to being digital experts (Furr et al., 2019). 
+Moreover, the importance of traditional leadership and strategy competencies such as 
+team leading, change management, and formulating and implementing a (digital) strat-
+egy supports the assumption that change processes that constitute DT are not that differ-
+ent from other organizational change interventions (e.g., reengineering, mergers and 
+acquisitions), allowing to nurture from the established knowledge in the field of strategic 
+change management (Bohnsack et al., 2018).
+Finally, how do the results of our study reflect what has been conceptualized as 21st 
+century skills? The concept of 21st century skills initially aims at changing the way stu-
+dents at all ages are prepared in a better, more appropriate way for the future of work 
+increasingly dominated by information and communication technologies, technical 
+devices, and software programs (Dede, 2010; Levy and Murnane, 2004). On the one 
+hand, 21st century skills also include megatrends and grand societal challenges such as 
+globalization, inequality, or climate change, too (e.g., reflected for example in global 
+awareness, civic literacy). On the other hand, 21st century skills do not strive to identify 
+and systematize leadership competencies that ensure successful DT (Van Laar et al., 
+2017). Hence, while there are certain overlaps in the requirements, for example, regard-
+ing collaboration and communication skills, or comprehending information technology 
+
+--- [PAGE 17] ---
+Gilli et al.	
+17
+contexts (Dede, 2010), significant gaps, for example, with regard to team leadership, 
+project management or strategic skills are obvious. In other words, not every student will 
+be responsible for managing the DT of organizations. Leadership skills are just one cat-
+egory among many others subsumed under life skills according to the Partnership for 
+21st Century Skills (2008). However, it is known from the leadership literature that lead-
+ership success, also in the digital age, depends on the qualifications of those being led 
+(Dvir and Shamir, 2003; Yukl, 2013; Zhu et al., 2009): “Skills are important for effective 
+performance of leading and following functions.” (Malakyan, 2014: 12). As such, the 
+21st century skills initiative aiming at improving the way next generations are prepared 
+for the digital challenges of the future, has an indirect impact on DT. The next generation 
+will have less difficulties to comprehend the opportunities and threats of digitalization 
+and one may expect less explanation effort and less resistance to change. However, such 
+a proposition needs to be further investigated, as the Generation Z is entering the world 
+of work who needs effective onboarding programs, and in view of inter-generational 
+conflicts (e.g. Chillakuri, 2020; Scholz, 2014).
+Comparison with another study investigating job advertisements
+In comparison with the findings of Klus and Müller (2020), who applied a similar meth-
+odological approach, our results show a number of interesting differences and common-
+alities that might be worth to be further explored by future research initiatives.
+To start with, regarding the most important skills and traits between different manage-
+ment levels, Klus and Müller’s (2020) findings do not differ from those shown and 
+described above. Despite some differences in the methodological design, sample and, 
+hence, analyses most of Klus and Müller’s finding seem to also apply to our study. 
+However, the high prevalence of interpersonal skills (e.g., collaboration, team leadership, 
+stakeholder management) and strategic skills (e.g., strategic thinking, customer orienta-
+tion, change management) which we found in our sample is not reflected in their study. 
+These skills may be hidden in categories, such as subject specific experience, subject 
+specific knowledge, and leadership experience, which are top ranked in their study.
+Secondly, we find support for our findings regarding the inclusion of personality traits 
+in job advertisements for DT leaders. Klus and Müller (2020) refer to increasingly dif-
+ferentiated traits such as individual flexibility, commitment, or stress tolerance. In con-
+trast, pro-activity, which is frequently addressed in our study, does not appear. We 
+conclude that both studies support the claim that traits continue to be important to 
+employers and may be experiencing a new era with digitalization (Beeks, 2012; Fitzgerald 
+et al., 2013; Hoberg et al., 2015; Kane et al., 2019).
+Finally, while both studies proved how important communication and presentation 
+skills are to practitioners and HR managers, for example, they differ in certain respects. 
+In Klus and Müller’s (2020) German sample, for example, intercultural competence and 
+the leader’s self-motivation are attributed a significant role. In our international sample, 
+the ability to lead cross-functional teams is highlighted, and we only found a marginal 
+reference to self-motivation of the leader. This difference could therefore be the result of 
+cultural context or, more broadly, by the institutional context in which the companies 
+operate (Peng et al., 2009).
+
+--- [PAGE 18] ---
+18	
+German Journal of Human Resource Management 00(0)
+Discussion and conclusions
+The objective of this study is to identify and to categorize leadership competencies which 
+are considered by practitioners as necessary to successfully mastering DT. For this rea-
+son, requirements outlined in 239 job advertisements of international firms involved in 
+DT processes have been analyzed.
+We found that a great variety of leadership skills and traits are expected to ensure suc-
+cessful DT in addition to technical skills and specific knowledge regarding hard- und 
+software specifications. The strong emphasis on communication skills, cross-functional 
+collaboration in teams, strategic thinking, and customer orientation bears a strong resem-
+blance to other strategic change processes. It seems to reflect the fact that digitalization 
+and an advanced comprehension of digital transformation concepts concerns a process of 
+change that has been ongoing for decades, even if it has recently become more dynamic 
+and extensive. Digital leaders as they are frequently labeled are expected to orchestrate a 
+team of technology experts (e.g., regarding Internet of things, artificial intelligence), busi-
+ness experts and entrepreneurs, and HRM experts (e.g., overcoming resistance, employee 
+participation). In this regard, our research is in line with other authors claiming that peo-
+ple, not technology, drive DT and that organizations require leaders and not necessarily 
+technological specialists for managing the complex changes that comprise an organiza-
+tion’s DT (Furr et al., 2019; Vasconcelos et al., 2016; Vial, 2019; Voigt et al., 2014).
+Theoretical contributions and practical implications
+Considering its conceptualizations and empirical results, our study offers an important 
+contribution for a better and more complete comprehension of leadership competencies, 
+that is, skills and traits, that have an impact on the success of DT processes.
+First, by complementing the comparatively underdeveloped empirical coverage of 
+actual job requirements, we contribute to a holistic approach to the evaluation of such 
+competencies. Our findings can be used for comparisons with results derived from dif-
+ferent sources, samples and methods applied. Furthermore, they provide a reference 
+point for conceptual studies to compare certain job skills and personality requirements.
+Secondly, by applying and transferring the leadership skills strataplex proposed by 
+Mumford et al. (2007) to a contemporary and novel context, we were able to highlight 
+opportunities and limitations of using it as an alternative organizing framework.
+Our study also yields important practical implications. First, it offers a systematic 
+overview of skills and traits discussed in the scholarly literature as well as of those 
+sought by organizations facing DT. A systematic overview of the latter skills and traits 
+was not publicly available and can be used to check and complement job descriptions 
+and advertisements currently used. Secondly, it may help to mitigate assumptions that 
+successful DT processes are only possible through hiring technological experts, as it 
+highlights the importance of a collaborative and strategic approach, strong leadership, a 
+high level of customer orientation, and excellent communication skills. Thirdly, our 
+study may be used by practitioners to increase their awareness of the virtue of utilizing 
+conceptual frameworks which may surface skills and traits currently neglected when 
+drafting job descriptions and job calls.
+
+--- [PAGE 19] ---
+Gilli et al.	
+19
+Limitations and future research ideas
+Given the complexity and variety of skills and traits listed in job advertisements, as well 
+as the numerous research streams providing in-depth analyses and findings, this study 
+has certain limitations beyond what has been previously discussed.
+On the conceptual side, selecting one organizing framework over another will impact 
+the results and their interpretation as the comparison with Klus and Müller (2020) has 
+revealed. As long as there is no generally accepted systematization approach for task-
+relevant skills and traits specifically for managers of organizational change which 
+accounts for general leadership competencies on the one hand, and for context-specific, 
+partially unknown or neglected skills (keyword: 21st century skills), the use of alterna-
+tive approaches is necessary. This offers a variety of opportunities for future research in 
+this important field.
+A further limitation, although inherent to empirical studies, refers to the selection of 
+the sample and databases used. Excluding other recruiting websites (e.g., The Ladders—
+for experienced managers or Scouted—for recent college graduates) and channels 
+besides Vault (Indeed) and Monster and other—particularly specialized consulting firms 
+(e.g., Gartner), leading accounting firms (e.g., Deloitte), and software firms specializing 
+in DT (e.g., Oracle/PeopleSoft)—besides McKinsey Digital may impact the generaliza-
+bility of our results. Since complete coverage cannot be achieved in any case, this limita-
+tion results in the call for comparable studies of job vacancies to examine and supplement 
+the existing results. Our study is, so to speak, a first robust push in this direction. The 
+same applies to broadening the geographical (e.g., EU, Asia) and temporal sample as to 
+allow for cross-national, cross-cultural comparisons or to analyze developments and 
+changes over time.
+As in other studies, limitations may also apply to the method and analysis. In addition 
+to the advantages mentioned at the beginning, certain disadvantages of an analysis of job 
+advertisements related to its reliability and validity must also be considered (e.g., Harper, 
+2012). It may be argued that a significant number of jobs might not be advertised exter-
+nally but are filled internally (Croneis and Henderson, 2002). This is certainly true, but 
+it can be assumed that in this case, too, requirement criteria based on a DT manager’s job 
+descriptions are used and that in a well-managed company with functioning HR pro-
+cesses, these will differ only insignificantly from those used for external tenders. 
+Furthermore, as we have already mentioned above job postings depend on the ability of 
+HR managers and recruiters to identify and translate requirements of the actual position 
+into explicit skills and traits (Ahmed, 2005) and may additionally suffer from imitation 
+behavior. The application of complementary empirical methods may be appropriate. For 
+example, future research could analyze how companies, their HR departments, or HR 
+consultancies have derived the required qualifications in the context of DT.
+Finally, limitations with respect to the validity and generalizability of our results 
+could result from the coding and categorization of the skills and personality traits. 
+Caused by a lack of objective criteria, this process needs subjective interpretation as 
+demonstrated among others through the comparison with the study of Klus and Müller 
+(2020). This inherent coding and categorization issue applies even more when using 
+content analysis software packages, as the ease to use hides the “carbage in – carbage 
+
+--- [PAGE 20] ---
+20	
+German Journal of Human Resource Management 00(0)
+out” problem. Particularly, if terminological nuances remain unrecognized and scholars 
+predominantly rely more on quantitative counts. For instance, using too narrow or 
+ambiguous search criteria may unconsciously exclude relevant job advertisements and 
+preselection of search terms by individual researchers may lead to false negatives and 
+false positives. Additionally, general models and organizing frameworks are limited and 
+unable to account for the peculiarities of rather specific and novel tasks and job require-
+ments as in the case of leading and managing DT processes. Because we believe the 
+fundamental problem cannot be solved, a more pronounced focus on this step of the 
+analysis is needed. Collaboration among different researchers and practitioners, includ-
+ing independent categorization that is subsequently reconciled and extensively dis-
+cussed, could lead to increased validity of the results.
+This contribution should be seen as a supplement to other studies and practical experi-
+ence. With other words, our study does not claim that practitioners are better able to 
+identify and to conceptualize skills and traits necessary for leading a successful DT nor 
+does it reflect reality in an all-encompassing way rather than providing a solid basis for 
+comparisons and future alignments.
+Future research may take a closer look at contextual aspects based on extended sam-
+ple sizes, databases, and methodological approaches. It might be of special interest to 
+analyze whether large companies are seeking different leadership competencies for their 
+DT processes than small and medium-sized enterprises. Another interesting future 
+research stream may compare leadership competencies sought by private versus those of 
+public administration organizations. Furthermore, as we know from international man-
+agement and especially HRM research, there may be systematic differences in the under-
+standing of leadership and change processes between different countries.
+Regarding methods, future research may employ triangulation. As already mentioned, 
+qualitative interviews with HRM and DT experts may be used to identify disregarded or 
+underrated skills and traits which may be taken for granted when searching for a DT 
+leader and, hence, are not explicitly mentioned. Future studies could also methodically 
+identify leadership competencies relevant to success by observing or interviewing impor-
+tant stakeholders of actual DT processes such as project leaders, team members, affected 
+employees, top and middle managers, and employee representatives. Future research in 
+the field of organizational change processes induced by digitalization may analyze even 
+more comprehensively the impact of conceptual factors on the success of change pro-
+cesses as outlined in the respective literature. Such factors include the influence of exter-
+nal pressure to reorganize, the extent of internal power games and conflicts, or barriers 
+such as vested interests of middle managers on the selection of the most suitable DT 
+leader or the set of competencies and traits which match certain situations (e.g., Doppler 
+and Lauterburg, 2019; Miller and Dess, 1996; Nippa, 1997).
+Funding
+The author(s) received no financial support for the research, authorship, and/or publication of this 
+article.
+ORCID iD
+Katharina Gilli 
+ https://orcid.org/0000-0002-5366-3081
+
+--- [PAGE 21] ---
+Gilli et al.	
+21
+Notes
+1.	
+While the scholarly literature like Kotter (1990) or Bennis (2009), for good reasons, calls for 
+distinguishing between management and leadership, this article uses the terms interchange-
+ably. In terms of digital transformation, leaders seem to act as change managers by both driv-
+ing and implementing the strategic change in an organizational context.
+2.	
+Similar skill concepts, which are more related to digital technology but consider the leader-
+ship aspect less, are the concepts of Digital Skills (Van Dijk, 2005), Digital Fluency (Briggs 
+and Makice, 2012), and Digital Literacy (Gilster, 1997).
+3.	
+Monster (monster.com), Vault (vault.com), Indeed (indeed.com), Digital McKinsey (www.
+mckinsey.com/business-functions/mckinsey-digital/careers).
+4.	
+Table 2 provides a complete list of second-order themes.
+5.	
+As already mentioned above, requirements with less than 10 mentions in the 239 cases exam-
+ined have been removed.
+References
+Ahmed S (2005) Desired competencies and job duties of non-profit CEOs in relation to the current 
+challenges. The Journal of Management Development 24(10): 913–928.
+Bawany S (2020) Ensuring leadership readiness for a digital centric future workplace in the ‘new 
+normal’. Available at: https://www.hr.com/en/magazines/leadership_excellence_essentials/
+november_2020_leadership/developing-%E2%80%98disruptive-digital-leaders%E2%80%99-
+for-the-po_kh3glduc.html (accessed 5 April 2022).
+Beeks J (2012) A review of “Community Leadership 4.0: Impacting a world gone wiki”. World 
+Futures 68(6): 456–459.
+Bekkhus R (2016) Do KPIs used by CIOs decelerate digital business transformation? The Case 
+of ITIL. In: Digital innovation, technology, and strategy conference, Dublin, Ireland, 
+11–14 December. https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1014&context=di
+git2016 (accessed 5 April 2022).
+Bennis WG (2009) On Becoming a Leader. (20th anniversary ed., rev. and updated). New York, 
+NY: Basic Books.
+Berman SJ (2012) Digital transformation: Opportunities to create new business models. Strategy 
+and Leadership 40(2): 16–24.
+Bohnsack R, Hanelt A, Marz D, et al. (2018) Same, same, but different!? A systematic review 
+of the literature on digital transformation. Academy of Management Proceedings 2018(1): 
+16262.
+Bondarouk TV and Ruël HJM (2008) HRM systems for successful information technology imple-
+mentation: Evidence from three case studies. European Management Journal 26(3): 153–165.
+Boyatzis RE (1982) The Competent Manager: A Model for Effective Performance. A Wiley-
+Interscience publication. New York, NY: Wiley.
+Briggs C and Makice K (2012) Digital Fluency: Building Success in the Digital Age. Bloomington, 
+IN: SociaLens.
+Brooks NG, Greer TH and Morris SA (2018) Information systems security job advertisement 
+analysis: Skills review and implications for information systems curriculum. Journal of 
+Education for Business 93(5): 213–221.
+Burke WW (2008) Organization Change: Theory & Practice. London: SAGE.
+Canaday T (2017) Evolving a payments business to meet the demands of a distributed economy. 
+Journal of Payments Strategy & Systems 11(1): 15–22.
+Cantero-Gomez P (2019) The 4 common traits shared by successful leaders. Available at: https://
+www.forbes.com/sites/palomacanterogomez/2019/05/28/the-4-common-traces-shared-by-
+all-successful-leaders/#38d6e1c01536 (accessed 5 April 2022).
+
+--- [PAGE 22] ---
+22	
+German Journal of Human Resource Management 00(0)
+Chen H, Schütz R, Kazman R, et al. (2017) How Lufthansa capitalized on big data for business 
+model renovation. MIS Quarterly Executive 16(1): 19–34.
+Chillakuri B (2020) Understanding Generation Z expectations for effective onboarding. Journal of 
+Organizational Change Management 33(7): 1277–1296.
+Conger JA and Kanungo RN (1987) Toward a behavioral theory of charismatic leadership in 
+organizational settings. Academy of Management Review 12(4): 637–647.
+Croneis KS and Henderson P (2002) Electronic and digital librarian positions: A content analysis 
+of announcements from 1990 through 2000. The Journal of Academic Librarianship 28(4): 
+232–237.
+Cvetić B, Vasiljević D and Danilović M (2017) Competence requirements for logistics managers 
+in the Republic of Serbia. Journal of Sustainable Business and Management Solutions in 
+Emerging Economies 22(2): 37–46.
+Day DV, Fleenor JW, Atwater LE, et al. (2014) Advances in leader and leadership development: A 
+review of 25years of research and theory. The Leadership Quarterly 25(1): 63–82.
+Debuse J and Lawley MA (2009) Desirable ICT graduate attributes: Theory versus practice. 
+Journal of Information Systems Education 20(3): 313–323.
+Dede C (2010) Comparing frameworks for 21st century skills. In: Bellanca JA and Brandt RS (eds) 
+Leading edge: 21st century skills: Rethinking how students learn, vol. 5. Bloomington, IN: 
+Solution Tree Press, pp.51–76.
+Deloitte (2017) What key competencies are needed in the digital age? Available at: https://www2.
+deloitte.com/ch/en/pages/innovation/articles/competencies-in-the-digital-age.html (accessed 
+5 April 2022).
+Den Hartog DN, Caley A and Dewe P (2007) Recruiting leaders: An analysis of leadership adver-
+tisements. Human Resource Management Journal 17(1): 58–75.
+Dhar V and Sundararajan A (2007) Issues and Opinions—Information Technologies in business: 
+A blueprint for education and research. Information Systems Research 18(2): 125–141. http://
+www.jstor.org/stable/23015398
+Dokko G, Wilk SL and Rothbard NP (2009) Unpacking prior experience: How career history 
+affects job performance. Organization Science 20(1): 51–68.
+Doppler K and Lauterburg C (2019) Change Management: Den Unternehmenswandel gestalten, 
+14th edn. Frankfurt/Main: Campus Verlag.
+Dremel C, Wulf J, Herterich M, et al. (2017) How AUDI AG established big data analytics in its 
+digital transformation. MIS Quarterly Executive 16(2): 3.
+Dvir T and Shamir B (2003) Follower developmental characteristics as predicting transformational 
+leadership: A longitudinal field study. The Leadership Quarterly 14(3): 327–344.
+Eberl J and Drews P (2021) Digital Leadership ‒ Mountain or molehill? A literature review. 
+Available at: https://www.researchgate.net/profile/Paul-Drews/publication/348200766_Digital_
+Leadership_-_Mountain_or_Molehill_A_Literature_Review/links/5ff38822299bf140887003d9/
+Digital-Leadership-Mountain-or-Molehill-A-Literature-Review.pdf (accessed 5 April 2022).
+Elo S and Kyngäs H (2008) The qualitative content analysis process. Journal of Advanced Nursing 
+62(1): 107–115.
+Fitzgerald M, Kruschwitz N, Bonnet D, et al. (2013) Embracing digital technology. A new strate-
+gic imperative. MIT Sloan Management Review 55(2): 1–12.
+Furr N, Gaarlandt J and Shipilov A (2019) Don’t put a digital expert in charge of your digital 
+transformation. Harvard Business Review. Available at: https://hbr.org/2019/08/dont-put-a-
+digital-expert-in-charge-of-your-digital-transformation (accessed 5 April 2022).
+Gilster P (1997) Digital Literacy. New York, NY: Wiley.
+Gioia DA, Corley KG and Hamilton AL (2013) Seeking qualitative rigor in inductive research. 
+Organizational Research Methods 16(1): 15–31.
+
+--- [PAGE 23] ---
+Gilli et al.	
+23
+Gioia DA, Thomas JB, Clark SM, et al. (1994) Symbolism and strategic change in academia: The 
+dynamics of sensemaking and influence. Organization Science 5(3): 363–383.
+Glaser BG and Strauss AL (1967) The Discovery of Grounded Theory: Strategies for Qualitative 
+Research. Chicago, IL: Aldine.
+Goldberg LR (1990) An alternative “description of personality”: The Big-Five factor structure. 
+Journal of Personality and Social Psychology 59(6): 1216–1229.
+Guzmán VE, Muschard B, Gerolamo M, et al. (2020) Characteristics and skills of leadership in the 
+context of Industry 4.0. Procedia Manufacturing 43: 543–550.
+Hackman JR and Lawler EE (1971) Employee reactions to job characteristics. Journal of Applied 
+Psychology 55(3): 259–286.
+Hackman JR and Oldham GR (1976) Motivation through the design of work: Test of a theory. 
+Organizational Behavior and Human Performance 16(2): 250–279.
+Harper R (2012) The collection and analysis of job advertisements: A review of research method-
+ology. Library and Information Research 36(112): 29–54.
+Harris AH, Greer TH, Morris SA, et al. (2012) Information systems job market late 1970’S-early 
+2010’S. Journal of Computer Information Systems 53(1): 72–79.
+Hartl E and Hess T (2017) The role of cultural values for digital transformation: Insights from 
+a Delphi study. Available at: https://aisel.aisnet.org/amcis2017/Global/Presentations/8/ 
+(accessed 5 April 2022).
+Hempsall K (2014) Developing leadership in higher education: Perspectives from the USA, the 
+UK and Australia. Journal of Higher Education Policy and Management 36(4): 383–394.
+Hess T, Matt C, Benlian A, et al. (2016) Options for formulating a digital transformation strategy. 
+MIS Quarterly Executive 15(2): 103–119.
+Hoberg P, Krcmar H, Oswald G, et al. (2015) Skills for digital transformation: Research Report 
+2015. Available at: https://slidelegend.com/skills-for-digital-transformation-winfobase-
+tum_59c179861723dd5242be0b1d.html (accessed 6 April 2022).
+Horlacher A and Hess T (2016) What does a Chief Digital Officer do? Managerial tasks and roles of 
+a new C-Level position in the context of digital transformation. In 49th Hawaii International 
+Conference on System Sciences (HICSS), Koloa, HI, 5–8 January, pp.5126–5135. New York, 
+NY: IEEE. DOI: 10.1109/HICSS.2016.634.
+House RJ (1977) A 1976 theory of charismatic leadership. In: Hunt JG and Larson LL (eds) 
+Leadership: The Cutting Edge. Carbondale, IL: Southern Illinois University Press, pp.189–
+207.
+Judge TA, Bono JE, Ilies R, et al. (2002) Personality and leadership: A qualitative and quantitative 
+review. Journal of Applied Psychology 87(4): 765–780.
+Kalargyrou V, Pescosolido AT and Kalagiros EA (2012) Leadership skills in management educa-
+tion. Academy of Educationl Leadership Journal 16(4): 39–127.
+Kane GC, Phillips AN, Copulsky JR, et al. (2019) How digital leadership is(n’t) different. MIT 
+Sloan Management Review 60(3): 34–39.
+Katz RL (1955) Skills of an effective administrator. Harvard Business Review 33(1): 33–43.
+Kirkpatick SA and Locke EA (1991) Leadership: do traits matter? The Academy of Management 
+Perspectives 5(2): 48–60.
+Klein M (2020) Leadership characteristics in the era of digital transformation. Business And 
+Management Studies: An International Journal 8(1): 883–902.
+Klus M and Müller J (2020) Identifying leadership skills required in the digital age. CESifo 
+Working Paper No. 8180. Available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_
+id=3564861
+Kotter JP (1990) A Force for Change: How Leadership Differs From Management. New York, 
+NY: Free Press.
+
+--- [PAGE 24] ---
+24	
+German Journal of Human Resource Management 00(0)
+Lenkenhoff K, Wilkens U, Zheng M, et al. (2018) Key challenges of digital business ecosystem 
+development and how to cope with them. Procedia CIRP 73: 167–172.
+Levy F and Murnane RJ (2004) The New Division of Labor: How Computers Are Creating the 
+Next Job Market. Princeton, NJ: Princeton University Press.
+Li L, Su F, Zhang W, et al. (2018) Digital transformation by SME entrepreneurs: A capability 
+perspective. Information Systems Journal 28(6): 1129–1157.
+Longshore JM (1987) Leadership and performance beyond expectations. Academy of Management 
+Review 12(4): 756.
+Lord RG, De Vader CL and Alliger GM (1986) A meta-analysis of the relation between personal-
+ity traits and leadership perceptions: An application of validity generalization procedures. 
+Journal of Applied Psychology 71(3): 402–410.
+Malakyan PG (2014) Followership in leadership studies: A case of leader-follower trade approach. 
+Journal of Leadership Studies 7(4): 6–22.
+Mihardjo LWW, Sasmoko S, Alamsjah F, et al. (2019) Digital leadership role in developing busi-
+ness model innovation and customer experience orientation in industry 4.0. Management 
+Science Letters 9(11): 1749–1762.
+Miller A and Dess GG (1996) Strategic Management, 2nd edn. McGraw-Hill series in manage-
+ment. New York, NY: McGraw-Hill.
+Mintzberg H (1973) The Nature of Managerial Work. New York, NY: Harper & Row.
+Mumford E (1972) Job Satisfaction: A Study of Computer Specialists. London: Longman.
+Mumford MD, Zaccaro SJ, Harding FD, et al. (2000) Leadership skills for a changing world. The 
+Leadership Quarterly 11(1): 11–35.
+Mumford TV, Campion MA and Morgeson FP (2007) The leadership skills strataplex: Leadership 
+skill requirements across organizational levels. The Leadership Quarterly 18(2): 154–166.
+Nippa M (1997) Erfolgsfaktoren organisatorischer Veränderungsprozesse in Unternehmen. 
+In: Nippa M and  Scharfenberg H (eds) Implementierungsmanagement. Über die Kunst, 
+Reengineeringkonzepte erfolgreich umzusetzen. Gabler Verlag: Wiesbaden, pp.21–57. 
+https://link.springer.com/book/10.1007/978-3-663-05854-0
+O’Neill R (2009) The transformative impact of e-government on public governance in New 
+Zealand. Public Management Review 11(6): 751–770.
+Park JR, Lu C and Marion L (2009) Cataloging professionals in the digital environment: A content 
+analysis of job descriptions. Journal of the American Society for Information Science and 
+Technology 60(4): 844–857.
+Partnership for 21st Century Skills (2008) 21st century skills, education & competitiveness: A 
+resource and policy guide. Available at: https://files.eric.ed.gov/fulltext/ED519337.pdf
+Paulin S (2014) Leadership 4.0 from ego-system to eco-system: Framing a new form of adaptive 
+leadership as an individual and co-creative process. AI Practitioner 16(1): 54–58.
+Peng MW, Sun SL, Pinkham B, et al. (2009) The institution-based view as a third leg for a strategy 
+tripod. The Academy of Management Perspectives 23(3): 63–81.
+Peterson TO and An Fleet DD (2004) The ongoing legacy of R.L. Katz. Management Decision 
+42(10): 1297–1308.
+Porfírio JA, Carrilho T, Felício JA, et al. (2021) Leadership characteristics and digital transforma-
+tion. Journal of Business Research 124(1): 610–619.
+Porter ME and Heppelmann JE (2015) How smart, connected products are transforming compa-
+nies. Harvard Business Review 93(10): 96–114.
+Reck F and Fliaster A (2019) Four profiles of successful digital executives. MIT Sloan Management 
+Review 60: 1–7. https://sloanreview.mit.edu/article/four-profiles-of-successful-digital-executives/
+Rickards T, Smaje K and Sohoni V (2015) Transformer in Chief: The New Chief Digital Officer. 
+Available at: https://www.mckinsey.com/business-functions/organization/our-insights/trans-
+former-in-chief-the-new-chief-digital-officer (accessed 5 April 2022).
+
+--- [PAGE 25] ---
+Gilli et al.	
+25
+Rogers B (2016) Why 84% of companies fail at digital transformation. Available at: https://
+www.forbes.com/sites/brucerogers/2016/01/07/why-84-of-companies-fail-at-digital-
+transformation/#23a930e9397b (accessed 5 April 2022).
+Royle J and Laing A (2014) The digital marketing skills gap: Developing a digital marketer model 
+for the communication industries. International Journal of Information Management 34(2): 
+65–73.
+Sashkin M (1989) The visionary leader. In: Conger JA and Kannungo RN (eds) Charismatic 
+Leadership: The Elusive Factor in Organizational Effectiveness, 2nd edn. San Francisco, 
+CA: Jossey-Bass, pp.122–160.
+Schneider M (2018) Digitalization of production, human capital, and organizational capital. In: 
+Harteis C (ed.) The Impact of Digitalization in the Workplace. Cham: Springer, pp.39–52.
+Scholz C (2014) Generation Z: Wie sie tickt, was sie verändert und warum sie uns alle ansteckt. 
+Weinheim: John Wiley & Sons.
+Sebastian IM, Ross JW, Beath C, et al. (2017) How big old companies navigate digital transforma-
+tion. MIS Quarterly Executive 16(3): 6.
+Sia SK, Soh C and Weill P (2016) How DBS bank pursued a digital business strategy. MIS 
+Quarterly Executive 15(2): 105–121.
+Singh A and Hess T (2017) How Chief Digital Officers promote the digital transformation of their 
+companies. MIS Quarterly Executive 16(1): 1–17.
+Sousa MJ and Rocha (2019) Skills for disruptive digital business. Journal of Business Research 
+94(4): 257–263.
+Sow M and Aborbie S (2018) Impact of leadership on digital transformation. Business and 
+Economic Research 8(3): 139.
+Stogdill RM (1948) Personal factors associated with leadership: A survey of the literature. The 
+Journal of Psychology 25(1): 35–71.
+Strauss AL (1987) Qualitative Analysis for Social Scientists. New York, NY: Cambridge 
+University Press.
+Strohmeier S (2020) Digital human resource management: A conceptual clarification. German 
+Journal of Human Resource Management 34(3): 345–365.
+Tapscott D (2015) The Digital Economy: Rethinking Promise and Peril in the Age of Networked 
+Intelligence, 2nd edn. New York, NY: McGraw-Hill Education.
+Todd PA, McKeen JD and Gallupe RB (1995) The evolution of IS job skills: A content analysis of 
+IS job advertisements from 1970 to 1990. MIS Quarterly 19(1): 1–27.
+Tollman P, Keenan P, Mingardon S, et al. (2017) Getting smart about change management. BCG 
+Perspectives. Available at: https://www.bcg.com/publications/2017/change-management-get-
+ting-smart-about-change-management.aspx (accessed 5 April 2022).
+Uhl-Bien M, Marion R and McKelvey B (2007) Complexity leadership theory: Shifting leader-
+ship from the industrial age to the knowledge era. The Leadership Quarterly 18(4): 298–318.
+Vale-Feigl A (2021) People, not technology, drive digital transformation. Available at: https://
+www.td.org/magazines/td-magazine/people-not-technology-drive-digital-transformation 
+(accessed 5 April 2022).
+Van Dijk JAGM (2005) The Deepening Divide. London: SAGE.
+Van Laar E, Van Deursen AJA, Van Dijk JAG, et al. (2017) The relation between 21st-century 
+skills and digital skills: A systematic literature review. Computers in Human Behavior 72(1): 
+577–588.
+Vasconcelos JB, Kimble C and Rocha Á (2016) A special issue on knowledge and competence 
+management: Developing enterprise solutions. Information Systems Frontiers 18(6): 1035–
+1039.
+Verboncu I and Zeininger L (2015) The manager and the managerial tools: Job description. Review 
+of International Comparative Management 16(5): 603–614.
+
+--- [PAGE 26] ---
+26	
+German Journal of Human Resource Management 00(0)
+Vial G (2019) Understanding digital transformation: A review and a research agenda. The Journal 
+of Strategic Information Systems 28(2): 118–144.
+Voigt BF, Mänz K and Wilkens U (2014) What leadership pattern can be observed in IPS2 work 
+systems when compared with production and service? Procedia CIRP 16: 277–282.
+Voogt J and Roblin NP (2012) A comparative analysis of international frameworks for 21stcentury 
+competences: Implications for national curriculum policies. Journal of Curriculum Studies 
+44(3): 299–321.
+Wade M and Obwegeser N (2019) How to choose the right digital leader for your company. MIT 
+Sloan Management Review 60: 1–4.
+Weill P and Woerner SL (2015) Thriving in an increasingly digital ecosystem. MIT Sloan 
+Management Review 56(4): 27–34.
+Yammarino F (2013) Leadership. Journal of Leadership & Organizational Studies 20(2): 149–155.
+Yukl G (1981) Leadership in Organizations. Upper Saddle River, NJ: Prentice-Hall.
+Yukl G (2012) Effective leadership behavior: What we know and what questions need more atten-
+tion. The Academy of Management Perspectives 26(4): 66–85.
+Yukl G (2013) Leadership in Organizations, 8th edn. Boston, MA: Pearson.
+Zaccaro SJ, Green JP, Dubrow S, et al. (2018) Leader individual differences, situational param-
+eters, and leadership outcomes: A comprehensive review and integration. The Leadership 
+Quarterly 29(1): 2–43.
+Zaccaro SJ, Kemp C and Bader P (2004) Leader traits and attributes. In: Antonakis J and Day DV 
+(eds) The Nature of Leadership. London: SAGE, pp.101–124.
+Zeike S, Bradbury K, Lindert L, et al. (2019) Digital leadership skills and associations with psy-
+chological well-being. International Journal of Environmental Research and Public Health 
+16(14): 2628.
+Zhu W, Avolio BJ and Walumbwa FO (2009) Moderating role of follower characteristics 
+with transformational leadership and follower work engagement. Group & Organization 
+Management 34(5): 590–619.

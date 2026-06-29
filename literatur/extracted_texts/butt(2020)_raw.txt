@@ -1,0 +1,1993 @@
+
+--- [PAGE 1] ---
+Article
+A Conceptual Framework to Support Digital
+Transformation in Manufacturing Using an Integrated
+Business Process Management Approach
+Javaid Butt
+School of Engineering and Built Environment, Anglia Ruskin University, Chelmsford CM1 1SQ, Essex, UK;
+javaid.butt@anglia.ac.uk
+Received: 31 May 2020; Accepted: 23 June 2020; Published: 27 June 2020
+
+
+Abstract: Digital transformation is no longer a future trend, as it has become a necessity for
+businesses to grow and remain competitive in the market. The fourth industrial revolution, called
+Industry 4.0, is at the heart of this transformation, and is supporting organizations in achieving
+beneﬁts that were unthinkable a few years ago. The impact of Industry 4.0 enabling technologies
+in the manufacturing sector is undeniable, and their correct use oﬀers beneﬁts such as improved
+productivity and asset performance, reduced ineﬃciencies, lower production and maintenance costs,
+while enhancing system agility and ﬂexibility. However, organizations have found the move towards
+digital transformation extremely challenging for several reasons, including a lack of standardized
+implementation protocols, emphasis on the introduction of new technologies without assessing
+their role within the business, the compartmentalization of digital initiatives from the rest of the
+business, and the large-scale implementation of digitalization without a realistic view of return on
+investment. To instill conﬁdence and reduce the anxiety surrounding Industry 4.0 implementation in
+the manufacturing sector, this paper presents a conceptual framework based on business process
+management (BPM). The framework is informed by a content-centric literature review of Industry 4.0
+technologies, its design principles, and BPM method. This integrated framework incorporates the
+factors that are often overlooked during digital transformation and presents a structured methodology
+that can be employed by manufacturing organizations to facilitate their transition towards Industry 4.0.
+Keywords: business process management; Industry 4.0; design principles; lean six sigma; change
+management; skills gap analysis; digital transformation
+1. Introduction
+Digital transformation is characterized by the use of emerging and frequently changing digital
+technologies to solve speciﬁc issues. It is quickly becoming a top priority for organizations worldwide,
+and, especially during the pandemic of COVID-19, the planning phases have accelerated signiﬁcantly,
+as organizations can now practically assess the adverse impact of not having embedded digital
+technologies. The role of Industry 4.0, enabling technologies to support digital transformation,
+was an intensive research area before COVID-19, but this pandemic has expedited the eﬀorts to
+ensure better strategies are available to realize the full beneﬁts of Industry 4.0. The focus has shifted
+drastically from digitization (conversion of data to digital form) to digitalization that is focused on the
+‘organizational process’ or ‘business process’ of the technologically-induced change within industries,
+organizations, and markets [1]. The digitalization of manufacturing industries has enabled new
+production processes using the key technology trends of Industry 4.0 and its design principles [2,3],
+as shown in Figure 1.
+Designs 2020, 4, 17; doi:10.3390/designs4030017
+www.mdpi.com/journal/designs
+
+--- [PAGE 2] ---
+Designs 2020, 4, 17
+2 of 39
+ 
+Figure 1. Industry 4.0 technology trends and design principles.
+The major issues with the adoption of digital techniques and Industry 4.0 initiatives can be
+summarized as a lack of readiness, with organizations not being able to realistically perceive the
+beneﬁts on oﬀer [4,5]. Technology and innovation management are useful organizational strategies,
+but the problem comes when there is low awareness or lack of knowledge pertaining to the speciﬁc
+Industry 4.0 technologies that require management [6,7]. People, in general, fear the unknown and
+resist change. These anxieties become ampliﬁed when the positive impacts of Industry 4.0 come to light.
+The use of Industry 4.0 enabling technologies has resulted in improved productivity and eﬃciency,
+increased knowledge sharing and collaborative working, ﬂexibility and agility, easier compliance with
+regulations, better customer experience, reduced costs, and higher revenues [8]. This has fascinated
+some, but has scared most, as there is uncertainty around job security and future implications for
+people and organizations alike. Therefore, it becomes crucial to devise an organization-wide strategy
+for digital transformation. Unfortunately, the role of digital technologies in business transformation
+is under-investigated [9]. The main issues include an inability to correctly identify the targeted
+performance objectives and a lack of leadership capacities. This results in Industry 4.0 projects being
+designed as cost-driven initiatives that are unable to provide or support any real business model
+transformation [10,11]. There are concentrated eﬀorts where digital technologies are being used to
+transform manufacturing value chains from research and development, supply chain, and factory
+operations to marketing, sales, and service. This requires processing large data sets for informed
+decision making using the Internet of Things (Section 2.5) and big data analytics (Section 2.6).
+Digital connectivity among designers, managers, workers, consumers, and physical industrial assets
+can unlock enormous value and provide signiﬁcant beneﬁts [12]. To ensure connectivity, it is critical
+to understand the interface between diﬀerent business processes, to correctly identify the required
+Industry 4.0 enabling technologies and ensure the development of an organization-wide approach that
+can add value for customers and for internal processes [13,14].
+Governments of diﬀerent countries have also taken notice of the impact of Industry 4.0 and
+have developed plans to take advantage of the opportunities. There is, however, a diﬀerence in
+
+--- [PAGE 3] ---
+Designs 2020, 4, 17
+3 of 39
+approaches. For example, European countries and the USA are focused on developing business and
+standardization models [15–18], and countries like Japan, Germany, and China are implementing
+digitalization, to increase eﬃciency and product quality, as well as to reduce costs [19,20]. On the other
+hand, the Australian government has signed a cooperation agreement with Germany’s Industrie 4.0
+platform, to research reference architectures, standards, test laboratories, as well as the development
+of education and training resources [21]. Such eﬀorts indicate the need for developing strategic and
+technological roadmaps that can facilitate the digital transformation of organizations. There are several
+examples in the literature where strategic plans have been conceptualized, developed, and implemented
+to varying degrees of success, based on lean six sigma-models [22,23], business process management
+models [24,25], a maturity level-based model [26], and an outcome-based business model [27]. However,
+they lack the emphasis on some key aspects, such as the streamlining of business processes after
+implementation, workforce skills gap identiﬁcation, and eﬀective change management protocols.
+This paper aims to oﬀer an integrative business process management framework that can be
+used as a reference model by academics and manufacturing organizations, in their journey towards
+a successful transition from traditional manufacturing to Industry 4.0. It incorporates the key factors
+that are often overlooked in Industry 4.0 implementation and presents a synergistic plan to address
+them. Having a deep understanding of Industry 4.0 enabling technologies and its design principles is
+a prerequisite for devising an implementation plan. Therefore, Section 2 presents a review of Industry
+4.0 key technology trends and Section 3 presents an overview of its design principles. Section 4 is focused
+on business process management whereas Section 5 presents the conceptualization and complete
+breakdown of the proposed integrated business process management framework. The discussion in
+Section 5 is centered around the phases and the associated challenges that manufacturing organizations
+may face while transitioning into Industry 4.0—enabled digital enterprises.
+2. Key Technology Trends of Industry 4.0
+2.1. Additive Manufacturing
+This is an umbrella term that encompasses a group of technologies capable of manufacturing
+three-dimensional objects by adding layers on top of each other, using diﬀerent materials based
+on a computer-aided design ﬁle of a product [28–32]. Additive manufacturing (AM) technologies
+have become the top choice for the manufacture of complex geometries, with intricate features in
+several industries, including automotive, aerospace, and medical [33,34]. AM methods excel at the
+development of porous/hollow parts with improved aesthetics, increased surface area, heat transfer
+(lattice structures), and mass customisation [35,36]. Furthermore, numerical simulation methods have
+helped in identifying the optimal processing parameters that can help in the production of bespoke
+products eﬃciently [37–39]. The impact of AM can be evidenced through the response of the AM
+community to support medical professionals, by providing products in mass quantities ranging from
+PPE such as face masks, and medical device components such as ventilator valves and swab testing kits,
+as well as ecosystem components such as hands-free door openers. AM has emerged as a supply chain
+enabler during this crisis, by not only providing essential products, but also by connecting designers
+and manufacturers to healthcare professionals through scientiﬁc data sharing protocols [40]. AM is
+a key player when it comes to product customization, design ﬂexibility, time and cost-eﬀectiveness,
+and reducing the total number of parts through part consolidation [41].
+2.2. Augmented Reality
+The development activities of augmented reality (AR) date back to the 1960s, when researchers
+developed a see-through display to show 3D graphics in a helmet [42]. AR is often used in conjunction
+with virtual reality (VR) to oﬀer unique solutions [43–45]. AR augments 3D graphics in a real-world
+environment, whereas VR is an artiﬁcial environment that is created with software and presented
+to the user in a way that the user accepts it as a real environment [46]. AR is being adopted at
+
+--- [PAGE 4] ---
+Designs 2020, 4, 17
+4 of 39
+an accelerated rate by the manufacturing sector for a multitude of reasons. Commonly used AR
+protocols include AR markers [47] and mobile devices [48], as well as hologram [49], tracking [50],
+and interaction technologies [51]. AR is beneﬁtting the manufacturing sector by providing better
+insights for product development, equipment maintenance, workforce training, production ﬂoor issues,
+process ﬂow, and quality assurance [52,53]. AR has also been widely adopted by the medical sector.
+The work done by Wake et al. [54] in the ﬁeld of medicine and healthcare showed a workﬂow for
+additive manufacturing a kidney and developing AR models, using radiology examination and image
+segmentation. An AR kidney model was created using Unity 3D software and deployed to a Microsoft
+HoloLens. The AM kidney and AR models were used preoperatively and intraoperatively to assist in
+robotic partial nephrectomy. This technique demonstrated the reliability and feasibility of the AM/AR
+combination that can inﬂuence surgical planning decisions for better results. The use of AR has also
+beneﬁtted the education, automotive, retail, ﬁnance, and tourism sectors [55–58].
+2.3. Simulation and Modelling Techniques
+They serve an extremely useful purpose by providing a visual representation of a product or
+process, and showing the eﬀects of diﬀerent conditions in a virtual environment. They not only save
+costs by optimizing the geometry or process ﬂow features, but can also predict future states based
+on diﬀerent mathematical models. Simulations can be used for a product, process, or process ﬂow,
+and there are several software packages available for them. Products and manufacturing processes
+are normally simulated based on the ﬁnite element method, ﬁnite volume method, and discrete
+element method. Software packages capable of using such methods include CAEplex, MATLAB,
+Ansys, OpenFOAM, and EMS. On the other hand, manufacturing-process-ﬂow simulation packages
+are based on various modeling paradigms, including process-centric, systems dynamics, Petri net,
+Monte Carlo simulations, and agent-based. These packages include, but are not limited to, WITNESS,
+AnyLogic, FlexSim, Simio, and Simul8 Professional. They can provide animated and interactive models
+to replicate the operation of an existing or proposed production facility. They can help solve common
+manufacturing challenges that include assessing the impact of investment, production planning,
+optimization, and scheduling, facility designing, manufacturing capability planning, bottleneck
+analysis, and resource allocation [59–61].
+2.4. Autonomous Robots
+The demand for industrial robots in manufacturing has been on the rise for several years now
+because of their beneﬁts e.g., lower defect rate, higher quality, enhanced reliability, reduced waste,
+and better ﬂoor space utilization, making them indispensable to world-class manufacturers [62].
+This has also given rise to ‘cobots’, or collaborative robots that work closely with humans and augment
+their capabilities. According to the International Federation of Robotics [63], there are four types of
+collaborative manufacturing applications, i.e., co-existence (human and robot work together, but no
+shared space), sequential collaboration (human and robot work together on a part separately, but not
+at the same time), co-operation (human and robot operating at the same time on a part or machine),
+and responsive collaboration (robot responds to the human movements in real-time). Cobots are
+designed to ﬁll the gaps between conventional robots and human specialists leading to new territories
+for automation. Cobots are intended to work in manners like people, with the additional capacity to
+analyze and transmit information [64]. In Industry 4.0, robots and people work collaboratively on
+interlinking tasks, by utilizing smart sensor human-machine interfaces. The utilization of robots is
+extending to incorporate diﬀerent capacities, such as manufacturing, coordination, data management,
+remote access, and control [65]. These are extremely useful features that oﬀer ﬂexibility to the users
+and allow for the seamless integration of the physical equipment with digital software tools [66].
+
+--- [PAGE 5] ---
+Designs 2020, 4, 17
+5 of 39
+2.5. Internet of Things
+Internet of Things (IoT) is a system of interconnected devices implanted with sensors, software,
+and electronics to initiate the exchange and collation of data [67]. In the manufacturing industry, it is
+referred to as the Industrial Internet of Things (IIoT), which facilitates communication among people,
+products, and machines. Manufacturers are attaching sensors to machines, and other physical assets
+on the production ﬂoor, to collate data that inﬂuence decisions in real-time and lead to increased
+eﬃciency as well as productivity [68]. The interconnectedness of diﬀerent devices allows for a better
+user experience and helps in eﬀective decision making [69]. IIoT systems are conceived as a layered
+modular architecture of digital technology with four layers, i.e., device, network, service, and content.
+The device layer refers to sensors or machines. The network layer comprises physical network buses,
+cloud computing, and communication protocols. The service layer manipulates and combines the
+data into information that can be displayed, and the content layer refers to the user interface devices,
+such as tablets and screens [70]. The enormous data captured through IIoT helps organizations in
+establishing clear objectives and enables them in understanding their systems better, by providing
+insights that were scarce before. It can create a digital network that keeps the entire organization
+connected, thus promoting collaboration and enabling the use of other key Industry 4.0 technologies
+eﬀectively [71]. The rise of 5G has also boosted the adoption of IIoT, as the advantages will increase
+exponentially. 5G enabled IIoT systems will accelerate the realization of Industry 4.0, with high-speed,
+low-latency, and large-volume data transfers [72].
+2.6. Big Data Analytics
+The copious amounts of data collated by IIoT need to be analyzed through protocols that can
+help make sense of the data and use it for decision making. This is where big data analytics (BDA)
+come into play. ‘Big data’ refers to a collection of massive data sets that cannot be analyzed through
+conventional means. There are four types of data, i.e., structured, semi-structured, quasi-structured,
+and unstructured. This is also the order in which the amount of data and complexity in analysis
+increases drastically [73]. Based on the data, four types of analytics can be performed. The ﬁrst is
+descriptive, that provides an eﬀective visualization of the current business. The second is diagnostic,
+that helps to identify the causes of problems. Predictive is the third, that makes use of historical data
+and algorithms to predict future business needs. The last is prescriptive, that recommends actions and
+strategies based on advanced analytical tools [74]. Diﬀerent BDA tools are available on the market
+(e.g., Xplenty, Skytree, Talend, Lumify); they can provide a meaningful analysis of a large set of data.
+BDA can enable manufacturers to improve their asset eﬃciency and performance, enhance product
+customization, better administrate predictive maintenance and prevent asset breakdowns, as well as
+streamline production processes and supply chain management initiatives more eﬀectively [75].
+2.7. Cloud Computing
+Data collation through IIoT and analysis through BDA require both hardware and software
+capabilities for data processing. These costs can limit the applicability of Industry 4.0 technologies,
+and cloud computing (CC) can help alleviate some of that burden by removing the need for sophisticated
+hardware and undertaking data analysis over cloud servers. The U.S. National Institute of Standards
+and Technology (NIST) deﬁned cloud computing as a model for enabling convenient, on-demand
+network access to a shared pool of conﬁgurable computing resources (e.g., networks, servers, storage,
+applications, and services) that can be rapidly provisioned and released with minimal management
+eﬀort or cloud provider interaction [76]. Organizations are rapidly shifting their IT resources to
+CC, due to the beneﬁts on oﬀer, including reduced capital costs, global scale, high speed, reliability,
+enhanced productivity, performance, and security [77]. CC operates in four diﬀerent types, i.e., public
+cloud (third party cloud service providers), private cloud (resources used exclusively by a single
+organization), hybrid cloud (a combination of public and private), and community cloud (shared
+
+--- [PAGE 6] ---
+Designs 2020, 4, 17
+6 of 39
+by several organizations) [78]. CC enables the integration of distributed manufacturing resources
+and the establishment of a collaborative and ﬂexible infrastructure across geographically distributed
+manufacturing and service sites [79]. This could lead to cloud manufacturing being the next generation
+manufacturing paradigm [80].
+2.8. Cybersecurity
+The ﬂow of enormous data sets in and out of an organization over the Internet makes cybersecurity
+(CS) a key element of Industry 4.0. There is a growing demand to secure critical industrial frameworks
+and manufacturing lines from CS threats, to protect interconnected systems. Data can be of diﬀerent
+types, ranging from individual data to production ﬂoor plans, and new product designs to future
+initiatives. It is critical for some sectors (e.g., defense ministry) to ensure that their data do not fall into
+the wrong hands, as they can be misused on a public forum or can sabotage the business. Theft of
+individual data from the databases of organizations is also quite common. Prime examples are the cases
+of Facebook [81] and Cambridge Analytica [82]. Therefore, there are data protection rules all over the
+world, such as the General Data Protection Regulation (GDPR) from the European Union and the UK
+Data Protection Act 2018. They outline the regulations for personal data handling and precautionary
+measures. There is also a need for the standardization of CS protocols, to instill conﬁdence in a user
+organization. The most common ones are ISO/IEC 27001 and 27002, part of the ISO/IEC 27000 family
+of standards published by the International Organization for Standardization and the International
+Electrotechnical Commission [83].
+2.9. Horizontal and Vertical Integration
+Horizontal and vertical integration aims to develop organization-wide strategies for information
+sharing, to create the basis for an automated supply and value chain. Horizontal integration is about
+digitalization across the full value and supply chain, focusing on data exchanges and connected
+information systems. It allows for the seamless integration of IT systems and information ﬂows
+across production and business planning procedures, that range from suppliers of materials and
+utilities to distributors and customers [84]. Horizontal integration helps with horizontal coordination,
+collaboration, cost savings, value creation, speed, and the possibilities to create horizontal ecosystems
+of value, based on information. On the other hand, vertical integration creates a comprehensive
+solution by integrating IT systems at various hierarchical production and manufacturing levels.
+These hierarchical levels include the ﬁeld level (interfacing with the production process via sensors and
+actuators), the control level (regulation of both machines and systems), the production process level (to
+be monitored and controlled), the operations level (production planning and quality management)
+and the enterprise planning level (order management and processing). Combining these two is key to
+a truly digitized future for organizations [85,86].
+2.10. Cyber-Physical Systems
+Cyber-physical systems (CPS) are systems of collaborating computational entities that
+are in intensive connection with the surrounding physical world and its on-going processes,
+providing and using data-accessing, as well as data-processing services available on the Internet,
+concurrently [87]. CPS is usually based on a 5C architecture of connection, conversion, cyber, cognition,
+and conﬁguration [88]. However, it has been extended to include customer, content, and coalition [89].
+CPS is interconnected between the physical factory ﬂoor and the cyber computational space. With the
+help of BDA, they help in comprehending trends and supporting informed decision making in
+real-time [90]. CPS is the future of the manufacturing sector, as it can work for products and processes
+alike. The challenges lie in the use of appropriate tools and analysis techniques that can provide useful
+insights to develop an action plan. CPS mainly comprises three components i.e., communication and
+computation as well as control, and handling as well as monitoring [91,92]. The use of CPS aims to
+increase the implementation of large-scale systems, improving the adaptability, autonomy, eﬃciency,
+
+--- [PAGE 7] ---
+Designs 2020, 4, 17
+7 of 39
+functionality, reliability, safety, and usability of such systems [93]. These systems are being applied to
+diverse areas, such as cyber manufacturing, smart energy systems, and smart factory [94,95].
+2.11. Cyber Manufacturing
+Cyber manufacturing (CM) is a concept derived from CPS and refers to a system that oﬀers
+an information-transparent environment, to facilitate asset management, provide reconﬁgurability,
+and maintain productivity. It involves data conversion from interconnected systems into predictive
+and prescriptive operations to achieve resilient performance [96]. The enabling technologies of
+CM include IoT, BDA, and CPS. Its challenges include a lack of standardization protocols for
+seamless connectivity [97], extracting actionable data to avoid disconnected analytics [98], and CS [99].
+The beneﬁts on oﬀer from CM are quite signiﬁcant, especially for organizations with multi-scale,
+complex, and networked assets, as they can maintain productivity by reducing unexpected downtime
+and reconﬁguring production assets based on their health status, leading to resilient manufacturing
+systems. Manufacturing services are communicated to both users and consumers, who access those
+services via various channels [100]. Manufacturing software should be deployed in the cloud to enable
+the oﬀering of such services. Manufacturing services should be deployed in various models, including
+the public, private, community, and hybrid clouds (Section 2.7). Each cloud can provide customers
+with diﬀerent services. For example, the customer can ﬁnd the required product oﬀers in a public cloud,
+and an organization employee can ﬁnd services and infrastructure provided from their organization or
+its speciﬁed service provider in a private cloud. BDA will be used to oﬀer the best services to satisfy
+consumer requirements and expectations [101]. The use of CPS in manufacturing is referred to as CPPS
+(cyber-physical production systems), and this concept is slowly gaining momentum from academia
+and industries alike [102,103].
+3. Industry 4.0 Design Principles
+3.1. Modularity
+It refers to the design of system components and is characterized by the capability of system
+components to be removed or added in an eﬃcient manner [104], leading to agile manufacturing
+systems rather than linear ones [105]. This feature is extremely beneﬁcial when dealing with ﬂuctuating
+production orders, customized product development, or incorporating new technologies [106].
+System components are loosely coupled and can be reconﬁgured on a plug-and-play principle [107].
+This design feature allows the system to rapidly integrate required modules to quickly respond to
+customers’ requirements and overcome internal system malfunctions by enabling the interchangeability
+of modules [108]. Modularity builds on the agile supply chain, ﬂexible material ﬂow systems, modular
+decision-making procedures, and ﬂexible processes [109], by allowing the application of module
+machine tools, workstations, material handling equipment, and reconﬁgurable tools [101].
+3.2. Interoperability
+Embracing and implementing new technologies will have limited impact if contextual information
+cannot be shared among machines, objects, and people. Establishing connectivity through the use of
+digital techniques such as IoT, BDA, and cloud computing should allow an open exchange of information
+between systems, to help businesses reduce the costs of information collection and management [110].
+This aspect has paved the way for the design principle of interoperability that is deﬁned as the exchange
+of data among systems through the use of Industry 4.0 enabling technologies [2]. Interoperability in
+Industry 4.0 can be deﬁned in four diﬀerent levels, i.e., operational, semantic, systematical, and technical
+interoperability [111]. Interoperability is diﬀerent from data standardization, as it focuses on contextual
+information and the interaction of diﬀerent system components to communicate and understand the
+information for decision making [112]. Interoperability enables applications, such as standard and
+
+--- [PAGE 8] ---
+Designs 2020, 4, 17
+8 of 39
+secure communication, sharing meaningful information, collaborative behaviour, embedded systems,
+and CPS operation [101].
+3.3. Decentralization
+This is a popular concept that organizations have been embracing for years and allows independent
+operations as well as autonomous decisions through various components in a system rather than
+a centralized system, enabling ﬂexibility and adaptability [104]. These decisions are made in real-time
+and in compliance with the organizational objectives. CPS and digital twins are among the key
+enablers of decentralization [113]. Organizations beneﬁt from decentralization, as employees only
+need to interfere in case of a problem, and they can spend their time on other productive activities,
+which will increase the overall eﬀectiveness in responding to individual and customized orders [114,115].
+Cloud computing can be considered as a form of decentralization [116], and additive manufacturing
+systems have been enabling organizations to operate small, decentralized factories for years. This aspect
+has come to the forefront during the COVID-19 pandemic, where AM systems from large, medium,
+and small organizations alike have been used to manufacture large quantities of face shields, ventilator
+valves, and hands-free door openers [40]. Modularity enables the modular and decentralized control
+architecture for machines and tools through embedded computer systems, leading to the development
+of smart products [101].
+3.4. Virtualization
+This design principle refers to two diﬀerent scenarios. First is the case where one virtual resource
+is created from multiple physical resources, and in the second scenario, many virtual resources are
+created from one or more physical resources. In the former, the physical assets are simulated through
+the development of component and system-based digital twins or CPS [117]. In the latter, the software
+is used to divide one physical server into multiple virtual servers that act like unique physical devices.
+Digital twins can serve a variety of purposes, e.g., performance optimization, visualizing diﬀerent
+scenarios, and real-time control. This provides the beneﬁts of extending equipment life, identifying
+system ineﬃciencies, and reducing operational, as well as maintenance, costs [118,119]. CPS also
+allows the same opportunities by collating sensor data, analysis, and decision making through the use
+of decentralized control circuits [120]. Besides, virtual reality (VR) has also proven to be a useful tool for
+workforce training, improving their performance, guiding maintenance, and assembly tasks [121,122].
+A combination of VR and AR with mobile devices provides stakeholders (employees and customers)
+with more insight into the detailed design of products and allows better process tracking [123–125].
+Virtualization enables virtual system building, factory data virtualization, virtual modelling language,
+and virtual interfacing with digital twins as well as CPS [101].
+3.5. Real-Time Capability
+One of the main features of Industry 4.0 is the agility of operations that cannot happen without
+real-time data collation and analysis supporting decision making, and even real-time cyber-security
+attack detection [126].
+It is also related to the system’s ability to respond to internal (machine
+malfunctions) and external (customer orders) changes promptly, by quickly collecting and analysing
+the available data in real-time [127]. Such a capability allows managers to track the business (through
+trends and micro-trends), identify areas of improvements (through continuous data analysis), respond
+to failures (through informed decision making), and monitor performance (through data collation).
+Having modularity within the system is important, as changes could indicate a decision to focus on
+some production units, or could detect an abnormality in some others. In this case, the systems should
+be able to recover based on the data, by shutting the aﬀected modular units and continuing operations
+with the rest until the problem is ﬁxed [128]. Real-time capability supports the other design principles
+and can be considered as an essential design principle when moving towards digital transformation.
+
+--- [PAGE 9] ---
+Designs 2020, 4, 17
+9 of 39
+3.6. Service Orientation
+Businesses can meet customer demands better through real-time capability (allowing data
+processing through BDA) and interoperability (allowing a free ﬂow of information). As a result,
+businesses can tailor their services based on changing customer needs, thus, shifting the focus from
+products to customers and from mass production to tailored services. Service orientation allows
+manufacturing organizations to sell both their products and services to customers. In addition to
+selling products, organizations can sell their services to make more proﬁt through an integrated
+product-service model [129]. A prime example is the use of AM systems by AM companies to meet the
+demand for personal protective equipment and medical devices to support medical professionals to
+ﬁght COVID-19 [40]. Such a model helps organizations to outsource some of their processes and focus
+on their main business processes [130]. This strategy will encourage innovation at a rapid rate, as the
+focus would be concentrated and not dispersed. As a result, the manufacturing industry will be in
+a position to sell its main business process(es) as a service to another industry. CM is a good example
+that describes an infrastructure where the Internet is used as a medium for oﬀering and selling services
+and cloud computing playing a crucial part in enabling the on-demand provision of services [131].
+4. Business Process Management
+A business process is a set of related functions (and sub-functions) in a speciﬁc sequence performed
+by people or machinery that can deliver value to an internal or external customer. Business processes
+are present at all organizational levels and not all of them are visible to external customers. A business
+process can be represented by ﬂowcharts showing the ﬂow of activities. Managing business processes
+eﬀectively leads to higher productivity and eﬃciency of the business. There are diﬀerent approaches to
+deﬁning the types of business processes. For example, Rosing, Von Scheel, and Scheer [132] classiﬁed
+business processes into main/core processes (focus on delivering value), management processes (focus
+on overseeing main processes), and supporting processes (focus on supporting the main processes),
+as shown in Figure 2. On the other hand, Kirchmer [133] showed a slight variation and classiﬁed
+them as operational processes (primary business processes that create value), management processes
+(focus on ensuring operational processes are conducted correctly), and governance processes (ensure
+compliance with legal guidelines).
+ 
+Figure 2. Diﬀerent types of business processes.
+The smooth running of business processes is essential for a successful business. In that context,
+two business management strategies are quite popular, i.e., business process reengineering (BPR)
+and business process management (BPM). BPR was introduced in the early 1990s and aimed to
+help organizations fundamentally rethink the workﬂow of their business processes and incorporate
+radical changes to increase their eﬃciency and productivity, improve customer service, and reduce
+operational costs [134,135]. Despite the number of deﬁnitions in the literature, some shared elements
+
+--- [PAGE 10] ---
+Designs 2020, 4, 17
+10 of 39
+can be identiﬁed, e.g., radical change, dramatic performance improvements, high potential business
+beneﬁts, process-based organizations, customer orientation, information technology as an enabler,
+rapid pace of change, and high risks [136,137]. This approach provided some beneﬁts, but was
+faced with criticism because of its inability to validate its assumptions. For example, it assumes
+that the ineﬀectiveness of an organization stems from its business processes, but does not oﬀer any
+means of validating that. Furthermore, the focus on always making a radical change and completely
+disregarding the existing process can have serious consequences. BPR was implemented with an ulterior
+motive in the 1990s, with organizations viewing it as a means of formally downsizing and laying-oﬀ
+employees to remain competitive in the market [138]. BPR was not aimed at only radical changes,
+but can incorporate incremental improvements as well, depending on the nature of the problem at
+hand [139]. The methodology is still being used with good eﬀect; even aiding digital transformation
+as IT (information technology) is considered as one of its key enablers. Qu, et al. [140] used BPR to
+strategically enhance the adaptability and functional integrity of an enterprise information system,
+to meet the demands of smart manufacturing systems.
+On the other hand, BPM is a management discipline that provides governance for a process-oriented
+organization through business process modelling, execution, and evaluation, with the goal of agility and
+operational performance [141]. It involves the use of several methods, policies, metrics, management
+practices, and software tools, to monitor and continuously improve an organization’s business processes.
+Some of its beneﬁts to an organization are shown in Figure 3. There are six core elements that are
+critical to the success of BPM initiatives, and these are strategic alignment, governance, methods,
+information technology, people, and culture [142]. Strategic alignment refers to aligning the BPM
+with the overall strategy of the organization rather than detached from it. Governance establishes
+appropriate and transparent accountability in terms of roles and responsibilities, with a focus on
+decision-making and reward processes. Methods denote the set of tools and techniques that support
+and enable BPM activities. Six sigma is a popular and useful approach for BPM comprising DMAIC
+(deﬁne, measure, analyze, improve, control) and DFSS (Design for Six Sigma) approaches [143]. IT is
+a key enabler of BPM, like BPR, and involves the use of software tools to support BPM initiatives.
+People represent the group of individuals who continually enhance and apply their process and process
+management skills, as well as knowledge to improve business processes. Culture incorporates the
+collective values and beliefs of the organization. These elements should be at the heart of every BPM
+initiative. BPM does not contain itself in soils of singular business processes, but breaks down barriers
+among diﬀerent departments to establish an end-to-end business strategy. It is a powerful approach that
+has been providing beneﬁts to organizations and governments by focusing on operational processes
+and knowledge representation [24,25]. However, its incorrect implementation can also lead to failures,
+with some of them highlighted in Figure 4.
+With the rapid shift towards Industry 4.0 for business processes, BPM has been a powerful ally in
+supporting its adoption. The emerging IoT poses a signiﬁcant challenge for organizations to control
+and manage the ﬂow of information through a large number of devices [144]. To cope with this, a new
+direction known as BPM Everywhere (BPME) shows promise as a way of blending traditional process
+techniques, with additional capabilities to automate the handling of all the independent devices.
+BPME aims to leverage traditional business process modelling techniques, together with process
+mining and process analytics, to automate and distribute the activities of discovering, measuring,
+and improving the business processes [145]. The rising number of technical contributions using IoT
+shows that technologies are evolving, and, from a BPM perspective, value creation from the IoT
+application to technological revitalizations is pivotal [146]. There are many examples in the literature of
+BPM being informed by Industry 4.0 technologies and is used as an enabler for Industry 4.0 [147–151].
+Suﬃce to say, BPM will be a key player in the digital transformation journey of organizations worldwide.
+
+--- [PAGE 11] ---
+Designs 2020, 4, 17
+11 of 39
+ 
+Figure 3. Beneﬁts oﬀered by business process management.
+ 
+Figure 4. Cause and eﬀect diagram for the failure of business process management (BPM) initiatives.
+5. Conceptualization of Integrated Business Process Management Framework
+It is evident from the literature that Industry 4.0 technologies require integration throughout
+an organization to capitalize on their beneﬁts, and this means strategizing to streamline their impact
+on all the business processes. Therefore, the central question of this study is: how can BPM be
+used to support digital transformation through Industry 4.0? Considering that BPM can leverage
+an organization’s performance and provide a structured method to incorporate changes, this study
+adopted a narrative literature review strategy [152], to propose a conceptual integrated business
+process management (IBPM) framework rooted in the traditional BPM method to support digital
+transformation. The main characteristic of a narrative review format is its broad view of the research
+and diversity of sources [153]. The narrative review of the literature can be summarized in a conceptual
+framework by highlighting the interaction and focal points [154,155]. An unstructured search for
+
+--- [PAGE 12] ---
+Designs 2020, 4, 17
+12 of 39
+articles in leading databases (e.g., Science Direct, Emerald Insight, Springer Link, Taylor & Francis
+Online) was conducted. The framework was built by considering the aspects that are often overlooked
+in Industry 4.0 transition, and their impact on the digital transformation of an organization, such as
+skills gap analysis, risk management, contingency planning, change management, and cost-beneﬁt
+analysis. These factors have been identiﬁed by the author through his work on a European funded
+project, Growing into Industry 4.0 (focused on identifying the barriers related to the uptake of Industry
+4.0 [18]), while working with several manufacturing companies. Using ‘industry 4.0′, coupled with
+the under-investigated factors shown in Table 1 as keywords, the most relevant papers were selected
+that highlight their interrelationship. The literature formed the basis for IBPM and the framework
+with its associated phases is shown in Figure 5. This work is not focused on developing a systematic
+literature review, but presenting a conceptual framework supported by literature that highlights key
+areas often overlooked due to the sheer volume of technological changes presented by Industry 4.0.
+The proposed IBPM framework can be used by manufacturing organizations as an implementation
+method, to support their journey towards digital transformation based on Industry 4.0 technologies.
+The diﬀerent phases of the IBPM framework with their associated challenges are discussed in the
+subsequent sections.
+Table 1. Literature used to support the integrated business process management framework.
+Main Topics
+References
+BPM
+[147–151,156–164]
+Skills gap
+[165–172]
+Risk management
+[173–179]
+Change management
+[180–188]
+Cost-beneﬁt analysis
+[2,22,189–194]
+Lean/Six Sigma/Lean Six Sigma
+[22–25,143,195–199]
+ 
+Figure 5. Integrated business process management framework.
+5.1. Phase 1: Process Identiﬁcation
+In the very ﬁrst phase of the IBPM framework, a business problem is posed by the IBPM team,
+comprised of senior management members, process owners, process participants, process analysts,
+and system engineers from each department of the organization. The reason for having such a diverse
+
+--- [PAGE 13] ---
+Designs 2020, 4, 17
+13 of 39
+team is to ensure that a consistent approach could be employed to identify processes relevant to
+the problem being addressed. The majority of the time, BPM failure stems from the inability of the
+implementation team to connect the factors from diﬀerent departments that inﬂuence the smooth
+running of operations. An appropriate IBPM team would help in delimiting the pertinent factors
+and would be able to relate them to each other more eﬀectively. It is crucial to outline the processes
+that require improvement or reengineering from the start and develop a quantiﬁable measure for
+their success.
+One of the core elements of BPM (discussed in Section 4) is strategic alignment,
+hence aligning the IBPM initiative with the core strategies of the organization is important to ensure
+appropriate support from senior management and less resistance from the workforce. Figure 6 presents
+an overview of common organizational strategies, deﬁned in three levels [200], and strategies related
+to the employment of Industry 4.0 technologies. At this stage, it is essential to align the IBPM initiative
+with the organizational strategies, but also to be mindful of Industry 4.0 focused strategies that can
+form the basis (depending on organizational priorities), either in the later stages of the IBPM cycle or
+during the second iteration of the IBPM method. In addition to IBPM team formation, the strategic
+alignment of the BPM initiative, and approaches of measuring success, it is also crucial to deﬁne
+the expectations and requirements of internal (employees) and external (customers) stakeholders.
+This phase can be supported by undertaking a SWOT (strength-weakness-opportunity-threat) analysis
+that can help in identifying internal strengths and weaknesses of the organization, as well as its external
+opportunities and threats [201]. There is also a need to identify functional and non-functional business
+requirements [202,203], to ensure that the eﬀorts of the IBPM team are aimed in the right direction.
+Proper planning is the key in the ﬁrst phase of the IBPM and should include the development of
+organizational charts (diagram showing the organizational structure and the relationships, as well
+as roles and reporting hierarchy of the people, involved [204]), stakeholder maps (layout showing
+the responsibilities of the people involved, their connection to each other, and who can inﬂuence
+the project [205]), context diagram (a tool for conﬁrming the overall scope of the business function
+and the system integration requirements for process analysis [206]), and business use case diagrams
+(diagrams that can establish the context to conﬁrm the functional scope of each business process within
+an organization [207]).
+ 
+Figure 6. Strategic alignment for the BPM method.
+
+--- [PAGE 14] ---
+Designs 2020, 4, 17
+14 of 39
+5.2. Phase 2: Process Discovery
+The second phase involves the identiﬁcation of the business process to be improved or reengineered.
+It involves characterizing and establishing the boundary and interfaces of the diﬀerent business
+processes with each other and understanding their connection. For example, the business process
+to be improved/reengineered could be the main process, such as manufacturing, or a supporting
+process such as accounting (Section 4). A simple ﬂow chart showing the connections between the main
+and supporting processes is shown in Figure 7. It is crucial to develop a visual representation of the
+identiﬁed process with a proper and realistic breakdown of sub-processes. At this stage, it would
+be tempting to develop a layout that shows what the process should be, but it must be drawn as
+‘it-is’ (or ‘as-is’) to ensure that the shortcomings could be captured and appropriate actions could be
+taken. There are diﬀerent ways the ﬂow of activities for a speciﬁc business process could be recorded.
+It could be done by creating simple ﬂow charts, either manually or by the use of simple software tools
+such as LucidChart, Microsoft Visio, and Creately [208]. These software packages work on business
+process modelling notation (BPMN), which is a standard method to model the steps of a planned
+business process from end to end [209]. A critical aspect of the ‘as-is’ process ﬂow chart is the accuracy
+of the information, connections, sequence ﬂows, and decision points. Value stream mapping is also
+a useful tool that displays the steps in a speciﬁc business process and shows the ﬂow of both materials
+and information as they progress through the process to the end-user [210]. The purpose is to form
+an ‘as-is’ process model that provides a common understanding and communication among the
+stakeholders. This will help the IBPM team to assess the process ﬂow and its shortcomings, to develop
+innovative solutions.
+ 
+Figure 7. Sample ﬂow chart of operations.
+5.3. Phase 3: Process Analysis
+Understanding a business process is the key to its eﬀective management. The primary aim of this
+step is to review and analyze the identiﬁed ‘as-is’ process to be improved. The idea is to deﬁne key
+performance indicators (KPIs), metrics, key risk indicators (KRIs), and process performance indicators
+(PPIs). These are important to understand the requirements of the process and to recommend eﬀective
+modiﬁcations. KPIs and metrics go hand in hand and should reﬂect strategic drivers, and should
+be consistent with the vision and goals of the organization. A KPI is a measure of performance and
+success [211], whereas a metric is a quantiﬁable number within a KPI that helps track performance
+and progress [212]. KPIs should be identiﬁed eﬀectively to ensure that beneﬁcial decisions could be
+made. As KPI is a measure of how well something is being done, KRI is an indicator of the possibility
+of future adverse impact [213]. Business risks need to be meticulously identiﬁed and when metrics
+provide an early warning, regarding an increased risk exposure in a certain area of operations, they
+become KRIs. They can provide an overview of the risk proﬁle for a speciﬁc business process [214].
+
+--- [PAGE 15] ---
+Designs 2020, 4, 17
+15 of 39
+KRIs measure the potential risk related to a speciﬁc action that the organization is considering, as well
+as the risk inherent in the company’s day-to-day operations [215]. PPIs are deﬁned as quantiﬁable
+metrics that allow the evaluation of the eﬃciency and eﬀectiveness of business processes. They can be
+measured directly by data that is generated within the process ﬂow and are aimed at the process of
+controlling and continuous optimization. They can also be considered as process-related KPIs [216].
+All the indicators should satisfy the SMART (speciﬁc-measurable-assignable-realistic-time related)
+criteria, and should be related to a speciﬁc outcome that can be supported through a set of metrics.
+Every indicator can be considered as a metric, but not every metric is an indicator. Some examples of
+KPIs, KRIs, and PPIs for a manufacturing process are shown in Table 2.
+Table 2. Examples of key performance indicators (KPIs), key risk indicators (KRIs), and process
+performance indicators (PPIs).
+Category
+Description
+Deﬁnition
+KPIs [217]
+Overall equipment eﬀectiveness
+Measures equipment eﬃciency across three areas i.e., availability, performance,
+and quality.
+Manufacturing cycle eﬃciency
+Measures value-added time as a percentage of throughput time.
+First pass yield
+Percentage of products manufactured correctly and to specs the ﬁrst time
+through the process.
+Capacity utilization
+Measures how much a line, plant, or factory uses its total production capacity.
+KRIs [214,218]
+Mean time between failure
+The average amount of time elapsed between machine failures, measured from
+the moment the machine initially fails, until the time that the next failure occurs.
+Mean time to repair
+The average amount of time required to repair a system to full functionality
+following a failure measured from the time that the failure occurs until when
+the repair is completed.
+Downtime percentage due to
+scheduled activities
+The total amount of downtime that has been set aside for planned system
+maintenance activities (as opposed to unplanned downtime) as a percentage of
+total downtime (planned and unplanned) during the measurement period.
+Percentage of missed scheduled
+maintenance activities
+The number of scheduled maintenance activities related to machines that did
+not take place on or before their scheduled date as a percentage of all
+maintenance activities scheduled to occur over the same period.
+PPIs [219–221]
+Process eﬀectiveness
+Relationship between the actual process results and the expected process
+results. It is a combination of time, quality, and cost.
+Process eﬃciency
+Relationship between the results achieved by a process and the resources
+consumed in that process.
+Process compliance
+Refers to internal (percentage of non-conforming products) and external
+(compliance with government regulations) compliance.
+Throughput time
+Represents the amount of time it takes to run a given process, from raw
+material to the ﬁnished product.
+Business activities do not run independently, as there are signiﬁcant associations and dependencies
+among them.
+Process dependency analysis enables one to describe interdependence between
+processes, based on information, materials, or execution. Therefore, it is critical to identify and
+analyze diﬀerent types of interdependence within a speciﬁc business process. It is to be noted
+that like the KPIs, KRIs, and PPIs, interdependencies will diﬀer for diﬀerent business processes.
+An understanding of task interdependence will help the IBPM team grasp how diﬀerent business
+processes, departments, and team members rely on the performance of one another. Even if they
+work independently, there are various consequences (positive or negative) that should be considered
+to create the most eﬀective processes. Generally, there are three types of process interdependence
+i.e., pooled, sequential, and reciprocal [222]. Pooled interdependence refers to the team members
+sharing the loose or unstructured responsibility for reaching the goal while working in independent
+teams.
+Sequential interdependence happens when one department or team must accomplish
+something before another team can do their job and it is the most common type of interdependence in
+manufacturing processes with assembly lines. Reciprocal interdependence is bi-directional, where teams
+or departments rely on one another, making everyone highly responsible for accomplishing goals
+and tasks [223]. Identifying interdependence is a critical factor and should be done consistently.
+
+--- [PAGE 16] ---
+Designs 2020, 4, 17
+16 of 39
+A data-driven approach should be employed, where the interdependence of every single machine
+(for a manufacturing process) or function is analyzed, quantiﬁed, and corrective action is taken for
+enhanced performance [224].
+Process analysis should also involve qualitative and quantitative approaches. In the former,
+a useful technique is value-added analysis (VAA) that helps in identifying problems within a process
+and distinguish the steps into business value-added (BVA), value-added (VA), or non-value-added
+(NVA) activities [225]. For quantitative analysis, process simulations using software packages are
+beneﬁcial, as diﬀerent scenarios could be visualized and studied without physical implementation.
+This phase will provide the IBPM team an indication whether the business process under analysis is
+aligned with organizational goals and objectives or not. Overall, the output of this phase is a structured
+collection of indicators, process issues, areas of improvement, and inconsistencies. These aspects
+should be prioritized by the IBPM team in terms of their impact, and in terms of the estimated eﬀort
+required to address them, as the action points will form the basis for the next phase.
+5.4. Phase 4: Process Redesign or Reengineering
+The goal of this phase is to identify changes to the process that would help to address the
+issues identiﬁed in the previous phase.
+This could involve either redesigning (improving) the
+existing process or reengineering/designing a new process, to meet the performance objectives of the
+organization. Both options require alignment with the organizational strategies to ensure compliance
+with Phase 1. Simulation tools are extremely useful at this stage, as they can help in virtually analyzing
+diﬀerent workﬂows for improvements and designing new systems to investigate their performance.
+There are several packages capable of simulating manufacturing-process-ﬂow based on various
+modeling paradigms, including process-centric, systems dynamics, Petri net, Monte Carlo simulations,
+and agent-based. These packages include, but are not limited to WITNESS, AnyLogic, FlexSim, Simio,
+and Simul8 Professional. They can provide animated and interactive models to replicate the operation
+of an existing or proposed production facility. They can help solve common manufacturing challenges,
+that include assessing the impact of investment, production planning, optimization, and scheduling,
+facility designing, manufacturing capability planning, bottleneck analysis, resource allocation, and last
+but not least, plan Industry 4.0 approaches [48–50]. The output of this phase is typically a ‘to-be’
+process model, incorporating promising changes for better results. The IBPM team should develop
+alternative or new concept designs based on Phase 3 (‘as-is’ process) analysis. The choice of redesign
+or reengineered design requires an in-depth analysis of the challenges and opportunities oﬀered by the
+two options. Ideas related to new process designs should be developed and discussed, but the IBPM
+team should consider the knock-on eﬀect throughout the organization.
+The new alternatives should consider the full breadth of the project scope, to ensure that a truly
+digital transformation is achieved by the organization. Not all ideas will meet the requirements,
+therefore, a prioritized list of design features should be developed, and the best options based on
+thorough analysis (either by simulation or mathematical calculations) should be discussed. The process
+experts and the R&D team should be involved in this step. It is necessary to brainstorm and facilitate
+the design process using FMEA (failure mode and eﬀects analysis) or a cause-and-eﬀect diagram.
+Being innovative and creative will help the organization to remain competitive. However, it is also
+crucial to use established tools for reducing the number of possible designs. The team can use
+a problem-solving, analysis, and forecasting tool called TRIZ (theory of inventive problem-solving),
+that focuses on universal principles of creativity to formulate innovative solutions that might have
+been generated to solve a diﬀerent problem in a diﬀerent sphere of scientiﬁc investigation [226].
+After generating some concepts ideas, an evaluation should take place to identify the optimal design.
+This can be done by using the Pugh Matrix. It is an easy-to-use qualitative technique that can help in
+ranking the multidimensional options generated to identify the optimal option [227]. The purpose of
+the Pugh Matrix is to provide the IBPM team with a holistic view of stakeholder (internal and external)
+requirements against diﬀerent alternatives in the form of a matrix, instead of listing the positives and
+
+--- [PAGE 17] ---
+Designs 2020, 4, 17
+17 of 39
+negatives of each option. This helps in qualitatively identifying the optimal option. These approaches
+can be used for both redesign and reengineering options.
+Considering that there are two options to contend, it is crucial to understand the implications of
+both. For the redesign, there is an implied acceptance of the current processes. Therefore, the main
+focus of the IBPM team would be to use the results from Phase 3 and incrementally devise solutions
+for those issues, taking one issue at a time. These issues could stem from performance indicators,
+risks, or interdependence studies. For example, if the process to be redesigned is a manufacturing
+process, as shown in Figure 8, comprising sensors, tools, actuators, controllers, and networked
+systems [228], then the incremental improvements would involve strategically adding Industry 4.0
+enabling technologies, to ensure optimal performance. The addition of BDA will help in predictive
+modelling to support decision making that can be utilized for ingesting and integrating copious
+amounts of data from the production ﬂoor [229], leading to better production or maintenance planning.
+However, these incremental changes should be guided by Industry 4.0 design principles (Section 3),
+as they will support the IBPM team in identifying and implementing Industry 4.0 scenarios for
+enhanced performance.
+ 
+Figure 8. Manufacturing process in today’s factories.
+On the other hand, designing a new manufacturing process (reengineering) to incorporate Industry
+4.0 enabling technologies will be a massive undertaking, but the eﬀort will be justiﬁed with the rewards.
+This step can also be informed by the interdependence analysis and the VAA done for the redesigned
+process, but the focus should be on designing the workﬂow by incorporating Industry 4.0 technologies.
+It is highly recommended to include industry experts to aid in the design phase, as incorporating the
+full breadth of Industry 4.0 is still a work in progress. Most industrial installations today making use
+of IoT concepts typically embed sensors in manufacturing equipment or tag products with RFID tags.
+The data coming from these devices undergo comparatively little analysis. This is only the beginning
+step. The real value in these systems comes from using an information system to analyze the IoT data,
+then using the information to make informed decisions. This is one of the reasons why the reengineered
+design should be developed with the help of experts and should incorporate the capabilities of the
+associated digital technologies. Using the example of a manufacturing process, the new design will lead
+to the development of CPS (Section 2.10) in manufacturing called cyber manufacturing (Section 2.11).
+The 5C architecture of the CPS is shown in Figure 9. The move from today’s manufacturing process
+(Figure 8) to cyber manufacturing (Figure 9) will entail a strict adherence to Industry 4.0 design
+principles (Section 3), to realize the full beneﬁts of digitalization, as shown in Figure 10. There is
+
+--- [PAGE 18] ---
+Designs 2020, 4, 17
+18 of 39
+a need to analyze the newly designed process for KPIs, KRIs, PPIs, and interdependencies, to ensure
+that it can still meet the organizational goals. The newly designed process should go back to the
+‘Process Analysis’ phase and should form its basis as the ‘as-is’ process to be moved to the next phase
+of redesign. This approach will help in the establishment of a singular ‘to-be’ process at the end of
+Phase 4, rather than multiple options with diﬀerent considerations (as shown in Figure 5). The IBPM
+team should not be overwhelmed by the sheer volume and velocity of Industry 4.0 technologies,
+and only focus on incorporating the ones that ﬁt the strategic needs of the organization, or provide
+a solution to the business problem posed in Phase 1. Digital transformation initiatives fail for many
+reasons, e.g., a business trying to do too much without a proper focus or goal, emphasizing on simply
+introducing new technologies without assessing their role within the business, compartmentalizing
+digital initiatives from the rest of the business, or a large-scale implementation of digitalization without
+a realistic view of return on investment [197,230]. The IBPM team should try to avoid these by proper
+planning and continuous communication.
+In either case (process redesign or reengineering), the IBPM team should make a decision based
+on the long-term vision of the organization and the available resources. There is a need to be mindful
+of the alternatives on oﬀer for both options, but the key would be to realistically deﬁne a ‘to-be’ process
+from the ‘as-is’ process in-line with the strategic requirements of the organization, to either move
+gradually or radically towards digital transformation. The requirements and activities needed for
+process redesign and reengineering will be diﬀerent. Therefore, it is crucial not to overlook the VAA
+performed in Phase 3. The IBPM team should focus on reviewing each step of the VAA, develop
+simulation models for the ‘to-be’ process based on the improvements by getting rid of the NVA
+activities, and ﬁnalize an optimal workﬂow for the next phase.
+ 
+Figure 9. Techniques and levels of the 5C (connection, conversion, cyber, cognition, and conﬁguration)
+architecture for cyber-physical systems (CPS).
+
+--- [PAGE 19] ---
+Designs 2020, 4, 17
+19 of 39
+ 
+Figure 10. Beneﬁts of adherence to Industry 4.0 design principles.
+5.5. Phase 5: Streamlining Business Processes
+As described in Phase 4, the ‘to-be’ process could result in process redesign (improvements) or
+a reengineered (new) design, with both options aﬀecting the output from a single business process.
+Therefore, it is vital to streamline other business processes, to ensure that they can still work cohesively
+without causing disruption. For both options (i.e., redesign and reengineering), there could be changes
+in interdependencies between business processes (or departments), as a result of the ‘to-be’ process.
+The IBPM team needs to consider these changes and plan accordingly. Since the output of Phase 4 is
+a single ‘to-be’ process, regardless of whether it was a redesigned process model or a reengineered
+one, it should be streamlined with the associated business processes, to ensure a smooth ﬂow of
+operations throughout the organization. Considering the example of manufacturing (Figure 11) as the
+process of attention, enhancing the manufacturing capacity will automatically increase sales, as more
+products will be made and sold. This will put a strain on the sales department to cope with the increase.
+Similarly, the inventory levels will also go up and the requirement for raw material will increase.
+The cash ﬂow in and out of the organization will increase drastically. Not all organizations can cope
+with a sudden increase like this, and could be adversely aﬀected due to a lack of agility and ﬂexibility
+in their business processes. There need to be provisions put in place by the IBPM team to accommodate
+these changes of the ‘to-be’ process on the entire organization. The team should focus on analyzing the
+‘to-be’ process, examine its outcomes from simulation models, and acquiring feedback from the team
+members and other staﬀto ensure that diﬀerent scenarios and their impact is captured. This is where
+an open, cross-department, collaborative eﬀort is encouraged to identify, analyze, and minimize the
+disruption to associated business processes. The IBPM team can also make use of interdependence
+studies among departments, to develop a holistic understanding of the dependent, interdependent,
+and independent tasks/activities, to aid the streamlining process.
+
+--- [PAGE 20] ---
+Designs 2020, 4, 17
+20 of 39
+ 
+Figure 11. Relationship among diﬀerent business processes.
+5.6. Phase 6: Risk Management and Contingency Planning
+Even though KRIs have been identiﬁed in Phase 3 and then reviewed based on the ‘to-be’ process,
+there is a need to incorporate risk management and contingency planning as a precursor to the next
+phases. Industry 4.0 builds complex, dynamic, and real-time connections between humans and systems
+for enhanced performance. These activities generate large data volumes in real-time, which causes
+new requirements of the infrastructure, management, and technologies. This could be viewed as more
+reasons to worry and more things that can go wrong than ever before [173–177]. The IBPM team should
+incorporate methods of avoiding, mitigating, transferring, and accepting risks. Risk intelligence is
+needed to collate information, to identify, assess, and treat risks [178,179,231]. Risks can be identiﬁed
+through brainstorming (group activity for the generation of a large number of ideas), premortem
+(imagining failure and listing the probable reasons), or counterfactual thinking (evaluating choices that
+were not made). A risk analysis can be done through developing a risk register, that includes evaluating
+risk probability and its impact. It is common practice for any new project to develop a risk register that
+quantiﬁes the risk in terms of probability and impact followed by mitigation plans. The IBPM team
+should make use of this approach and record the probability and impact of their activities towards
+digital transformation. A sample risk assessment is shown in Figure 12 for Industry 4.0 implementation.
+The IBPM team should employ systems thinking approach that allows envisioning broad end-to-end
+impacts. For example, a cascading failure starts small, but becomes large with time and spreads across
+a system as a chain reaction of interconnected parts. Industry 4.0 is all about interconnectedness,
+therefore, the IBPM team must consider such failure modes as well [232]. Risk management includes
+steps before a risk occurs, whereas contingency planning focuses on steps to be taken if, or when, a risk
+occurs [233]. Both are crucial to maintaining and mitigating risks to the business. One major aspect of
+mitigating risks is knowing what to do when a risk occurs. This means that contingency planning can
+be considered as a component of risk management. Since the organization is moving in an unfamiliar
+direction with Industry 4.0, it is necessary to develop contingency plans for the identiﬁed and common
+risks (e.g., natural disaster or data losses) and communicate them to the employees.
+
+--- [PAGE 21] ---
+Designs 2020, 4, 17
+21 of 39
+ 
+Figure 12. Sample risk assessment.
+5.7. Phase 7: Skills Gap Analysis
+There are many uncertainties around Industry 4.0, ranging from the lack of a proper deﬁnition
+to how it should be implemented, and whether organizations are ready for such a change [234,235].
+There have also been initiatives to deal with such uncertainties and one such initiative is called Work
+4.0. This is an umbrella term that encompasses and discusses the challenges of changing work due
+to Industry 4.0 enabling technologies and the possibility of widespread digitalization [236]. One of
+the key challenges highlighted in the framework of Work 4.0 is Industry 4.0 and human-machine
+interaction [237].
+This raises serious concerns about job losses, the erosion of skills, and work
+intensiﬁcation, to meet the technological demands of the business. Considering this challenge, it is
+imperative to invest in boosting skills and improving individual prospects for advancement at an early
+stage. The target for such a skills upgrade should not only be low-skilled workers or the people directly
+responsible for technical work, but the organization as a whole, to ensure that everyone can participate
+in value creation. This is why the IBPM team should conduct a skills gap analysis, to analyze the
+existing skills of the workforce and the required skills, based on the strategic goals of the organization.
+In the beginning, the focus should be on the workforce directly involved with the business process being
+investigated, and then should spread out evenly throughout the organization. It is widely reported
+that organizations are struggling to ensure that their workforce possesses the skills required to thrive
+in the Industry 4.0 landscape [238,239]. It is not a matter of simply attracting the right talent with the
+required skills and retaining them, but also developing the skillset of the existing workforce. This needs
+a cultural shift where the organization takes initiative to upskill its workforce, rather than expecting
+people to develop themselves in their own time. Due to the uncertainty around Industry 4.0 skills,
+even senior management ﬁnds it hard to gauge the required skills [240]. This is because technologies
+such as BDA, robotics, and IoT are rapidly changing the workplace. Considering manufacturing as
+an example, the IBPM team should analyze aspects such as what the activities are, what skills the
+existing workforce possess, what tools assist them in their work, what happens in a normal working day,
+and compare them to what these would look like in a digital world. Based on this analysis, the IBPM
+team should utilize established frameworks to gauge workforce skills and plan workshops for their
+development. Worker 4.0 is such a framework that highlights the hybrid competencies (a mixture of
+adaptive, technological, and technical skills) that the future workforce should possess [165]. The skills
+are highlighted in Figure 13 to show the variety of competencies needed to succeed in the digital
+age. In addition to the Worker 4.0 concept, there is also the concept of Operator 4.0, that represents
+the ‘operator of the future’, a smart and skilled operator who performs ‘work aided by machines’,
+if and as needed [166–172]. This framework is more focused on the technological side of Industry 4.0.
+For example, an analytical operator who uses BDA [241], an augmented operator who uses AR [167],
+and a smarter operator who uses AI-based technologies [242]. These are also informed by Industry 4.0
+
+--- [PAGE 22] ---
+Designs 2020, 4, 17
+22 of 39
+design principles; therefore, they should be the primary focus of the IBPM team during this phase.
+For example, an analytical operator can support system integration, an augmented operator can
+support modularity, and a smarter operator can support decentralization. To support the workforce in
+developing such hybrid skills and competencies, the IBPM team should plan for workshops built on
+theories of motivation, communication, and futures studies related to the anticipation of future change
+to make the workforce future literate [243]. Future literacy is important, as it can help the workforce in
+identifying their developmental needs to be eﬀective in the digital world. These workshops need to be
+planned, managed, and delivered with clear objectives, to ensure a successful outcome for both the
+workforce and the organization.
+ 
+Figure 13. Worker of the future’s hybrid competencies.
+5.8. Phase 8: Change Management
+This is perhaps the most crucial phase, as mismanagement here would be catastrophic to the
+business. Change management is a collective term for all approaches to prepare, support, and help
+individuals, teams, and organizations in making organizational changes [244]. Moving towards digital
+transformation is a major change, and it will naturally create resistance and restlessness throughout the
+organization, with people being afraid of losing their jobs, not getting promoted promptly, or refusing
+to change their traditional ways of working. The IBPM team will need to manage the move towards
+Industry 4.0 very carefully, by focusing on the workforce. People are complicated and this is never
+more evident than when dealing with a change [245]. Changes can be unexpected or intentional.
+The former would be the case when making changes due to the pandemic of COVID-19 [246], whereas
+the latter would be something like implementing Industry 4.0 knowingly and willingly. In case of this
+intentional change, the role of the IBPM team is to ensure that they develop a formal approach for
+managing change by collating the data and opinions of key stakeholders at an early stage, and stay
+proactive in updating that data pool and the relevant stakeholders [180,181]. Change management
+needs to include every part of the organization to ensure that there is ample support available during
+uncertain times, as this would be crucial in retaining skilled individuals [182,183]. The IBPM team
+should present a formal case to highlight the need for change and its subsequent impact in an open
+setting and articulate how it ﬁts with the strategic goals of the organization [184]. This could be
+extremely challenging, and the team could face severe backlash if their approach is not open and
+
+--- [PAGE 23] ---
+Designs 2020, 4, 17
+23 of 39
+honest [185,186]. This is where the IBPM team needs to be proactive and assess the cultural landscape
+beforehand, to understand how change has been managed in the past. This can serve as a baseline for
+designing essential change elements and can also help in establishing a contingency plan (discussed in
+Phase 6). The IBPM team needs to eﬀectively manage this change through a continual reassessment
+of its impact and the organization’s willingness, as well as the ability to adapt to the next wave of
+transformation [247–249].
+There are diﬀerent well-established models for understanding, planning, implementing,
+and communicating change, e.g., Lewin’s change management model, McKinsey 7S model, Kotter’s
+change management theory, and ADKAR model. The IBPM team should choose the one that they
+understand and are conﬁdent in implementing. For example, Lewin’s change management model can
+be used, that comprises three steps of unfreeze, change, and refreeze. ‘Unfreeze’ entails preparing the
+organization to accept that change is necessary, which involves breaking down the existing status quo
+before building up a new way of operations. ‘Change’ state requires time and eﬀective communication
+to ensure that new ways are being implemented, with proper justiﬁcations and the workforce being
+aware of how this change meets the organizational objectives. When the changes are taking shape and
+people have embraced the new ways of working, the organization is ready to ‘refreeze’ by documenting
+and standardizing the new protocols [250,251]. Humans are the major challenge in managing change,
+because of their natural tendency to resist it, as it could mean moving away from the norm, or doing
+more than what they are used to doing on a normal working day. The IBPM team can manage
+this through the Prosci ADKAR model. ADKAR is an acronym for awareness, desire, knowledge,
+ability, and reinforcement [252]. According to the model, the process of becoming ready for change
+is sequential, starting from the current level of each individual, and none of the ﬁve steps could be
+avoided, skipped, or reordered [253]. This can work well, as the ﬁrst three could be gauged by the skills
+gap analysis in Phase 7, whereas the last two can be instilled through the workshops in Phase 7 planned
+by the IBPM team. This shows a complete synergy of activities within diﬀerent phases, where one
+phase complements the other in the framework of integrated business process management.
+There is also an underlying issue that should be addressed by the IBPM team. Change management
+is often viewed as a project with a deﬁnitive start, middle, and endpoints. However, in the digital
+age, with the accelerated developments and technological advancements, there would be no end to
+change management, as it would be an on-going eﬀort. The IBPM team can lay the foundation for
+this by fostering a mindset that can accept and appreciate the fact that change in this day and age
+is characterized by ongoing and overlapping transitions at a rapid rate. Business leaders should
+learn to manage continuous states and operate with a dynamic change-readiness approach [254,255].
+Through this change management regime, the IBPM team can sow the seeds for adoption management.
+There needs to be a change in the internal mindset, to focus on prioritizing a state of continuous
+evolution and adjustment on the go [256]. Adoption management is about creating lasting change
+through culture, education, and technology that can lead to continuous change [257]. This would be
+a challenging task, and therefore, the IBPM team should design a change management strategy with
+clear indicators of adoption management, to gradually change the mindset of the workforce, and senior
+management to instill the idea that there is no end to change and it needs to be managed continuously
+in a dynamic manner and in-line with the organizational goals.
+5.9. Phase 9: Cost-Beneﬁt Analysis
+One of the main barriers to Industry 4.0 adoption is the inability to realistically estimate the value
+it would bring to an organization [22,190–192]. Converting beneﬁts to monetary value is considered
+to be extremely challenging, because most managers themselves are unaware of what Industry 4.0
+technologies can do, and in what areas it can beneﬁt their organization [193,258]. There are several
+tools available that can guide one through the diﬀerent steps to calculate return on investment (ROI),
+payback period (PP), and beneﬁts to cost ratio (BCR). It is highly dependent on how in-depth analysis
+the organization intends to perform, keeping in mind that the more thorough the analysis is, the more
+
+--- [PAGE 24] ---
+Designs 2020, 4, 17
+24 of 39
+resources would need to be deployed to collate data. In this phase, the IBPM team needs to consider
+every single beneﬁt that can result by employing Industry 4.0 enabling technologies, convert the
+beneﬁts into monetary value, and judge against the associated costs. Typically, envisioning beneﬁts is
+the most diﬃcult aspect of such estimations, as people ﬁnd it easier to estimate costs [259]. The IBPM
+team should consider taking advantage of the external Industry 4.0 experts hired in Phase 4, to ensure
+that they can identify appropriate beneﬁts and then use process owners to quantify those beneﬁts and
+discuss the costs of implementation.
+ROI requires a comprehensive evaluation of the collected data, therefore, the IBPM team should
+consider using an established and well-structured framework for their analysis. One such approach is
+called Phillips ROI Methodology™, comprising 10 steps divided into four phases [260]. The ﬁrst phase
+is evaluation planning, consisting of two steps, i.e., developing project objectives and evaluation plans.
+The second phase is called data collection and comprises two steps, i.e., collecting data before/during
+and after project implementation. The third phase is data analysis and is the most challenging one
+with ﬁve steps, i.e., isolating project eﬀects, capturing project costs, converting data to monetary
+value, calculations for ROI, PP, or BCR, and ﬁnally, identifying intangible beneﬁts. The last phase is
+the reporting phase that deals with developing and disseminating the results of the implementation
+to stakeholders (internal and external). This is quite a comprehensive approach and takes sound
+planning, data collation activities, and analysis methodologies. The IBPM team needs to conduct
+several interviews, surveys, record the opinions of the workforce on diﬀerent matters, and most
+importantly, put resources in place to collate data [261]. It is to be noted that certain criteria in
+quantifying the beneﬁts are subjective to the situation and nature of the business, hence, the people
+involved in the calculation process must acknowledge the complexity and situational variables to
+arrive at an optimal result [262]. The IBPM team should also ensure that there are no exaggerations in
+beneﬁts calculations or associated costs [263].
+The IBPM team needs to consider every single aspect of a speciﬁc Industry 4.0 technology
+separately ﬁrst, and then in combination with others, to develop a holistic understanding of the beneﬁts.
+Phillips ROI Methodology™is an example to show that a structured method should be followed,
+to ensure that a realistic cost-beneﬁt estimation can be achieved. There are several methods available in
+the literature that take into consideration other factors, such as phased investments with over one-year
+PP [264], and calculating net present value or internal rate of return [265]. However, converting
+data to monetary value is common to all methods, regardless of the ﬁnal inference. If we consider
+an example of a manufacturing process where diﬀerent parts require manual assembly by operators
+and plan to employ augmented reality to expedite their performance, then a cost-beneﬁt analysis
+can be undertaken. Firstly, there is extensive literature on increased worker performance using AR
+protocols [52–58] that the IBPM team should consider. Secondly, this example also works well with the
+‘augmented operator’ in the Operator 4.0 framework discussed in Phase 7, that shows compliance with
+established Industry 4.0 protocols, that should make the identiﬁcation and subsequent analysis easier.
+The approach should be to analyze what is being changed, what eﬀect it will have, and what will be its
+signiﬁcance. The diﬃculty would not only be in identifying beneﬁts, but realistically quantifying them
+as well. Table 3 shows an example breakdown of some beneﬁts and costs associated with employing
+AR, to develop the concept of an augmented operator on the shop ﬂoor. The IBPM team should
+conduct similar extensive cost-beneﬁt analysis in this phase, based on the ‘to-be’ process developed in
+Phase 4 through simulation models. This will form the basis for the next phase, where the simulations
+will be validated through pilot runs before moving to full-scale implementation.
+
+--- [PAGE 25] ---
+Designs 2020, 4, 17
+25 of 39
+Table 3. Identiﬁcation of project costs.
+#
+Beneﬁts
+Monetary Value
+1
+Improvements in proﬁt due to the reduction of assembly time
+X1
+2
+Error reductions
+X2
+3
+Time savings
+X3
+4
+Increased performance
+X4
+5
+Faster learning for existing and new workers
+X5
+6
+More products assembled during a normal working shift
+X6
+7
+Intangible beneﬁts (higher employee satisfaction/engagement,
+reduction of stress in employees, teamwork, job satisfaction)
+—
+Total
+XX
+Costs
+Monetary Value
+1
+Special software and hardware
+Y1
+2
+Storage capacity for data and hardware in speciﬁc digital and
+physical spaces, respectively
+Y2
+3
+Training of individuals
+Y3
+Total
+YY
+Calculations
+Results
+ROI = XX−YY
+YY
+∗100
+ZZ%
+PP = YY
+XX ∗12
+ZZ months
+BCR = YY
+XX
+ZZ:1
+5.10. Phase 10: Process Validation and Implementation
+This phase focuses on validating the simulation models developed in Phase 4 to an acceptable level
+of diﬀerence. Depending upon the level of detail and the complexities of the ‘to-be’ process, several
+scaled pilot runs could be conducted, to ensure the seamless integration of all the deﬁned strategies
+from Phase 1. The IBPM team should plan and conduct a pilot run, as it can help in minimising failure
+risks, providing more eﬀective control, conﬁrming or disproving established interdependencies in
+Phase 3, identifying additional improvements in either the solution or implementation launch itself,
+and improving future projections of beneﬁts of full-scale implementation [266,267]. The team should
+ensure that the pilot is reversible and does not signiﬁcantly disrupt the normal business processes.
+It should involve proper planning, clear goals, assign responsibilities, budgeting, data collation
+methods, and measurement protocols for comparisons with the required targets. Communication is
+the key to ensure that everyone is on-board and plays their role appropriately. The pilot ‘to-be’ system
+should be exposed to a variety of inputs and process conditions. The IBPM team should systematically
+analyze the diﬀerences between the predicted performance and the actual performance after the pilot
+run, to identify improvement opportunities [268].
+After validating the simulation models through pilot runs, the results should be communicated to
+stakeholders and their feedback should be recorded [269]. This should form the basis for a full-scale
+implementation plan. The plan should be adjusted based on the results, analyses, and opportunities
+from the pilot run and for the diﬀerence in the scale of the rollout. The IBPM team should identify
+factors favoring/opposing the full-scale implementation, and recognize implications, as well as risks,
+from failing to address the obstacles. There is also a need to conduct another cost-beneﬁt analysis,
+to ensure that a full-scale implementation is a viable option for the organization. It could be the case
+that the organization is happy to continue running a scaled model parallel to their existing business
+processes and intends to integrate the ‘to-be’ process gradually, over a longer period than previously
+
+--- [PAGE 26] ---
+Designs 2020, 4, 17
+26 of 39
+planned. This could be due to a lack of resources, a huge skills gap, resistance from the workforce,
+or lack of ﬂexibility and agility in the existing business processes.
+The successful validation of the ‘to-be’ business process model should lead to full-scale
+implementation. If the organization is happy with the results, then the IBPM team should plan
+a full-scale pilot, by following the same protocols used in the scaled pilot run. The full-scale pilot
+of the ‘to-be’ process would be a permanent deployment that delivers fully on the organizational
+goals. Change management will be a key factor here, and that is why it was addressed in Phase 8,
+with a focus on adoption management. The IBPM team should look to include more senior management
+staﬀat this point, and some members from the original IBPM team should be trained to become
+‘digital champions’, to continue the transformation by creating a sense of ownership among the
+workforce [22,270]. After the successful implementation of the ‘to-be’ business process, data should
+be collated, and the matrices should be compared with Phase 1, to ensure that the project yielded
+the required results for the organization. The operating procedures should be documented and
+standardized. A future management plan should be developed by the IBPM team, to continuously
+monitor the new process, address the training needs of the workforce, and identify opportunities for
+improvements [271].
+5.11. Phase 11: Process Monitoring and Controlling
+Once the ‘to-be’ business process is running, relevant data should be collated by the IBPM team to
+perform a post-implementation review of the new process for continuous improvements. The data
+should be analyzed to determine the eﬃcacy of the new process concerning its performance measures
+and objectives. Common issues in manufacturing systems such as bottlenecks, recurrent errors,
+or deviations should be identiﬁed, and corrective actions should be undertaken. The ﬁndings of the
+monitoring and evaluation should be shared within the organization to serve as feedback into the
+iterative IBPM improvement lifecycle. As time goes by, new issues may arise in the same or in other
+business processes that would require the IBPM cycle to be repeated again. The IBPM team should
+focus on three aspects in this phase i.e., the performance of the processes, process management, and of
+the organization as a whole. Process monitoring and controlling is an on-going activity and should
+be employed to aid in continuous improvement of business processes. There are several approaches
+capable of providing the intended beneﬁts. Lean six sigma approaches would be a good ﬁt. In this
+case, DMAIC (deﬁne, measure, analyze, improve, control) would work well and is a well-established
+and commonly used BPM tool [272–274].
+6. Conclusions
+The adoption of Industry 4.0 is no longer a choice. It has become a necessity for businesses to
+succeed in the market. This has created serious doubts and concerns over the right time and approach
+for digital transformation. The lack of standardized implementation protocols is a major limiting
+factor. This paper has presented a conceptual framework termed as integrated business process
+management, that can help manufacturing organizations transition from traditional manufacturing
+to Industry 4.0.
+The framework has incorporated under-investigated factors to ensure that the
+organizations are minimizing their risk of failure. The use of the business process management
+method gives manufacturers a sense of familiarity, as they have been employing these principles
+for decades.
+Major reasons for the rejection of Industry 4.0 implementation methodologies by
+manufactures are fear of the unknown and resistance to change, whereas the use of business process
+management can mitigate them. The framework has presented a structured approach with clearly
+deﬁned phases and associated challenges to ensure that it can reduce the uncertainty around Industry
+4.0 implementation. The pandemic of COVID-19 has expedited the planning phase, with organizations
+moving swiftly towards Industry 4.0 implementation. In this context, the integrated business process
+management framework can prove beneﬁcial and can serve as a good template to drive business-speciﬁc
+objectives forward.
+
+--- [PAGE 27] ---
+Designs 2020, 4, 17
+27 of 39
+The proposed IBPM framework diﬀers from the traditional BPM method in a couple of ways.
+Firstly, it incorporates factors that are often overlooked in Industry 4.0 implementation, e.g., skills
+gap analysis, risk management, contingency planning, change management, and cost-beneﬁt analysis.
+It shows their signiﬁcance and how they should be incorporated to ensure that a smooth transition is
+achieved. Secondly, it does not show over-reliance on technological tools for the implementation, but
+provides a more human-centric approach to analyze issues and develop rational solutions. BPM is
+an established method, and has been used for decades by manufactures to ensure that their business
+processes are eﬃcient and eﬀective. It is one of the most comprehensive and encompassing concepts
+available for businesses to generate a competitive advantage through cost reduction, process excellence,
+and continuous process improvement. That is why it was chosen as the basis of the IBPM approach to
+support digital transformation in the manufacturing sector. The IBPM framework provides eﬀective
+governance (static and dynamic) to direct the digital transformation by considering the core elements
+of BPM, i.e., strategic alignment, governance, methods, information technology, people, and culture.
+It further involves intricate features (e.g., ﬁscal, risk/change management, hybrid competencies) that
+can help in developing an agile culture throughout the organization based on digital technologies.
+Digitalization, IoT, and big data analytics are just a few of the disruptions that require radically
+rethinking the way business processes operate. The pace of change is increasing with business
+processes continuously evolving to meet customer requirements. Under these circumstances, it is
+critical for BPM to evolve as well, to accommodate such changes. IBPM should be considered as
+an evolved version of BPM, as a response to the rapid technological changes that have signiﬁcantly
+transformed the manufacturing sector. The phases of IBPM have been discussed in Section 5 and
+they show complete synergy of activities, where one phase complements the other to support digital
+transformation in the manufacturing sector. The associated challenges that manufacturing organizations
+may face while transitioning into Industry 4.0-enabled digital enterprises have also been highlighted,
+and appropriate solutions based on literature have been presented to mitigate them.
+It is to be noted that there are no standardized protocols for Industry 4.0 implementation, and any
+implementation strategy, such as IBPM proposed in this work, should be adapted based on the
+nature of the business, its complexities, and interdependencies to ensure a favorable outcome. On the
+other hand, ineﬀective management of such a framework could lead to signiﬁcant losses in revenue,
+customers, and intellectual property. Solutions to diﬀerent challenges have been presented in this work,
+that should be used to manage the digital transformation eﬀectively and to develop business-speciﬁc
+solutions. The integrated business process management framework presented in this paper can support
+the manufacturing organizations in their pursuit of digital transformation. It is deeply rooted in BPM
+that can minimize resistance towards its adoption and can give the conﬁdence to expedite the move
+towards Industry 4.0. The next stage of the work would be the implementation of the IBPM framework
+in a manufacturing organization for digital transformation.
+Funding: This research did not receive any external funding.
+Conﬂicts of Interest: There is only one author; hence, there is no conﬂict of interest.
+References
+1.
+Khan, S. Leadership in the Digital Age: A Study on the Eﬀects of Digitalisation on Top Management
+Leadership. Master’s Thesis, Stockholm University, Stockholm, Sweden, 2016.
+2.
+Ghobakhloo, M. The future of manufacturing industry: A strategic roadmap toward Industry 4.0. J. Manuf.
+Technol. Manag. 2018, 29, 910–936. [CrossRef]
+3.
+Hermann, M.; Pentek, T.; Otto, B. Design principles for industrie 4.0 scenarios. In Proceedings of the 2016
+49th Hawaii International Conference on System Sciences (HICSS), Koloa, HI, USA, 5–8 January 2016; IEEE:
+Koloa, HI, USA, 2016; pp. 3928–3937.
+4.
+Sarı, T.; Güle¸s, H.K.; Yi˘gitol, B. Awareness and readiness of Industry 4.0: The case of Turkish manufacturing
+industry. Adv. Prod. Eng. Manag. 2020, 15, 57–68.
+
+--- [PAGE 28] ---
+Designs 2020, 4, 17
+28 of 39
+5.
+Butt, J. Exploring the interrelationship between additive manufacturing and Industry 4.0. Designs 2020, 4, 13.
+[CrossRef]
+6.
+Basl, J. Pilot study of readiness of Czech companies to implement the principles of Industry 4.0. Manag. Prod.
+Eng. Rev. 2017, 8, 3–8. [CrossRef]
+7.
+Machado, C.G.; Winroth, M.; Carlsson, D.; Almström, P.; Centerholt, V.; Hallin, M. Industry 4.0 readiness in
+manufacturing companies: Challenges and enablers towards increased digitalization. Procedia CIRP 2019,
+81, 1113–1118. [CrossRef]
+8.
+Available online: https://slcontrols.com/beneﬁts-of-industry-4-0/ (accessed on 20 May 2020).
+9.
+Ardolino, M.; Rapaccini, M.; Saccani, N.; Gaiardelli, P.; Crespi, G.; Ruggeri, C. The role of digital technologies
+for the service transformation of industrial companies. Int. J. Prod. Res. 2018, 56, 2116–2132. [CrossRef]
+10.
+Moeuf, A.; Pellerin, R.; Lamouri, S.; Tamayo-Giraldo, S.; Barbaray, R. The industrial management of SMEs in
+the era of Industry 4.0. Int. J. Prod. Res. 2018, 56, 1118–1136. [CrossRef]
+11.
+Heavin, C.; Power, D.J. Challenges for digital transformation–towards a conceptual decision support guide
+for managers. J. Decis. Syst. 2018, 27 (Suppl. 1), 38–45. [CrossRef]
+12.
+McKinsey & Co. Digital Manufacturing: The Revolution will be Virtualized. 2015. Available online:
+https://www.mckinsey.com/business-functions/operations/our-insights/digital-manufacturing-the-
+revolution-will-be-virtualized (accessed on 18 June 2020).
+13.
+Ardito, L.; Petruzzelli, A.M.; Panniello, U.; Garavelli, A.C. Towards Industry 4.0: Mapping digital technologies
+for supply chain management-marketing integration. Bus. Process Manag. J. 2019, 25, 323–346. [CrossRef]
+14.
+Frank, A.G.; Mendes, G.H.; Ayala, N.F.; Ghezzi, A. Servitization and Industry 4.0 convergence in the digital
+transformation of product ﬁrms: A business model innovation perspective. Technol. Forecast. Soc. Chang.
+2019, 141, 341–351. [CrossRef]
+15.
+Available online: https://ec.europa.eu/growth/tools-databases/dem/monitor/tags/industry-40 (accessed on
+20 May 2020).
+16.
+Available online: https://innovateuk.blog.gov.uk/2017/03/28/what-does-the-fourth-industrial-revolution-4ir-
+mean-for-uk-business/ (accessed on 20 May 2020).
+17.
+Urciuoli, L.; Hintsa, J.; Ahokas, J. Drivers and barriers aﬀecting usage of e-Customs—A global survey with
+customs administrations using multivariate analysis techniques. Gov. Inf. Q. 2013, 30, 473–485. [CrossRef]
+18.
+Available
+online:
+https://northsearegion.eu/growin4/about-the-growin-40-project/
+(accessed
+on
+20 May 2020).
+19.
+Müller, J.M.; Däschle, S. Business model innovation of industry 4.0 solution providers towards customer
+process innovation. Processes 2018, 6, 260. [CrossRef]
+20.
+Zhu, Q.; Geng, Y. Drivers and barriers of extended supply chain practices for energy saving and emission
+reduction among Chinese manufacturers. J. Clean. Prod. 2013, 40, 6–12. [CrossRef]
+21.
+Available
+online:
+https://www.industry.gov.au/funding-and-incentives/industry-40
+(accessed
+on
+20 May 2020).
+22.
+Butt, J. A Strategic Roadmap for the Manufacturing Industry to Implement Industry 4.0. Design 2020, 4, 11.
+[CrossRef]
+23.
+Sony, M. Industry 4.0 and lean management: A proposed integration model and research propositions.
+Prod. Manuf. Res. 2018, 6, 416–432. [CrossRef]
+24.
+Apostolou, D.; Mentzas, G.; Stojanovic, L.; Thoenssen, B.; Lobo, T.P. A collaborative decision framework for
+managing changes in e-Government services. Gov. Inf. Quart. 2011, 28, 101–116. [CrossRef]
+25.
+Zhang, C.; Liu, H.; Zheng, J. The model of BPM based on six sigma and its application on material delivery
+of discrete manufacturing enterprise. In Proceedings of the 2011 International Conference of Information
+Technology, Computer Engineering and Management Sciences, Nanjing, China, 24–25 September 2011;
+Volume 4, pp. 122–125.
+26.
+Pessl, E.; Sorko, S.R.; Mayer, B. Roadmap Industry 4.0–implementation guideline for enterprises. Int. J. Sci.
+Technol. Soc. 2017, 5, 193–202. [CrossRef]
+27.
+Colli, M.; Madsen, O.; Berger, U.; Møller, C.; Wæhrens, B.V.; Bockholt, M. Contextualizing the outcome of
+a maturity assessment for Industry 4.0. IFAC-Pap. 2018, 51, 1347–1352. [CrossRef]
+28.
+Butt, J.; Shirvani, H. Additive, subtractive, and hybrid manufacturing processes. In Advances in Manufacturing
+and Processing of Materials and Structures; CRC Press: Boca Raton, FL, USA, 2018; pp. 187–218.
+
+--- [PAGE 29] ---
+Designs 2020, 4, 17
+29 of 39
+29.
+Butt, J.; Shirvani, H. Experimental analysis of metal/plastic composites made by a new hybrid method.
+Addit. Manuf. 2018, 22, 216–222. [CrossRef]
+30.
+Butt, J.; Onimowo, D.A.; Gohrabian, M.; Sharma, T.; Shirvani, H. A desktop 3D printer with dual extruders
+to produce customised electronic circuitry. Front. Mech. Eng. 2018, 13, 528–534. [CrossRef]
+31.
+Butt, J.; Hewavidana, Y.; Mohaghegh, V.; Sadeghi-Esfahlani, S.; Shirvani, H. Hybrid Manufacturing and
+Experimental Testing of Glass Fiber Enhanced Thermoplastic Composites. J. Manuf. Mater. Process. 2019,
+3, 96. [CrossRef]
+32.
+Butt, J.; Bhaskar, R. Investigating the Eﬀects of Annealing on the Mechanical Properties of FFF-Printed
+Thermoplastics. J. Manuf. Mater. Process. 2020, 4, 38. [CrossRef]
+33.
+Butt, J.; Ghorabian, M.; Mohaghegh, V.; Shirvani, H. Finite Element Modeling and Mechanical Testing of
+Metal Composites Made by Composite Metal Foil Manufacturing. J. Manuf. Mater. Process. 2019, 3, 81.
+[CrossRef]
+34.
+Leal, R.; Barreiros, F.M.; Alves, L.; Romeiro, F.; Vasco, J.C.; Santos, M.; Marto, C. Additive manufacturing
+tooling for the automotive industry. Int. J. Adv. Manuf. Technol. 2017, 92, 1671–1676. [CrossRef]
+35.
+Yakout, M.; Cadamuro, A.; Elbestawi, M.A.; Veldhuis, S.C. The selection of process parameters in additive
+manufacturing for aerospace alloys. Int. J. Adv. Manuf. Technol. 2017, 92, 2081–2098. [CrossRef]
+36.
+Youssef, A.; Hollister, S.J.; Dalton, P.D. Additive manufacturing of polymer melts for implantable medical
+devices and scaﬀolds. Biofabricatio 2017, 9, 012002. [CrossRef]
+37.
+Strano, G.; Hao, L.; Everson, R.M.; Evans, K.E. A new approach to the design and optimisation of support
+structures in additive manufacturing. Int. J. Adv. Manuf. Technol. 2013, 66, 1247–1254. [CrossRef]
+38.
+Langelaar, M. Topology optimization of 3D self-supporting structures for additive manufacturing.
+Addit. Manuf. 2016, 12, 60–70. [CrossRef]
+39.
+Butt, J.; Ghorabian, M.; Ahmed, A.; Shirvani, H. Finite element modelling and validation of thermomechanical
+behaviour for layered aluminium parts made by composite metal foil manufacturing. J. Compos. Sci. 2018,
+2, 68. [CrossRef]
+40.
+Available online: https://3dprintingindustry.com/news/3d-printing-community-responds-to-covid-19-and-
+coronavirus-resources-169143/ (accessed on 21 April 2020).
+41.
+Kok, Y.; Tan, X.P.; Wang, P.; Nai, M.L.S.; Loh, N.H.; Liu, E.; Tor, S.B. Anisotropy and heterogeneity of
+microstructure and mechanical properties in metal additive manufacturing: A critical review. Mater. Des.
+2018, 139, 565–586. [CrossRef]
+42.
+Tamura, H. Steady steps and giant leap toward practical mixed reality systems and applications.
+In Proceedings of the International Status Conference on Virtual and Augmented Reality, Leipzig, Germany,
+5 November 2002; pp. 3–12.
+43.
+Jung, T.; tom Dieck, M.C. Augmented Reality and Virtual Reality; Empowering Human, Place and Business;
+Springer International Publishing: Cham, Switzerland, 2018.
+44.
+Tepper, O.M.; Rudy, H.L.; Lefkowitz, A.; Weimer, K.A.; Marks, S.M.; Stern, C.S.; Garfein, E.S. Mixed reality
+with HoloLens: Where virtual reality meets augmented reality in the operating room. Plast. Reconstr. Surg.
+2017, 140, 1066–1070. [CrossRef] [PubMed]
+45.
+Bonetti, F.; Warnaby, G.; Quinn, L. Augmented reality and virtual reality in physical and online
+retailing: A review, synthesis and research agenda. In Augmented Reality and Virtual Reality; Springer:
+Cham, Switzerland, 2018; pp. 119–132.
+46.
+Chavan, S.R. Augmented reality vs. virtual reality: Diﬀerences and similarities. Int. J. Adv. Res. Comput.
+Eng. Technol. 2016, 5, 212611467.
+47.
+Gracia, L.; Perez-Vidal, C.; Mronga, D.; de Paco, J.M.; Azorin, J.M.; de Gea, J. Robotic manipulation for the
+shoe-packaging process. Int. J. Adv. Manuf. Technol. 2017, 92, 1053–1067. [CrossRef]
+48.
+Chi, H.L.; Kang, S.C.; Wang, X. Research trends and opportunities of augmented reality applications in
+architecture, engineering, and construction. Autom. Constr. 2013, 33, 116–122. [CrossRef]
+49.
+Gervautz, M.; Schmalstieg, D. Anywhere interfaces using handheld augmented reality. Computer 2012,
+45, 26–31. [CrossRef]
+50.
+Zhou, F.; Duh, H.B.L.; Billinghurst, M. Trends in augmented reality tracking, interaction and display:
+A review of ten years of ISMAR. In Proceedings of the 2008 7th IEEE/ACM International Symposium on
+Mixed and Augmented Reality, Cambridge, UK, 15–18 September 2008; IEEE: Piscataway, NJ, USA, 2008;
+pp. 193–202.
+
+--- [PAGE 30] ---
+Designs 2020, 4, 17
+30 of 39
+51.
+Piumsomboon, T.; Altimira, D.; Kim, H.; Clark, A.; Lee, G.; Billinghurst, M. September. Grasp-Shell vs.
+gesture-speech: A comparison of direct and indirect natural interaction techniques in augmented reality.
+In Proceedings of the 2014 IEEE International Symposium on Mixed and Augmented Reality (ISMAR),
+Munich, Germany, 10–12 September 2014; IEEE: Piscataway, NJ, USA, 2014; pp. 73–82.
+52.
+Nee, A.Y.; Ong, S.K.; Chryssolouris, G.; Mourtzis, D. Augmented reality applications in design and
+manufacturing. CIRP Ann. 2012, 61, 657–679. [CrossRef]
+53.
+Akçayır, M.; Akçayır, G. Advantages and challenges associated with augmented reality for education:
+A systematic review of the literature. Educ. Res. Rev. 2017, 20, 1–11. [CrossRef]
+54.
+Wake, N.; Bjurlin, M.A.; Rostami, P.; Chandarana, H.; Huang, W.C. Three dimensional printing and
+augmented reality: Enhanced precision for robotic assisted partial nephrectomy. Urology 2018, 116, 227–228.
+[CrossRef]
+55.
+Lima, J.P.; Roberto, R.; Simões, F.; Almeida, M.; Figueiredo, L.; Teixeira, J.M.; Teichrieb, V. Markerless tracking
+system for augmented reality in the automotive industry. Expert Syst. Appl. 2017, 82, 100–114. [CrossRef]
+56.
+Poushneh, A.; Vasquez-Parraga, A.Z. Discernible impact of augmented reality on retail customer’s experience,
+satisfaction and willingness to buy. J. Retail. Consum. Serv. 2017, 34, 229–234. [CrossRef]
+57.
+Chen, Y.P.; Ko, J.C. CryptoAR Wallet:
+A Blockchain Cryptocurrency Wallet Application that Uses
+Augmented Reality for On-chain User Data Display. In Proceedings of the 21st International Conference on
+Human-Computer Interaction with Mobile Devices and Services, Taipei, Taiwan, 1–4 October 2019; pp. 1–5.
+58.
+Yung, R.; Khoo-Lattimore, C. New realities: A systematic literature review on virtual reality and augmented
+reality in tourism research. Curr. Issues Tour. 2019, 22, 2056–2081. [CrossRef]
+59.
+Wörner, M.; Ertl, T.; Miksch, S.; Santucci, G. Visual analysis of advanced manufacturing simulations.
+In Proceedings of the EuroVa 2011: International Workshop on Visual Analytics, Bergen, Norway, 31 May 2011;
+pp. 29–32.
+60.
+Acheson, C.; Mackle, D.; Murphy, A.; Butterﬁeld, J.; Higgins, P.; Collins, R.; Tame, R. Using design of
+experiments to deﬁne factory simulations for manufacturing investment decisions. In Proceedings of the
+34th International Manufacturing Conference, Sligo, Ireland, 30–31 August 2017.
+61.
+Ruediger, P.; Hagen, H. Dealing with uncertainties in manufacturing process simulations. In Applied Mechanics
+and Materials; Trans Tech Publications Ltd.: Stafa-Zurich, Switzerland, 2017; Volume 869, pp. 226–233.
+62.
+Esmaeilian, B.; Behdad, S.; Wang, B. The evolution and future of manufacturing: A review. J. Manuf. Syst.
+2016, 39, 79–100. [CrossRef]
+63.
+Demystifying Collaborative Industrial Robots. Available online: https://ifr.org/downloads/papers/IFR_
+Demystifying_Collaborative_Robots.pdf (accessed on 3 April 2020).
+64.
+Djuric, A.M.; Urbanic, R.J.; Rickli, J.L. A framework for collaborative robot (CoBot) integration in advanced
+manufacturing systems. SAE Int. J. Mater. Manuf. 2016, 9, 457–464. [CrossRef]
+65.
+El Zaatari, S.; Marei, M.; Li, W.; Usman, Z. Cobot programming for collaborative industrial tasks: An overview.
+Robot. Auton. Syst. 2019, 116, 162–180. [CrossRef]
+66.
+Michaelis, J.E.; Siebert-Evenstone, A.; Shaﬀer, D.W.; Mutlu, B. Collaborative or Simply Uncaged?
+Understanding Human-Cobot Interactions in Automation. In Proceedings of the 2020 CHI Conference on
+Human Factors in Computing Systems, Honolulu, HI, USA, 21 April 2020; pp. 1–12.
+67.
+Tucker, K.; Bulim, J.; Koch, G.; North, M.M. Internet industry: A perspective review through internet of
+things and internet of everything. Int. Manag. Rev. 2018, 14, 26.
+68.
+Aazam, M.; Zeadally, S.; Harras, K.A. Deploying fog computing in industrial internet of things and industry
+4.0. IEEE Trans. Ind. Inform. 2018, 14, 4674–4682. [CrossRef]
+69.
+Wan, J.; Tang, S.; Shu, Z.; Li, D.; Wang, S.; Imran, M.; Vasilakos, A.V. Software-deﬁned industrial internet of
+things in the context of industry 4.0. IEEE Sens. J. 2016, 16, 7373–7380. [CrossRef]
+70.
+Hylving, L.; Schultze, U. Evolving the modular layered architecture in digital innovation: The case of the
+car’s instrument cluster. In Proceedings of the International Conference on Information Systems (ICIS 2013),
+Milan, Italy, 15–18 December 2013; p. 13.
+71.
+Kiel, D.; Müller, J.M.; Arnold, C.; Voigt, K.I. Sustainable industrial value creation: Beneﬁts and challenges of
+industry 4.0. Int. J. Innov. Manag. 2017, 21, 1740015. [CrossRef]
+72.
+Cheng, J.; Chen, W.; Tao, F.; Lin, C.L. Industrial IoT in 5G environment towards smart manufacturing. J. Ind.
+Inf. Integr. 2018, 10, 10–19. [CrossRef]
+
+--- [PAGE 31] ---
+Designs 2020, 4, 17
+31 of 39
+73.
+Lee, J.; Kao, H.A.; Yang, S. Service innovation and smart analytics for industry 4.0 and big data environment.
+Procedia Cirp 2014, 16, 3–8. [CrossRef]
+74.
+Raghupathi, W.; Raghupathi, V. Big data analytics in healthcare: Promise and potential. Health Inf. Sci. Syst.
+2014, 2, 3. [CrossRef]
+75.
+Babiceanu, R.F.; Seker, R. Big Data and virtualization for manufacturing cyber-physical systems: A survey of
+the current status and future outlook. Comput. Ind. 2016, 81, 128–137. [CrossRef]
+76.
+Mell, P.G.; Grance, T. The NIST Deﬁnition of Cloud Computing; NIST Special Publication: Gaithersburg, MD,
+USA, 2011.
+77.
+Varghese, B.; Buyya, R. Next generation cloud computing: New trends and research directions. Future Gener.
+Comput. Syst. 2018, 79, 849–861. [CrossRef]
+78.
+Singh, A.; Chatterjee, K. Cloud security issues and challenges: A survey. J. Netw. Comput. Appl. 2017,
+79, 88–115. [CrossRef]
+79.
+He, W.; Xu, L. A state-of-the-art survey of cloud manufacturing. Int. J. Comput. Integr. Manuf. 2015,
+28, 239–250. [CrossRef]
+80.
+Ooi, K.B.; Lee, V.H.; Tan, G.W.H.; Hew, T.S.; Hew, J.J. Cloud computing in manufacturing: The next industrial
+revolution in Malaysia? Expert Syst. Appl. 2018, 93, 376–394. [CrossRef]
+81.
+Available
+online:
+https://www.nytimes.com/2018/09/28/technology/facebook-hack-data-breach.html
+(accessed on 24 May 2020).
+82.
+Available online: https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-global-
+election-manipulation (accessed on 24 May 2020).
+83.
+Available online: https://www.iso.org/isoiec-27001-information-security.html (accessed on 24 May 2020).
+84.
+Shaﬁq, S.I.; Sanin, C.; Szczerbicki, E.; Toro, C. Virtual engineering object/virtual engineering process:
+A specialized form of cyber physical system for Industrie 4.0. Procedia Comput. Sci. 2015, 60, 1146–1155.
+[CrossRef]
+85.
+Available online: https://www.i-scoop.eu/industry-4-0/ (accessed on 24 May 2020).
+86.
+Gunal, M.M. (Ed.) Simulation for Industry 4.0: Past, Present, and Future; Springer: Cham, Switzerland, 2019.
+87.
+Gunes, V.; Peter, S.; Givargis, T.; Vahid, F. A survey on concepts, applications, and challenges in cyber-physical
+systems. KSII Trans. Internet Inf. Syst. 2014, 8, 4242–4268.
+88.
+Lee, J.; Bagheri, B.; Kao, H.A. A cyber-physical systems architecture for industry 4.0-based manufacturing
+systems. Manuf. Lett. 2015, 3, 18–23. [CrossRef]
+89.
+Jiang, J.R. An improved cyber-physical systems architecture for Industry 4.0 smart factories. Adv. Mech. Eng.
+2018, 10, 1687814018784192. [CrossRef]
+90.
+Lee, J.; Jin, C.; Bagheri, B. Cyber physical systems for predictive production systems. Prod. Eng. 2017,
+11, 155–165. [CrossRef]
+91.
+Humayed, A.; Lin, J.; Li, F.; Luo, B. Cyber-physical systems security—A survey. IEEE Internet Things J. 2017,
+4, 1802–1831. [CrossRef]
+92.
+Alcácer, V.; Cruz-Machado, V. Scanning the industry 4.0: A literature review on technologies for manufacturing
+systems. Eng. Sci. Technol. Int. J. 2019, 22, 899–919. [CrossRef]
+93.
+Lee, E.A. Cyber physical systems: Design challenges. In Proceedings of the 2008 11th IEEE International
+Symposium on Object and Component-Oriented Real-Time Distributed Computing (ISORC), Orlando, FL,
+USA, 5–7 May 2008; pp. 363–369.
+94.
+Barbosa, J.; Leitão, P.; Trentesaux, D.; Colombo, A.W.; Karnouskos, S. Cross beneﬁts from cyber-physical
+systems and intelligent products for future smart industries. In Proceedings of the 2016 IEEE 14th International
+Conference on Industrial Informatics (INDIN), Poitiers, France, 19–21 July 2016; pp. 504–509.
+95.
+Thoben, K.D.; Wiesner, S.; Wuest, T. “Industrie 4.0” and smart manufacturing-a review of research issues
+and application examples. Int. J. Autom. Technol. 2017, 11, 4–16. [CrossRef]
+96.
+Lee, J.; Bagheri, B.; Jin, C. Introduction to cyber manufacturing. Manuf. Lett. 2016, 8, 11–15. [CrossRef]
+97.
+Available online: https://mxdusa.org/ (accessed on 24 May 2020).
+98.
+Zwolenski, M.; Weatherill, L. The digital universe: Rich data and the increasing value of the internet of
+things. J. Telecommun. Digit. Econ. 2014, 2, 47. [CrossRef]
+99.
+Rong, H. Securing Manufacturing Computing and Controller Assets. Instrum. Stand. Metrol. 2010, 4, 16.
+100. Buxmann, P.; Hess, T.; Ruggaber, R. Internet of services. Bus. Inf. Syst. Eng. 2009, 1, 341. [CrossRef]
+
+--- [PAGE 32] ---
+Designs 2020, 4, 17
+32 of 39
+101. Mabkhot, M.M.; Al-Ahmari, A.M.; Salah, B.; Alkhalefah, H. Requirements of the smart factory system:
+A survey and perspective. Machine 2018, 6, 23. [CrossRef]
+102. Wang, L. Cyber manufacturing: Research and applications. In Proceedings of the Tenth International
+Symposium on Tools and Methods of Competitive Engineering, TMCE, Budapest, Hungary, 19–23 May 2014;
+pp. 19–23.
+103. Wang, L.; Törngren, M.; Onori, M. Current status and advancement of cyber-physical systems in
+manufacturing. J. Manuf. Syst. 2015, 37, 517–527. [CrossRef]
+104. Gilchrist, A. Industry 4.0: The Industrial Internet of Things; Apress: Berkeley, CA, USA, 2016.
+105. Ghobakhloo, M.; Azar, A. Business excellence via advanced manufacturing technology and lean-agile
+manufacturing. J. Manuf. Technol. Manag. 2018, 29, 2–24. [CrossRef]
+106. Schlick, J.; Stephan, P.; Loskyll, M.; Lappe, D. Industrie 4.0 in der praktischen Anwendung. In Industrie 4.0 in
+Produktion, Automatisierung und Logistik; Springer: Wiesbaden, Germany, 2014; pp. 57–84.
+107. Gupta, P. Modularity enablers: A tool for Industry 4.0. Life Cycle Reliab. Saf. Eng. 2019, 8, 157–163. [CrossRef]
+108. Lucke, D.; Constantinescu, C.; Westkämper, E. Smart Factory—A Step towards the Next Generation of
+Manufacturing. In Manufacturing Systems and Technologies for the New Frontier; Mitsuishi, M., Ueda, K.,
+Kimura, F., Eds.; Springer: London, UK, 2008; pp. 115–118.
+109. Perales, D.P.; Valero, F.A.; García, A.B. Industry 4.0: A classiﬁcation scheme. In Closing the Gap Between
+Practice and Research in Industrial Engineering; Viles, E., Ormazábal, M., Lleó, A., Eds.; Springer International
+Publishing: Cham, Switzerland, 2018; pp. 343–350.
+110. Available online: https://www.rmit.edu.au/industry/develop-your-workforce/tailored-workforce-solutions/
+c4de/articles/industry-40-design-principles (accessed on 24 May 2020).
+111. Lu, Y. Industry 4.0: A survey on technologies, applications and open research issues. J. Ind. Inf. Integr. 2017,
+6, 1–10. [CrossRef]
+112. Shariat Zadeh, N.; Lundholm, T.; Lindberg, L.; Franzén Sivard, G. Integration of digital factory with smart
+factory based on Internet of Things. In Proceedings of the 26th CIRP Design Conference 2016, KTH Royal
+Institute of Technology, Stockholm, Sweden, 15–17 June 2016; Elsevier: Amsterdam, The Netherlands, 2016;
+Volume 50, pp. 512–517.
+113. Lasi, H.; Fettke, P.; Kemper, H.G.; Feld, T.; Hoﬀmann, M. Industry 4.0. Bus. Inf. Syst. Eng. 2014, 6, 239–242.
+[CrossRef]
+114. Shamim, S.; Cang, S.; Yu, H.; Li, Y. Examining the feasibilities of Industry 4.0 for the hospitality sector with
+the lens of management practice. Energies 2017, 10, 499. [CrossRef]
+115. Tantik, E.; Anderl, R. Integrated data model and structure for the asset administration shell in industrie 4.0.
+Procedia Cirp 2017, 60, 86–91. [CrossRef]
+116. Ruj, S.; Stojmenovic, M.; Nayak, A. Decentralized access control with anonymous authentication of data
+stored in clouds. IEEE Trans. Parallel Distrib. Syst. 2013, 25, 384–394. [CrossRef]
+117. Moreno, A.; Velez, G.; Ardanza, A.; Barandiaran, I.; de Infante, Á.R.; Chopitea, R. Virtualisation process of
+a sheet metal punching machine within the Industry 4.0 vision. Int. J. Interact. Des. Manuf. 2017, 11, 365–373.
+[CrossRef]
+118. Schleich, B.; Anwer, N.; Mathieu, L.; Wartzack, S. Shaping the digital twin for design and production
+engineering. CIRP Ann. 2017, 66, 141–144. [CrossRef]
+119. Tao, F.; Qi, Q. New IT driven service-oriented smart manufacturing: Framework and characteristics.
+IEEE Trans. on Syst. Man Cybern. Syst. 2017, 49, 81–91. [CrossRef]
+120. Schuh, G.; Stich, V.; Brosze, T.; Fuchs, S.; Pulz, C.; Quick, J.; Schürmeyer, M.; Bauhoﬀ, F. High resolution
+supply chain management: Optimized processes based on self-optimizing control loops and real time data.
+Prod. Eng. 2011, 5, 433–442. [CrossRef]
+121. Dorozhkin, D.V.; Vance, J.M.; Rehn, G.D.; Lemessi, M. Coupling of interactive manufacturing operations
+simulation and immersive virtual reality. Virtual Real. 2012, 16, 15–23. [CrossRef]
+122. Nee, A.Y.; Ong, S.K. Virtual and augmented reality applications in manufacturing. IFAC Proc. Vol. 2013,
+46, 15–26. [CrossRef]
+123. Mujber, T.S.; Szecsi, T.; Hashmi, M.S. Virtual reality applications in manufacturing process simulation.
+J. Mater. Process. Technol. 2004, 155, 1834–1838. [CrossRef]
+124. Kühn-Kauﬀeldt, M.; Böttcher, J. Open Source Augmented Reality Applications for Small Manufacturing
+Businesses. In Augmented Reality and Virtual Reality; Springer: Cham, Switzerland, 2020; pp. 243–251.
+
+--- [PAGE 33] ---
+Designs 2020, 4, 17
+33 of 39
+125. Damiani, L.; Demartini, M.; Guizzi, G.; Revetria, R.; Tonelli, F. Augmented and virtual reality applications
+in industrial systems: A qualitative review towards the industry 4.0 era. IFAC-Pap. 2018, 51, 624–630.
+[CrossRef]
+126. Thames, L.; Schaefer, D. Industry 4.0:
+An overview of key beneﬁts, technologies, and challenges.
+In Cybersecurity for Industry 4.0; Springer: Cham, Switzerland, 2017; pp. 1–33.
+127. Hofmann, E.; Rüsch, M. Industry 4.0 and the current status as well as future prospects on logistics.
+Comput. Ind. 2017, 89, 23–34. [CrossRef]
+128. Longo, F.; Nicoletti, L.; Padovano, A. Smart operators in industry 4.0: A human-centered approach to
+enhance operators’ capabilities and competencies within the new smart factory context. Comput. Ind. Eng.
+2017, 113, 144–159. [CrossRef]
+129. Fischer, T.;
+Gebauer, H.;
+Fleisch, E. Service Business Development;
+Cambridge University Press:
+Cambridge, UK, 2012.
+130. Trappey, A.J.; Trappey, C.V.; Fan, C.Y.; Hsu, A.P.; Li, X.K.; Lee, I.J. IoT patent roadmap for smart logistic
+service provision in the context of Industry 4.0. J. Chin. Inst. Eng. 2017, 40, 593–602. [CrossRef]
+131. Yao, X.; Jin, H.; Zhang, J. Towards a wisdom manufacturing vision. Int. J. Comput. Integr. Manuf. 2015,
+28, 1291–1312. [CrossRef]
+132. Von Rosing, M.; Von Scheel, H.; Scheer, A.W. The Complete Business Process Handbook: Body of Knowledge from
+Process Modeling to BPM; Morgan Kaufmann Elsevier: Burlington, MA, USA, 2014; Volume 1.
+133. Kirchmer, M. High Performance through Business Process Management; Springer: West Chester, PA, USA, 2017.
+134. Hitchner, E. Reengineering the Corporation: A Manifesto for Business Revolution. Natl. Prod. Rev. 1993,
+12, 443–449. [CrossRef]
+135. Hammer, M. Deep change. Harv. Bus. Revie 2004, 82, 84–93.
+136. Chan, P.S.; Peel, D. Causes and impact of reengineering. Bus. Process Manag. J. 1998, 4, 44–55. [CrossRef]
+137. Kallio, J.; Saarinen, T.; Salo, S.; Tinnilä, M.; Vepsäläinen, A.P. Drivers and tracers of business process changes.
+J. Strateg. Inf. Syst. 1999, 8, 125–142. [CrossRef]
+138. Ponzi, L.; Koenig, M. Knowledge management: Another management fad. Inf. Res. 2002, 8, 145.
+139. Ozcelik, Y. Do business process reengineering projects payoﬀ? Evidence from the United States. Int. J.
+Proj. Manag. 2010, 28, 7–13. [CrossRef]
+140. Qu, Y.; Ming, X.; Ni, Y.; Li, X.; Liu, Z.; Zhang, X.; Xie, L. An integrated framework of enterprise information
+systems in smart manufacturing system via business process reengineering. Proc. Inst. Mech. Eng. Part B J.
+Eng. Manuf. 2019, 233, 2210–2224. [CrossRef]
+141. Zur Muehlen, M.; Indulska, M. Modeling languages for business processes and business rules:
+A representational analysis. Inf. Syst. 2010, 35, 379–390. [CrossRef]
+142. Rosemann, M.; vom Brocke, J. The six core elements of business process management. In Handbook on
+Business Process Management 1; Springer: Berlin/Heidelberg, Germany, 2015; pp. 105–122.
+143. Conger, S. Six sigma and business process management. In Handbook on Business Process Management 1;
+Springer: Berlin/Heidelberg, Germany, 2015; pp. 127–146.
+144. Vermesan, O.; Friess, P.; Guillemin, P.; Gusmeroli, S.; Sundmaeker, H.; Bassi, A.; Jubert, I.S.; Mazura, M.;
+Harrison, M.; Eisenhauer, M.; et al. Internet of things strategic research roadmap. Internet Things-Glob.
+Technol. Soc. Trend 2011, 1, 9–52.
+145. Fischer, L. BPM Everywhere: Internet of Things, Process of Everything; Future Strategies: Lighthouse Point, FL,
+USA, 2015.
+146. Del Giudice, M. Discovering the Internet of Things (IoT) within the business process management: A literature
+review on technological revitalization. Bus. Proc. Manag. J. 2016, 22, 263–270. [CrossRef]
+147. Telukdarie, A. Business Processes: A critical tool for Industry 4.0 enablement. In Proceedings of the 2019
+International Conference on Fourth Industrial Revolution (ICFIR), Manama, Bahrain, 19–21 February 2019;
+pp. 1–5.
+148. Schoenthaler, F.; Augenstein, D.; Karle, T. Design and governance of collaborative business processes
+in industry 4.0. In Proceedings of the Workshop on Cross-Organizational and Cross-Company BPM
+(XOC-BPM) Co-Located with the 17th IEEE Conference on Business Informatics (CBI 2015), Lisbon, Portugal,
+13–16 July 2015; p. 7.
+149. Tupa, J.; Steiner, F. Industry 4.0 and business process management. Tech. Gaz. 2019, 13, 349–355. [CrossRef]
+
+--- [PAGE 34] ---
+Designs 2020, 4, 17
+34 of 39
+150. Rehse, J.R.; Dadashnia, S.; Fettke, P. Business process management for Industry 4.0–three application cases in
+the DFKI-smart-lego-factory. it-Inf. Technol. 2018, 60, 133–141. [CrossRef]
+151. Grefen, P.; Ludwig, H.; Tata, S.; Dijkman, R.; Baracaldo, N.; Wilbik, A.; D’hondt, T. September.
+Complex collaborative physical process management: A position on the trinity of BPM, IoT and DA.
+In Working Conference on Virtual Enterprises; Springer: Cham, Switzerland, 2018; pp. 244–253.
+152. Secundo, G.; Toma, A.; Schiuma, G.; Passiante, G. Knowledge transfer in open innovation. Bus. Process
+Manag. J. 2019, 25, 144–163. [CrossRef]
+153. Christenson, J.K.; O’Kane, G.M.; Farmery, A.K.; McManus, A. The barriers and drivers of seafood consumption
+in Australia: A narrative literature review. Int. J. Consum. Stud. 2017, 41, 299–311. [CrossRef]
+154. Neumann, F. Antecedents and eﬀects of emotions in strategic decision-making: A literature review and
+conceptual model. Manag. Rev. Q. 2017, 67, 175–200. [CrossRef]
+155. de Camargo Fiorini, P.; Jabbour, C.J.C. Information systems and sustainable supply chain management
+towards a more sustainable society: Where we are and where we are going. Int. J. Inf. Manag. 2017,
+37, 241–249. [CrossRef]
+156. Viriyasitavat, W.; Da Xu, L.; Bi, Z.; Sapsomboon, A. Blockchain-based business process management (BPM)
+framework for service composition in industry 4.0. J. Intell. Manuf. 2018, 1–12. [CrossRef]
+157. Xu, L.D.; Xu, E.L.; Li, L. Industry 4.0: State of the art and future trends. Int. J. Prod. Res. 2018, 56, 2941–2962.
+[CrossRef]
+158. Hitpass, B.; Astudillo, H. Industry 4.0 challenges for business process management and electronic-commerce.
+J. Theor. Appl. Electron. Commer. Res. 2019, 14, I–III. [CrossRef]
+159. Chiu, Y.C.; Cheng, F.T.; Huang, H.C. Developing a factory-wide intelligent predictive maintenance system
+based on Industry 4.0. J. Chin. Inst. Eng. 2017, 40, 562–571. [CrossRef]
+160. Wortmann, A.; Combemale, B.; Barais, O. A systematic mapping study on modeling for industry 4.0.
+In Proceedings of the 2017 ACM/IEEE 20th International Conference on Model Driven Engineering Languages
+and Systems (MODELS), Austin, TX, USA, 17–22 September 2017; pp. 281–291.
+161. Telukdarie, A.; Buhulaiga, E.; Bag, S.; Gupta, S.; Luo, Z. Industry 4.0 implementation for multinationals.
+Process Saf. Environ. Prot. 2018, 118, 316–329. [CrossRef]
+162. Tonelli, F.; Demartini, M.; Loleo, A.; Testa, C. A novel methodology for manufacturing ﬁrms value modeling
+and mapping to improve operational performance in the industry 4.0 era. Procedia CIRP 2016, 57, 122–127.
+[CrossRef]
+163. Saraeian, S.; Shirazi, B.; Motameni, H. Towards an extended BPMS prototype: Open challenges of BPM to
+ﬂexible and robust orchestrate of uncertain processes. Comput. Stand. Interface 2018, 57, 1–19. [CrossRef]
+164. Kannengiesser, U.; Müller, H. Industry 4.0 Standardisation: Where Does S-BPM Fit? In Proceedings of the
+10th International Conference on Subject-Oriented Business Process Management, Linz, Austria, 5 April 2018;
+pp. 1–8.
+165. Available online:
+https://www.ntuclearninghub.com/mapping-the-mind-of-worker-4-0/ (accessed on
+24 May 2020).
+166. Romero, D.; Bernus, P.; Noran, O.; Stahre, J.; Fast-Berglund, Å. The operator 4.0: Human cyber-physical
+systems & adaptive automation towards human-automation symbiosis work systems. In IFIP International
+Conference on Advances in Production Management Systems; Springer: Cham, Switzerland, 2016; pp. 677–686.
+167. Segura, Á.; Diez, H.V.; Barandiaran, I.; Arbelaiz, A.; Álvarez, H.; Simões, B.; Posada, J.; García-Alonso, A.;
+Ugarte, R. Visual computing technologies to support the Operator 4.0. Comput. Ind. Eng. 2020, 139, 105550.
+[CrossRef]
+168. Romero, D.; Stahre, J.; Wuest, T.; Noran, O.; Bernus, P.; Fast-Berglund, Å.; Gorecky, D. Towards an operator
+4.0 typology: A human-centric perspective on the fourth industrial revolution technologies. In Proceedings
+of the International Conference on Computers and Industrial Engineering (CIE46), Tianjin, China,
+29–31 October 2016; pp. 29–31.
+169. Ruppert, T.; Jaskó, S.; Holczinger, T.; Abonyi, J. Enabling technologies for operator 4.0: A survey. Appl. Sci.
+2018, 8, 1650. [CrossRef]
+170. Romero, D.; Wuest, T.; Stahre, J.; Gorecky, D. Social factory architecture: Social networking services and
+production scenarios through the social internet of things, services and people for the social operator 4.0.
+In IFIP International Conference on Advances in Production Management Systems; Springer: Cham, Switzerland,
+2017; pp. 265–273.
+
+--- [PAGE 35] ---
+Designs 2020, 4, 17
+35 of 39
+171. Kaasinen, E.; Schmalfuß, F.; Özturk, C.; Aromaa, S.; Boubekeur, M.; Heilala, J.; Heikkilä, P.; Kuula, T.;
+Liinasuo, M.; Mach, S.; et al. Empowering and engaging industrial workers with Operator 4.0 solutions.
+Comput. Ind. Eng. 2020, 139, 105678. [CrossRef]
+172. Mattsson, S.; Fast-Berglund, Å.; Li, D.; Thorvald, P. Forming a cognitive automation strategy for Operator 4.0
+in complex assembly. Comput. Ind. Eng. 2020, 139, 105360. [CrossRef]
+173. Tupa, J.; Simota, J.; Steiner, F. Aspects of risk management implementation for Industry 4.0. Procedia Manuf.
+2017, 11, 1223–1230. [CrossRef]
+174. Niesen, T.; Houy, C.; Fettke, P.; Loos, P. Towards an integrative big data analysis framework for data-driven
+risk management in industry 4.0. In Proceedings of the 2016 49th Hawaii International Conference on System
+Sciences (HICSS), Koloa, HI, USA, 5–8 January 2016; pp. 5065–5074.
+175. Schröder, M.; Indorf, M.; Kersten, W. Industry 4.0 and its impact on supply chain risk management.
+In Proceedings of the 14th International Conference “Reliability and Statistics in Transportation and
+Communication”, Riga, Latvia, 15–18 October 2014; pp. 114–125.
+176. Ivanov, D.; Dolgui, A.; Sokolov, B. The impact of digital technology and Industry 4.0 on the ripple eﬀect and
+supply chain risk analytics. Int. J. Prod. Res. 2019, 57, 829–846. [CrossRef]
+177. Leonhardt, F.;
+Wiedemann, A. Realigning Risk Management in the Light of Industry 4.0;
+SSRN:
+Amsterdam, The Netherlands, 2015.
+178. Birkel, H.S.; Veile, J.W.; Müller, J.M.; Hartmann, E.; Voigt, K.I. Development of a risk framework for Industry
+4.0 in the context of sustainability for established manufacturers. Sustainability 2019, 11, 384. [CrossRef]
+179. Badri, A.; Boudreau-Trudel, B.; Souissi, A.S. Occupational health and safety in the industry 4.0 era: A cause
+for major concern? Saf. Sci. 2018, 109, 403–411. [CrossRef]
+180. Bonekamp, L.; Sure, M. Consequences of Industry 4.0 on human labour and work organisation. J. Bus. Media
+Psychol. 2015, 6, 33–40.
+181. de Sousa Jabbour, A.B.L.; Jabbour, C.J.C.; Foropon, C.; Godinho Filho, M. When titans meet–Can industry
+4.0 revolutionise the environmentally-sustainable manufacturing wave? The role of critical success factors.
+Technol. Forecast. Soc. Chang 2018, 132, 18–25. [CrossRef]
+182. Glas, A.H.; Kleemann, F.C. The impact of industry 4.0 on procurement and supply management: A conceptual
+and qualitative analysis. Int. J. Bus. Manag. Invent. 2016, 5, 55–66.
+183. Trstenjak, M.; Cosic, P. Process planning in Industry 4.0 environment. Procedia Manuf. 2017, 11, 1744–1750.
+[CrossRef]
+184. Gilchrist, A. Introducing Industry 4.0. In Industry 4.0; Apress: Berkeley, CA, USA, 2016; pp. 195–215.
+185. Hecklau, F.; Galeitzke, M.; Flachs, S.; Kohl, H. Holistic approach for human resource management in Industry
+4.0. Procedia Cirp 2016, 54, 1–6. [CrossRef]
+186. Schneider, P. Managerial challenges of Industry 4.0: An empirically backed research agenda for a nascent
+ﬁeld. Rev. Manag. Sci. 2018, 12, 803–848. [CrossRef]
+187. Prifti, L.; Knigge, M.; Kienegger, H.; Krcmar, H. A Competency Model for “Industrie 4.0” Employees.
+In Proceedings of the der 13. Internationalen Tagung Wirtschaftsinformatik (WI 2017), St. Gallen, Bodensee,
+Switzerland, 12–15 February 2017; pp. 46–60.
+188. Schallock, B.; Rybski, C.; Jochem, R.; Kohl, H. Learning Factory for Industry 4.0 to provide future skills
+beyond technical training. Procedia Manuf. 2018, 23, 27–32. [CrossRef]
+189. Akdil, K.Y.; Ustundag, A.; Cevikcan, E. Maturity and readiness model for industry 4.0 strategy. In Industry
+4.0: Managing the Digital Transformation; Springer: Cham, Switzerland, 2018; pp. 61–94.
+190. Rao, S.K.; Prasad, R. Impact of 5G technologies on industry 4.0. Wirel. Pers. Commun. 2018, 100, 145–159.
+[CrossRef]
+191. Brettel, M.; Friederichsen, N.; Keller, M.; Rosenberg, M. How virtualization, decentralization and network
+building change the manufacturing landscape: An Industry 4.0 Perspective. Int. J. Mech. Ind. Sci. Eng. 2014,
+8, 37–44.
+192. de Man, J.C.; Strandhagen, J.O. An Industry 4.0 research agenda for sustainable business models. Procedia Cirp
+2017, 63, 721–726. [CrossRef]
+193. Schröder, C. The Challenges of Industry 4.0 for Small and Medium-Sized Enterprises; Friedrich-Ebert-Stiftung:
+Bonn, Germany, 2016.
+194. Agrawal, A.; Schaefer, S.; Funke, T. Incorporating Industry 4.0 in Corporate Strategy. In Analyzing the Impacts
+of Industry 4.0 in Modern Business Environments; IGI global: Hershey, PA, USA, 2018; pp. 161–176.
+
+--- [PAGE 36] ---
+Designs 2020, 4, 17
+36 of 39
+195. Jayaram, A. Lean six sigma approach for global supply chain management using industry 4.0 and IIoT.
+In Proceedings of the 2016 2nd International Conference on Contemporary Computing and Informatics
+(IC3I), Noida, India, 14–17 December 2016; pp. 89–94.
+196. Buer, S.V.; Strandhagen, J.O.; Chan, F.T. The link between Industry 4.0 and lean manufacturing: Mapping
+current research and establishing a research agenda. Int. J. Prod. Res. 2018, 56, 2924–2940.
+197. Davies, R.; Coole, T.; Smith, A. Review of socio-technical considerations to ensure successful implementation
+of Industry 4.0. Procedia Manuf. 2017, 11, 1288–1295.
+198. Arcidiacono, G.; Pieroni, A. The Revolution Lean Six Sigma 4.0. Int. J. Adv. Sci. Eng. Inf. Technol. 2018,
+8, 141–149.
+199. Rüttimann, B.G.; Stöckli, M.T. Lean and Industry 4.0—twins, partners, or contenders? A due clariﬁcation
+regarding the supposed clash of two production systems. J. Serv. Sci. Manag. 2016, 9, 485–500. [CrossRef]
+200. Vancil, R.F.; Lorange, P. Strategic planning in diversiﬁed companies. Harv. Bus. Rev. 1975, 53, 81–90.
+201. Jackson, S.E.; Joshi, A.; Erhardt, N.L. Recent research on team and organizational diversity: SWOT analysis
+and implications. J. Manag. 2003, 29, 801–830.
+202. Daum, M.; Götz, M.; Domaschka, J. Integrating CEP and BPM: How CEP realizes functional requirements of
+BPM applications (industry article). In Proceedings of the 6th ACM International Conference on Distributed
+Event-Based Systems, Berlin, Germany, 16 July 2012; pp. 157–166.
+203. Pavlovski, C.J.; Zou, J. Non-Functional Requirements in Business Process Modeling. In Proceedings of
+the 5th Asia-Paciﬁc Conference on Conceptual Modelling (APCCM2008), Wollongong, New South Wales,
+Australia, 22–25 January 2008; pp. 103–112.
+204. Mouritsen, J.; Mahama, H.; Chua, W.F. 12 Actor-Network Theory and the Study of Inter-Organisational
+Network-Relations. Account. Netw. 2010, 7, 292.
+205. Xue, H.; Mason, D.S. The changing stakeholder map of formula one grand prix in Shanghai. Eur. Sport
+Manag. Quart. 2011, 11, 371–395. [CrossRef]
+206. Venkatraman, S.; Venkatraman, R. Process Innovation and Improvement Using Business Object-Oriented
+Process Modelling (BOOPM) Framework. Appl. Syst. Innov. 2019, 2, 23. [CrossRef]
+207. Salgado, C.E.;
+Machado, R.J.;
+Maciel, R.S. Using process-level use case diagrams to infer the
+business motivation model with a RUP-based approach. In Information System Development; Springer:
+Cham, Switzerland, 2014; pp. 123–134.
+208. Available online: https://medium.com/pm101/8-ﬂowcharts-and-diagrams-apps-837373859e87 (accessed on
+26 April 2020).
+209. Wohed, P.; van der Aalst, W.M.; Dumas, M.; ter Hofstede, A.H.; Russell, N. On the suitability of BPMN
+for business process modelling.
+In International Conference on Business Process Management; Springer:
+Berlin/Heidelberg, Germany, 2006; pp. 161–176.
+210. Meudt, T.; Metternich, J.; Abele, E. Value stream mapping 4.0: Holistic examination of value stream and
+information logistics in production. Cirp Ann. 2017, 66, 413–416. [CrossRef]
+211. Bauer, K. KPIs-The metrics that drive performance management. Inf. Manag. 2004, 14, 63.
+212. Bauer, K. KPIs: Not all metrics are created equal. Inf. Manag. 2004, 14, 42.
+213. Davies, J.; Haubenstock, M. Building eﬀective indicators to monitor operational risk. RMA J. 2002, 84, 40–43.
+214. Scandizzo, S. Risk mapping and key risk indicators in operational risk management. Econ. Note 2005,
+34, 231–256. [CrossRef]
+215. Davies, J.; Finlay, M.; McLenaghen, T.; Wilson, D. Key risk indicators–their role in operational risk management
+and measurement. ARM Risk Bus. Int. Prague 2006, 1–32. Available online: http://citeseerx.ist.psu.edu/
+viewdoc/download?doi=10.1.1.457.893&rep=rep1&type=pdf (accessed on 26 April 2020).
+216. Rosenberg, A.; Chase, G.; Omar, R.; Taylor, J.; von Rosing, M. Applying Real-World BPM in an SAP Environment;
+Galileo Press: Cambridge, UK, 2011.
+217. Brundage, M.P.; Bernstein, W.Z.; Morris, K.C.; Horst, J.A. Using graph-based visualizations to explore key
+performance indicator relationships for manufacturing production systems. Procedia Cirp 2017, 61, 451–456.
+[CrossRef]
+218. Available
+online:
+https://opsdog.com/resources/key-risk-indicators-examples-kris-technology-risk-
+management/ (accessed on 26 April 2020).
+
+--- [PAGE 37] ---
+Designs 2020, 4, 17
+37 of 39
+219. Del-Río-Ortega, A.; Resinas, M.; Ruiz-Cortés, A. October.
+Deﬁning process performance indicators:
+An ontological approach. In OTM Confederated International Conferences “On the Move to Meaningful Internet
+Systems”; Springer: Berlin/Heidelberg, Germany, 2010; pp. 555–572.
+220. Available online: https://www.minit.io/blog/5-critical-process-performance-indicators-and-how-process-
+mining-can-help-you-track-them (accessed on 26 April 2020).
+221. Del-RíO-Ortega, A.; Resinas, M.; Cabanillas, C.; Ruiz-Cortés, A. On the deﬁnition and design-time analysis
+of process performance indicators. Inf. Syst. 2013, 38, 470–490. [CrossRef]
+222. Thompson, J.D. Organizations in Action: Social Science Bases of Administrative Theory; Transaction Publishers:
+Piscataway, NJ, USA, 2003.
+223. Available online: https://www.samewave.com/posts/understand-the-three-types-of-task-interdependence-
+and-why-they-matter (accessed on 26 April 2020).
+224. Khan, M.A.A.; Butt, J.; Mebrahtu, H.; Shirvani, H.; Sanaei, A.; Alam, M.N. Integration of Data-Driven
+Process Re-Engineering and Process Interdependence for Manufacturing Optimization Supported by Smart
+Structured Data. Design 2019, 3, 44. [CrossRef]
+225. Modarress, B.; Ansari, A.; Lockwood, D.L. Kaizen costing for lean manufacturing: A case study. Int. J.
+Prod. Res. 2005, 43, 1751–1760. [CrossRef]
+226. Akay, D.; Demıray, A.; Kurt, M. Collaborative tool for solving human factors problems in the manufacturing
+environment: The Theory of Inventive Problem Solving Technique (TRIZ) method. Int. J. Prod. Res. 2008,
+46, 2913–2925. [CrossRef]
+227. Butt, J.; Jedi, S. Redesign of an In-Market Conveyor System for Manufacturing Cost Reduction and Design
+Eﬃciency Using DFMA Methodology. Designs 2020, 4, 6. [CrossRef]
+228. Lee, J.; Lapira, E.; Bagheri, B.; Kao, H.A. Recent advances and trends in predictive manufacturing systems in
+big data environment. Manuf. Lett. 2013, 1, 38–41. [CrossRef]
+229. Lee, J.; Ardakani, H.D.; Yang, S.; Bagheri, B. Industrial big data analytics and cyber-physical systems for
+future maintenance & service innovation. Procedia Cirp 2015, 38, 3–7.
+230. Weyer, S.; Schmitt, M.; Ohmer, M.; Gorecky, D. Towards Industry 4.0-Standardization as the crucial challenge
+for highly modular, multi-vendor production systems. IFAC-Pap. 2015, 48, 579–584. [CrossRef]
+231. Truong, H.Q.; Hara, Y. Supply chain risk management: Manufacturing-and service-oriented ﬁrms. J. Manuf.
+Technol. Manag. 2018, 29, 218–239.
+232. Available online: https://simplicable.com/new/risk-management-vs-contingency-planning (accessed on
+29 April 2020).
+233. Ruiz-Torres, A.J.; Mahmoodi, F.; Zeng, A.Z. Supplier selection model with contingency planning for supplier
+failures. Comput. Ind. Eng. 2013, 66, 374–382. [CrossRef]
+234. Castelo-Branco, I.; Cruz-Jesus, F.; Oliveira, T. Assessing Industry 4.0 readiness in manufacturing: Evidence
+for the European Union. Comput. Ind. 2019, 107, 22–32. [CrossRef]
+235. Samaranayake, P.; Ramanathan, K.; Laosirihongthong, T. Implementing industry 4.0—A technological
+readiness perspective. In Proceedings of the 2017 IEEE International Conference on Industrial Engineering
+and Engineering Management (IEEM), Singapore, 10–13 December 2017; pp. 529–533.
+236. Mittelmann, A. Competence development for Work 4.0. In Knowledge Management in Digital Change; Springer:
+Cham, Switzerland, 2018; pp. 263–275.
+237. Beckett, R.; Daberkow, T. Work 4.0 and the Need for Boundary-Spanning. J. World Bus. 2020, 5, 28–2020.
+238. Karacay, G. Talent development for Industry 4.0. In Industry 4.0: Managing the Digital Transformation; Springer:
+Cham, Switzerland, 2018; pp. 123–136.
+239. Oztemel, E.; Gursev, S. Literature review of Industry 4.0 and related technologies. J. Intell. Manuf. 2020,
+31, 127–182. [CrossRef]
+240. Gentner, S. Industry 4.0: Reality, future or just science ﬁction? How to convince today’s management to
+invest in tomorrow’s future! Successful strategies for industry 4.0 and manufacturing IT. Chim. Int. J. Chem.
+2016, 70, 628–633. [CrossRef]
+241. Chen, H.; Chiang, R.H.; Storey, V.C. Business intelligence and analytics: From big data to big impact. MIS Q.
+2012, 36, 1165–1188. [CrossRef]
+242. Myers, K.; Berry, P.; Blythe, J.; Conley, K.; Gervasio, M.; McGuinness, D.L.; Morley, D.; Pfeﬀer, A.; Pollack, M.;
+Tambe, M. An intelligent personal assistant for task and time management. Ai Mag. 2007, 28, 47.
+243. Available online: https://en.unesco.org/themes/futures-literacy (accessed on 25 May 2020).
+
+--- [PAGE 38] ---
+Designs 2020, 4, 17
+38 of 39
+244. Todnem By, R. Organisational change management: A critical review. J. Chang. Manag. 2005, 5, 369–380.
+245. Lorenzi, N.M.; Riley, R.T. Organizational issues= change. Int. J. Med. Inform. 2003, 69, 197–203. [CrossRef]
+246. Bartik, A.W.; Bertrand, M.; Cullen, Z.B.; Glaeser, E.L.; Luca, M.; Stanton, C.T. How are Small Businesses
+Adjusting to COVID-19? Early Evidence from a Survey (No. w26989); National Bureau of Economic Research:
+Cambridge, MA, USA, 2020.
+247. Available online: https://www.strategy-business.com/article/rr00006?gko=dab72 (accessed on 25 May 2020).
+248. Hlupic,
+V.;
+Pouloudi,
+A.;
+Rzevski,
+G.
+Towards
+an
+integrated
+approach
+to
+knowledge
+management:‘hard’,‘soft’and ‘abstract’issues. Knowl. Process Manag. 2002, 9, 90–102. [CrossRef]
+249. Gill, R. Change management–or change leadership? J. Chang. Manag. 2002, 3, 307–318. [CrossRef]
+250. Levasseur, R.E. People skills: Change management tools—Lewin’s change model. Interface 2001, 31, 71–73.
+251. Hussain, S.T.; Lei, S.; Akram, T.; Haider, M.J.; Hussain, S.H.; Ali, M. Kurt Lewin’s change model: A critical
+review of the role of leadership and employee involvement in organizational change. J. Innov. Knowledg
+2018, 3, 123–127. [CrossRef]
+252. Hiatt, J. ADKAR: A Model for Change in Business, Government, and Our Community; Prosci Learning Center
+Publications: Loveland, CO, USA, 2006.
+253. Boca, G.D. Adkar model VS. quality management change. In International Conference Risk in Contemporary
+Economy; Faculty of Economics and Business Administration, Dunarea de Jos University of Galati:
+Galati, Romania, 2013.
+254. CHANGE, C.V. Technology Adoption: Managing Change. Prim. Psychiatry 2006, 13, 20–23.
+255. Ashkenas, R. Change management needs to change. Harv. Bus. Rev. 2013, 3, 20–23.
+256. Welbourne, T.M. Change management needs a change. Employ. Relat. Toda 2014, 41, 17–23. [CrossRef]
+257. Available online: https://www.forbes.com/sites/forbestechcouncil/2019/06/18/change-management-needs-
+change-management/#687e91ab6656 (accessed on 25 May 2020).
+258. Schmidt, R.; Möhring, M.; Härting, R.C.; Reichstein, C.; Neumaier, P.; Jozinovi´c, P. Industry 4.0-potentials
+for creating smart products: Empirical research results. In International Conference on Business Information
+Systems; Springer: Cham, Switzerland, 2015; pp. 16–27.
+259. Henderson, S.C.; Swamidass, P.M.; Byrd, T.A. Empirical models of the eﬀect of integrated manufacturing on
+manufacturing performance and return on investment. Int. J. Prod. Res. 2004, 42, 1933–1954. [CrossRef]
+260. Phillips, J.J.; Marston, M. Measuring ROI. Fad fact Fantasy 2007, 61, 42.
+261. Phillips, J.J.; Phillips, P.P. Measuring ROI in executive coaching. Int. J. Coach. Organ. 2005, 3, 53–62.
+262. Phillips, J.J.; Phillips, P. Using ROI to demonstrate performance value in the public sector. Perform. Improv.
+2009, 48, 22–28. [CrossRef]
+263. Phillips, J.J.; Phillips, P.P. Distinguishing ROI myths from reality. Perform. Improv. 2008, 47, 12–17. [CrossRef]
+264. Boehm, B.; Huang, L.; Jain, A.; Madachy, R. The ROI of software dependability: The iDAVE model. IEEE Softw.
+2004, 21, 54–61. [CrossRef]
+265. Naim, M.M.; Wikner, J.; Grubbström, R.W. A net present value assessment of make-to-order and make-to-stock
+manufacturing systems. Omeg 2007, 35, 524–532. [CrossRef]
+266. Available online: https://sixsigmastudyguide.com/pilot-plan/ (accessed on 30 April 2020).
+267. Antony, J.; Kumar, M.; Labib, A. Gearing Six Sigma into UK manufacturing SMEs: Results from a pilot study.
+J. Oper. Res. Soc. 2008, 59, 482–493. [CrossRef]
+268. Georgoulias, K.; Papakostas, N.; Chryssolouris, G.; Stanev, S.; Krappe, H.; Ovtcharova, J. Evaluation of
+ﬂexibility for the eﬀective change management of manufacturing organizations. Robot. Comput.-Integr. Manuf.
+2009, 25, 888–893. [CrossRef]
+269. Leach, L. Schedule and cost buﬀer sizing: How to account for the bias between project performance and
+your model. Proj. Manag. J. 2003, 34, 34–47. [CrossRef]
+270. May, G.; Stahl, B. The signiﬁcance of organizational change management for sustainable competitiveness in
+manufacturing: Exploring the ﬁrm archetypes. Int. J. Prod. Res. 2017, 55, 4450–4465. [CrossRef]
+271. Rüßmann, M.; Lorenz, M.; Gerbert, P.; Waldner, M.; Justus, J.; Engel, P.; Harnisch, M. Industry 4.0: The future
+of productivity and growth in manufacturing industries. Boston Consult. Group 2015, 9, 54–89.
+272. Harmon, P.; Trends, B.P. Business Process Change: A Guide for Business Managers and BPM and Six Sigma
+Professionals; Elsevier: Waltham, MA, USA, 2010; ISBN 978-0-12-374152-3.
+
+--- [PAGE 39] ---
+Designs 2020, 4, 17
+39 of 39
+273. Skalle, H.; Hahn, B. Applying Lean, Six Sigma, BPM, and SOA to Drive Business Results; IBM Corporation:
+Armonk, NY, USA, 2013.
+274. LaFollette, W.H. BPM, lean and six sigma-all together now. Lean Six Sigma Rev. 2015, 15, 23.
+© 2020 by the author. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).

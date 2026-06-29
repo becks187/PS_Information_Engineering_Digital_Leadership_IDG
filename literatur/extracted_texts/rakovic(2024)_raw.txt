@@ -1,0 +1,2113 @@
+
+--- [PAGE 1] ---
+Business Administration and Management
+87
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+The role of leadership in managing 
+digital transformation: 
+A systematic literature review
+Lazar Rakovic1, Slobodan Maric2, Lena Djordjevic Milutinovic3, 
+Vuk Vukovic4, Radmila Bjekic5
+1	
+University of  Novi Sad, Faculty of  Economics in  Subotica, Department for Business Informatics, Serbia, 
+ORCID: 0000-0002-1465-588X, lazar.rakovic@ef.uns.ac.rs;
+2	
+University of  Novi Sad, Faculty of  Economics in  Subotica, Department for Management, Serbia, ORCID: 
+0000-0002-7414-4037, slobodan.maric@ef.uns.ac.rs (corresponding author);
+3	
+University of Belgrade, Faculty of Organisational Sciences, Department for Production and Services Management, 
+Serbia, ORCID: 0000-0002-3758-0147, lena.djordjevic.milutinovic@fon.bg.ac.rs;
+4	
+University of  Novi Sad, Faculty of  Economics in  Subotica, Department for Business Informatics, Serbia, 
+ORCID: 0000-0002-0040-9936, vuk.vukovic@ef.uns.ac.rs;
+5	
+University of  Novi Sad, Faculty of  Economics in  Subotica, Department for Management, Serbia, ORCID: 
+0000-0002-7263-8025, radmila.bjekic@ef.uns.ac.rs.
+Abstract: Digital transformation should not be seen as a time-bound project, but rather as a process 
+that needs to be continuously improved and managed over time. In the absence of leadership, 
+digital transformation will occur spontaneously in an organisation, but it is necessary to monitor and 
+manage the process itself to achieve the goal and establish a digital organisation. A person who leads 
+the digital transformation must possess the appropriate competencies. Leadership competencies, 
+especially the combination of digital and human skills, are crucial to the development and success of 
+the digital transformation process. The authors of this article identify a vaguely described process 
+of digital transformation as the main research problem, highlighting the need for the systematisation 
+of leadership competencies necessary for effective digital transformation management. In  this 
+regard, the research objectives are to define and describe the process of digital transformation 
+and identify the  leadership competencies necessary for successful management of  the  digital 
+transformation process. In  order to  achieve the  objectives of  the  paper, a  systematic literature 
+review was conducted for the period 2001–2022 and 90 papers were identified based on the criteria 
+outlined by the Web of Science and Scopus index databases. The identified papers were then 
+analysed from the aspect of defining digital transformation, the activities of the digital transformation 
+process, and the characteristics of digital leadership. Following a thorough analysis of the selected 
+literature, the  paper provides a  comprehensive definition of  digital transformation, proposes 
+a  framework for its management, and analyses the  key competencies of  digital transformation 
+leaders (digital leaders), which together make up the paper’s main contribution. The paper can 
+be used not only as a starting point for future research in this area, but also as initial guidelines 
+for the  implementation and management of  the  digital transformation process. The  systematic 
+literature review conducted has certain limitations. Only two, albeit the largest, citation databases 
+were searched, and only papers in English were identified. The established framework should be 
+verified and expanded through empirical research.
+Keywords: Digital transformation, leadership, digital leadership, systematic literature review.
+JEL Classification: M10, M15.
+
+--- [PAGE 2] ---
+Business Administration and Management
+88
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+APA Style Citation: Rakovic, L., Maric, S., Djordjevic Milutinovic, L., Vukovic, V., & Bjekic, R. 
+(2024). The role of leadership in managing digital transformation: A systematic literature review. 
+E&M Economics and Management, 27(2), 87–107. https://doi.org/10.15240/tul/001/2024-2-006
+Introduction
+The existing literature within the research field 
+is insufficiently homogeneous and inadequately 
+integrated, resulting in  insufficient knowledge 
+about the  competencies required for leaders 
+to successfully carry out the process of digital 
+transformation (Müller et  al., 2024). Leaders 
+must develop their individual capacities and 
+competence to  provide a  better understand-
+ing of  the  change in  dynamic environments 
+through a  strong global vision (Elidjen et  al., 
+2019). Digital transformation is changing many 
+aspects of  how people work (Schwarzmüller 
+et  al., 2018), and these changes do  not ex-
+hibit any signs of  deceleration. Leaders have 
+a  fundamental role in  organisations, such  as 
+leading these changes (Evans et al., 2021) and 
+influencing people to perform activities in more 
+efficient and creative ways (Grigore & Coman, 
+2018). Digital transformation requires leaders 
+to quickly adapt existing approaches in today’s 
+highly dynamic environment. Business and 
+IT leaders need to collaborate (since technol-
+ogy and leadership skills are complementary), 
+and new approaches should be adapted to re-
+spond to changes in the competitive and tech-
+nological environment (Hansen et  al., 2011; 
+Ko  et  al., 2022; Philip &  Gavrilova Aguilar, 
+2022). Leadership and digital transformation 
+cannot be considered separately, but they must 
+support each other in the application and sus-
+tainability of any digital transformation initiative 
+in an organisation (Jayawardena et al., 2020; 
+Zulu & Khosrowshahi, 2021).
+Digital transformation is the driver of posi-
+tive but also devastating market changes (Al-
+Nuaimi et al., 2022; Kokolek et al., 2019) and 
+represents more than just a technological evo-
+lution (Criado-Perez et al., 2022) that must be 
+adequately managed. As for devastating market 
+changes, Kokolek et al. (2019) argue that tech-
+nology is increasingly entering everyday life 
+as well as the world of business, and changing 
+how business is conducted. Moreover, emerg-
+ing IT risks, such as security breaches, privacy 
+concerns, and safety issues (Vial, 2019), along-
+side implementation costs, can have profoundly 
+adverse effects on the market.
+According to Luo et al. (2023), it is necessary 
+to attract highly qualified top managers in order 
+to  ensure a  successful digital transformation, 
+but they did not address what competencies 
+they should possess. Porfírio et  al. (2021) 
+concluded 
+that 
+managers’ 
+characteristics, 
+especially democratic leadership styles, are 
+particularly important at the beginning of digi-
+tal transformation. Furthermore, a  three-fold 
+alignment and involvement are necessary, 
+comprising organisation, digital transformation 
+and leadership. According to  Carvalho et  al. 
+(2023), top managers differ in different indus-
+tries (sectors or economic activities) and es-
+sential changes to the leadership process have 
+been identified based on environmental factors. 
+In this way, a set of characteristics that are es-
+sential for the effective achievement of organ-
+isational objectives is identified, predominantly 
+from a communication perspective.
+As  Müller et  al. (2024) point out, the  lit-
+erature exists in  fragments, and knowledge 
+about the  leadership competencies required 
+for digital transformation is lacking. The same 
+authors emphasise that leaders must possess 
+different competencies depending on the driv-
+ers and goals of  the  digital transformation. 
+A key finding of their research is that the classic 
+all-encompassing leadership approach cannot 
+guide digital transformation. Moreover, they 
+assert that different combinations of technical, 
+business, and people-oriented competencies 
+will be needed depending on  whether market 
+innovations are explored, operational efficiency 
+is supported, stakeholder involvement is en-
+sured, and competitive positioning is improved. 
+Thus, digital transformation leadership is 
+becoming increasingly relevant in  theoretical 
+and empirical research. The  previous state-
+ments are illustrated by  fragmented and 
+missing knowledge about which leadership 
+competencies the  business requires in  order 
+to  facilitate digital transformation. According 
+to  a  theoretical perspective, four archetypical 
+competency portfolios are outlined, which are 
+based on the  types of  leaders who embody 
+the  constituent competencies: the  challenger 
+(exploring the market innovations), the bricoleur 
+
+--- [PAGE 3] ---
+Business Administration and Management
+89
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+(supporting operational efficiency), the  organ-
+iser (ensuring active stakeholder participation), 
+and the competitor (improving competitive posi-
+tion; Müller et al., 2024).
+Strategic implications of digital transforma-
+tion must be considered both at the daily op-
+erational level and in the development process. 
+Kringelum et  al. (2024) identified five strategic 
+actions that leaders should consider when 
+embarking on digital transformation to succeed 
+with strategic change: i)  discussion and com-
+munication about vision and strategy; ii) aligning 
+resources and activities with strategy; iii)  de-
+veloping the  competencies of  top managers, 
+middle managers and employees; iv) ensuring 
+operational improvements and efficiency; and 
+v)  creating an  orientation toward customer or 
+user needs and expectations. 
+Based on  several sources, Braojos et  al. 
+(2024) argue that digital leadership is concep-
+tualised as a  style of  competencies, behav-
+iours, and practices that inspire and motivate 
+employees in the context of digital transforma-
+tion. Мoreover, Zivkovic (2022) points out that 
+the  necessary leadership competencies are 
+flexibility, experimentation, and understanding 
+of  digital technologies. In  his opinion, digital 
+transformation leaders should not be IT experts, 
+but they should understand how digital technolo-
+gies impact organisational culture, performance, 
+and development. In  support of  this state-
+ment, Schwarzmüller et  al. (2018) state that 
+digital transformation leaders must possess 
+the competence to lead a team of people from 
+diverse cultures. Furthermore, this implies lan-
+guage competence and the ability to lead from 
+a distance as well.
+Therefore, digital leadership is crucial for 
+leading digital transformation, i.e., strong lead-
+ership is necessary for the  success of  digital 
+transformation (Zulu &  Khosrowshahi, 2021). 
+There is an  evident lack of  research aimed 
+at understanding digital transformation and 
+leadership itself (Henderikx & Stoffers, 2022), 
+while digital transformation in the  digital era 
+requires extraordinary skills and competencies 
+(Noonpakdee et al., 2020).
+Kontic and Vidicki (2018) point out that 
+initiative-taking leadership is one of  the  key 
+factors that will help the organisation become 
+digital. Leadership in the  digital era implies 
+a deep understanding of digital business mod-
+els (Jacobi &  Brenner, 2018). Given the  new 
+circumstances, Schwaferts and Baldi (2018) 
+raise the question as to whether standard man-
+agement concepts are still adequate for the pe-
+riod during and after the digital transformation. 
+Digital transformation must be initiated by 
+the management rather than by the IT depart-
+ment, which could only achieve part of the nec-
+essary changes (Ko et al., 2022). Digitisation, 
+digitalisation and digital transformation are 
+the  terms often identified with each other 
+(Kohnke, 2017). Digital transformation includes 
+digitisation and digitalisation (Paul et al., 2024), 
+but digital transformation is  a  more complex 
+and comprehensive concept (O’Leary, 2023). 
+According to  Venkatesh et  al. (2019), digital 
+transformation has evolved through digitisation 
+and digitalisation up to the digital transformation 
+itself, which encompasses the entire company’s 
+business model.
+To recognise the necessary characteristics 
+of digital transformation leadership, it is neces-
+sary to understand the very concept of digital 
+transformation as  well  as the  implied steps 
+(key activities; Ubiparipovic et al., 2023), as ex-
+plained in the paper based on the literature. Mül-
+ler et al. (2024) pointed the theoretical-practical 
+gap in  digital transformation management, 
+taking into account the fact that digital transfor-
+mation requires persistent digital leadership at 
+the top level of the organisation, and that no co-
+herent concept of digital leadership exists today 
+(Müller et al., 2024). Since most organisations 
+are only halfway through the digital transforma-
+tion process, it is necessary to emphasise that 
+most companies must undertake a  challeng-
+ing path in  order to  achieve digital maturity. 
+However, 70%  of  digital transformation initia-
+tives fail to achieve their objectives (Alshehab 
+et al., 2022). The path to digital transformation 
+within an  organisation is  a  multidimensional 
+and complex process that requires effective 
+leadership. This entails that in the  digital era, 
+and leaders must adapt their knowledge, skills, 
+and abilities to successfully drive the process 
+of digital transformation within the organisation 
+(Urs et al., 2023).
+After reviewing the  previous research, 
+a research problem was identified in the form 
+of a vaguely described and defined digital trans-
+formation process, along with the need to sys-
+tematise the leadership competencies required 
+to  successfully manage digital transformation. 
+The main objective of the research is to define 
+and describe the process of digital transformation 
+as well as to identify the necessary leadership 
+
+--- [PAGE 4] ---
+Business Administration and Management
+90
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+competencies for the successful management 
+of the digital transformation process.
+To  address the  main objective of  the  re-
+search, the authors analysed and used 90 se-
+lected papers published in the period from 2001 
+to  2022. A  systematic review of  the  literature 
+was conducted to  identify these papers, 
+which is described in the  following section. 
+The  papers were then analysed from the  as-
+pect of  three identified sub-units. Based on 
+the analysed papers, a comprehensive defini-
+tion of  digital transformation was proposed, 
+followed by  a  conceptual framework of  digital 
+transformation and key leadership characteris-
+tics needed for the successful implementation 
+of the digital transformation process. 
+1.	 Research methodology
+As part of the research process and the imple-
+mentation of  the  systematic literature review 
+methodology, as  well  as in  order to  answer 
+the basic research question and achieve the set 
+research goals (which will be discussed in the fol-
+lowing sections), three basic segments can be 
+identified (Xiao &  Watson, 2019): i)  planning 
+the review; ii) conducting the review; and iii) re-
+porting the review (Fig. 1). In accordance with 
+the mentioned methodology and within the first 
+phase of  the  systematic literature review, 
+the  authors managed to: 1)  define a  spe­cific 
+research problem (general research questions); 
+and 2) develop a complete research algorithm 
+(protocol) to be used for the research in this pa-
+per. Step 3 – the initial search within the select-
+ed databases by title, abstract and key words 
+was carried out in the second part of conduct-
+ing the  literature review. During this phase, 
+the  fourth step entails screening for inclusion 
+by analysing abstracts according to the inclu-
+sion criteria. As the research was done in two 
+databases (Web of  Science and Scopus, for 
+the period 2001–2022), duplicates were elimi-
+nated in the fifth step based on the received list 
+of potential papers. In this segment of the pro-
+cess, the sixth step involves evaluating the qual-
+ity of the complete papers, as well as respecting 
+the  general quality of  the  papers regarding 
+the  methodology applied, concept, content, 
+and results of the research, and in accordance 
+with the inclusion criteria previously mentioned. 
+Once the  final set of  papers was obtained, 
+an additional review of the literature of the iden-
+tified papers, as  well  as papers that cited 
+the  identified papers (forward and backward 
+research) was performed in the seventh step. 
+Finally, in  step  8, the  analysis and synthesis 
+of the  papers were carried out in  accordance 
+with the defined concept of the research. A re-
+view report was created based on the obtained 
+results in the third segment of the literature re-
+view process, which is also the final, ninth step 
+of the comprehensive literature review.
+Based on the  identified research problem 
+stated in the Introduction section, the following 
+research questions were formulated as the ba-
+sis of this study in the first stage of the metho-
+dology – planning the review: 
+RQ1: What is implied by the  term digital 
+transformation and what are the  challenges, 
+factors and steps of the digital transformation 
+process?
+RQ2: What leadership competencies and 
+characteristics are necessary to  successfully 
+lead the digital transformation process? 
+Xiao and Watson (2019) also recommend 
+that during certain segments of  the  literature 
+review process, the  research is to  be con-
+ducted in  such a  way that the  authors are 
+divided into two groups that carry out each 
+step independently, and then integrate their 
+findings and discuss the  differences in  each 
+step in order to screen the selected papers for 
+final analysis. In Fig. 1, the steps of the applied 
+methodology and the  results of  the  selec-
+tion as part of  the  analysis of  the  papers are 
+described in detail.
+Following an  initial search and analysis 
+of the literature, the authors identified the insuf-
+ficient success of the digital transformation pro-
+cess and the inability of businesses to achieve 
+their desired goals through digital platforms. 
+Furthermore, as we delved deeper into the re-
+search area, we  realised that the  key role 
+in digital transformation is played by the human 
+factor, i.e.,  human versus technology, which 
+led us to include the sub-unit of management 
+or leadership in organisations in our research. 
+A key point that must be noted during this phase 
+of the research is that the research questions 
+were developed through an  iterative process, 
+after the authors had gathered more informa-
+tion and knowledge by conducting a literature 
+search and analysis focusing on the most com-
+mon digital transformation issues.
+Fig. 1 shows how the review was conducted 
+according to all stages and relevant criteria and 
+what results each stage reached.
+
+--- [PAGE 5] ---
+Business Administration and Management
+91
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+Literature search. Three main search 
+sources were used as literature search channels: 
+i) the mentioned electronic databases (WoS and 
+Scopus); ii)  backward searching (identifying 
+the relevant papers cited in the included articles, 
+using the reference list at the end of the paper 
+is a good way to find these articles); and iii) for-
+ward searching (finding and selecting articles 
+that cite the original paper that has been found). 
+The  search was performed for the  period 
+from 2001 to  2022. This time period was de-
+termined based on the topicality of the research 
+area, the  volume of  published papers and 
+the electronic availability of papers. Based on 
+the  research question, the  keywords related 
+to “leadership” and “digital transformation” were 
+selected. Among the  papers included were 
+only those published in English in journals and 
+Fig. 1:
+Search strategy and selection criteria
+Source: own
+Excluding: 
+WoS (n=338)
+Scopus (n=237)
+Search literature
+Database: WoS and Scopus (2001 – 2022)
+Keywords identification: Leadership* AND “Digital transformation”*
+Group of authors A: 
+WoS (n=439)
+Scopus (n=328)
+Group of authors B: 
+WoS (n=439)
+Scopus (n=328)
+Screen for 
+inclusion
+Screening: title, abstract and keywords
+Results of initial research:
+Inclusion criteria:
+- Definition of digital transformation process
+- Digital transformation framework
+- Characteristics (skills) of leadership style 
+ 
+Group of authors A: 
+WoS (n=85)
+Scopus (n=123)
+Results of screening:
+Group of authors B: 
+WoS (n=101)
+Scopus (n=91)
+Merge WoS articles of A and B authors group
+WoS (n=67)
+Scopus (n=104)
+Merge Scopus articles of A and B authors group
+Merge Scopus and WoS articles
+WoS and Scopus (n=129)
+Assess quality
+Assesing: download and review complete papers
+Excluding: (n=119)
+Excluding: (n=110)
+Excluding: (n=42)
+Complete text of the paper assessed for 
+eligibility
+Downloading complete papers
+Final No. of the papers  (n=90)
+Additional  paper identified through forward 
+backward searches
+Including: (n=11)
+WoS and Scopus (n=129)
+Excluding: (n=50)
+WoS and Scopus (n=79)
+ExclUding: 
+WoS (n=354)
+Scopus (n=205)
+Final number of papers (n=90)
+Excluding: 
+
+--- [PAGE 6] ---
+Business Administration and Management
+92
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+at conferences, as  well  as chapters in  mono-
+graphs. The  search ended after determining 
+that no new results would be obtained by apply-
+ing the search strategy. Group authors A and B 
+conducted the  search within selected data-
+bases and defined keywords during December 
+2022, while the search results, i.e., the number 
+of initial hits, due to the same search criteria, 
+was identical and amounted to  WoS n  =  439 
+and Scopus n = 328. 
+Screening for inclusion. For screening 
+and selecting papers for final analysis, Xiao 
+and Watson (2019) recommend that at least 
+two researchers evaluate papers indepen-
+dently according to  set criteria. Two groups 
+of  authors  A  and  B, conducted the  literature 
+review separately in  this paper, with phase 
+alignment and consultation between both 
+groups. A screening process for selecting pa-
+pers/including papers was conducted by  both 
+groups of authors based on the title, abstract, 
+and keywords of the papers, along with defined 
+inclusion criteria. 
+Three separate criteria were used to select 
+the  papers on  which this research is based. 
+On  the  one hand, these criteria represent 
+the derivative of the research questions, while 
+on the other hand, they serve as the basis for 
+selecting an  individual study on  which further 
+steps will be taken in the  research process. 
+For a paper to be selected for further analysis, 
+it must meet at least one of the following crite-
+ria: the first criterion, defining digital transforma-
+tion – from a leadership position, understanding 
+the digital transformation process is necessary 
+if we are going to ensure its success, which is 
+why we  need to  define the  concept of  digital 
+transformation and ensure that its absolute 
+understanding is presented at the  begin-
+ning of  the  paper. The  second criterion, 
+the  conceptual framework, or  steps of  digital 
+transformation –  understanding the  essential 
+elements of the concept of digital transforma-
+tion – is significant for the successful manage-
+ment of the digital transformation process and 
+the achievement of set goals. The third criterion 
+is the leadership characteristics necessary for 
+the  successful management of  the  digital 
+transformation process.
+Following the screening procedure previous-
+ly described, the following results were obtained 
+for the  initial list of  papers: from the  original 
+number of  hits (n  =  439) within the  WoS  da-
+tabase, the  authors of  Group  A  selected 
+85 papers and excluded 354 papers (Group A, 
+WoS, n = 85, excluding n = 354), while the au-
+thors from the same group within the Scopus 
+database, selected 123  papers and excluded 
+205 papers (Group A, Scopus, n = 123, exclud-
+ing n  =  205) from the  original number of  hits 
+(n  =  328). From the  original number of  hits 
+(n = 439) within WoS, the authors from Group B 
+selected 101 papers and excluded 338 papers 
+(Group A, WoS, n = 101, excluding n = 338), 
+while the authors from the same group within 
+the Scopus database, selected 91 papers and 
+excluded 237 papers (Group B, Scopus, n = 91, 
+excluding n  =  237) from the  original number 
+of hits (n = 328). The next step involved com-
+bining the  selected papers of  the  two groups 
+of  authors from both databases, removing 
+duplicates, and discussing the  reasons for 
+choosing different papers between the  two 
+groups of authors. During the discussion, it was 
+decided to  exclude papers for which there 
+were not enough arguments for the  selection 
+stage. As  a  result of  combining papers from 
+both groups of authors, eliminating duplicates 
+and excluding papers based on  discussion 
+within the WoS database, 67 papers remained, 
+while 119  papers were eliminated (WoS, 
+n  =  91, excluding n  =  237). By  combining 
+the papers of both groups of authors, eliminat-
+ing duplicates and excluding papers based on 
+the  discussion within the  Scopus database, 
+104  papers remained and 110  papers were 
+excluded (WoS, n = 104, excluding n = 110). 
+The  next step of  the  screening process was 
+to  combine papers from both databases and 
+exclude duplicates. After combining the papers 
+from both databases and excluding duplicates, 
+129  papers remained, while 42  papers were 
+excluded since they appeared in  both data-
+bases in the  previous step (WoS  +  Scopus, 
+n = 129, excluding n = 42). 
+Assess quality. Following the  screening 
+process, the  next segment of  the  conducted 
+literature review involved downloading previ-
+ously selected papers from the  screening 
+process and assessing their quality. In prepar-
+ing the  final list of  papers for data extraction 
+and synthesis, the  quality of  the  complete 
+papers is assessed. Research questions and 
+the application of defined selection criteria are 
+used to  evaluate the  papers’ completeness. 
+A  paper’s quality is also assessed based on 
+the  method of  collecting data, the  analy-
+sis process, the  methodology applied, and 
+
+--- [PAGE 7] ---
+Business Administration and Management
+93
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+the  obtained results and conclusions. Based 
+on the  quality assessment, 79  papers were 
+selected and  50  were excluded (preliminary 
+final list, n = 79, excluding n = 50). During this 
+stage of assessing the quality of the complete 
+papers, the  authors from Groups  A  and B 
+independently assessed each paper in  order 
+to  harmonise the  selected papers and reach 
+the results described previously. As a final step 
+toward reaching the  final list of  papers which 
+will serve as the basis for this paper, forward 
+and backward searches were conducted, and 
+an additional 19 papers were included on that 
+basis (for and back search, n  =  11), bringing 
+the  total number of  papers selected to  be  90 
+to provide a response to the research question 
+(final number of papers, n = 90). 
+Extract data. Based on the  literature re-
+view of  the  selected papers, information was 
+extracted on  two topics: i)  definition of  digital 
+transformation 
+and 
+conceptual 
+framework 
+of  digital transformation; and ii)  characteris-
+tics, role and style of leadership. Data extrac-
+tion from the  selected papers is guided by 
+the method of synthesis selected, which, in this 
+case, is a textual narrative synthesis. Generally, 
+coding is used to extract data, especially during 
+a literature review, which was conducted induc-
+tively according to selected topics. 
+Analyse and synthesise data. After 
+the data was extracted, the authors organised 
+the data in accordance with the review concept. 
+In this phase of the literature review, techniques 
+such as tables and text descriptions were used. 
+The  method of  contingent design was used 
+as the main method of analysis and synthesis 
+of the extracted data, which represents a cyclical 
+research synthesis. Consequently, the selected 
+quantitative and qualitative papers are intended 
+to address a specific research question. 
+2. Research findings
+2.1 
+Defining digital transformation
+The  continuous emergence of  new tech-
+nologies is evident in recent years (Zhu et al., 
+2021). Although digital transformation has 
+penetrated many aspects of  organisations, 
+transformed 
+business 
+models 
+(Danielsen, 
+2020), in some cases disrupting existing busi-
+nesses and economies (Philip &  Gavrilova 
+Aguilar, 2022; Zimmermann et al., 2019), being 
+inevitable in all industries (Gurkan et al., 2020), 
+and becoming a buzzword in the last few years 
+(Abbu et al., 2021), it is a relatively new concept 
+that is very difficult to  define clearly (Kokolek 
+et al., 2019). The authors generally agree that 
+digital transformation is a process (Egor, 2020; 
+Engesmo &  Panteli, 2021; Lorentzen, 2022) 
+that manifests itself in different ways and with 
+different intensity (Engesmo &  Panteli, 2021). 
+As  digital transformation is  a  continuous pro-
+cess, its monitoring and management are nec-
+essary (Egor, 2020). It can be said that digital 
+transformation is an  inevitable and irrevers-
+ible process (Zhu et al., 2021) that represents 
+a  chance for innovation within organisations 
+(Zulu & Khosrowshahi, 2021) driven by clients’ 
+expectations and behaviour (Evans et  al., 
+2021). Digital transformation is often associ-
+ated with technology, corporate culture, society, 
+creativity and change management (Tungpan-
+tong et  al., 2021). Many organisations focus 
+digital transformation too much on technology 
+alone. This is precisely why many digital trans-
+formation processes fail (Jayawardena et  al., 
+2020). Digital tools cannot just be purchased 
+and simply attached to an organisation (Egor, 
+2020). Needless to  say, digital technologies 
+cannot be neglected in the digital transforma-
+tion, because they play one of the main roles 
+in the digital transformation (Vial, 2019). A com-
+pany should learn about new technologies, 
+as well as develop new capabilities that allow 
+it to reposition itself strategically, because new 
+technologies can cause disruptions that can 
+threaten the business of a particular company 
+(Pihlajamaa et al., 2021). Therefore, it is impos-
+sible to talk about digital transformation without 
+mentioning the technologies, in which the au-
+thors often include, e.g., social media, internet 
+of things, mobility, big data and analytics, cloud 
+computing, artificial intelligence and blockchain 
+(Florek-Paszkowska et al., 2021; Tekic & Koro-
+teev, 2019). From these groups of technologies, 
+it is necessary to choose and apply the ones 
+(Venkatesh et al., 2019) that are most appro-
+priate to  the  organisation or to  the  strategy 
+of digital transformation.
+Carcary et al. (2016) even state that organ-
+isations should not initially focus on a holistic set 
+of required capabilities, but on the development 
+of basic capabilities that will become the start-
+ing point for digital transformation and later 
+lead to the development of all necessary digital 
+capabilities. The same authors point out the fol-
+lowing as basic or key areas on  which orga­
+nisations should initially focus: promoting and 
+implementing an agile digital culture, developing 
+
+--- [PAGE 8] ---
+Business Administration and Management
+94
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+digital leadership skills, building digital talent 
+and defining and implementing a transformative 
+digital business strategy. According to Zhu et al. 
+(2021), digital transformation implies a  transi-
+tion from a product-centric to a customer-centric 
+strategy. Therefore, the  management needs 
+to adapt its business strategy to the digital reali­
+ty (Reis & Melao, 2023).
+Florek-Paszkowska et  al. (2021) group 
+the  levers that will influence successful digital 
+transformation into two groups: human-based 
+and non-human based factors. The  first group 
+includes, in the first place, competent, respon-
+sible, and open-minded leaders, who are open 
+to  change, flexible and able to  quickly adapt. 
+The  authors then mention talented employees 
+who are ready to  share their expertise, learn 
+quickly, and adapt, as  part of  the  first group. 
+The  second group, non-human based factors, 
+implies a business culture that should empower 
+employees, and business models that are eas-
+ily transformed in order to create an innovative 
+business model, new strategies and support 
+(disruptive) technologies. This can be followed 
+by team-based levers that enable digital trans-
+formation, which were identified in their research 
+by Guinan et al. (2019): diverse team composi-
+tion, iterative goal setting, continuous learning 
+Source
+Definition/explanation of the concept of digital transformation
+Reis and Melao 
+(2023)
+Digital transformation is the use of new digital technologies that enables major 
+business improvements and influences all aspects of customers’ lives.
+Kutnjak et al. 
+(2019)
+Digital transformation is a complex and demanding process that requires 
+the engagement of all enterprise resources – human, technological, physical, 
+organisational and financial. DT is the transformation of an organisation driven 
+by digital technology, and it directly affects the change of the organisation’s 
+core, that is, the change of its business model.
+Brown and Brown 
+(2019)
+Digital transformation is defined as the implementation of innovative and new 
+digital technologies to effect business improvements in an organisation.
+Venkatesh et al. 
+(2019)
+Digital transformation or digital business transformation is thus about 
+embracing digitisation and digitalisation concepts to create novel and different 
+business designs or business model as a whole for better long-term value. 
+It is much more than automating or digitising business processes or digitising 
+products and services.
+Vial 
+(2019)
+Digital transformation is a process that aims to improve an entity by triggering 
+significant changes to its properties through combinations of information, 
+computing, communication, and connectivity technologies.
+Tu and Chi 
+(2020)
+Digital transformation has been defined as the use of new digital 
+technologies, such as mobile, artificial intelligence (AI), cloud, blockchain, 
+and IoT technologies, to enable major business improvements to augment 
+customer experience, streamline operations, or create new business models. 
+The key long-term technological trends are the increasing capability of the firm 
+with customers to communicate, collect, store and analyse information.
+Fachrunnisa et al. 
+(2020)
+Digital transformation is a process or business for the company in facilitating 
+the relationship between customers with the company itself, simplifying 
+the various processes by changing the business model through the recent 
+technology. This change is not only limited to the use of technology but also 
+has an impact on the structure and strategy of the company to fit the business 
+model due to the new technology.
+Abdallah et al. 
+(2021)
+Digital transformation (DT) is a customer-centric mechanism that enables 
+continuous improvement in the productivity of the manufacturing processes 
+using advanced digital technologies such as cloud computing, internet 
+of things, big data analytics, digital twin in all aspects of the organisation.
+Source: own
+Tab. 1:
+The definitions of digital transformation
+
+--- [PAGE 9] ---
+Business Administration and Management
+95
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+and talent management. Based on the research 
+conducted, Engesmo and Panteli (2021) suggest 
+that organisations should adapt their IT functions 
+to support digital transformation. When discuss-
+ing digital transformation, it is important to take 
+into account that digital business models often 
+require the organisation to participate in or initi-
+ate a certain digital ecosystem in which traditional 
+relationships with suppliers and customers are 
+challenged (Criado-Perez et  al., 2022; Schwa-
+ferts & Baldi, 2018).
+Reis and Melao (2023) identified three dif-
+ferent elements of digital transformation based 
+on a review of different definitions of digital trans-
+formation. The first element includes the techno-
+logical digital transformation that encompasses 
+technologies (e.g.,  social media, mobile, ana-
+lytics). The  second element is the  structural 
+digital transformation, which requires changes 
+in business processes and the creation of new 
+business models. Finally, as the third element, 
+the  authors mention the  human digital trans-
+formation that affects all aspects of  human 
+life (e.g., improving customer experience). Ac-
+cording to Weritz et al. (2020) three main parts 
+of digital transformation are products (services), 
+clients and processes. Tab. 1 shows the defini-
+tions of digital transformation identified through 
+a systematic review of the literature.
+2.2	
+The framework of digital transformation
+The road map for digital transformation should 
+be developed, which will guide the organisation 
+to where it wants to be in the future (Evans et al., 
+2021). The problem is that digital initiatives are 
+not always strategically oriented and clearly 
+defined (Engesmo &  Panteli, 2021), or  man-
+agement often does not see the  difference 
+between digital transformation initiatives and 
+smaller-scale initiatives aimed at increasing ef-
+ficiency (Solberg et al., 2020). In other words, 
+a non-strategic view of digitisation is precisely 
+what is reflected here.
+Kokolek et al. (2019) state that the prereq-
+uisite for the success of digital transformation 
+is the  acquisition and development of  six key 
+factors, as follows: digital knowledge and skills, 
+ability to  apply new technologies to  the  busi-
+ness, continuous learning, strategic vision, 
+network leadership and agility. Criado-Perez 
+et al. (2022) point out that traditional organisa-
+tions cannot adapt to the changing environment 
+by  solely relying on  educational institutions 
+as they once did. They argue that employee 
+training is essential for organisations to adapt 
+to  the  changing environment. As  challenges 
+of digital transformation, Hai et al. (2021) cite 
+limited infrastructure, lack of skills and the fact 
+that management has not adapted to the digital 
+transformation process. Digital transformation 
+is a widely adopted process, which significantly 
+complicates its successful implementation. 
+Therefore, companies need both employees who 
+are engaged and support the digital transforma-
+tion process, as well as leaders who are reliable 
+and possess adequate competencies to  lead 
+and support employees through the digital trans-
+formation process (Heracleous & Gledhill, 2024). 
+As  a  result, digital transformation presents 
+a number of challenges to organisations (Tab. 2 
+provides the most significant challenges).
+Imran et  al. (2021) identify leadership, or-
+ganisational structure, and culture as the main 
+drivers of  digital transformation. According 
+to  their research, developing leadership com-
+petencies 
+facilitates 
+digital 
+transformation 
+Challenge
+Source
+Limited infrastructure
+Hai et al. (2021)
+Lack of skills
+Hai et al. (2021)
+Not adapted management, lack of knowledge to lead digital 
+transformation
+Hai et al. (2021),  
+Salume et al. (2021) 
+Lack of resources to incorporate digital technologies
+Van Tonder et al. (2020)
+Culture in an organisation
+Evans et al. (2021) 
+Employee resistance
+Trenerry et al. (2021)
+Source: own
+Tab. 2:
+Challenges of digital transformation
+
+--- [PAGE 10] ---
+Business Administration and Management
+96
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+because organisations become more agile, 
+more customer-centric and more collaborative. 
+They mention organisational structure and cul-
+ture as the next drivers. Having a flexible organ-
+isational structure and an organisational culture 
+that embraces change will make implementing 
+digital transformation easier.
+Digital transformation requires commitment 
+from management, while the  IT  department 
+plays a  less significant role (Ko  et  al., 2022). 
+According to Ko et al. (2022), a strategic frame-
+work for digital transformation is one of the key 
+activities of digital transformation. Although dig-
+ital transformation is necessary for the survival 
+of modern organisations (Trenerry et al., 2021), 
+the management often lacks adequate knowl-
+edge about the different elements that should 
+be considered when transforming a  business 
+digitally (Salume et  al., 2021). Organisations 
+today face a  big challenge when it  comes 
+to  managing digital transformation (Boneva, 
+2018). As  a  result, identifying the  key factors 
+of digital transformation is vital (Tab. 3).
+Strategy in the digital age must be swift and 
+supported by  a  roadmap for implementation 
+(Jacobi &  Brenner, 2018). As  a  result, digital 
+transformation is not much different from other 
+business transformations, and a  roadmap is 
+required (Evans et al., 2021; Jacobi & Brenner, 
+2018; Kohnke, 2017; Zaoui &  Souissi, 2020). 
+Organisations should identify the  steps they 
+should follow in  their digital transformation 
+process. Tab. 4 shows the most frequently men-
+tioned steps of digital transformation in the lit-
+erature. It  is important to  consider that they 
+are not sequential and should be implemented 
+according to the needs of the industry and or-
+ganisation on the path to digital transformation.
+2.3	
+Leadership in process of digital 
+transformation
+Based on a systematic review of the literature, 
+we found that three aspects are present within 
+the analysed publications that explicitly discuss 
+the  definition of  digital leadership. Firstly, 
+existing literature does not clearly define the 
+relationship between e-leadership and digital 
+leadership. E-leadership is defined as a  pro-
+cess of  social influence with the  mediation 
+Factors
+Source
+Customer centricity
+Mhlungu et al. (2019), Abdallah et al. (2021)
+Corporate processes and structure
+Imran et al. (2021), Jacobi and Brenner (2018), 
+Alshehab et al. (2022)
+Digital knowledge and skills
+Kokolek et al. (2019), Imran et al. (2021)
+Agility 
+Kokolek et al. (2019)
+Leadership
+Kokolek et al. (2019), Imran et al. (2021), 
+Jacobi and Brenner (2018), Alshehab et al. 
+(2022), Trenerry et al. (2021)
+Continuous learning/upgrading/retraining
+Kokolek et al. (2019), Weritz et al. (2020)
+Commitment of the management
+Ko et al. (2022)
+Strategic vision, creation of the strategic 
+framework of DT
+Kokolek et al. (2019), Ko et al. (2022)
+Ability to apply new technologies to the business
+Kokolek et al. (2019),
+Possessing the necessary capabilities to ensure 
+digital transformation
+Van Tonder et al. (2020)
+Creating a digital transformation team
+Evans et al. (2021)
+Culture and people
+Jacobi and Brenner (2018)
+Source: own
+Tab. 3:
+Key factors of digital transformation
+
+--- [PAGE 11] ---
+Business Administration and Management
+97
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+of advanced information technologies in order 
+to change the attitudes, feelings, opinions, be-
+haviour and performance of individuals, groups 
+and organisations. Furthermore, e-leadership 
+does not change the basis of business; rather, 
+technology helps to  realise business. Also, 
+some authors treat e-leadership and digital 
+leadership as synonyms. Secondly, the  ana-
+lysed literature provides a  concise definition 
+of  digital leadership that blurs the  distinction 
+between e-leadership and digital leadership. 
+Thirdly, the results show that e-leadership and 
+digital leadership are not synonyms, suggest-
+ing that digital leadership is much broader 
+than e-leadership, as  e-leadership primarily 
+uses technology to support existing business. 
+Digital leadership is an  important component 
+of achieving the goal of digitally enabled busi-
+ness model, digital organisations, and manage-
+ment of employees (Eberl & Drews, 2021).
+Digital leadership entails the ability to direct 
+resources and utilise information communica-
+tion technologies to  achieve the  organisation’s 
+goals, significantly contributing to organisational 
+performance (Suryadi Muslim & Setyono, 2024). 
+Furthermore, the leadership required to achieve 
+digital transformation can be identified by 
+the  strategic leadership of  digitalisation, which 
+involves leaders’ ability to create a clear and un-
+derstandable vision for the digitalisation process 
+as well as the ability to implement the strategy 
+in  order to  achieve the  digital transformation 
+(Engesmo & Panteli, 2021). Digital leadership 
+is a combination of a transformational leadership 
+Steps/dimensions of digital  
+transformation
+Van Tonder et al. 
+(2020)
+Gaffley and Pelser 
+(2021)
+Evans et al. 
+(2021)
+Jacobi and Brenner 
+(2018)
+Peter et al. 
+(2020)
+Andriole 
+(2020)
+Install digital leadership
+✓
+✓
+✓
+Development of new products/services and/or 
+digitalisation of existing ones
+✓
+Development of employees’ digital competences
+✓
+✓
+Digitalisation of customer platforms (channels)
+✓
+Transforming the user experience (customers, 
+partners, workforce)
+Identifying and acquiring the necessary resources for 
+incorporating digital technologies
+✓
+Digitalisation of business processes
+✓
+✓
+Changing/modifying the organisation – structure, 
+incentives and culture
+✓
+✓
+Digitalisation of existing capabilities
+✓
+Building a digital strategy
+✓
+✓
+✓
+✓
+Creating cross-functional teams
+✓
+✓
+Building stronger ties with stakeholders
+✓
+Collecting digital knowledge and experience at 
+the organisational level
+✓
+Creation and measurement of key performance 
+areas KPAs
+✓
+Source: own
+Tab. 4:
+Steps/dimensions of digital transformation
+
+--- [PAGE 12] ---
+Business Administration and Management
+98
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+style and the use of digital technology (Mihardjo 
+&  Rukmana, 2019), or  even a  combination 
+of  digital competencies and digital culture (Mi-
+hardjo et al., 2019). Digital leadership can also be 
+defined as the complete transformation of busi-
+ness operations, as  well  as the  enhancement 
+of organisational performance in specific areas 
+through the application of technology across all 
+aspects of business (Arabiun et al., 2024).
+Values, skills and behaviour of  leaders 
+are crucial in  directing and leading organisa-
+tional development processes (Zivkovic, 2022). 
+Taking into account the  role of  leadership in 
+the  process of  digital transformation, starting 
+with authors that emphasise the exclusive re-
+sponsibility for digital transformation success 
+lies with top management (Abbu et  al., 2022; 
+Kontic & Vidicki, 2018; McCarthy et al., 2021; 
+Sow &  Aborbie, 2018), the  research results 
+indicate that digitally mature organisations sup-
+port agile principles to  a  much greater extent 
+such as transparent and open communication 
+regarding digital projects and draw and gen-
+erate new ideas based on  communication 
+Source
+Characteristics of leadership
+Karakose et al. (2021)
+Use of technology, managerial skills, individual skills
+Zivkovic (2022)
+Vision, innovation, flexibility, understanding of digital technologies, 
+collaboration, empowerment, multiple intelligences, continuous 
+learning, experimentation
+Guzmán et al. (2020)
+Cognitive skills, interpersonal skills, strategic skills
+Gilli et al. (2023)
+Cooperation, strategic thinking, team leadership skills, customer 
+orientation, communication skills
+Imran et al. (2021) 
+Adaptability, data-driven decision-making, understanding new digital 
+technologies, risk taking ability, vision, empowerment, failing fast
+Schiuma et al. (2022)
+Mentor, pragmatist, catalyst, communicator, righteous, facilitator
+Schiuma et al. (2021)
+Righteous, dreamer, builder, charismatic, bright, generous
+Abdallah et al. (2021)
+Flexibility, diversified knowledge, priority and results focus, ownership 
+and responsibility
+Bygstad et al. (2017)
+Deep employee participation, leadership that leverages 
+employee knowledge
+Cortellazzo et al. (2019)
+Digital skills, human skills, change initiation, problem solving
+Cuya and Bayona-Oré (2022) Communication knowledge, technological knowledge
+Eberl and Drews (2021)
+Visionary, digital literacy, cooperation, adaptability, motivation
+Imran et al. (2021)
+Digital vision, digital knowledge, empowerment, management 
+of diverse teams, risk taking
+Larjovuori et al. (2018)
+Strong vision and clear goals, commitment and investment, leading 
+cultural changes, coaching, promoting participation, customer 
+orientation, collaboration and partnership
+McCarthy et al. (2021)
+Digital architect, digital strategist, digital culturalist, customer centrist, 
+business process optimiser, digital workplace landscaper, data 
+advocate, organisational agilist
+Mihardjo et al. (2019)
+Communication, computing, content, telecommunications
+Noonpakdee et al. (2020)
+Business, digital technology, leadership, process, change (strategy)
+Source: own
+Tab. 5:
+Competencies/skills/characteristics of digital leaders
+
+--- [PAGE 13] ---
+Business Administration and Management
+99
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+with clients, suppliers and business partners 
+to  a  much greater extent. Digitally mature or-
+ganisations also have leaders who have a high 
+level of  education, exhibit entrepreneurial 
+behaviour, and foster digital transformation. 
+In  conclusion, leaders in  digitally mature or-
+ganisations contribute significantly to  digital 
+transformation. Overcoming negative percep-
+tions of organisational digital transformation is 
+possible by adopting new trends in developing 
+the  skills of  employees, especially leaders 
+(Sousa & Rocha, 2019). The successful leader 
+in the  digital age is one who has leadership 
+skills (Mihardjo et  al., 2019), a  mindset that 
+adapts to  digital transformation, and is able 
+to recognise and seize the opportunity to be in-
+formed, make timely decisions in order to adjust 
+strategy when risky situations arise, contribut-
+ing significantly to  the  organisation’s optimal 
+development (Hai et al., 2021).
+Tab. 5 presents a list of the most common 
+competencies of digital leadership that are cited 
+in the  analysed papers as research results. 
+However, a conclusion can be found that there 
+is  no  single conceptual framework of  digital 
+leadership competencies, which are not unified 
+(Wahyuningsih & Asri, 2024).
+According 
+to 
+previous 
+studies, 
+digi-
+tally mature organisations differ from digi-
+tally developing organisations when it comes 
+to leadership competencies. As a result, lead-
+ership competencies play an  important role 
+in the development and success of the digital 
+transformation process, particularly the combi-
+nation of digital and human skills (Cortellazzo 
+et  al., 2019). One  of  the  key competencies 
+of a leader in the digital era is trust (Savolainen, 
+2018), which can be the  basis of  a  separate 
+leadership style. Digital transformation requires 
+a  new form of  leadership (Kohnke, 2017), 
+while innovations in  digital leadership are set 
+as a new type of support in the form of digital 
+innovations (Nurhidayati &  Ratnasari, 2021; 
+Wasono & Furinto, 2018) of the business model 
+(Yopan et al., 2022). In order to achieve digital 
+leadership, there are three leadership styles 
+–  administrative leadership, adaptive leader-
+ship, and enabling leadership, on the one hand, 
+and four platforms –  an  adoption platform, 
+a learning platform, an innovation platform, and 
+a system and business platform – on the other 
+(Tanniru et al., 2018).
+Digital leadership enabled business model 
+by:  i)  transforming the  role, skills, and style 
+of the digital leader; ii) realising a digital organ-
+isation, including governance, vision, values, 
+structure, culture, and decision processes; 
+and iii)  adjusting management, virtual teams, 
+knowledge, and communication and collabo-
+ration on the  individual level (Eberl &  Drews, 
+2021). In  the digital age, leadership is clearly 
+becoming a recognised leadership style based 
+on  two dimensions that are balanced. Firstly, 
+it  is characterised by  a  behavioural perspec-
+tive and a  focus on the  human aspects and 
+teamwork of the organisation, but on the other 
+hand, it  is characterised by  a  strong focus 
+on  innovation and digital technology adoption 
+(Oberer & Erkollar, 2018; Weber et al., 2022), 
+which is affected by  digital transformation 
+(Panshin et al., 2021). 
+Leaders in  today’s organisations need 
+to  ask a  few key questions (Ko  et  al., 2022): 
+How will the  development of  digital technolo-
+gies and business models affect organisations 
+in the  future? How well do  we  understand 
+the power of digitalisation that determines our 
+present and are we capable of making effective 
+choices about how to change it? How to lead 
+the transformation of the company, and develop 
+the necessary organisational capabilities?
+Successful digital transformation begins 
+with a  change in  mindset among employees, 
+leadership, and throughout all levels of the or-
+ganisation. These changes lead to  a  cultural 
+shift that enables the organisation to be agile 
+and ready to take risks. Organisations that initi-
+ate this process with a focus solely on technol-
+ogy often find themselves disappointed with 
+the  results (Kane, 2019). It  is also important 
+to highlight that ineffective leadership is the pri-
+mary cause of  digital transformation failure 
+(Aditya et al., 2021). In the information systems 
+research, top management support is often 
+regarded as a positive phenomenon essential 
+to  successful digital transformation, including 
+the  implementation of  information systems 
+associated with organisational, operational, 
+and strategic changes (Alieva & Powell, 2023; 
+Elbanna &  Newman, 2022; Gudergan et  al., 
+2021; Gurkan et al., 2020; Wrede et al., 2020).
+Conclusions and discussion
+Organisations today are more or less affected 
+by  digital transformation. Generally, the  au-
+thors agree that digital transformation is not 
+a  one-time project, but rather a  process that 
+manifests itself in different ways and at different 
+
+--- [PAGE 14] ---
+Business Administration and Management
+100
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+intensities. Without management, digital trans-
+formation will happen spontaneously in the or-
+ganisation, but to achieve the desired results, 
+it  must be monitored and managed. There 
+is no doubt that digital transformation is tech-
+nologically based, but the emphasis should not 
+be solely on technology. Digital transformation 
+is often associated with the following technolo-
+gies: social media, the internet of things, mo-
+bility, big data and analytics, cloud computing, 
+artificial intelligence and blockchain. The main 
+factors enabling digital transformation include 
+(among others) technologies. A customer-cen-
+tric approach and an  effective digital strategy 
+that includes, among other things, the  digital 
+ecosystem, or, extending beyond the traditional 
+boundaries of the organisation are essential.
+The literature does not offer a generic and 
+generally accepted definition of digital strategy. 
+This is due to the fact that digital transforma-
+tion takes a different form in different organisa-
+tions, and it  is viewed differently by  experts. 
+The following characteristics can be attributed 
+to digital transformation according to the litera-
+ture review: digital transformation is a continu-
+ous process of changing business processes; 
+digital transformation includes the  creation 
+of  new or the  modification of  existing busi-
+ness models; digital transformation is more 
+than the  implementation of  new technologies; 
+digital transformation includes new digital 
+technologies that enable improvements and/
+or transformation of business processes; digital 
+transformation is  a  customer-centric mecha-
+nism that enables continuous improvements; 
+digital transformation includes the  following 
+technologies among others: social media, inter-
+net of things, mobility, big data and analytics, 
+cloud computing, artificial intelligence, block-
+chain, and cloud computing.
+Despite the fact that digital transformation 
+can take place spontaneously within organ-
+isations, it  needs to  be managed profession-
+ally. The management must have well-defined 
+paths, or  road maps, for leading the  digital 
+transformation effectively. A strategic approach 
+to  digital transformation is very important. 
+Digital transformation challenges must first be 
+identified within the organisation. Limited infra-
+structure, a lack of digital skills among employ-
+ees, management’s inability to  adapt, a  lack 
+of resources to integrate digital transformation, 
+organisational culture, a lack of clear plan, and 
+employee resistance all contribute to the chal-
+lenges of digital transformation. It is essential 
+to identify the challenges of digital transforma-
+tion, take measures to  overcome them, and 
+analyse the  key factors of  digital transforma-
+tion. There are numerous actions that must 
+be carried out simultaneously, starting with 
+Fig. 2:
+Framework of digital transformation
+Source: own
+Identifying the challenges of digital transformation
+ Limited infrastructure
+ Lack of skills
+ Not adapted management, lack of 
+knowledge to lead digital transformation
+ Lack of resources to incorporate digital 
+technologies
+Initiating actions to overcome the challenges of digital transformation
+ Culture in an organization
+ Lack of a clear, industry-oriented 
+plan
+ Employee resistance
+new
+
+--- [PAGE 15] ---
+Business Administration and Management
+101
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+developing a  digital strategy, installing digital 
+leadership, and creating and measuring key 
+performance areas (Fig. 2).
+All of the above supports the position that 
+leadership (people, strategy, leadership, busi-
+ness processes and technology) is the  fun-
+damental component of  digital transformation 
+(Abbu et al., 2022; Abdallah et al., 2021; Gri-
+gore &  Coman, 2018). Leadership and digital 
+transformation are closely related, which starts 
+with a leader with possessing visionary thinking, 
+agility, an  understanding of  the  value of  data, 
+data-driven decision-making, knowledge of strat-
+egy, and a willingness to embrace change and 
+changes in culture and networking (Larjovuori 
+et al., 2018; Philip et al., 2023).
+The readiness of an organisation for trans-
+formation can be determined by  a  number 
+of  factors. From the  position of  practical and 
+academic views, it is concluded that organisa-
+tions in this process require not only individual 
+commitments, such as executive directors, but 
+also teams of  competent managers, who will 
+take responsibility for the success of the digital 
+transformation process. Whether they succeed 
+or fail depends greatly on their ability to build 
+leadership trust and apply it for transformation. 
+Digital transformation research suggests that 
+leaders create a roadmap for the transformation 
+process so as to know where they want their 
+organisations to be in three to five years. A chief 
+executive officer (CEO) plays a very important 
+role in the transformation process, and manag-
+ers and leaders will face significant challenges 
+in the  future (Cortellazzo et  al., 2019; Zeike 
+et  al., 2019). Changing the  way an  organisa-
+tion thinks has a big impact on leadership and 
+management (Evans et al., 2021).
+Digital transformation brings significant chal-
+lenges when it comes to managerial compete­
+ncies. In  order to  improve business efficiency 
+and introduce digital innovations, digital tech-
+nologies require new competencies that must 
+be combined with existing ones (Henderikx 
+& Stoffers, 2022; Pihlajamaa et al., 2021), since 
+the  development of  higher levels of  digital 
+transformation is far more related to the charac-
+teristics of the management than to the charac-
+teristics of the organisation (Porfírio et al., 2021).
+A  key requirement for the  positive deve­
+lopment of  the  change process is  a  change 
+in  leadership style, which managers realise 
+is necessary. Study results indicate that man-
+agers need to  remove themselves from their 
+personal comfort zones in order to learn a new 
+way of  behaving and implement changes. 
+To address possible uncertainties (and poten-
+tial fears) on the part of employees, managers 
+believe it will be helpful to define a clear vision 
+that will enable the  new culture of  leadership 
+to flourish (Sokolovic et al., 2022). On the other 
+hand, they propose specific goals that can be 
+achieved with AI in leadership and culture and 
+indicate the personal use of new technologies.
+Contribution, limitations and sugges-
+tions for future research. Both practitioners 
+and researchers can benefit from a  clearer 
+definition of  digital transformation. This pro-
+posed framework can serve as a starting point 
+for digital transformation research, both for 
+researchers and for organisations managing 
+digital transformation. In  establishing training 
+requirements and recruiting adequate employ-
+ees, HR management can utilise the proposed 
+competencies list. There are certain limitations 
+in the  conducted systematic literature review. 
+Only two, albeit the largest, citation databases 
+were searched, and only papers in English were 
+identified. The  established framework should 
+be verified and expanded through empirical 
+research (Gudergan et al., 2021), due to a lack 
+of  empirical research that addresses the  rela-
+tionship between digital leadership and digital 
+transformation process (Müller at al., 2024). Both 
+HR management and experts who are familiar 
+with and lead digital transformations in  organ-
+isations should empirically verify the  identified 
+competencies. Future research should focus on 
+the relationship between digital leadership and 
+organisational performance (Abbu et al., 2022), 
+as well as the development of the digital maturity 
+assessment model, which comprises a  variety 
+of  dimensions, although most of  them cover 
+technology, people, and strategy. Furthermore, 
+future research should also analyse companies 
+with a high level of digital transformation maturity 
+and identify the  characteristics of  leaders that 
+enabled this maturity and the degree of imple-
+mentation of the digital workplace.
+References
+Abbu, H., Fleischmann, D., & Gopalakrish-
+na,  P.  (2021). The  case of digital transforma-
+tion in grocery business: A  conceptual model 
+of digital grocery ecosystem. In  Proceedings 
+of 2021 IEEE International Conference on 
+
+--- [PAGE 16] ---
+Business Administration and Management
+102
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+Engineering, Technology and Innovation (ICE/
+ITMC) (pp. 1–9). IEEE. https://doi.org/10.1109/
+ice/itmc52061.2021.9570219
+Abbu,  H., Mugge,  P., Gudergan,  G., Hoe-
+born, G., & Kwiatkowski, A. (2022). Measuring 
+the human dimensions of digital leadership 
+for successful digital transformation: Digital 
+leaders can use the authors’ digital leadership 
+scale to assess their own readiness and ability 
+to accelerate digital transformation. Research-
+Technology Management, 65(3), 39–49. https://
+doi.org/10.1080/08956308.2022.2048588
+Abdallah, Y. O., Shehab, E., & Al-Ashaab, A. 
+(2021). Towards managing digital transforma-
+tion in manufacturing industry: Theoretical 
+framework. In  M.  Shafik &  K.  Case (Eds.), 
+Advances in manufacturing technology XXXIV 
+(pp. 21–26). IOS Press. https://doi.org/10.3233/
+atde210006
+Aditya, B. R., Ferdiana, R., & Kusumaward-
+ani,  S.  S. (2021). Categories for barriers to 
+digital transformation in higher education: 
+An  analysis based on literature. International 
+Journal of Information and Education Technol-
+ogy, 11(12), 658–664. https://doi.org/10.18178/
+ijiet.2021.11.12.1578
+Alieva, J., & Powell, D. J. (2023). The sig-
+nificance of employee behaviours and soft 
+management practices to avoid digital waste 
+during a  digital transformation. International 
+Journal of Lean Six Sigma, 14(1), 1–32. https://
+doi.org/10.1108/ijlss-07-2021-0127
+AlNuaimi, B. K., Kumar Singh, S., Ren, S., 
+Budhwar,  P., &  Vorobyev,  D. (2022). Master-
+ing digital transformation: The nexus between 
+leadership, agility, and digital strategy. Journal 
+of Business Research, 145, 636–648. https://
+doi.org/10.1016/j.jbusres.2022.03.038
+Alshehab, A., Alfozan, T., Gaderrab, H. F., 
+Alahmad, M. A., & Alkandari, A. (2022). Iden-
+tifying significant elements of the digital trans-
+formation of organizatios in Kuwait. Indonesian 
+Journal of Electrical Engineering and Computer 
+Science, 26(1), 318. https://doi.org/10.11591/
+ijeecs.v26.i1.pp318-325
+Andriole,  S. J. (2020). The  hard truth 
+about soft digital transformation. IT  Profes-
+sional, 22(5), 13–16. https://doi.org/10.1109/
+mitp.2020.2972169
+Arabiun,  A., Tajpour,  M., &  Zahedi,  M.  R. 
+(2024). The  effect of digital leadership on the 
+performance of businesses: The  mediating role 
+of organizational entrepreneurship. International 
+Journal of Human Capital in Urban Management, 
+9(1), 17–28. https://doi.org/10.22034/IJHCUM. 
+2024.01.02
+Boneva,  M. (2018). Challenges related 
+to the digital transformation of business com-
+panies. In  O.  Dvoulety,  M.  Lukes, &  J.  Misar 
+(Eds.), In Proceedings of The 6th International 
+Conference Innovation Management, Entre-
+preneurship and Sustainability (pp.  101–114). 
+OECONOMICA PUBLISHING HOUSE.
+Braojos, J., Weritz, P., & Matute, J. (2024). 
+Empowering organisational commitment through 
+digital transformation capabilities: The  role of 
+digital leadership and a continuous learning en-
+vironment. Information Systems Journal, 12501. 
+https://doi.org/10.1111/isj.12501
+Brown,  N., &  Brown,  I. (2019). From digital 
+business strategy to digital transformation – How: 
+A systematic literature review. In Proceedings of 
+the South African Institute of Computer Scientists 
+and Information Technologists 2019 (No.  13, 
+pp. 1–8). Association for Computing Machinery. 
+https://doi.org/10.1145/3351108.3351122
+Bygstad, B., Aanby, H.-P., & Iden, J. (2017). 
+Leading digital transformation: The  Scandina-
+vian way. In Nordic contributions in IS research 
+(pp.  1–14). Springer International Publishing. 
+https://doi.org/10.1007/978-3-319-64695-4_1
+Carcary,  M., Doherty,  E., &  Conway,  G. 
+(2016). A dynamic capability approach to digi-
+tal transformation: A focus on key foundational 
+themes. In P. Silva, A. Guerreiro, & R. Quares-
+ma (Eds.), Proceedings of the 10th  European 
+Conference on Information Systems Manage-
+ment (pp. 20–28). Academic Conferences Ltd.
+Carvalho, J., Pires, H., Borges, A. P., Viei-
+ra, E., & Monteiro, M. (2023). Digital leadership: 
+Characteristics, challenges. And opportunities. 
+In A. M. Even & B. Christiansen (Eds.), Enhanc-
+ing employee engagement and productivity in 
+the post-pandemic multigenerational work-
+force (pp.  204–218). IGI Global. https://doi.
+org/10.4018/978-1-6684-9172-0.ch010
+Cortellazzo,  L., Bruni,  E., &  Zampieri,  R. 
+(2019). The  role of leadership in a  digitalized 
+world: A  review. Frontiers in Psychology, 10. 
+https://doi.org/10.3389/fpsyg.2019.01938
+Criado-Perez,  C., Shinkle,  G.  A., Höller-
+er, M. A., Sharma, A., Collins, C., Gardner, N., 
+Hank Haeusler,  M., &  Pan,  S. (2022). Digital 
+transformation in the Australian AEC  in-
+dustry: Prevailing issues and prospective 
+leadership thinking. Journal of Construction 
+Engineering and Management, 148(1). https://
+doi.org/10.1061/(asce)co.1943-7862.0002214
+
+--- [PAGE 17] ---
+Business Administration and Management
+103
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+Cuya, M., & Bayona-Oré, S. (2022). From 
+e-government to digital transformation: Leader-
+ship. In Lecture Notes in Networks and Systems 
+(pp. 147–155). Springer Singapore. https://doi.
+org/10.1007/978-981-16-2380-6_13
+Danielsen,  A. V. (2020). Digital transfor­
+mation and its potential effects on future 
+management: Insights from an ETO  context. 
+In B. Lalic, V. Majstorovic, U. Marjanovic, G. Ci-
+eminski, & D. Romero (Eds.), Advances in produc-
+tion management systems. Towards smart and 
+digital manufacturing (Vol.  592, pp.  146–153). 
+Springer International Publishing. https://doi.org/ 
+10.1007/978-3-030-57997-5_18
+Eberl, J. K., & Drews, P. (2021). Digital lead-
+ership ‒ Mountain or molehill? A literature re-
+view. In Innovation through information systems 
+(pp. 223–237). Springer International Publishing. 
+https://doi.org/10.1007/978-3-030-86800-0_17
+Egor, P. (2020). Digital transformation of in-
+dustrial companies: What is Management 4.0? 
+In  Proceedings of 2020 The  11th  International 
+Conference on E-Business, Management and 
+Economics (pp.  131–138). ACM. https://doi.
+org/10.1145/3414752.3414779
+Elbanna,  A., &  Newman,  M. (2022). 
+The bright side and the dark side of top manage-
+ment support in digital transformation – A herme-
+neutical reading. Technological Forecasting and 
+Social Change, 175, 121411. https://doi.org/ 
+10.1016/j.techfore.2021.121411
+Elidjen,  D., Mihardjo,  L.  W.  W., &  Rukma-
+na, R. A. N. (2019). Intervening role of innovation 
+management on relationship between digital 
+leadership and dynamic capability accelerated 
+by collaboration. International Journal of Innova-
+tion, Creativity and Change, 6(1), 249–264.
+Engesmo,  J., &  Panteli,  N. (2021). Digital 
+leaders and the transformation of the IT func-
+tion. Scandinavian Journal of Information Sys-
+tems, 33(1), 4.
+Evans, N., Qureshi, A., & Miklosik, A. (2021). 
+Digital enterprise transformation: Lessons 
+learnt from expert experience. In Proceedings 
+of the European Conference on Knowledge 
+Management (pp. 268–275). EKCM.
+Fachrunnisa, O., Adhiatma, A., Lukman, N., 
+& Ab. Majid, M. N. (2020). Towards SMEs’ digi-
+tal transformation: The role of agile leadership 
+and strategic flexibility. Journal of Small Busi-
+ness Strategy, 30(3), 65–85.
+Florek-Paszkowska,  A., Ujwary-Gil,  A., 
+& Godlewska-Dzioboń, B. (2021). Business in-
+novation and critical success factors in the era 
+of digital transformation and turbulent times. 
+Journal of Entrepreneurship, Management 
+and Innovation, 17(4), 7–28. https://doi.org/ 
+10.7341/20211741
+Gaffley, G., & Pelser, T. G. (2021). Develop-
+ing a digital transformation model to enhance 
+the strategy development process for leader-
+ship in the South African manufacturing sector. 
+South African Journal of Business Management, 
+52(1). https://doi.org/10.4102/sajbm.v52i1.2357
+Gierlich-Joas, M. (2021). Identifying and over-
+coming future challenges in leadership: The role 
+of  IS in facilitating empowerment. In  F.  Ahle-
+mann,  R.  Schütte, &  S.  Stieglitz (Eds.), Inno-
+vation Through Information Systems (Vol.  48, 
+pp. 537–553). Springer International Publishing. 
+https://doi.org/10.1007/978-3-030-86800-0_38
+Gilli, K., Nippa, M., & Knappstein, M. (2023). 
+Leadership competencies for digital transfor-
+mation: An exploratory content analysis of job 
+advertisements. German Journal of Human 
+Resource Management: Zeitschrift Für Per-
+sonalforschung, 37(1), 50–75. https://doi.org/ 
+10.1177/23970022221087252
+Grigore,  A.  M., &  Coman,  A. (2018). 
+The  hourglass effect: Leadership transforma-
+tions in the digital era. In  Proceedings of the 
+12th  International Management Conference: 
+Management Perspectives in the Digital Era 
+(pp. 603–610). Editura ASE.
+Gudergan, G., Mugge, P., Kwiatkowski, A., 
+Abbu, H., Hoeborn, G., & Conrad, R. (2021). Dig-
+ital leadership – Which leadership dimensions 
+contribute to digital transformation success? 
+In  Proceedings of 2021  IEEE  International 
+Conference on Engineering, Technology and 
+Innovation (ICE/ITMC) (pp. 1–8). IEEE. https://
+doi.org/10.1109/ice/itmc52061.2021.9570231
+Guinan,  P.  J., Parise,  S., &  Langowitz,  N. 
+(2019). Creating an innovative digital project 
+team: Levers to enable digital transformation. 
+Business Horizons, 62(6), 717–727. https://doi.
+org/10.1016/j.bushor.2019.07.005
+Gurkan, G. C., Cıftcı, G., & Ozyurt, B. (2020). 
+Mutual relationships between digital transforma-
+tion and leadership.  In  U.  Hacioglu (Ed.), Ad-
+vances in e-business research (pp.  311–331). 
+IGI  Global. https://doi.org/10.4018/978-1-7998-
+1125-1.ch013
+Guzmán, V. E., Muschard, B., Gerolamo, M., 
+Kohl, H., & Rozenfeld, H. (2020). Characteristics 
+and skills of leadership in the context of Indus-
+try  4.0. Procedia Manufacturing, 43, 543–550. 
+https://doi.org/10.1016/j.promfg.2020.02.167
+
+--- [PAGE 18] ---
+Business Administration and Management
+104
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+Hai, T. N., Van, Q. N., & Thi Tuyet, M. N. 
+(2021). Digital transformation: Opportunities and 
+challenges for leaders in the emerging countries 
+in response to COVID-19 pandemic. Emerg-
+ing Science Journal, 5, 21–36. https://doi.org/ 
+10.28991/esj-2021-sper-03
+Hansen, A. M., Kraemmergaard, P., & Math-
+iassen,  L. (2011). Rapid adaptation in digital 
+transformation: A participatory process for en-
+gaging IS and business leaders. MIS Quarterly 
+Executive, 10(4), 175–185.
+Henderikx, M., & Stoffers, J. (2022). An ex-
+ploratory literature study into digital transforma-
+tion and leadership: Toward future-proof middle 
+managers. Sustainability, 14(2), 687. https://doi. 
+org/10.3390/su14020687
+Heracleous, L., & Gledhill, D. (2024). Why 
+digital transformation may fail – And what can 
+be done about it. The  Journal of Applied Be-
+havioral Science, 60(1), 215–219. https://doi.
+org/10.1177/00218863231176567
+Imran,  F., Shahzad,  K., Butt,  A., &  Kan-
+tola,  J. (2021). Digital transformation of in-
+dustrial organisations: Toward an integrated 
+framework. Journal of Change Management, 
+21(4), 451–479. https://doi.org/10.1080/14697
+017.2021.1929406
+Jacobi,  R., &  Brenner,  E. (2018). How 
+large 
+corporations 
+survive 
+digitalization. 
+In C. Linnhoff-Popien, R. Schneider, & M. Zad-
+dach (Eds.), Digital marketplaces unleashed 
+(pp. 83–97). Springer Berlin Heidelberg. https://
+doi.org/10.1007/978-3-662-49275-8_11
+Jayawardena, C. D. W., Albattat, A., & Jaha-
+radak, A. A. (2020). Synthesis of digital transfor-
+mation beyond technology perspective: Digital 
+strategy, leadership & culture. Journal of Criti-
+cal Reviews, 7(09), 349–357. https://doi.org/ 
+10.31838/jcr.07.09.01
+Kane,  G. (2019). The  technology fallacy: 
+People are the real key to digital transformation. 
+Research-Technology 
+Management, 
+62(6), 
+44–49. https://doi.org/10.1080/08956308.2019. 
+1661079
+Karakose,  T., Polat,  H., &  Papadakis,  S. 
+(2021). Examining teachers’ perspectives on 
+school principals’ digital leadership roles and 
+technology capabilities during the COVID-19 
+pandemic. Sustainability, 13(23), 13448. https://
+doi.org/10.3390/su132313448
+Ko,  A., Fehér,  P., Kovacs,  T., Mitev,  A., 
+& Szabó, Z. (2022). Influencing factors of digital 
+transformation: Management or IT is the driv-
+ing force? International Journal of Innovation 
+Science, 14(1), 1–20. https://doi.org/10.1108/
+ijis-01-2021-0007
+Kohnke,  O. (2017). It’s not just about 
+technology: The  people side of digitization. 
+In G. Oswald & M. Kleinemeier (Eds.), Shaping 
+the digital enterprise (pp. 69–91). Springer In-
+ternational Publishing. https://doi.org/10.1007/ 
+978-3-319-40967-2_3
+Kokolek, N., Jakovic, B., & Curlin, T. (2019). 
+Digital knowledge and skills –  Key factors for 
+digital transformation. In  Proceedings of the 
+30th  International DAAAM Symposium 2019 
+(pp.  0046–0053). DAAAM International Vi-
+enna. 
+https://doi.org/10.2507/30th.daaam.
+proceedings.006
+Kontić, L., & Vidicki, Đ. (2018). Strategy for 
+digital organization: Testing a  measurement 
+tool for digital transformation. Strategic Man-
+agement, 23(1), 29–35. https://doi.org/10.5937/
+straman1801029k
+Kringelum, L. B., Holm, C. G., Holmgren, J., 
+Friis, O., & Jensen, K. F. (2024). Digital transfor­
+mation: Strategy comes first to lay the ground­- 
+work. Journal of Business Strategy. https://doi.
+org/10.1108/jbs-09-2023-0199
+Kutnjak, A., Pihiri, I., & Furjan, M. T. (2019). 
+Digital transformation case studies across 
+industries –  Literature review. In  Proceed-
+ings of 2019  42nd  International Convention 
+on Information and Communication Technol-
+ogy, Electronics and Microelectronics (MIPRO) 
+(pp. 1293–1298). IEEE. https://doi.org/10.23919/ 
+mipro.2019.8756911
+Larjovuori,  R.-L., Bordi,  L., &  Heikkilä-
+Tammi,  K. (2018). Leadership in the digital 
+business transformation. In  Proceedings of 
+the 22nd International Academic Mindtrek Con-
+ference (pp.  212–221). ACM. https://doi.org/ 
+10.1145/3275116.3275122
+Lorentzen,  A.-C.  R. (2022). Digital trans-
+formation as distributed leadership: Firing the 
+change agent. Procedia Computer Science, 
+196(2022), 245–254. https://doi.org/10.1016/ 
+j.procs.2021.12.011
+Luo,  Y., Cui,  H., Zhong,  H., &  Wei,  C. 
+(2023). Business environment and enterprise 
+digital transformation. Finance Research Let-
+ters, 57, 104250. https://doi.org/10.1016/j.frl. 
+2023.104250
+McCarthy, P., Sammon, D., & Alhassan, I. 
+(2021). Digital transformation leadership char-
+acteristics: A literature analysis. Journal of De-
+cision Systems, 32(1), 79–109. https://doi.org/ 
+10.1080/12460125.2021.1908934
+
+--- [PAGE 19] ---
+Business Administration and Management
+105
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+Mhlungu, N. S. M., Chen, J. Y. J., & Alke-
+ma, P. (2019). The underlying factors of a suc-
+cessful organisational digital transformation. 
+SA Journal of Information Management, 21(1), 
+52–72. https://doi.org/10.4102/sajim.v21i1.995
+Mihardjo,  L. W. W., &  Rukmana,  R.  A. 
+(2019). Dynamic capability, market orientation 
+and innovation capability: The  role of digital 
+leadership for Indonesia telecommunication 
+firms in facing disruptive era. In  Proceedings 
+of the International Conference on Indus-
+trial Engineering and Operations Management 
+(pp. 1218–1222). IEOM Society International.
+Mihardjo,  L. W. W., Sasmoko,  S., Alams-
+jah, F., & Elidjen, E. (2019). Digital leadership role 
+in developing business model innovation and 
+customer experience orientation in Industry 4.0. 
+Management Science Letters, 9(11), 1749–1762. 
+https://doi.org/10.5267/j.msl.2019.6.015
+Müller,  S. D., Konzag,  H., Nielsen,  J.  A., 
+&  Sandholt,  H.  B. (2024). Digital transforma-
+tion leadership competencies: A  contingency 
+approach. International Journal of Informa-
+tion Management, 75, 102734. https://doi.org/ 
+10.1016/j.ijinfomgt.2023.102734
+Noonpakdee, W., Phothichai, A., Khunkorns-
+iri, T., & Nuntree, A. (2020). CIO competency in 
+digital era: A comparative study between gov-
+ernment organisations and private enterprises. 
+In  Proceedings of 2020 IEEE 7th International 
+Conference on Industrial Engineering and Ap-
+plications (ICIEA) (pp. 948–952). IEEE. https://
+doi.org/10.1109/iciea49774.2020.9101988
+Nurhidayati, & Ratnasari, S. W. (2021). Digi-
+tal transformation of organisations: Perspectives 
+from digital citizenship and spiritual innovative 
+leadership.  In  L.  Barolli,  A.  Poniszewska-Ma-
+randa, & T. Enokido (Eds.), Advances in intelligent 
+systems and computing (pp. 485–489). Spring-
+er International Publishing. https://doi.org/ 
+10.1007/978-3-030-50454-0_50
+Oberer,  B., &  Erkollar,  A. (2018). Lead-
+ership  4.0: Digital leaders in the age of 
+Industry 4.0. International Journal of Organiza-
+tional Leadership, 7(4), 404–412. https://doi.org/ 
+10.33844/ijol.2018.60332
+O’Leary,  D. E. (2023). Digitization, digita-
+lization, and digital transformation in account-
+ing, electronic commerce, and supply chains. 
+Intelligent Systems in Accounting, Finance and 
+Management, 30(2), 101–110. https://doi.org/ 
+10.1002/isaf.1524
+Panshin,  I., Solovieva,  O., Kornilova,  O., 
+& Eronin, V. (2021). The impact of digitalization 
+on leadership. In E. G. Popkova & B. S. Sergi 
+(Eds.), Modern Global Economic System: 
+Evolutional Development vs. Revolutionary 
+Leap (Vol.  198, pp.  1272–1278). Springer In-
+ternational Publishing. https://doi.org/10.1007/ 
+978-3-030-69415-9_139
+Paul,  J., Ueno,  A., Dennis,  C., Alama-
+nos,  E., Curtis,  L., Foroudi,  P., Kacprzak, A., 
+Kunz, W. H., Liu, J., Marvi, R., Nair, S. L. S., 
+Ozdemir,  O., Pantano,  E., Papadopoulos,  T., 
+Petit, O., Tyagi, S., & Wirtz, J. (2024). Digital 
+transformation: A  multidisciplinary perspective 
+and future research agenda. International Jour-
+nal of Consumer Studies, 48(2), 13015. https://
+doi.org/10.1111/ijcs.13015
+Peter, M. K., Kraft, C., & Lindeque, J. (2020). 
+Strategic action fields of digital transformation: 
+An exploration of the strategic action fields of 
+Swiss SMEs and large enterprises. Journal of 
+Strategy and Management, 13(1), 160–180. 
+https://doi.org/10.1108/jsma-05-2019-0070
+Philip,  J., &  Gavrilova Aguilar,  M. (2022). 
+Student perceptions of leadership skills neces-
+sary for digital transformation. Journal of Educa-
+tion for Business, 97(2), 86–98. https://doi.org/ 
+10.1080/08832323.2021.1890540
+Philip, J., Gilli, K., & Knappstein, M. (2023). 
+Identifying key leadership competencies for 
+digital transformation: Evidence from a  cross-
+sectoral Delphi study of global managers. 
+Leadership & Organization Development Jour-
+nal, 44(3), 392–406. https://doi.org/10.1108/
+lodj-02-2022-0063
+Pihlajamaa, M., Malmelin, N., & Wallin, A. 
+(2021). Competence combination for digital 
+transformation: A study of manufacturing com-
+panies in Finland. Technology Analysis & Stra-
+tegic Management, 35(10), 1355–1368. https://
+doi.org/10.1080/09537325.2021.2004111
+Porfírio,  J. A., Carrilho,  T., Felício,  J.  A., 
+& Jardim, J. (2021). Leadership characteristics 
+and digital transformation. Journal of Busi-
+ness Research, 124, 610–619. https://doi.org/ 
+10.1016/j.jbusres.2020.10.058
+Reis, J., & Melão, N. (2023). Digital trans-
+formation: A  meta-review and guidelines for 
+future research. Heliyon, 9(1), e12834. https://
+doi.org/10.1016/j.heliyon.2023.e12834
+Salume, P. K., Barbosa, M. W., Pinto, M. R., 
+& Sousa, P. R. (2021). Key dimensions of digital 
+maturity: A study with retail sector companies in 
+Brazil. RAM. Revista de Administração Macken-
+zie, 22(6). https://doi.org/10.1590/1678-6971/
+eramd210071
+
+--- [PAGE 20] ---
+Business Administration and Management
+106
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+Savolainen, T. (2018). Trust as leadership 
+resource and skill in the services and tourism 
+business: Views on managing intangibles in the 
+digital era. In Proceedings of International Con-
+ference on Tourism Research (pp.  129–133). 
+ACAD.
+Schiuma, G., Schettini, E., & Santarsiero, F. 
+(2021). How wise companies drive digital trans-
+formation. Journal of Open Innovation: Technol-
+ogy, Market, and Complexity, 7(2), 122. https://
+doi.org/10.3390/joitmc7020122
+Schiuma, G., Schettini, E., Santarsiero, F., 
+&  Carlucci,  D. (2022). The  transformative 
+leadership compass: Six competencies for 
+digital transformation entrepreneurship. Inter-
+national Journal of Entrepreneurial Behavior 
+& Research, 28(5), 1273–1291. https://doi.org/ 
+10.1108/ijebr-01-2021-0087
+Schwaferts,  D., &  Baldi,  S. (2018). Digital 
+transformation management and digital business 
+development. In  R. Dornberger (Ed.), Studies 
+in systems, decision and control (pp. 147–159). 
+Springer International Publishing. https://doi.
+org/10.1007/978-3-319-74322-6_10
+Schwarzmüller,  T., Brosi,  P., Duman,  D., 
+&  Welpe,  I.  M. (2018). How does the digital 
+transformation affect organisations? Key themes 
+of change in work design and leadership. Man-
+agement Revue, 29(2), 114–138. https://doi.org/ 
+10.5771/0935-9915-2018-2-114
+Sokolović,  B., Katić,  I., Grubić-Nešić,  L., 
+Ivanišević, A., & Pavlović, A. (2022). The spe-
+cific role of transformational leadership in the 
+organizational culture of service organiza-
+tions. Anali Ekonomskog Fakulteta u  Sub-
+otici, (47), 131–145. https://doi.org/10.5937/
+aneksub2247131s
+Solberg, E., Traavik, L. E. M., & Wong, S. I. 
+(2020). Digital mindsets: Recognizing and 
+leveraging individual beliefs for digital trans-
+formation. California Management Review, 
+62(4), 105–124. https://doi.org/10.1177/000812 
+5620931839
+Sousa,  M.  J., &  Rocha,  Á. (2019). Digital 
+learning: Developing skills for digital transforma-
+tion of organizations. Future Generation Com-
+puter Systems, 91, 327–334. https://doi.org/ 
+10.1016/j.future.2018.08.048
+Suryadi,  S., Muslim, A.  Q., &  Setyono,  L. 
+(2024). Exploring the nexus of digital leadership 
+and digital literacy on higher education perfor-
+mance: The role of digital innovation. European 
+Journal of Educational Research, 13(1), 207–218. 
+https://doi.org/10.12973/eu-jer.13.1.207
+Tanniru,  M., Khuntia,  J., &  Weiner,  J. 
+(2018). Hospital leadership in support of digital 
+transformation. Pacific Asia Journal of the As-
+sociation for Information Systems, 10(3), 1–24. 
+https://doi.org/10.17705/1pais.10301
+Tekic,  Z., &  Koroteev,  D. (2019). From 
+disruptively digital to proudly analog: A holistic 
+typology of digital transformation strategies. 
+Business Horizons, 62(6), 683–693. https://doi.
+org/10.1016/j.bushor.2019.07.002
+Trenerry,  B., Chng,  S., Wang,  Y., Su-
+haila, Z. S., Lim, S. S., Lu, H. Y., & Oh, P. H. 
+(2021). Preparing workplaces for digital trans-
+formation: An integrative review and framework 
+of multi-level factors. Frontiers in Psychology, 
+12. https://doi.org/10.3389/fpsyg.2021.620766
+Tu, Y., & Chi, M. (2020). Exploring the digital 
+transformation based on big data with ubiqui-
+tous internet of everything. In  Proceedings of 
+Nineteenth Wuhan International Conference on 
+E-Business (pp.  131–136). UNIV CALGARY 
+PRESS.
+Tungpantong, C., Nilsook, P., & Wannapir-
+oon, P. (2021). A conceptual framework of fac-
+tors for information systems success to digital 
+transformation in higher education institutions. 
+In Proceedings of 2021 9th International Confer-
+ence on Information and Education Technol-
+ogy (ICIET) (pp. 57–62). IEEE. https://doi.org/ 
+10.1109/iciet51873.2021.9419596
+Ubiparipovic, B., Matkovic, P., & Pavlicevic, V. 
+(2023). Key activities of digital business transfor-
+mation process. Strategic Management, 28(1), 
+33–40. https://doi.org/10.5937/straman2200016u
+Urs, N., Nisioi, I., & Roja, A. (2023). Leading 
+the way: How leaders facilitate digital transfor-
+mation in organizations. In Proceedings of the 
+Central and Eastern European eDem and eGov 
+Days 2023 (pp.  145–152). ACM. https://doi.
+org/10.1145/3603304.3603352
+Van Tonder, C., Schachtebeck, C., Nieuwen-
+huizen, C., & Bossink, B. (2020). A framework 
+for digital transformation and business model 
+innovation. Management, 25(2), 111–132. 
+https://doi.org/10.30924/mjcmi.25.2.6
+Venkatesh, R., Mathew, L., & Singhal, T. K. 
+(2019). Imperatives of business models and dig-
+ital transformation for digital services providers. 
+International Journal of Business Data Com-
+munications and Networking, 15(1), 105–124. 
+https://doi.org/10.4018/ijbdcn.2019010107
+Vial, G. (2019). Understanding digital trans-
+formation: A  review and a  research agenda. 
+The Journal of Strategic Information Systems, 
+
+--- [PAGE 21] ---
+Business Administration and Management
+107
+2024, volume 27, issue 2, pp. 87–107, DOI: 10.15240/tul/001/2024-2-006
+28(2), 118–144. https://doi.org/10.1016/j.jsis. 
+2019.01.003
+Wahyuningsih, S. H., & Asri, R. W. P. (2024). 
+The  conceptual structure and thematic evolu-
+tion of the digital leadership knowledge base. 
+Multidisciplinary 
+Reviews, 
+7(4), 
+2024073. 
+https://doi.org/10.31893/multirev.2024073
+Wasono,  L., &  Furinto, A. (2018). The  ef-
+fect of digital leadership and innovation man-
+agement for incumbent telecommunication 
+company in the digital disruptive era. Interna-
+tional Journal of Engineering &  Technology, 
+7(2.29), 125–130. https://doi.org/10.14419/ijet.
+v7i2.29.13142
+Weber,  E., Büttgen,  M., &  Bartsch,  S. 
+(2022). How to take employees on the digital 
+transformation journey: An experimental study 
+on complementary leadership behaviors in man-
+aging organizational change. Journal of Busi-
+ness Research, 143, 225–238. https://doi.org/ 
+10.1016/j.jbusres.2022.01.036
+Weritz, P., Braojos, J., & Matute, J. (2020). 
+Exploring the antecedents of digital transforma-
+tion: Dynamic capabilities and digital culture 
+aspects to achieve digital maturity. In  AMCIS 
+2020 Proceedings (pp.  1–10). Association for 
+Information Systems.
+Wrede,  M., Velamuri,  V.  K., &  Dauth,  T. 
+(2020). Top managers in the digital age: Explor-
+ing the role and practices of top managers in 
+firms’ digital transformation. Managerial and 
+Decision Economics, 41(8), 1549–1567. https://
+doi.org/10.1002/mde.3202
+Xiao,  Y., &  Watson,  M. (2019). Guid-
+ance on conducting a  systematic literature 
+review. Journal of Planning Education and 
+Research, 
+39(1), 
+93–112. 
+https://doi.org/ 
+10.1177/0739456x17723971
+Yopan, M., Kasali, R., Balqiah, T. E., & Pas-
+aribu, M. (2022). The role of digital leadership, 
+customer orientation and business model in-
+novation for IoT companies. International Jour-
+nal of Business, 27(2), 1–22. https://doi.org/ 
+10.55802/IJB.027(2).007
+Zaoui,  F., &  Souissi,  N. (2020). Roadmap 
+for digital transformation: A  literature review. 
+Procedia Computer Science, 175, 621–628. 
+https://doi.org/10.1016/j.procs.2020.07.090
+Zeike,  S., Bradbury,  K., Lindert,  L., 
+& Pfaff, H. (2019). Digital leadership skills and 
+associations with psychological well-being. In-
+ternational Journal of Environmental Research 
+and Public Health, 16(14), 2628. https://doi.
+org/10.3390/ijerph16142628
+Zhu, X., Ge, S., & Wang, N. (2021). Digital 
+transformation: A  systematic literature review. 
+Computers & Industrial Engineering, 162, 107774. 
+https://doi.org/10.1016/j.cie.2021.107774
+Zimmermann,  A., Schmidt,  R., &  Sand-
+kuhl, K. (2019). Multiple perspectives of digital 
+enterprise architecture. In  Proceedings of the 
+14th  International Conference on Evaluation 
+of Novel Approaches to Software Engineer-
+ing (pp.  547–554). SCITEPRESS –  Science 
+and Technology Publications. https://doi.org/ 
+10.5220/0007769105470554
+Zivkovic, S. (2022). Inspiring digital transfor-
+mation: An  integrative leadership competency 
+framework. Ekonomska Misao i Praksa, 31(1), 
+237–254. https://doi.org/10.17818/emip/2022/ 
+1.11
+Zulu,  S.  L., &  Khosrowshahi,  F. (2021). 
+A  taxonomy of digital leadership in the con-
+struction industry. Construction Management 
+and Economics, 39(7), 565–578. https://doi.org/ 
+10.1080/01446193.2021.1930080

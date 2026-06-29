@@ -1,0 +1,1522 @@
+
+--- [PAGE 1] ---
+JOURNAL OF LEADERSHIP STUDIES, Volume 16, Number 1, 2022
+© 2022 The Authors. Journal of Leadership Studies published by Wiley Periodicals LLC on behalf of University of Phoenix. 
+This is an open access article under the terms of the Creative Commons Attribution NonCommercial License, which permits use, distribution and  
+reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.
+View this article online at wileyonlinelibrary.com  •  DOI:10.1002/jls.21810
+6 
+The powerful and disruptive changes associated with digital transformation make leadership more 
+complex than before, which results in new and demanding challenges for companies and leaders 
+alike. Thus, building on the competing values framework (CVF), which postulates that leaders must 
+adopt multiple roles and behaviors, the current research aims to identify leadership roles appropri­
+ate in digital transformation and subsequently investigate whether the existing CVF roles are still 
+T H E  D I G I TA L 
+T R A N S F O R M AT I O N 
+L E A D E R S H I P  F R A M E W O R K : 
+C O N C E P T U A L  A N D 
+E M P I R I C A L  I N S I G H T S  I N T O 
+L E A D E R S H I P  R O L E S  I N 
+T E C H N O L O G Y - D R I V E N 
+B U S I N E S S  E N V I R O N M E N T S
+ELLEN WEBER , EVA-HELEN KREHL  AND MARION BÜTTGEN 
+Institute of Marketing & Management, University of Hohenheim, Stuttgart, 
+­Germany
+Correspondence: Marion Büttgen & Ellen Weber, Institute of Marketing & Management, University of Hohenheim, Schwerzstr. 42, 70599 
+Stuttgart, Germany. Tel.: +49 (0) 711 459-22908. E-mail: buettgen@uni-hohenheim.de​; e.weber@uni-hohenheim.de
+
+--- [PAGE 2] ---
+JOURNAL OF LEADERSHIP STUDIES  •  Volume 16  •  Number 1  •  DOI:10.1002/jls.21810   7
+relevant. A qualitative study was conducted to identify appropriate leadership behaviors in digital 
+transformation. Additionally, a measurement scale for the identified leadership roles was developed 
+and tested. Furthermore, multidimensional scaling (MDS) was used to test the degree-of-fit between 
+the identified leadership roles in digital transformation and the four CVF quadrants. The results reveal 
+that new leadership roles emerge in the context of digital transformation. Some original CVF roles 
+are still relevant, but others should be modified. Overall, the findings indicate that leaders need a 
+broad behavioral complexity to master the emerging leadership challenges in digital transformation.
+Introduction
+Organizations and their leaders are facing overwhelming 
+challenges that arise from digital transformation (Hanelt 
+et al., 2020), which is a disruptive change process caused 
+by new digital technologies that influence all aspects 
+of life (Verhoef et al., 2021; Vial, 2019). Digital 
+transformation has dramatically changed the nature 
+of work (Petrucci & Rivera, 2018). Many employees 
+work in at least partly virtual, self-organized, non­
+hierarchical teams, using agile methods and digital 
+technologies to generate innovative products and ser­
+vices (Kane et al., 2019). The powerful and unset­
+tling changes associated with digital transformation 
+increase leadership complexity while simultaneously 
+require considerable flexibility (Ford et al., 2021). For 
+example, on the one hand, leaders must know when 
+and how to adopt and successfully implement emerg­
+ing technologies (van Wart et al., 2017). On the other 
+hand, they have to consider an insecure workforce 
+that fears digital transformation due to automatiza­
+tion, which could rapidly change or even replace their 
+jobs (Cascio & Montealegre, 2016). Hence, leaders 
+have a huge responsibility to handle such tensions in 
+organizations and remain competitive in the digital 
+age (Schoemaker et al., 2018).
+One approach which captures tensions, trade-offs, 
+and paradoxes within organizations and their leaders 
+is the competing values framework (CVF). Despite the 
+considerable agreement about the overall value of the 
+CVF, research suggested that the underlying assump­
+tions of the approach need to be retested (Belasen & 
+Frank, 2008). Hence, researchers questioned the rel­
+evance of the established leadership roles and altered 
+their positions within the CVF (e.g., Vilkinas & 
+Cartan, 2006). Belasen and Frank (2008) revealed that 
+the factor structure of the roles depends mainly on the 
+context in which they are embedded and evaluated. 
+Thus, the question arises of whether the existing lead­
+ership roles of the CVF are still appropriate in times of 
+digital transformation.
+Answering the question is difficult considering that 
+research on leadership in digital transformation is still 
+limited (Cortellazzo et al., 2019). Thus far, research 
+lacks empirical knowledge on which leadership behav­
+iors are appropriate for dealing with the leadership 
+challenges associated with digital transformation. 
+Therefore, Avolio et al. (2014) advised scholars to 
+rethink leadership in times of digital transformation. 
+Thus, one purpose of the current study was to identify 
+leadership roles that appropriately address the lead­
+ership challenges digital transformation brings. The 
+second purpose was to collate the identified roles with 
+the existing leadership roles of the CVF and thereby 
+evaluate their appropriateness in times of digital trans­
+formation. Consequently, an empirical comparison 
+requires developing a scale to measure the identified 
+leadership roles.
+The current research contributes to the leadership 
+literature in several ways. First, the current research 
+extends the leadership literature by identifying leader­
+ship roles appropriate to the leadership challenges asso­
+ciated with digital transformation. Second, the current 
+research develops and introduces a measurement scale 
+for the identified leadership roles. To examine the valid­
+ity of the new scale, a multiple-study approach was 
+used. Third, the current research complements the CVF 
+literature by transferring and adapting the framework 
+to the context of digital transformation. By empirically 
+comparing the CVF with leadership roles appropriate 
+to the leadership challenges of digital ­transformation, 
+ 1935262x, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jls.21810 by Johannes Kepler Universitat, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--- [PAGE 3] ---
+8   JOURNAL OF LEADERSHIP STUDIES  •  Volume 16  •  Number 1  •  DOI:10.1002/jls.21810
+conclusions about the appropriateness of the CVF in 
+such dynamic, technology-driven business environ­
+ments were drawn. Thereby, the number and placement 
+of the leadership roles as well as possible configurations 
+of the quadrants in the context of digital transforma­
+tion were investigated.
+Competing Values Framework
+The CVF (Quinn, 1988; Quinn & Rohrbaugh, 1981) 
+highlights the trade-offs, paradoxes, and contradic­
+tions within organizations and their leaders (Belasen 
+& Frank, 2008). The well-established framework 
+(Cameron et al., 2006) overcomes viewing leadership 
+behaviors in an either/or fashion by emphasizing that 
+leadership effectiveness requires the integration of com­
+peting leadership roles (Lawrence et al., 2009). The 
+framework has been used to explain a variety of orga­
+nizational phenomena, for example, in the fields of 
+organizational culture, leadership, or human resource 
+management (Vilkinas & Cartan, 2006). By focusing 
+on individual leadership behavior, the CVF provides 
+a taxonomy of managerial roles differentiated by sit­
+uational contingencies (Belasen & Frank, 2008). The 
+CVF defines two dimensions that express the com­
+peting values leaders face in complex organizational 
+environments: a flexible versus stable structure and an 
+internal versus external focus (Kalliath et al., 1999). 
+Initially, Quinn (1988) identified eight leadership roles 
+(i.e., facilitator, mentor, innovator, broker, monitor, 
+coordinator, producer, and director). These roles are 
+embedded in four quadrants, named Collaborate, Cre­
+ate, Control, and Compete (see Figure 1). The capac­
+ity to exhibit such a broad array of behavior is called 
+behavioral complexity and is related to greater manage­
+rial and leadership effectiveness (Denison et al., 1995; 
+Vilkinas et al., 2020). Consequently, leaders should 
+not only think complexly but also behave complexly by 
+engaging in different, even opposing leadership strat­
+egies (O’Neill & Quinn, 1993).
+Although researchers highlighted the overall value 
+of the CVF, they called to retest the factor structure of 
+the CVF roles, as it depends mainly on the context in 
+which they are embedded and evaluated (Belasen & 
+Frank, 2008), resulting in modifications of the CVF 
+and its leadership roles (e.g., Hooijberg & Choi, 2000; 
+Vilkinas & Cartan, 2006). In the context of digital 
+transformation, skills like innovating, applying situa­
+tional mindsets, creating conditions that facilitate an 
+organization’s digital maturity, and networking become 
+more important to manage disruptive businesses 
+(Lavine, 2014; Lippitt, 2021; Petrucci & Rivera, 2018; 
+Sousa & Rocha, 2019). Hence, some leadership roles 
+of the original CVF might insufficiently meet the orga­
+nizational challenges accompanied by digital transfor­
+mation. Thus, certain leadership roles might become 
+less relevant, while others may become more impor­
+tant (e.g., the innovator); some existing roles might be 
+complemented with new behaviors, and entirely new 
+roles may be added. Consequently, the current research 
+sought to identify leadership roles that are appropriate 
+in digital transformation and collate them with the 
+original CVF roles.
+Developing a Digital Transformation 
+Leadership Framework
+STUDY 1: QUALITATIVE STUDY 
+FOR IDENTIFYING APPROPRIATE 
+LEADERSHIP ROLES
+A qualitative approach was applied to systemati­
+cally study which specific leadership behaviors are 
+appropriate to manage the challenges associated with 
+digital transformation. Thirty in-depth interviews 
+with managers and employees were conducted. The 
+Figure 1  The Competing Values Framework 
+According to Quinn (1988)
+Note. A 45° rotation was applied.
+ 1935262x, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jls.21810 by Johannes Kepler Universitat, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--- [PAGE 4] ---
+JOURNAL OF LEADERSHIP STUDIES  •  Volume 16  •  Number 1  •  DOI:10.1002/jls.21810   9
+­participating managers and employees provided a com­
+prehensive understanding of digital transformation 
+from their experience of developing digital strategies 
+or as members of organizational teams that engage in 
+digital transformation initiatives (e.g., chief informa­
+tion officers, IT consultants, agile coaches), and are 
+thus considered as digital transformation experts. A 
+diverse sample of industries, company sizes, numbers 
+of employees, and age of participants was obtained. The 
+interviewee included 4 females and 26 males, of whom 
+most were between 31 and 40 years old (33.3%). Data 
+saturation was reached at approximately 30 interviews, 
+after which no new information appeared in the data 
+(Guest et al., 2006). The 30 participants were asked 
+the same set of self-developed open-ended questions to 
+ensure that the themes that arose were not just random 
+occurrences (Heyler et al., 2016) and to enable com­
+parison between participants’ answers (Williamson & 
+Johanson, 2018). At the beginning of every one-on-one 
+interview, the participants were provided with a short 
+illustrative summary of circumstances changing due 
+to digital transformation to ensure a consistent under­
+standing of the context. Next, participants shared their 
+thoughts on leadership behavior they considered spe­
+cifically relevant in times of digital transformation. 
+The third part of the interview introduced deeper, fol­
+low-up questions. The interview sessions lasted approx­
+imately 30 minutes each. The data were reviewed with a 
+thematic analysis, an iterative approach for identifying, 
+analyzing, and reporting themes and categories within 
+the data in rich detail (Braun & Clarke, 2006); thereby 
+specifically following the thematic analysis steps out­
+lined by Braun and Clarke (2006). To ensure the trust­
+worthiness of the findings, both researcher and data 
+triangulation was applied (Bluhm et al., 2011). All 
+reliability thresholds were met.
+The qualitative study disclosed multiple leader­
+ship behaviors, which were clustered based on shared 
+content-related similarities (Nowell et al., 2017). 
+Throughout the process, abstract categories that repre­
+sent distinct leadership roles were developed. Based on 
+the responses, six different leadership roles were iden­
+tified, each characterized by specific leadership behav­
+iors: the digital pioneer, the innovator, the enabler, the 
+mentor, the networker, and the manager.
+A digital pioneer is a leader who understands the 
+drivers of digital transformation and identifies both 
+business opportunities and risks arising from digital 
+transformation. Such leaders are able to detect early 
+digital trends that will impact their department. Hence, 
+they continually question the status quo of digital 
+transformation to identify where change might be nec­
+essary. Further, they conceptualize a clear digital vision 
+and strategy.
+Second, the innovator is a leader who drives and 
+implements change processes based on innovative 
+and creative ideas. These leaders show enthusiasm and 
+inspire their employees by inventing the new. They take 
+innovative initiatives and engage in creative problem-
+solving approaches to increase innovation.
+A third role that emerged from the data is the enabler. 
+These leaders create agile, flexible, and empowering 
+work settings for their team members. Besides, such 
+leaders produce working environments that encourage 
+team members to try out new ideas and enable a cul­
+ture of learning by supporting trial and error. Further, 
+they enable working in collaborative, nonhierarchical, 
+interdisciplinary, and intercultural teams, seeing them­
+selves as active team members and fostering participa­
+tive decision making.
+Fourth is the mentor role. As a mentor, the leader 
+acts as a relationship manager who strives to estab­
+lish strong and trusting relationships with employees, 
+while providing individual support, mentoring, and 
+feedback to encourage and motivate them to achieve 
+their individual goals. Leaders who excel in the mentor 
+role put effort into identifying and understanding the 
+individual strengths and weaknesses of their employees.
+Fifth, a leader as a networker develops, scans, and 
+maintains interdisciplinary networks within and out­
+side the organization. Such leaders aim to create an 
+information network that enables consultation of many 
+different sources to solve emerging issues, allowing the 
+networker to collect and share necessary information 
+quickly.
+Finally, a leader as a manager “does things right.” The 
+manager is strongly oriented to task and goal achieve­
+ment. In this context, the manager attends closely to 
+relevant key performance indicators. Further, such 
+leaders effectively structure, coordinate, and control 
+ 1935262x, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jls.21810 by Johannes Kepler Universitat, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--- [PAGE 5] ---
+10   JOURNAL OF LEADERSHIP STUDIES  •  Volume 16  •  Number 1  •  DOI:10.1002/jls.21810
+work and outcomes according to business criteria with 
+a primary objective of getting the work done efficiently.
+In sum, the qualitative study results show that all 
+leadership roles involve appropriate leadership behav­
+iors in the light of digital transformation, suggesting 
+that they can be embedded in an overarching frame­
+work, the digital transformation leadership framework, 
+and can be labeled as digital transformation leadership 
+roles.
+CONCEPTUALIZING THE DIGITAL 
+TRANSFORMATION LEADERSHIP 
+FRAMEWORK
+Inter-Relationships between the Roles
+Explicating how the digital transformation leadership 
+roles interact is important to disclose how the con­
+structs relate to one another (Behrendt et al., 2017). 
+The digital pioneer and the innovator have in common 
+that they focus on digital transformation and share 
+the primary objective of staying abreast of change. 
+However, the digital pioneer is strategically oriented, 
+while the innovator concentrates on the operative 
+level. For instance, the digital pioneer develops a digi­
+tal and imaginative vision, whereas the innovator is 
+willing to commit resources to achieve the vision by 
+applying creative and innovative working methods. 
+Comparing the enabler and mentor roles reveals that 
+they both comprise relation-oriented leadership behav­
+iors. However, these roles differ in their perspective 
+in that an enabler focuses on the whole team by cre­
+ating agile and empowering work settings, whereas the 
+mentor concentrates on each employee by providing 
+individual support and feedback. The roles of the net­
+worker and the manager show the least overlap with the 
+other leadership roles. Networkers are focused on their 
+relationship-building activities inside and outside the 
+organization, whereas managers are characterized by 
+their internal focus on managing organizational tasks. 
+Both roles can be interpreted as relatively traditional 
+although they remain relevant in the digital transfor­
+mation context.
+Relationships with the CVF Roles
+To ensure construct clarity when introducing and con­
+ceptualizing new or modified constructs, researchers 
+are requested to examine similarities and differences 
+between newly introduced construct(s) and other con­
+structs that already exist in the field (Banks et al., 2018). 
+Hence, the digital transformation leadership roles were 
+conceptually compared with the CVF and its roles. The 
+manager role overlaps with the four CVF roles mon­
+itor, producer, director, and coordinator. The finding is 
+broadly in line with Vilkinas and Cartan (2001), who 
+also formed the producer, director, and coordinator 
+into one role, named the deliverer, which is character­
+ized by its goal achievement orientation. Additionally, 
+Denison et al. (1995) found a strong overlap between 
+the three CVF roles. Furthermore, the enabler, mentor, 
+networker, and innovator roles build on the CVF roles 
+facilitator, mentor, broker, and innovator; concluding 
+that these roles remain important in the digital age. 
+However, some new leadership behaviors emerged and 
+have been added to these retaining roles to stress digital 
+transformation in more detail (e.g., facilitating a rede­
+signed workplace by enabling flexible and agile work 
+structures as well as creating an open error culture). 
+Moreover, the digital pioneer role is an entirely new 
+component, which is not described or articulated in 
+the original CVF.
+Assumptions of the Digital Transformation Leadership 
+Framework and Its Roles
+The emerging leadership challenges in digital trans­
+formation call for new and complementary leadership 
+behaviors (Kane et al., 2019). However, the results 
+of the qualitative study revealed that some leadership 
+roles and role-concordant behaviors are already present 
+in existing leadership approaches, such as the CVF. 
+Consequently, combining existing leadership behav­
+iors with new leadership behaviors is necessary to suc­
+cessfully manage the challenges arising from digital 
+transformation. Therefore, the digital transformation 
+leadership framework should not be interpreted as an 
+entirely new leadership approach. Instead, the digital 
+transformation leadership framework is a full-range 
+leadership approach with some overlap regarding 
+existing leadership concepts. Furthermore, a leader 
+might not exhibit all digital transformation leadership 
+roles simultaneously. It is more likely that a leader will 
+exhibit the digital transformation leadership roles in 
+ 1935262x, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jls.21810 by Johannes Kepler Universitat, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--- [PAGE 6] ---
+JOURNAL OF LEADERSHIP STUDIES  •  Volume 16  •  Number 1  •  DOI:10.1002/jls.21810   11
+varying degrees, depending on the particular leadership 
+situation. The assumption is in line with studies on the 
+CVF revealing, for example, that leaders display the 
+mentor and producer roles significantly more than any 
+of the remaining CVF roles (Vilkinas & Cartan, 2001).
+Scale Development Process
+Empirically comparing the original CVF with the digi­
+tal transformation leadership framework and its roles 
+requires developing a scale that measures the identified 
+leadership roles. Therefore, an extensive scale develop­
+ment process was conducted based on Crawford and 
+Kelder’s (2019) scale development recommendations 
+for leadership constructs. The scale development pro­
+cess contained three phases: item development, test of 
+content validity, and empirical evaluation (see Table 1).
+STUDY 2: ITEM DEVELOPMENT
+To develop rigorous items and item descriptions, the 
+items were grounded in the literature (MacKenzie 
+et al., 2011), face validity checks were conducted 
+­(DeVellis, 2016), and the research team was separated 
+by including external experts who performed a “classi­
+fication from above” (Hinkin, 1995). The digital trans­
+formation leadership items were generated based on (a) 
+their conceptualizations, (b) relevant literature concern­
+ing various leadership measurements (e.g., questionnaire 
+items of the CVF developed by Denison et al., 1995), 
+and (c) the results of 30 in-depth interviews with digi­
+tal transformation experts. Importantly, items for each 
+of the six digital transformation leadership roles were 
+generated separately. Furthermore, each construct is 
+modeled as having reflective indicators, resulting in an 
+initial set of 42 items.
+STUDY 3: TEST OF CONTENT VALIDITY
+To assess the content validity of the initial item set 
+(Hinkin, 1995), a classifying study was conducted 
+(Liden & Maslyn, 1998), and aligned with Schriesheim 
+et al.’s (1993) Q-factor analysis technique. The underly­
+ing objective was to check for preliminary validity and 
+item coverage before conducting a full-scale empirical 
+test (Crawford & Kelder, 2019). The deductive clas­
+sifying study was an iterative two-round survey pro­
+cess in which independent experts assessed the items 
+to avoid researcher bias (Crawford & Kelder, 2019). 
+The participants were asked to place each randomly 
+ordered item into one of the six digital transforma­
+tion leadership roles. Additionally, a free text field 
+allowed the participants to add further digital trans­
+formation leadership roles to ensure all relevant digital 
+transformation leadership roles were captured. Hence, 
+the experts could recommend to drop, change, or add 
+items and clarify ones marked as unclear (Liden & 
+Maslyn, 1998). The study involved 42 external experts, 
+recruited from the researchers’ networks. Of the exter­
+nal experts, 33.3% were female, with an average age of 
+37.5 years (SD = 10.16).
+Based on the experts’ feedback, a seventh leadership 
+role emerged. By following Yaniv’s (2011) recommen­
+dation to view a definitional system of constructs as an 
+open system that allows additional facets to be added 
+at any time, the digital mentee role was created. Leaders 
+as digital mentees seek advice from their employees on 
+digital issues and refine their digital skills through the 
+employees’ input. Moreover, the digital mentee role 
+is characterized by actively exchanging information 
+with employees to benefit from their digital know-how. 
+Consequently, such leaders learn from their employees 
+how to use digital tools that they do not know yet. 
+Six items pertaining to the digital mentee were devel­
+oped based on the participants’ statements and rele­
+vant literature (e.g., Anderson et al., 2017; Petrucci & 
+Rivera, 2018).
+The interrater reliability measures showed acceptable 
+rater agreement values (see Table 1). Only items that 
+achieved a minimum of 80% accuracy in the digital 
+transformation experts’ classification were included 
+to the initial item set (Hinkin, 1995). In addition, 11 
+items that had achieved the threshold, but of which 
+experts recommended changes to capture each dig­
+ital transformation leadership role more accurately, 
+were refined. The final item instrument consists of 39 
+items measuring leaders’ self-perceptions of their own 
+leadership behaviors using Likert scales ranging from 
+1 = strongly disagree to 7 = strongly agree. Each of the 
+seven digital transformation leadership roles is opera­
+tionalized based on five or six items (see Table A1). 
+Additionally, employees may rate the leadership behav­
+iors of their leaders. Therefore, the items could be 
+ 1935262x, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jls.21810 by Johannes Kepler Universitat, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--- [PAGE 7] ---
+12   JOURNAL OF LEADERSHIP STUDIES  •  Volume 16  •  Number 1  •  DOI:10.1002/jls.21810
+rephrased to allow employees to provide perceptions 
+of their leaders.
+STUDY 4: EMPIRICAL EVALUATION
+To assess the reliability and validity of the survey items, 
+a comprehensive empirical evaluation process was con­
+ducted (see Table 1), including scale evaluation and test 
+of predictive validity (Wright et al., 2017). Data from 
+two independent samples of German employees were 
+collected. The participating employees have experience 
+with digital transformation in the workplace, ensuring 
+that they can answer the questions properly. Table A2 
+shows the characteristics of the two samples, denoted 
+as Sample A and Sample B. The employees rated the 
+Table 1  Overview of the Empirical Studies
+Empirical Studies
+Sample and Method
+Results
+Study 1: Identification 
+of appropriate 
+leadership roles
+Qualitative study based on 30 in-depth interviews 
+with digital transformation experts
+•  Six categories of different leadership roles and 
+behaviors
+Study 2: Item 
+generation
+Item generation study based on the results of 
+the qualitative study and literature on related 
+leadership approaches (e.g., questionnaire items of 
+the CVF developed by Denison et al., 1995).
+•  Achieving face validity
+•  Six digital transformation leadership roles
+•  Initial item set: 42 items
+Study 3: Test of 
+content validity
+Classifying study (Hinkin, 1995)
+•  Sample size: n = 42 digital transformation 
+experts from several industries
+•  Iterative multi-round survey process in which 
+participants place each randomly ordered item into 
+one of the digital transformation leadership roles
+•  Achieving content validity and trustworthiness of the 
+findings (Percentage of agreement: Round 1: .80, Round 
+2: .77; Perreault & Leigh’s [1989] Ir: Round 1: .87, 
+Round 2: .85; Fleiss’ [1971] kappa: Round 1: .63, Round 
+2: .58)
+•  Seven digital transformation leadership roles
+Study 4: Empirical 
+evaluation
+Study to test the construct and discriminant validity
+•  Sample size: n = 263 employees
+•  Explorative factor analysis (EFA)
+•  Cronbach’s alpha
+•  Confirmatory factor analysis (CFA)
+•  EFA: Seven factors (explained 67.56% of the total 
+variance); see Table A1.
+•  Significant standardized factor loadings (range .63 to 
+.92, p < .01); see Table A1.
+•  CFA results: Satisfactory fit (χ2 = 1,122.941; df = 664; 
+p < .001; RMSEA = .051; SRMR = .058; CFI = .945).
+•  Intercorrelations of all seven digital transformation 
+leadership roles were acceptable (ranging from .49 to 
+.78, p < .01); see Table A3.
+•  All factor reliability (FR) values, the Cronbach’s alpha 
+values, and the average variance extracted (AVE) 
+scores exceeded the recommended thresholds 
+(Bagozzi & Yi, 1988; Nunnally, 1978); see Table A3.
+•  All seven constructs met Fornell and Larcker’s (1981) 
+criterion for discriminant validity; see Table A3.
+Study to test the predictive validity
+•  Sample size: n = 263 employees (Sample A); 
+n = 294 employees (Sample B)
+•  Ordinary least square (OLS) regression
+•  Results show evidence supporting the predictive 
+validity of the scale measuring the digital 
+transformation leadership roles; see Table A4.
+Study 5: Spatial 
+arrangement of the 
+digital transformation 
+leadership roles
+MDS study to test the degree-of-fit between the 
+identified leadership roles in digital transformation 
+and the four CVF quadrants
+•  Sample size: n = 196 leaders
+•  MDS technique
+•  Modification of the CVF roles and dimensions is 
+needed
+Notes. RMSEA = root-mean-square-error of approximation; SRMR = standardized root mean square residual; CFI = comparative fit index. Percentage of 
+agreement comprises the average agreement across all items.
+ 1935262x, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jls.21810 by Johannes Kepler Universitat, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--- [PAGE 8] ---
+JOURNAL OF LEADERSHIP STUDIES  •  Volume 16  •  Number 1  •  DOI:10.1002/jls.21810   13
+­digital transformation leadership behaviors of their 
+direct leaders on the 39 items of the digital transforma­
+tion leadership scale.
+First, an explorative factor analysis of the theoretically 
+derived digital transformation leadership framework 
+was performed using Sample A; the rotated factor struc­
+ture revealed seven distinguished factors that explained 
+a significant amount of the variance (67.70%). All 
+items loaded highly on the anticipated dimension while 
+showing negligible cross-loadings. Next, a confirma­
+tory factor analysis (CFA) was performed using maxi­
+mum likelihood (ML) estimation. The CFA results gave 
+a satisfactory fit (χ2 = 1,122.941; df = 664; p < .001; 
+RMSEA = .051; SRMR = .058; CFI = .945). All 39 
+items showed significant standardized factor loadings 
+(range .63–.92, p < .01) on their respective constructs. 
+Hence, the CFA model fit and loading magnitude 
+support the adequacy of the proposed factor structure 
+(DeSimone et al., 2017). All factor reliability (FR) 
+values, the Cronbach’s alpha values, and the average 
+variance extracted (AVE) scores exceeded the recom­
+mended thresholds (Bagozzi & Yi, 1988). Furthermore, 
+all seven constructs met Fornell and Larcker’s (1981) 
+criterion for discriminant validity. Hence, the results 
+provide evidence of internal-consistency reliability and 
+of construct and discriminant validity (see Table A3).
+Second, to determine the impact the seven digital 
+transformation leadership roles have in view of digital 
+transformation as a disruptive change process, three 
+different outcome variables that are considered relevant 
+in the context of organizational transformation were 
+chosen (i.e., innovative job performance, knowledge 
+sharing, and digital maturity), using Samples A and B. 
+Employees’ innovative job performance can be under­
+stood as the intentional generation, promotion, and 
+realization of new ideas that facilitate innovative change 
+(Janssen, 2001). Knowledge sharing refers to the prac­
+tice of an employee sharing ideas, information, and sug­
+gestions with team members (Srivastava et al., 2006). 
+Wang et al. (2017) revealed that an employee who 
+actively shares knowledge with team members facil­
+itates innovation and performance. Digital maturity 
+designates the degree to which an organization has 
+transformed its digital processes, digital talent engage­
+ment, and digital business models (Kane et al., 2015). 
+An organization’s digital maturity depends largely on 
+a clear digital strategy supported by leaders who fos­
+ter a change culture (Kane et al., 2015) and enhance 
+employees’ abilities to facilitate innovation due to their 
+vision and scheme (Damanpour & Schneider, 2006). 
+Hence, the identified digital transformation leader­
+ship roles might increase innovative job performance 
+and knowledge sharing among employees, as well as 
+enhance an organization’s digital maturity.
+Employees’ innovative job performance was mea­
+sured with nine items of Janssen’s (2001) scale for indi­
+vidual innovation in the workplace, which includes 
+items like “I create new ideas for difficult issues.” The 
+Cronbach’s alpha was .94. Bartol et al.’s (2009) eight-
+item scale was used to measure employees’ knowledge 
+sharing (α = .89; sample item: “I actively seek helpful 
+information to share with the group”). Digital matu­
+rity was assessed with a single item developed by Kane 
+et al. (2015) that involved asking the employees “to 
+imagine an ideal organization transformed by digital 
+technologies and capabilities that improve processes, 
+engage talent across the organization, and drive new 
+value-generating business models.” The employees then 
+rated their organizations against the ideal on a scale 
+from 1 to 10. Gender and age of the participants, and 
+additionally the participant’s progressiveness about the 
+digital world and the average frequency with which 
+they dealt with digital transformation were selected 
+as control variables, suspecting them to be related to 
+either the independent or the dependent variables.
+The results (see Table A4) show that employees who 
+perceived their leaders as enablers (b = .13, p < .1) and 
+innovators (b = .19, p < .05) indicated higher levels of 
+innovative job performance. Employees who perceived 
+their leaders as networkers (b = .17, p < .05), enablers 
+(b = .18, p < .05), and digital mentees (b = .20, p < .01) 
+reported higher levels of knowledge sharing. Leaders 
+who were perceived as innovators (b = −.34, p < .01) had 
+a negative impact on employees’ knowledge sharing. 
+Further, organizations’ digital maturity was significantly 
+affected by leaders who were perceived as digital pioneers 
+(b = .35, p < .01) and managers (b = .15, p < .05).
+Summarizing, the results provide evidence for the 
+scale’s construct, discriminant, and criterion validity 
+(see Table 1).
+ 1935262x, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jls.21810 by Johannes Kepler Universitat, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--- [PAGE 9] ---
+14   JOURNAL OF LEADERSHIP STUDIES  •  Volume 16  •  Number 1  •  DOI:10.1002/jls.21810
+The Spatial Arrangement of the Digital 
+Transformation Leadership Roles
+To test the degree-of-fit between the seven digital trans­
+formation leadership roles and the four CVF quadrants 
+(Denison et al., 1995; Quinn & Rohrbaugh, 1981; 
+Vilkinas & Cartan, 2006), another study with 165 
+leaders (Study 5) was conducted. Due to the companies’ 
+data protection policies, only information on the leaders’ 
+hierarchical level was collected. In terms of the hierarchi­
+cal level, the majority of the leaders (67.88%) headed a 
+business unit. The seven digital transformation leader­
+ship roles were measured using the 39 developed items. 
+The leaders reported their own digital transformation 
+leadership behaviors using Likert scales ranging from 
+1 = strongly disagree to 7 = strongly agree.
+Focusing on multidimensional scaling (MDS) as a 
+visualization technique, mean scores were calculated for 
+each of the seven digital transformation leadership roles 
+(Vilkinas & Cartan, 2006). Based on the mean scores, 
+the MDS was conducted using SPSS PROXSCAL. 
+The results of the MDS indicated a two-dimensional 
+solution. The four quadrants are partly consistent with 
+Quinn’s (1988) original CVF quadrants. More specif­
+ically, the horizontal axis (Dimension 1) supports the 
+interpretation of an internal-external focus (Hooijberg 
+& Choi, 2000). The results showed that the enabler, the 
+mentor, the digital mentee, and the manager are inter­
+nally focused roles characterized by developing internal 
+human resources (mentor), setting up internal teams 
+(enabler), internal reverse mentoring (digital mentee), 
+and managing internal tasks and processes (manager). 
+In contrast, the digital pioneer, the innovator, and the 
+networker are externally focused roles. Both the digital 
+pioneer and innovator need to be well-informed about 
+current market trends and competitors. Moreover, the 
+networker builds and establishes beneficial relation­
+ships external to the organization that provide informa­
+tion and resources.
+The vertical axis (Dimension 2) does not support 
+Quinn’s (1988) stable-flexible interpretation because 
+turbulent business environments like digital transfor­
+mation or the COVID-19 pandemic require orga­
+nizations and leaders to act solely in a flexible way 
+(Bennett & Lemoine, 2014; Fernandez & Shaw, 2020). 
+Instead, the results indicated that the vertical axis is 
+better ­represented by a task-relation orientation, which 
+is in line with the reformulation of Vilkinas and Car­
+tan (2006). Task-oriented and relation-oriented lead­
+ership behavior is important in organizational change 
+processes (Battilana et al., 2010), thus likewise in the 
+context of digital transformation. In the current research 
+context, task-oriented leadership behavior particularly 
+includes the promotion of innovation and digitaliza­
+tion. In contrast, relation-oriented leadership behavior 
+focuses on motivating and enabling employees (Battilana 
+et al., 2010), who are essential to successfully implement 
+organizational change (Kim et al., 2011). The quadrants 
+focusing on task-oriented leadership behavior comprise 
+the digital pioneer, the innovator, the manager, and the 
+digital mentee. These roles are characterized by tasks 
+such as identifying the need for change (digital pio­
+neer), implementing innovative ideas (innovator), and 
+coordinating organizational processes (manager). Dis­
+covering the digital mentee role as a task-oriented lead­
+ership role is surprising. However, the primary objective 
+of task-oriented leadership behavior is to facilitate the 
+process of accomplishing assigned tasks (Yukl, 2012), 
+whereas relation-oriented leadership behavior aims 
+to maintain interpersonal relationships by tending to 
+others’ welfare (Eagly & Johannesen-Schmidt, 2001). 
+Leaders exchanging with employees as means to an 
+end to improve their own digital skills helps leaders as 
+digital mentees to accomplish an objective. Therefore, 
+the digital mentee is likely task-oriented rather than 
+relation-oriented. The relation-focused quadrants con­
+tain the mentor, the enabler, and the networker. When 
+performing the roles of an enabler, a mentor, or a net­
+worker, leaders focus on human resources (e.g., devel­
+oping skills or working in interdisciplinary teams as well 
+as building and maintaining favorable relationships) and 
+are concerned with employees’ welfare.
+The graphical representation (see Figure 2) of the 
+digital transformation leadership roles demonstrates 
+the assumed realignment of the roles appropriate for 
+facing digital transformation.
+Discussion
+The current article contributes to leadership research in 
+at least three important ways. First, the findings provide 
+insight into leadership roles and behaviors specifically 
+ 1935262x, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jls.21810 by Johannes Kepler Universitat, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--- [PAGE 10] ---
+JOURNAL OF LEADERSHIP STUDIES  •  Volume 16  •  Number 1  •  DOI:10.1002/jls.21810   15
+Figure 2  Digital Transformation Leadership Framework with Its Seven Roles
+appropriate to a digital transformation context. The 
+analysis reveals the need for a set of different, partially 
+competing leadership behaviors, consisting of both 
+already established but slightly modified leadership 
+behaviors and entirely new ones especially required for 
+facing the leadership challenges associated with digital 
+transformation (e.g., leadership behaviors concordant 
+with the digital pioneer and the digital mentee). The 
+results show that the digital transformation leadership 
+roles predominantly enhance the outcome variables 
+related to digital transformation (i.e., innovative job 
+performance, knowledge sharing, and digital maturity). 
+However, the innovator could have a dark side, pointing 
+to a “double-edged sword pattern” (Diebig et al., 2016). 
+The results showed that employees’ perceptions of 
+their leaders as innovators enhance their innovative 
+job performance while simultaneously decrease their 
+knowledge sharing activities. A closer look at the bar­
+riers of knowledge sharing reveals that employees might 
+fear the loss of knowledge advantage when sharing ideas 
+(Matschke et al., 2014) and even worry about jeopar­
+dizing their job security (Riege, 2005). Although the 
+innovator encourages ­creative ideas, employees might 
+see their developed ideas as a knowledge advantage in an 
+uncertain environment and be reluctant to share them. 
+The result emphasizes the potential negative conse­
+quences of well-intended leadership behavior. Neverthe­
+less, due to the paradoxical challenges leaders face today, 
+it is important for them to master a broad behavioral 
+repertoire, even if it means exhibiting ambivalent roles.
+Second, the findings contribute to the scarce research 
+on leadership in the digital era by developing and test­
+ing a measure that captures the different digital trans­
+formation leadership roles. Based on a complex scale 
+development process, a new measure, which fulfills all 
+reliability and validity thresholds, was introduced to 
+the leadership literature. Researchers might apply the 
+developed measurement scale in further studies con­
+cerning leadership in the digital era.
+Third, the current research extends the CVF literature 
+(e.g., Cameron et al., 2006; Vilkinas et al., 2020) by 
+transferring the CVF into the context of digital transfor­
+mation and refining it for such an increasingly impor­
+tant business environment. The findings reveal that new 
+leadership roles emerge in the context of ­digital trans­
+formation (i.e., the digital pioneer and ­digital mentee 
+ 1935262x, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jls.21810 by Johannes Kepler Universitat, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--- [PAGE 11] ---
+16   JOURNAL OF LEADERSHIP STUDIES  •  Volume 16  •  Number 1  •  DOI:10.1002/jls.21810
+roles). Some original CVF roles, such as the innovator 
+or the mentor, are still relevant, but others have become 
+less important (e.g., the manager). Additionally, some 
+original CVF roles need a modification to better address 
+the challenges of digital transformation (e.g., leadership 
+behaviors such as facilitating flexible work structures 
+or utilizing innovative working methods). Moreover, 
+the findings complement existing CVF literature by 
+showing that the original stable-flexible dimension 
+(Quinn, 1988) is no longer supportable in a dynamic 
+business environment since leaders have to interact 
+solely in a flexible organizational context (Bennett & 
+Lemoine, 2014). Hence, the dimension was redefined 
+with a task-relation orientation, which is considered 
+important for the implementation of change processes 
+(Battilana et al., 2010). In line with Vilkinas and Car­
+tan’s (2001) modification of a CVF dimension, the task-
+relation orientation perfectly fits the change processes 
+induced by digital transformation. Since almost every 
+industry is affected by a dynamic business environment 
+(Schoemaker et al., 2018), the advanced CVF model 
+applies to many different industries, which indicates 
+its generalizability. Thus, the model might be of special 
+interest for further leadership research in the context of 
+digital transformation.
+PRACTICAL IMPLICATIONS
+The results indicated important managerial impli­
+cations for leadership development. Organizational 
+actions should help leaders to develop (a) the ability to 
+exhibit all seven digital transformation leadership roles, 
+(b) an understanding of the roles to deploy them prop­
+erly, and (c) the ability to switch between the different 
+roles. Prior studies on the CVF have shown that leaders 
+who are able to perform different roles achieve higher 
+leadership effectiveness (Tong & Arvey, 2015).
+Leadership development programs should be offered 
+to train leaders’ abilities to take on all seven digital 
+transformation leadership roles by showing where they 
+have weaknesses and reducing these through individual 
+or group training sessions that help to develop the nec­
+essary behavior. Furthermore, organizations should 
+give leaders space to experiment in applying the digital 
+transformation leadership roles so that they can learn 
+and internalize the requisite behaviors.
+The results of the MDS indicated that the digital 
+transformation leadership roles have different orienta­
+tions and purposes. Thus, organizations should provide 
+leaders with information that supports them in under­
+standing the leadership roles properly. For example, if 
+leaders aim to develop and empower their employees, 
+they should take on the enabler or mentor roles, 
+whereas identifying needs for change and implement­
+ing them successfully requires leaders to particularly 
+focus on the digital pioneer or innovator roles.
+Leadership development programs could be enriched 
+by training that aims to develop leaders’ ability to 
+switch between the digital transformation leadership 
+roles; thus, enhancing leaders’ adaptivity (Wilson 
+et al., 2020). A useful starting point could be role plays, 
+either virtual or in-person, in which different leader­
+ship situations are simulated.
+LIMITATIONS AND FURTHER RESEARCH
+Several limitations of the current research point to sug­
+gestions for future research. First, it would be benefi­
+cial to gain knowledge on the influence of situational 
+contingencies on the digital transformation leadership 
+roles. Therefore, further research should investigate 
+which specific leadership situations demand which 
+leadership role(s). For example, the organizational con­
+text (Porter & McLaughlin, 2006) is possibly a relevant 
+situational contingency. To gain a better understand­
+ing, a first rewarding step could be to analyze the rela­
+tionship between the digital transformation leadership 
+roles and different leadership situations, organizational 
+types, and objective performance variables with, ideally, 
+an emphasis on digital transformation.
+Second, there are notable limitations regarding the 
+scale development process. Future research should pay 
+more attention to potential endogeneity bias (Shockley 
+et al., 2016). Although the current research intended 
+to minimize possible common method biases through 
+different techniques—for example, by guaranteeing par­
+ticipants’ anonymity and psychologically separating the 
+title predictor and the criterion variables (Podsakoff et 
+al., 2003)—the estimates could still be biased. Therefore, 
+future research could use further controls for CMV (see 
+Antonakis & House, 2014). Furthermore, the conducted 
+scale development process is based on cross-sectional 
+ 1935262x, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jls.21810 by Johannes Kepler Universitat, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--- [PAGE 12] ---
+JOURNAL OF LEADERSHIP STUDIES  •  Volume 16  •  Number 1  •  DOI:10.1002/jls.21810   17
+study designs, which cannot reveal any changes in leader­
+ship behavior over time. Further studies might therefore 
+use longitudinal data. Thus, although the current research 
+is based on several empirical studies, complementary tests 
+and replication studies are required to further validate the 
+digital transformation leadership scale.
+Conclusion
+Based on the current findings, combining new roles 
+with more traditional roles is key to successfully mas­
+tering digital transformation. Future research is encour­
+aged to use the developed framework as a basis to 
+advance the understanding of leadership in the digital 
+era. Furthermore, the current research might inspire 
+leaders to reflect on their leadership behavior and sup­
+ports them by showing the value of adopting different 
+leadership roles in such an important but turbulent 
+business environment like digital transformation.
+Acknowledgements
+Open Access funding enabled and organized by Projekt 
+DEAL.
+References
+Anderson, H. J., Baur, J. E., Griffith, J. A., & Buckley, M. R. 
+(2017). What works for you may not work for (Gen)Me: Limita­
+tions of present leadership theories for the new generation. The 
+Leadership Quarterly, 28(1), 245–260.
+Antonakis, J., & House, R. J. (2014). Instrumental leadership: 
+Measurement and extension of transformational–transactional lead­
+ership theory. The Leadership Quarterly, 25(4), 746–771.
+Avolio, B. J., Sosik, J. J., Kahai, S. S., & Baker, B. (2014). E-lead­
+ership: Re-examining transformations in leadership source and 
+transmission. The Leadership Quarterly, 25(1), 105–131.
+Bagozzi, R. P., & Yi, Y. (1988). On the evaluation of structural 
+equation models. Journal of the Academy of Marketing Science, 16(1), 
+74–94.
+Banks, G. C., Gooty, J., Ross, R. L., Williams, C. E., & Har­
+rington, N. T. (2018). Construct redundancy in leader behaviors: 
+A review and agenda for the future. The Leadership Quarterly, 29(1), 
+236–251.
+Bartol, K. M., Liu, W., Zeng, X., & Wu, K. (2009). Social exchange 
+and knowledge sharing among knowledge workers: The moder­
+ating role of perceived job security. Management and Organization 
+Review, 5(2), 223–240.
+Battilana, J., Gilmartin, M., Sengul, M., Pache, A.-C., & Alexander, 
+J. A. (2010). Leadership competencies for implementing planned 
+organizational change. The Leadership Quarterly, 21(3), 422–438.
+Behrendt, P., Matz, S., & Göritz, A. S. (2017). An integrative 
+model of leadership behavior. The Leadership Quarterly, 28(1), 
+229–244.
+Belasen, A., & Frank, N. (2008). Competing values leadership: 
+Quadrant roles and personality traits. Leadership & Organization 
+Development Journal, 29(2), 127–143.
+Bennett, N., & Lemoine, G. J. (2014). What a difference a word 
+makes: Understanding threats to performance in a VUCA world. 
+Business Horizons, 57(3), 311–317.
+Bluhm, D. J., Harman, W., Lee, T. W., & Mitchell, T. R. (2011). 
+Qualitative research in management: A decade of progress. Journal 
+of Management Studies, 48(8), 1866–1891.
+Braun, V., & Clarke, V. (2006). Using thematic analysis in psychol­
+ogy. Qualitative Research in Psychology, 3(2), 77–101.
+Cameron, K., Quinn, R., DeGraff, J., & Thakor, A. (2006). Com­
+peting values leadership: Creating value in organizations. (2nd ed.). 
+Edward Elgar Publishing.
+Cascio, W. F., & Montealegre, R. (2016). How technology is 
+changing work and organizations. Annual Review of Organizational 
+Psychology and Organizational Behavior, 3, 349–375.
+Cortellazzo, L., Bruni, E., & Zampieri, R. (2019). The role of 
+leadership in a digitalized world: A review. Frontiers in Psychology, 
+10, 1938.
+Crawford, J. A., & Kelder, J. A. (2019). Do we measure leader­
+ship effectively? Articulating and evaluating scale development 
+psychometrics for best practice. The Leadership Quarterly, 30(1), 
+133–144.
+Damanpour, F., & Schneider, M. (2006). Phases of the adoption of 
+innovation in organizations: Effects of environment, organization 
+and top managers. British Journal of Management, 17(3), 215–236.
+Denison, D. R., Hooijberg, R., & Quinn, R. E. (1995). Paradox 
+and performance: Toward a theory of behavioral complexity in 
+managerial leadership. Organization Science, 6(5), 524–540.
+DeSimone, J. A., Harms, P. D., Vanhove, A. J., & Herian, M. N. 
+(2017). Development and validation of the five-by-five resilience 
+scale. Assessment, 24(6), 778–797.
+DeVellis, R. F. (2016). Scale development: Theory and applications. 
+(4th ed.). Sage.
+Diebig, M., Bormann, K. C., & Rowold, J. (2016). A double-
+edged sword: Relationship between full-range leadership behaviors 
+and followers’ hair cortisol level. The Leadership Quarterly, 27(4), 
+684–696.
+ 1935262x, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jls.21810 by Johannes Kepler Universitat, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--- [PAGE 13] ---
+18   JOURNAL OF LEADERSHIP STUDIES  •  Volume 16  •  Number 1  •  DOI:10.1002/jls.21810
+Eagly, A. H., & Johannesen-Schmidt, M. C. (2001). The leadership 
+styles of women and men. Journal of Social Issues, 57(4), 781–797.
+Fernandez, A. A., & Shaw, G. P. (2020). Academic leadership in a 
+time of crisis: The coronavirus and COVID-19. Journal of Leader­
+ship Studies, 14(1), 39–45.
+Fleiss, J. L. (1971). Measuring nominal scale agreement among 
+many raters. Psychological Bulletin, 76(5), 378–382.
+Ford, F., Ford, L., & Polin, B. (2021). Leadership in the implemen­
+tation of change: Functions, sources, and requisite variety. Journal 
+of Change Management, 21(1), 87–119.
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation 
+models with unobservable variables and measurement error. Journal 
+of Marketing Research, 18(1), 39–50.
+Guest, G., Bunce, A., & Johnson, L. (2006). How many interviews 
+are enough? An experiment with data saturation and variability. 
+Field Methods, 18(1), 59–82.
+Hanelt, A., Bohnsack, R., Marz, D., & Antunes Marante, C. 
+(2020). A systematic review of the literature on digital transfor­
+mation: Insights and implications for strategy and organizational 
+change. Journal of Management Studies, 58(5), 1159–1197.
+Heyler, S. G., Armenakis, A. A., Walker, A. G., & Collier, D. Y. 
+(2016). A qualitative study investigating the ethical decision making 
+process: A proposed model. The Leadership Quarterly, 27(5), 788–801.
+Hinkin, T. R. (1995). A review of scale development practices in 
+the study of organizations. Journal of Management, 21(5), 967–988.
+Hooijberg, R., & Choi, J. (2000). Which leadership roles matter to 
+whom? An examination of rater effects on perceptions of effective­
+ness. The Leadership Quarterly, 11(3), 341–364.
+Janssen, O. (2001). Fairness perceptions as a moderator in the curvi­
+linear relationships between job demands, and job performance and 
+job satisfaction. Academy of Management Journal, 44(5), 1039–1050.
+Kalliath, T. J., Bluedorn, A. C., & Strube, M. J. (1999). A test of 
+value congruence effects. Journal of Organizational Behavior, 20(7), 
+1175–1198.
+Kane, G. C., Nguyen Phillips, A., Copulsky, J., & Andrus, G. 
+(2019). How digital leadership is(n’t) different. MIT Sloan Manage­
+ment Review, 60(3), 34–39.
+Kane, G. C., Palmer, D., Nguyen Phillips, A., Kiron, D., & Buck­
+ley, N. (2015, July 14). Strategy, not technology, drives digital 
+transformation: Becoming a digitally mature enterprise. MIT Sloan 
+Management Review. https://sloanreview.mit.edu/projects/strategy-
+drives-digital-transformation/
+Kim, T. G., Hornung, S., & Rousseau, D. M. (2011). Change-
+supportive employee behavior: Antecedents and the moderating 
+role of time. Journal of Management, 37(6), 1664–1693.
+Lavine, M. (2014). Paradoxical leadership and the competing values 
+framework. The Journal of Applied Behavioral Science, 50(2), 189–205.
+Lawrence, K. A., Lenk, P., & Quinn, R. E. (2009). Behavioral 
+complexity in leadership: The psychometric properties of a new 
+instrument to measure behavioral repertoire. The Leadership Quar­
+terly, 20(2), 87–102.
+Liden, R. C., & Maslyn, J. M. (1998). Multidimensionality of 
+leader-member exchange: An empirical assessment through scale 
+development. Journal of Management, 24(1), 43–72.
+Lippitt, M. (2021). Situational mindsets: A context approach to 
+leadership. Journal of Leadership Studies, 15(2), 53–61.
+MacKenzie, S. B., Podsakoff, P. M., & Podsakoff, N. P. (2011). 
+Construct measurement and validation procedures in MIS and 
+behavioral research: Integrating new and existing techniques. MIS 
+Quarterly, 35(2), 293–334.
+Matschke, C., Moskaliuk, J., Bokhorst, F., Schümmer, T., & Cress, 
+U. (2014). Motivational factors of information exchange in social 
+information spaces. Computers in Human Behavior, 36, 549–558.
+Nowell, L. S., Norris, J. M., White, D. E., & Moules, N. J. (2017). 
+Thematic analysis: Striving to meet the trustworthiness criteria. 
+International Journal of Qualitative Methods, 16(1), 1–13.
+Nunnally, J. C. (1978). Psychometric theory. (2nd ed.). McGraw-Hill.
+O’Neill, R. M., & Quinn, R. E. (1993). Editors’ note: Applications 
+of the competing values framework. Human Resource Management, 
+32(1), 1–7.
+Perreault, W. D., & Leigh, L. E. (1989). Reliability of nominal 
+data based on qualitative judgments. Journal of Marketing Research, 
+26(2), 135–148.
+Petrucci, T., & Rivera, M. (2018). Leading growth through the 
+digital leader. Journal of Leadership Studies, 12(3), 53–56.
+Podsakoff, P. M., MacKenzie, S. B., Lee, J.-Y., & Podsakoff, N. P. 
+(2003). Common method biases in behavioral research: A critical 
+review of the literature and recommended remedies. Journal of 
+Applied Psychology, 88(5), 879–903.
+Porter, L. W., & McLaughlin, G. B. (2006). Leadership and the 
+organizational context: Like the weather? The Leadership Quarterly, 
+17(6), 559–576.
+Quinn, R. E. (1988). Beyond rational management: Mastering the 
+paradoxes and competing demands of high performance. Jossey-Bass.
+Quinn, R. E., & Rohrbaugh, J. (1981). A competing values approach to 
+organizational effectiveness. Public Productivity Review, 5(2), 122–140.
+Riege, A. (2005). Three-dozen knowledge-sharing barriers managers 
+must consider. Journal of Knowledge Management, 9(3), 18–35.
+ 1935262x, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jls.21810 by Johannes Kepler Universitat, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--- [PAGE 14] ---
+JOURNAL OF LEADERSHIP STUDIES  •  Volume 16  •  Number 1  •  DOI:10.1002/jls.21810   19
+Schoemaker, P. J. H., Heaton, S., & Teece, D. (2018). Innova­
+tion, dynamic capabilities, and leadership. California Management 
+Review, 61(1), 15–42.
+Schriesheim, C. A., Powers, K. J., Scandura, T. A., Gardiner, C. 
+C., & Lankau, M. J. (1993). Improving construct measurement 
+in management research: Comments and a quantitative approach 
+for assessing the theoretical content adequacy of paper-and-pencil 
+survey-type instruments. Journal of Management, 19(2), 385–417.
+Shockley, K. M., Ureksoy, H., Rodopman, O. B., Poteat, L. F., & 
+Dullaghan, T. R. (2016). Development of a new scale to measure 
+subjective career success: A mixed-methods study. Journal of Orga­
+nizational Behavior, 37(1), 128–153.
+Sousa, M. J., & Rocha, Á. (2019). Skills for disruptive digital 
+business. Journal of Business Research, 94, 257–263.
+Srivastava, A., Bartol, K. M., & Locke, E. A. (2006). Empowering 
+leadership in management teams: Effects on knowledge sharing, 
+efficacy, and performance. Academy of Management Journal, 49(6), 
+1239–1251.
+Tong, Y. K., & Arvey, R. D. (2015). Managing complexity via the 
+competing values framework. Journal of Management Development, 
+34(6), 653–673.
+van Wart, M., Roman, A., Wang, X., & Liu, C. (2017). Integrating 
+ICT adoption issues into (e-)leadership theory. Telematics and Infor­
+matics, 34(5), 527–537.
+Verhoef, P. C., Broekhuizen, T., Bart, Y., Bhattacharya, A., Qi 
+Dong, J., Fabian, N., & Haenlein, M. (2021). Digital transforma­
+tion: A multidisciplinary reflection and research agenda. Journal of 
+Business Research, 122, 889–901.
+Vial, G. (2019). Understanding digital transformation: A review 
+and a research agenda. The Journal of Strategic Information Systems, 
+28(2), 118–144.
+Vilkinas, T., & Cartan, G. (2001). The behavioural control room 
+for managers: The integrator role. Leadership & Organization Devel­
+opment Journal, 22(4), 175–185.
+Vilkinas, T., & Cartan, G. (2006). The integrated competing values 
+framework: Its spatial configuration. Journal of Management Devel­
+opment, 25(6), 505–521.
+Vilkinas, T., Murray, D. W., & Chua, S. M. Y. (2020). Effective 
+leadership: Considering the confluence of the leader’s motivations, 
+behaviours and their reflective ability. Leadership & Organization 
+Development Journal, 41(1), 147–163.
+Wang, J., Yang, J., & Xue, Y. (2017). Subjective well-being, 
+knowledge sharing and individual innovation behavior: The 
+­moderating role of absorptive capacity. Leadership & Organization 
+Development Journal, 38(8), 1110–1127.
+Williamson, K., & Johanson, G. (2018). Research methods. Informa­
+tion, systems, and contexts. (2nd ed.). Chandos.
+Wilson, J., North, M., Morris, D., & McClellan, R. (2020). 
+Rethinking implicit leadership theories: Tomorrow’s leaders are 
+collective, generative, and adaptive. Journal of Leadership Studies, 
+14(3), 24–32.
+Wright, T. A., Quick, J. C., Hannah, S. T., & Hargrove, M. B. 
+(2017). Best practice recommendations for scale construction in 
+organizational research: The development and initial validation of 
+the Character Strength Inventory (CSI). Journal of Organizational 
+Behavior, 38(5), 615–628.
+Yaniv, E. (2011). Dialogue: Construct clarity in theories of man­
+agement and organization. Academy of Management Review, 36(3), 
+590–592.
+Yukl, G. (2012). Effective leadership behavior: What we know and 
+what questions need more attention. Academy of Management Per­
+spectives, 26(4), 66–85.
+Ellen Weber is a postdoctoral researcher as well as a research 
+assistant at the Chair of Corporate Management at the 
+University of Hohenheim, Stuttgart, Germany. She received 
+her doctoral degree from the University of Hohenheim 
+(2021). She holds a BSc (2013) and an MSc (2016) in 
+Education for Business and Economics from the University 
+of Hohenheim. Her research was published in international 
+peer-reviewed journals, such as Journal of Product Innova­
+tion Management, Journal of Business Research, Journal 
+of Service Management, and in several books. Her research 
+focuses in particular on digital transformation–driven 
+changes in internal and external social interaction with an 
+emphasis on leadership. Email e.weber@uni-hohenheim.de.
+Eva-Helen Krehl is a Project Manager at a major Ger­
+man bank focusing on digital transformation and change 
+management. She received her doctoral degree from 
+the University of Hohenheim (2022). She holds a BA 
+in Insurance Management from the Cooperative State 
+University Baden-Württemberg (2012), and an MSc 
+in Strategic Management from the Catholic University 
+Eichstätt-Ingolstadt (2014). Her research was published in 
+the German Journal of Human Resource Management. 
+Her research interests are in the field of digital leadership, 
+virtual leadership, and digital transformation. Email eh.
+krehl@uni-hohenheim.de.
+ 1935262x, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jls.21810 by Johannes Kepler Universitat, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--- [PAGE 15] ---
+20   JOURNAL OF LEADERSHIP STUDIES  •  Volume 16  •  Number 1  •  DOI:10.1002/jls.21810
+Marion Büttgen is a full professor in Corporate Man­
+agement at the University of Hohenheim, Stuttgart, 
+­Germany. She received her doctoral degree from the 
+University of Cologne (1999). She has published arti­
+cles in leading journals such as the Journal of Service 
+Research, Journal of Product Innovation Manage­
+ment, Journal of Business Research, Psychology & 
+Marketing, Journal of Service Management, Journal 
+of Vocational Behavior, European Journal of Work 
+and Organizational Psychology, among others. Her 
+research interests include leadership, digital transforma­
+tion, customer participation, and technologies in service 
+management. Her teaching activities have a strong focus 
+on digital leadership and service transformation. Com­
+munications can be directed to buettgen@uni-hohen­
+heim.de.
+Appendix
+Table A1  Questionnaire Items by Role (7-point Likert Scale from 1 = Strongly Disagree to 7 = Strongly 
+Agree) with Explorative Factor Analysis (EFA) Loadings and Standardized Confirmatory Factor Analysis 
+(CFA) Loadings
+Role
+Items
+EFA
+CFA
+Digital Pioneer (DP)
+DP_1 As a leader, I understand the drivers of digital transformation.
+.95
+.83
+DP_2 As a leader, I recognize the opportunities and risks for my organization 
+resulting from digital transformation.
+.90
+.80
+DP_3 As a leader, I recognize digital trends at an early stage.
+.79
+.90
+DP_4 As a leader, I continuously identify needs for change in terms of digital 
+transformation.
+.83
+.89
+DP_5 As a leader, I create a clear, digital vision for my department.
+.62
+.83
+DP_6 As a leader, I analyze the impact of digital transformation on my department.
+.67
+.77
+Innovator (I)
+I_1 As a leader, I encourage innovative changes in the organization.
+.66
+.86
+I_2 As a leader, I implement innovative ideas in the organization.
+.75
+.89
+I_3 As a leader, I get organizational members enthusiastic about innovations in the 
+organization.
+.84
+.90
+I_4 As a leader, I use creative problem-solving methods to encourage innovation in 
+the organization.
+.84
+.82
+I_5 As a leader, I inspire to initiate innovative changes in the organization.
+.91
+.84
+Networker (N)
+N_1 As a leader, I actively network with colleagues of my department.
+.80
+.74
+N_2 As a leader, I network across departmental boundaries with colleagues in other 
+departments.
+.83
+.76
+N_3 As a leader, I actively network with colleagues outside my organization.
+.69
+.75
+N_4 As a leader, I actively network to expand my network.
+.91
+.85
+N_5 As a leader, I actively network to be able to consult a suitable contact for every 
+possible question.
+.76
+.80
+Enabler (E)
+E_1 As a leader, I enable nonhierarchical teamwork.
+.66
+.73
+E_2 As a leader, I create an open space for the team to experiment.
+.85
+.86
+E_3 As a leader, I enable working in interdisciplinary teams.
+.61
+.69
+E_4 As a leader, I enable the usage of flexible working methods in the team.
+.87
+.82
+E_5 As a leader, I create an open error culture in the team.
+.50
+.74
+ 1935262x, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jls.21810 by Johannes Kepler Universitat, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--- [PAGE 16] ---
+JOURNAL OF LEADERSHIP STUDIES  •  Volume 16  •  Number 1  •  DOI:10.1002/jls.21810   21
+Role
+Items
+EFA
+CFA
+Mentor (MT)
+MT_1 As a leader, I support the individual skill development of my employees.
+.62
+.79
+MT_2 As a leader, I know the individual strengths and weaknesses of my employees.
+.76
+.71
+MT_3 As a leader, I act as an individual mentor.
+.80
+.84
+MT_4 As a leader, I provide individual direct feedback to my employees.
+.90
+.80
+MT_5 As a leader, I maintain an individual, trusting relationship with each of my 
+employees.
+.70
+.83
+MT_6 As a leader, I support each of my employees in achieving their individual goals.
+.65
+.90
+Manager (M)
+M_1 As a leader, I regularly track task-related work progress in my area of 
+responsibility.
+.42
+.65
+M_2 As a leader, I evaluate work processes and working methods according to 
+suitable key performance indicators.
+.65
+.75
+M_3 As a leader, I effectively pre-structure tasks.
+.94
+.74
+M_4 As a leader, I effectively define key performance indicators for my area of 
+responsibility.
+.66
+.77
+M_5 As a leader, I always act in a goal-oriented way.
+.58
+.63
+M_6 As a leader, I effectively coordinate tasks.
+.76
+.71
+Digital Mentee (DM)
+DM_1 As a leader, I actively exchange information with my employees to benefit 
+from their digital know-how.
+.48
+.74
+DM_2 As a leader, I learn from my employees how to use digital tools that I do not 
+know yet.
+.90
+.84
+DM_3 As a leader, I seek advice from my employees on digital issues.
+.99
+.81
+DM_4 As a leader, I am happy to receive feedback from my employees on working 
+with digital methods.
+.83
+.85
+DM_5 As a leader, I develop my own digital skills through the input of my employees.
+.90
+.92
+DM_6 As a leader, I also act as a mentee (someone who is mentored by a mentor) 
+to familiarize myself with the role of digitalization in the daily life of my employees.
+.70
+.76
+Notes. n = 263. An EFA was performed with principal component factoring using promax rotation (kappa = 4). All items loaded highly on the anticipated 
+dimension while showing negligible cross-loadings. Hence, only the factor loadings of indicators on their respective factors from EFA were shown.
+Table A1  (Continued)
+Table A2  Sample Characteristics
+Sample Characteristics
+Sample A
+Sample B
+Sample size (employees)
+263
+294
+Gender: female
+56.3%
+51.0%
+Mean age (in years)
+31.84 (SD = 10.11)
+33.93 (SD = 12.80)
+Average work experience (in years)
+9.30 (SD = 11.17)
+11.84 (SD = 12.22)
+Educational level: university degree
+70.4%
+58.9%
+Average progressiveness regarding the digital world
+5.03 (SD = 1.20)
+4.92 (SD = 1.14)
+Average focus on digital transformation
+4.57 (SD = 1.51)
+4.77 (SD = 1.39)
+Sector: most-cited industry sector
+Automotive
+(15.2%)
+Automotive 
+(17.3%)
+Organization size:
+large organizations (more than >3,500 employees)
+36.1%
+23.5%
+ 1935262x, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jls.21810 by Johannes Kepler Universitat, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--- [PAGE 17] ---
+22   JOURNAL OF LEADERSHIP STUDIES  •  Volume 16  •  Number 1  •  DOI:10.1002/jls.21810
+Table A3  Descriptive Statistics, Intercorrelations, Reliabilities, and Validity
+M
+SD
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+a. Digital Pioneer
+4.32
+1.52
+.84
+b. Networker
+4.92
+1.44
+.60***
+.78
+c. Enabler
+5.21
+1.32
+.63***
+.49***
+.77
+d. Innovator
+4.49
+1.48
+.78***
+.63***
+.66***
+.87
+e. Mentor
+5.03
+1.36
+.55***
+.58***
+.77***
+.65***
+.82
+f. Manager
+4.57
+1.27
+.59***
+.56***
+.53***
+.64***
+.68***
+.72
+g. Digital Mentee
+4.54
+1.46
+.56***
+.49***
+.55***
+.54***
+.60***
+.56***
+.83
+AVE
+.70
+.61
+.60
+.75
+.67
+.52
+.69
+FR
+.93
+.89
+.70
+.94
+.92
+.86
+.93
+α
+.94
+.90
+.88
+.94
+.92
+.86
+.93
+Notes. n = 263. AVE = average variance extracted, FR = factor reliability, and α = Cronbach’s α. Numbers on the diagonal in italics show the square root of 
+the AVE.
+***p < .01.
+Table A4  Predictive Validity: Results for the Subordinate-Level Outcomes Using Ordinary Least 
+Square Regression
+Innovative Job Performanceb
+Knowledge Sharinga
+Digital Maturityb
+Intercept
+1.78***
+4.42***
+−1.95***
+Gender
+−.13**
+.11*
+.04
+Age
+.21***
+.17***
+.05
+Progressiveness
+.27***
+−.02
+.17***
+DTF
+.12**
+.06
+.20***
+Digital Pioneer
+−.03
+.05
+.35***
+Networker
+−.03
+.17**
+−.03
+Enabler
+.13*
+.18**
+.02
+Innovator
+.19**
+−.34***
+.05
+Mentor
+−.12
+−.10
+.04
+Manager
+.02
+.13
+.15**
+Digital Mentee
+.10
+.20***
+−.06
+R2
+.27
+.16
+.36
+Notes. Gender: 1 = male, 2 = female. DTF = focus on digital transformation. Unstandardized path coefficients.
+an = 263 (Sample A).
+bn = 294 (Sample B).
+*p < .1,
+**p < .05,
+***p < .01.
+ 1935262x, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jls.21810 by Johannes Kepler Universitat, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

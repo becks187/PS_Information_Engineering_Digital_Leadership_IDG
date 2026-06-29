@@ -1,0 +1,1060 @@
+--- [PAGE 1] ---
+Research-Technology Management
+ISSN: 0895-6308 (Print) 1930-0166 (Online) Journal homepage: www.tandfonline.com/journals/urtm20
+Measuring the Human Dimensions of Digital
+Leadership for Successful Digital Transformation
+Haroon Abbu, Paul Mugge, Gerhard Gudergan, Gerrit Hoeborn & Alexander
+Kwiatkowski
+To cite this article: Haroon Abbu, Paul Mugge, Gerhard Gudergan, Gerrit Hoeborn &
+Alexander Kwiatkowski (2022) Measuring the Human Dimensions of Digital Leadership for
+Successful Digital Transformation, Research-Technology Management, 65:3, 39-49, DOI:
+10.1080/08956308.2022.2048588
+To link to this article:  https://doi.org/10.1080/08956308.2022.2048588
+Published online: 19 Apr 2022.
+Submit your article to this journal 
+Article views: 8417
+View related articles 
+View Crossmark data
+Citing articles: 67 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=urtm20
+
+--- [PAGE 2] ---
+Feature
+Research-Technology Management • May—June 2022 | 39
+Measuring the Human Dimensions of Digital 
+Leadership for Successful Digital Transformation
+Digital leaders can use the authors’ Digital Leadership Scale to assess their own readiness and ability to accelerate 
+digital transformation.
+Haroon abbu, Paul Mugge, Gerhard Gudergan, Gerrit Hoeborn, and alexander Kwiatkowski
+OVERVIEW: The digital transformation of organizations continues at a frenetic pace. While some companies have achieved 
+trailblazer status, others are lagging because they find the transition difficult. Digital leaders play a pivotal role in digital 
+transformation successes because they can inspire organizational and employee confidence in these disruptive and sometimes 
+risky initiatives. We present a Digital Leadership Scale with 15 dimensions. Our scale focuses on successful leadership in 
+digital transformation. We aimed to capture the qualities of leaders leading digitally mature organizations so that leaders of 
+digitally developing organizations can increase their likelihood of success. We also mention the future development of a 
+Digital Leadership Scale self-assessment tool that digital leaders can use to assess their own readiness and ability to accelerate 
+digital initiatives.
+KEYWORDS: Digital leadership, Trust, Leadership assessment, Digital transformation
+Digital transformation is more about people than it is about 
+digital technology. It requires organizational changes that are 
+backed by leadership and driven by radical challenges to 
+corporate culture. Organizations undergoing digital transfor-
+mation fall into two categories: digitally developing and digitally 
+mature (Gudergan et al. 2019; Mugge et al. 2020). Digitally 
+mature organizations are managed differently than digitally 
+developing organizations. Their leaders align human and 
+financial resources with the company’s strategy; create a col-
+laborative, and nimble development environment; and pro-
+mote open and transparent communication (Mugge et al. 
+2020). Digital transformation requires leaders to build trust 
+(Mugge, Abbu, and Gudergan 2021; Gudergan et.al. 2021; 
+Abbu et al. 2020). The attributes digital leaders exhibit are 
+the main difference between digitally mature and digitally 
+developing companies.
+Digital leadership is multidimensional (Prince 2018); it 
+comprises elements of authentic leadership, transactional 
+leadership, and transformational leadership. In their litera-
+ture review of digital leadership, Eberl and Drews (2021) 
+argue that a practice-oriented and integrated scale is needed 
+to measure digital leadership. Currently, no established 
+DOI: 10.1080/08956308.2022.2048588
+Copyright © 2022, Innovation Research Interchange.  
+Published by Taylor & Francis. All rights reserved.
+Haroon abbu is vice president of Digital, Data, and Analytics at Bell & How-
+ell. He is an accomplished leader with more than 20 years’ industry experi-
+ence in leading technology-enabled business transformation while building 
+analytics and digital transformation teams from scratch. He brings together 
+world-class research in partnership with North Carolina State University and 
+Germany’s RWTH Aachen University to advance research and practice on 
+digital leadership. He is a frequent keynote speaker and a panelist at indus-
+try events and has published his work in business magazines and scholarly 
+journals. He coauthored Trust: The Winning Formula for Digital Leaders. 
+haroon.abbu@outlook.com
+Paul Mugge has 35 years’ experience in product development, global 
+business strategy, and business innovation services at IBM and 15 years’ 
+experience researching and teaching innovation as the executive director 
+of North Carolina State University’s Center for Innovation Management. He 
+coauthored Traversing the Valley of Death and Trust: The Winning Formula 
+for Digital Leaders. pmugge@ncsu.edu
+Gerhard Gudergan is the deputy managing director at FIR Institute for 
+Industrial Management at RWTH Aachen University, Germany. He is a re-
+nowned scholar with more than 20 years’ experience in service manage-
+ment, business transformation, and digital leadership. Currently, he is the 
+acting head of the Metropolitan Cities Initiative, which aims to use urban 
+innovation to transform Rhine-Ruhr, the fifth largest metropolitan region in 
+Europe, into the most liveable metropolitan area possible. He coauthored 
+Traversing the Valley of Death and Trust: The Winning Formula for Digital 
+Leaders. gerhard.gudergan@fir.rwth-aachen.de
+Gerrit Hoeborn holds a bachelor’s degree in mechanical engineering from 
+RWTH Aachen University and a master’s degree in management science 
+from Tsinghua University. His research focus is business transformation and 
+digital business strategies. He is a PhD student and is responsible for the 
+ecosystem design section at RWTH Aachen University’s FIR Institute for In-
+dustrial Management. gerrit.hoeborn@fir.rwth-aachen.de
+alexander Kwiatkowski holds a bachelor’s degree in technical communication 
+with a focus on mechanical engineering from RWTH Aachen University, Germa-
+ny. His research focuses on topics such as digital leadership, culture, innovation, 
+technologies, and business strategy. alexander.kwiatkowski@fir.rwth-aachen.de
+
+--- [PAGE 3] ---
+40 | Research-Technology Management Digital Transformation Leadership
+practical method exists to assess the human attributes of 
+successful digital leaders. Our aim is to develop a Digital 
+Leadership Scale, a practical tool to assess digital leaders’ 
+human dimensions.
+Study
+We conducted a study to ascertain which human qualities 
+influence digital leaders’ performance. We interviewed 13 
+successful leaders of digitally mature organizations. We con-
+sider them successful based on their track record of successful 
+digital transformations in their companies, as evidenced in 
+published case studies and other articles. We wanted to hear 
+directly from them regarding what they are doing and what 
+advice they have for other digital leaders. Our goal is to take 
+the learnings from leaders of digitally mature organizations 
+and help leaders of digitally developing organizations prog-
+ress toward digital maturity.
+Method
+To find suitable interviewees, we used the maximum varia-
+tion strategy of purposeful sampling (Palinkas et al. 2015). 
+The variation factors were geographic representation, size of 
+the company, gender, and industry representation. We devel-
+oped a database of the leaders we wanted to interview. Our 
+list comprised leaders associated with companies of any size, 
+from a micro-startup to a conglomerate, in any industry, 
+headquartered in either the United States or Germany. We 
+made a deliberate attempt to include female digital leaders 
+to balance the perspectives and to understand if it is harder 
+for them to build trust in organizations where men hold most 
+leadership positions.
+Between August and October 2020, we conducted 13 
+semi-structured interviews (3 women, 10 men). At least two 
+members of the research team participated in each interview. 
+We conducted interviews face-to-face and via Zoom. We 
+asked interviewees five questions that we felt would identify 
+what actions leaders are taking and how and why they pur-
+sue them:
+1. What is your key theme 
+(main message) for trans-
+forming the organization?
+2. What is your organization’s 
+digital strategy and vision?
+3. What actions have you taken 
+to achieve your theme?
+4. What results have you wit-
+nessed to date?
+5. What advice do you have for 
+other digital leaders?
+We audio-recorded the interview 
+with the interviewees’ consent 
+and transcribed them for data 
+analysis. Participation was vol-
+untary and without compensa-
+tion. The interviewees hold 
+various senior management 
+positions: seven CEOs, two business unit heads (BUHs) 
+developing digital products, two functional heads (FHs) lead-
+ing corporate functions, and two chief digital officers (CDOs) 
+(Table 1). Together, the digital leaders we interviewed rep-
+resented companies with combined revenues of more than 
+$225B and nearly 1.2 million employees.
+We used an inductive approach to reduce the extensive 
+text data gained from the interviews (Thomas 2006). We 
+reviewed the interview transcripts several times to identify 
+and code the categories. To identify leadership traits specific 
+to digital transformation, we used conventional content anal-
+ysis, which is exploratory and allows the categories and 
+names for categories to flow from the data (Hsieh and 
+Shannon 2005).
+We based our interpretations solely on what the interview-
+ees said. We reviewed the transcripts for direct quotations, 
+analyzed relevant text, and reviewed the final interview report 
+with the interviewees to confirm each quotation’s accuracy. 
+Using content analysis—both automated and manual—we 
+conceptionally analyzed the presence of certain words, themes, 
+or concepts within the text of our interviews and then sum-
+marized them into manageable code categories. We first coded 
+the text automatically using software to identify possible cat-
+egories. We then took the terms that fit the dimensions and 
+manually searched the interview text to see if the interviewee 
+mentioned them or implied them. We counted the number 
+of participants mentioning each dimension and created a table 
+of our content analysis results (Table 2).
+results
+To provide context regarding human dimensions of digital 
+leadership, we highlight a few quotations from our partici-
+pants. We highlight keywords in italics for illustrative 
+purposes.
+The managing director of a management consulting com-
+pany said, “The most successful leaders that I’ve seen have 
+an innate ability to connect the dots—to be systems think-
+ers—and can communicate extremely effectively to their team 
+TABLE 1. Interviewee positions and industry representation
+Industry revenue uS$ employees Position
+Agriculture < 50 million < 250 CEO
+Automotive > 25 billion > 35,000 Functional Head (FH)
+Consulting > 40 billion > 500,000 Business Unit Head (BUH)
+Energy < 50 million < 250 CEO
+IT Consulting > 75 billion > 350,000 CDO
+Luxury Goods > 50 billion > 160,000 CEO
+Manufacturing > 500 million > 500 CEO
+Market Research < 50 million < 250 CEO
+Mechanical Engineering < 50 million < 250 CEO
+Medical technology > 10 billion > 50,000 Functional Head (FH)
+Pharmaceutical > 25 billion > 25,000 CDO
+Business Services > 1 billion > 50,000 CEO
+Software > 1 billion > 5,000 Business Unit Head (BUH)
+
+--- [PAGE 4] ---
+Digital Transformation Leadership May—June 2022 | 41
+and to their clients. A digital leader thus also needs to be a 
+good storyteller.” The CEO and founder of a German, fami-
+ly-owned mechanical engineering business suggests, “Be 
+genuinely interested in your employees. I expect absolute 
+transparency and openness. I encourage employees to speak 
+their minds and share their opinions. I say what fits and what 
+doesn’t fit. And I expect the same from my employees.” A 
+technology company CTO noted, “As we consider putting 
+the AI to work, we have a responsibility to ensure fairness 
+and to make sure that we can explain how the model arrives 
+at a recommendation.”
+The CEO of an energy company said, “Trust has created 
+a much greater willingness to provide relevant data and infor-
+mation to each other. This type of information-sharing can 
+drive product optimizations with tangible customer benefit.” 
+The director of strategy for an automotive company said, 
+“You need role models and people who have actual experi-
+ence in digital. In the end, it is essential for digital leaders 
+not just to talk about digitalization, but also to prove they 
+are able to deliver results.”
+Digital Leadership Scale
+Based on our results, we developed a Digital Leadership Scale 
+consisting of 15 human dimensions. For each dimension, we 
+provide a definition based on relevant literature, discuss prior 
+research pertaining to its relevance to digital leadership, and 
+list existing scales, if any. We provide a practical definition 
+to ensure it is applicable for digital leadership. We then list 
+three questions (“items”) digital leaders can use to measure 
+each dimension. We considered items from existing scales 
+and constructs only conceptually while creating new items 
+for each of the 15 dimensions, since it is not good practice 
+to detach items from their original scale context (Kraus and 
+Kreitenweis 2020). Consistent with our prior research, we 
+have categorized these 15 dimensions according to Stephen 
+Covey’s (2006) 4 Cores of Credibility: Integrity, Intent, 
+Capabilities, and Results (Figure 1).
+#1: Honesty
+Rotter (1967, p. 651) defines honesty as “the expectancy 
+that the word, promise, verbal or written statement of 
+another individual or group can be relied upon.” Servant 
+leadership, for example, values honesty highly (Russell and 
+Stone 2002). A major study by IBM showed that role mod-
+eling by executives is the most important factor for success-
+ful change initiatives (Jorgensen, Bruehl, and Franke 2014), 
+and role models must be credible and embody what they 
+say. Honesty is the most important factor to generate cred-
+ibility in a leader (Kouzes and Posner 2011). The measure-
+ment of honesty is part of the HEXAGO Personality Scale 
+(Ashton and Lee 2009) and Satow’s B5T scale (Satow 2012). 
+For measuring honesty in the context of digital transfor -
+mation, we are concerned with how it manifests interper -
+sonally, especially how the digital leader conveys honesty 
+and how it contributes to digital transformation success.
+Working Definition: An assessment of the leader’s moral 
+character that connotes positive and virtuous attributes such 
+as integrity, truthfulness, and straightforwardness. Honesty 
+also involves being trustworthy, loyal, fair, and sincere.
+As a leader of digital initiatives, I …
+1. Address concerns employees have with the digital strategy 
+publicly.
+2. Give employees clear answers, even to critical 
+questions.
+TABLE 2. results of content analysis
+# Dimension Search terms Mentioned By
+1 Honesty Honesty, integrity, openness 7
+2 Humility Humility, not self-oriented, accept/give feedback, give me advice, 
+respect for people
+6
+3 Courage Courage, deal with blind spots, willing to change, embracing change, 
+freedom of action
+7
+4 Ethical AI Ethics in AI, fairness, explainability, mitigate bias 4
+5 Growth Mindset Mindset 7
+6 Transparent Agenda Agenda, transparent, openness, clear, clarity 7
+7 Data Focus Data, analytics 7
+8 Inspire Engagement Engage, empower, motivate, get buy-in, desire 7
+9 Storytelling Storytelling, visual analytics, talk-about, celebrate wins 5
+10 Digital Literacy Digital technology, connecting to digital, digital capabilities, 
+technology company, know-how
+7
+11 Positive Attitude Positive attitude 5
+12 Skills Acquisition Skills, digital skills, address skill gaps 8
+13 Knowledge Sharing Knowledge sharing, knowledge 9
+14 Participative Style Style, servant leadership, team, people-first, put yourself in their shoes, 
+people respect what you inspect
+8
+15 Track Record Track record, outcomes, results 13
+
+--- [PAGE 5] ---
+42 | Research-Technology Management Digital Transformation Leadership
+3. Do my best to talk straight, and I expect the same from 
+my employees.
+#2: Humility
+From an interpersonal perspective, humility “involves reg -
+ulation of egotism and cultivation of other-orientation 
+rather than a selfish preoccupation with one’s own needs” 
+(Davis et al. 2017, p. 4). Leaders manage to build trust 
+through selfless behavior. According to the servant lead-
+ership theory, a good leader’s most important task is to 
+serve other people (Baggett 1997). Humility is a necessary 
+dimension to understanding employees’ true needs first. 
+This dimension does not negate leaders representing their 
+own interests; however, humility implies putting aside 
+one’s own opinion and listening empathetically to employ-
+ees to gain new insights, even if differences of opinion 
+exist. Neilsen and Marrone (2018) have studied the com-
+ponents included in the humility concept. Humility is also 
+part of the HEXAGO Personality Scale (Ashton and Lee 
+2009). In the context of digital transformation, we are 
+focused on how the leader displays humility externally 
+within a business interaction.
+Working Definition: An assessment of the leader’s  
+modest view of their own importance—that is, their 
+humbleness.
+As a leader of digital initiatives, I …
+1. Respect the opinions of our employees, even if it is not 
+the same as mine.
+2. Value every contribution of every individual, no matter 
+how big or small it may be.
+3. Gratefully accept any feedback both positive and 
+negative.
+#3: Courage
+Woodard (2004, p. 174) defines courage as “the ability to act 
+for a meaningful (noble, good, or practical) cause, despite 
+experiencing the fear associated with perceived threat 
+FIGURE 1. Framework and dimensions of the proposed Digital Leadership Scale (adapted from Covey [2006])
+In the context of digital 
+transformation, we are focused on 
+how the leader displays humility 
+externally within a business 
+interaction.
+
+--- [PAGE 6] ---
+Digital Transformation Leadership May—June 2022 | 43
+exceeding the available resources.” Change requires courage 
+because it may break up deeper and more extensive entrenched 
+structures. Sanders (1994) said leaders need the courage of 
+the highest order. An anxious leader tends to ignore the 
+threatening aspects of changing circumstances, which may, in 
+turn, trigger a chain reaction among employees throughout 
+the company. Courage is also a prerequisite for successfully 
+mastering the dimension of honesty. Employees want leaders 
+who have the courage to be honest, especially in difficult cir-
+cumstances, even if that honesty could prove detrimental to 
+the leader (Russell and Stone 2002). Comprehensive mea-
+surement constructs exist for assessing courage (for example, 
+Woodard and Pury’s [2007] The Construct of Courage scale).
+Working Definition:  An assessment of the leader’s men-
+tal or moral strength to venture, persevere, and withstand 
+danger, fear, or difficulty.
+As a leader of digital initiatives, I …
+1. Change the plan when presented with new, disruptive 
+market realities.
+2. Do the right thing for our company even if this could have 
+unpleasant consequences.
+3. Pursue the strategy even when I know it will be difficult 
+to achieve.
+#4: Ethical AI
+Recent advances in machine learning and neural networks 
+have enabled artificial intelligence (AI) to be used for hiring, 
+criminal justice, health care, and other applications. The 
+prevalence of AI in many industries has brought AI ethics to 
+the forefront of digital leadership. As promising as machine 
+learning technology is, DeBrusk (2018) points out how it 
+can also be susceptible to unintended biases that require 
+careful planning to avoid. Ethical leadership represents 
+shared facets with authentic, spiritual, and transformational 
+leadership such as altruism, integrity, and role modeling 
+(Brown and Treviño 2006). Existing scales that measure eth-
+ics, such as the Ethical Leadership Scale (Brown, Treviño, 
+and Harrison 2005) and the Leadership Virtues Questionnaire 
+(Riggio et al. 2010), lack an ethical technology assessment. 
+Ethical concerns related to the application of AI in data usage 
+and managerial activities is an important topic for digital 
+leaders to address (Cortellazzo, Bruni, and Zampieri 2019).
+Working Definition: An assessment of a leader’s ability 
+to do everything in their power to ensure the results of AI 
+and other technologies employing machine learning models, 
+are fair and explainable.
+As a leader of digital initiatives, I …
+1. Make sure senior management understands the need for 
+building trustworthy AI that ensures fairness and accu-
+racy, which meets their privacy and compliance 
+requirements.
+2. Put processes in place to ensure no human biases creep 
+into algorithms and affect outcomes.
+3. Develop and encourage participation in training sessions 
+related to ethics in AI.
+#5: Growth Mindset
+A growth mindset explores the extent to which people believe 
+they can become smarter if they work at it. It is based on the 
+belief that “your basic qualities are things you can cultivate 
+through your efforts” (Dweck 2016, p. 7). Research shows 
+that individuals with a growth mindset develop important 
+skills for managing change in a professional context, such as 
+more effective problem-solving strategies and dealing with 
+feedback (Gottfredson and Reina 2020). In the area of digital 
+transformation, leaders with a growth mindset look for new 
+opportunities to realize their visions (Carpenter 2012), which 
+requires that they focus on creative, innovative, and some-
+times risky tactics (Renko et al. 2012). A growth mindset is 
+also important to motivate one’s employees. For example, 
+Petrucci and Rivera (2018) and Prince (2018) emphasize the 
+relevance of a growth mindset for digital leaders in that it 
+encourages employees to be curious, think alternatively, and 
+expand their knowledge in accordance with “lifelong learn-
+ing.” Dweck’s (1999, 2016) Growth Mindset Scale consists of 
+items that focus on the belief that intelligence has a fluid com-
+ponent, that it can grow. We have adopted this basic idea and 
+changed it contextually for a business environment.
+Working Definition: An assessment of the leader’s desire 
+to tackle new challenges and grow as a person.
+As a leader of digital initiatives, I …
+1. Don’t view failure as a disappointment but as a learning 
+experience that can lead to change.
+2. Believe that all people, including myself, can develop their 
+capabilities to do new things, regardless of where they 
+come from.
+3. Accept new challenges, take advantage of feedback, and 
+provide timely feedback to subordinates.
+#6: Transparent Agenda
+Transparency includes openness, freedom of information, 
+clarity, accuracy, and the timely release of relevant informa-
+tion (Bernstein 2017). It enables employee participation and 
+informs them of the opportunities and risks of digital trans-
+formation so that they can be rational in their judgments. 
+Transparency can lead to targeted involvement of employ-
+ees—a decisive success factor for digital transformation—sig -
+nificantly reducing resistance to change (Wagner 2014). 
+Transparency is one way to check whether a leader really 
+stands behind what they are promoting (“walking the talk”). 
+transparency is one way to check 
+whether a leader really stands 
+behind what they are promoting 
+(“walking the talk”).
+
+--- [PAGE 7] ---
+44 | Research-Technology Management Digital Transformation Leadership
+Employees must be able to witness that leaders do what they 
+have said they will do (Kouzes and Posner 2011). A trans-
+parent leadership style encourages meaningful feedback, 
+which allows them to make strategic adjustments that oth-
+erwise get overlooked (Tardieu et al. 2020). Rawlins (2008) 
+and Bernstein (2017) operationalized the concept of 
+trans parency.
+Working Definition: An assessment of a leader’s ability 
+to openly share information about the business strategy with 
+employees, which is necessary for collaboration, cooperation, 
+and collective decision-making.
+As a leader of digital initiatives, I …
+1. Never hide my intentions; I reveal all aspects of our digital 
+strategy to the organization.
+2. Make sure the digital strategy is documented and acces-
+sible to all stakeholders.
+3. Ensure that the benefits of our digital strategy are quan-
+tifiable so that everyone clearly understands them.
+#7: Data Focus
+The focus on data enables improvements in decision-making 
+processes (Weiner, Balijepally, and Tanniru 2015), which is 
+necessary for gaining an edge over competitors and for plan-
+ning digital transformation measures (Ashwell 2017). The 
+ability to process, analyze, prioritize, and subsequently make 
+decisions based on data has become an essential skill for 
+success. No seminal definition or scale exists for data focus, 
+but it focuses on the leadership behaviors associated with 
+business analytics and business intelligence that are neces-
+sary to transform data into business insights (Pratt and 
+Fruhlinger 2019). Data focus is a key dimension for digital 
+leaders because while most companies are engaged in trying 
+to scale analytics, only a few are truly succeeding at it (Bisson 
+et al. 2018).
+Working Definition: An assessment of a leader’s ability 
+to encourage the application of data and analytics every-
+where, including their own decision-making.
+As a leader of digital initiatives, I …
+1. Use data analytics to drive our major operational and stra-
+tegic decisions.
+2. Trust data more than my intuition.
+3. Make sure the right people in their organization have the 
+training and skills necessary to work with data.
+#8: Inspire Engagement
+Inspiring engagement is a central element of transformational 
+leadership and contributes significantly to digital transformation 
+success. Motivation and inspiration have always been essential 
+skills that any successful leader must master (Horner-Long and 
+Schoenberg 2002). A central aspect of this notion of inspiring 
+engagement is the leader’s ability to make employees feel they 
+are a significant part of the company transformation and to 
+avoid active and passive forms of resistance as much as possible. 
+It is also about the ability to create a vision in a participatory 
+manner—that is, staff participate in creating the vision—because 
+transformative visions are crucial to digital transformation suc-
+cess. Executives must establish the connection between that 
+company vision and the employees (Kane et  al. 2019). 
+Researchers have pointed out the lack of a generally accepted 
+conceptualization of employee engagement or a tool to measure 
+it (Witemeyer, Ellen, and Straub 2013). In this study, employee 
+engagement is an attitude towards one’s work in one’s organi-
+zation, comprising feelings of vigor, dedication, and absorption; 
+cognitive appraisals of psychological empowerment; and moti-
+vation to act in the service of the organization’s goals.
+Working Definition: An assessment of a leader’s ability 
+to stimulate people’s interest in or enthusiasm for doing 
+something.
+As a leader of digital initiatives, I …
+1. Let people know that their input matters and that they 
+have the autonomy to develop and implement new ideas.
+2. Create a sense of urgency, enthusiasm, and pride at work.
+3. Appreciate our willingness to expend the effort necessary 
+to persist in the face of challenges.
+#9: Storytelling
+Values and principles cannot make an impact on employees 
+unless they are woven into emotional reference stories (Merath 
+and Nau 2017). Good stories arouse emotions and visual images 
+and thus have an entertaining and informative effect (Morgan 
+and Dennehy 1997). In this way, the audience—whether a 
+group or an individual—is addressed holistically both cogni-
+tively and emotionally (Lippmann, Pfister and Jörg 2019). 
+Stories are an efficient way to disseminate information and a 
+transformative vision; they help link the past, present, and 
+future, create a sense of continuity among employees and make 
+change—especially radical change—seem doable (Boal and 
+Schultz 2007). A good story can be equally effective in informal 
+word-of-mouth communication between employees. Therefore, 
+organizations must empower their innovation teams to practice 
+the art and science of innovation storytelling (Taylor 2021). 
+Measuring storytelling primarily aims for the impact of story-
+telling (Rossetti and Wall 2017). In our study, we are primarily 
+focused on leaders’ awareness of the need for effective story-
+telling and its use in a targeted manner.
+Working Definition: An assessment of the leader to 
+inspire employees and gain buy-in.
+As a leader of digital initiatives, I …
+In our study, we are primarily 
+focused on leaders’ awareness of 
+the need for effective storytelling 
+and its use in a targeted manner.
+
+--- [PAGE 8] ---
+Digital Transformation Leadership May—June 2022 | 45
+1. Use storytelling effectively to drive the purpose of our 
+digital transformation journey (at shareholder meetings, 
+to staff, and to the public).
+2. Continually reinforce our mission for digital transforma-
+tion—my story—in daily happenings as much as possible.
+3. Encourage our employees to become storytellers and 
+ambassadors of change themselves.
+#10: Digital Literacy
+A deeper understanding of the technological possibilities 
+enables leaders to create an adequate vision and inspire 
+employees to get involved in the first place (Kane et al. 2019). 
+If these competencies are lacking, digital leaders must develop 
+such skills and foster them within the team to exploit the 
+benefits of digital transformation efficiently (Cortellazzo, 
+Bruni, and Zampieri 2019). Demonstrating relevant expertise 
+is essential to increase a leader’s credibility (Yukl 1998). 
+Although there are scales to measure certain components of 
+digital literacy (Jin et al. 2020; Carretero, Vuorikari, and Punie 
+2017), they fail to encompass the broad nature of digital lit-
+eracy (Chetty et al. 2018). Since digital literacy priorities vary 
+from industry to industry, our questions are primarily con-
+cerned with the extent to which digital leaders demand and 
+promote digital literacy in themselves and their employees.
+Working Definition: An assessment of a leader’s ability 
+to develop digital competencies within the leadership team.
+As a leader of digital initiatives, I …
+1. Make sure that everyone on the direct report team has 
+the necessary technical skills to implement our digital 
+strategy.
+2. Regularly seek outside resources (advice of thought 
+leaders, joint research projects, partnerships, executive 
+education, etc.) to maintain the organization’s digital 
+talents.
+3. Ensure the entire leadership team knows the strategic and 
+operational benefits of our digital technologies.
+#11: Positive Attitude
+A positive attitude is necessary to express emotionalizing 
+reactions such as recognition, gratitude, and praise. Leaders 
+with positive attitudes are more resilient, socially inte-
+grated, and high-performing, which leads to increased help-
+fulness, flexibility, empathy, and creativity (Creusen, 
+Eschemann, and Johann 2010). Through positive attitudes 
+and a positive leadership style, leaders can elevate their 
+employees’ confidence, commitment, and well-being long 
+term (Liu, Siu, and Shi 2010). The psychometric scales in 
+this space are more character-orientated—how this positiv-
+ity manifests in the business context is more important for 
+the digital leader.
+Working Definition: An assessment of a leader’s ability 
+to carry themselves like champions and purposefully show 
+their positivity in how they behave and communicate.
+As a leader of digital initiatives, I …
+1. Advocate consistently for the best interests of our 
+company.
+2. Take it on myself to be accountable.
+3. Am committed to the success of our company.
+#12: Skills Acquisition
+UNESCO (2018) defines digital skills as “a range of abilities 
+to use digital devices, communication applications, and net-
+works to access and manage information. They enable people 
+to create and share digital content, communicate and collab-
+orate, and solve problems for effective and creative self-ful-
+fillment in life, learning, work, and social activities at large.” 
+Identifying, attracting, and motivating people with these 
+ever-evolving skill sets is of paramount importance to digital 
+leaders. To thrive in the connected economy and society, 
+digital skills must also function together with other abilities 
+such as strong literacy and numeracy skills, critical and inno-
+vative thinking, complex problem solving, ability to collab-
+orate, and socio-emotional skills. Soft skills such as agility, 
+creativity, teamwork, and ability to learn are the skills that 
+will survive the automated future (Maurer 2019).
+Working Definition: An assessment of a leader’s ability 
+to influence digital talent acquisition and development for 
+the organization.
+As a leader of digital initiatives, I …
+1. Am personally involved in our efforts to recruit digital 
+talents to the organization.
+2. Influence efforts to retrain and rebalance the organiza-
+tion’s digital skills.
+3. Have initiated active programs with local colleges and 
+universities to recruit digitally talented people.
+#13: Knowledge Sharing
+An international study of 1,700 CEOs found that outper -
+forming organizations have leaders who create a culture of 
+openness, connectivity, and the highest level of collaboration 
+in the digital world (Berman and Korsten 2014). Developing 
+a system that enables knowledge dissemination from an indi-
+vidual to the group is the most effective way to spread knowl-
+edge and expertise throughout an organization (Boe and 
+Torgersen 2018). Perception- and activity-based methods are 
+the primary approaches to measure knowledge sharing in 
+organizations (Long, Siau, and Howell 2007). Our assessment 
+focuses on the role of the leader, who must actively promote 
+knowledge sharing for successful digital transformation.
+Working Definition: An assessment of a leader’s ability 
+to enable access to knowledge and improve learning.
+As a leader of digital initiatives, I …
+1. Insist we share our knowledge, particularly with other 
+departments/organizations struggling with digital 
+transformation.
+2. Give every employee the opportunity to present “what 
+they are learning/have learned” to the rest of the 
+organization.
+
+--- [PAGE 9] ---
+46 | Research-Technology Management Digital Transformation Leadership
+3. Have implemented “safety nets” that encourage experi-
+mentation and exploration of the new knowledge.
+#14: Participative Style
+Digital leaders are expected to strive for a leadership style 
+in which they not only allow their team to participate but 
+also participate in team activities themselves (Schwarzmüller 
+et  al. 2018). By doing so, they gain and maintain trust 
+within their team (Carte, Chidambaram, and Becker 2006). 
+Pentland (2018) showed that team-oriented leaders 
+actively engage people in short, high-energy conversations; 
+they are democratic with their employees’ time; they com-
+municate with everyone equally, and they ensure that all 
+team members get a chance to contribute. They engage in 
+“stimulated but focused listening” and listen as much or 
+more than they talk, and they are usually engaged with 
+whomever they are listening to. Teaming leadership is also 
+about creating open spaces, giving team members freedom 
+to choose their efforts, and motivating them to voluntarily 
+make a positive effort to complete tasks (Rahmani, Roels, 
+and Karmarkar 2018). Servant leadership emphasizes 
+“increased service to others; a holistic approach to work; 
+promoting a sense of community; and the sharing of power 
+in decision making” (Spears, Greenleaf, and Covey 2002, 
+p. 4). Several measurement scales—for example, the one 
+proposed Bhatti et al. (2019)—have examined the effects 
+of participative, team-oriented leadership and organiza-
+tional citizenship behavior rela tion ships.
+Working Definition: An assessment of a leader’s ability 
+to develop a collaborative and inclusive way to approach 
+problems and opportunities.
+As a leader of digital initiatives, I …
+1. Require that we celebrate “small wins,” as well as major 
+accomplishments, to motivate employees.
+2. Prefer “rolling up my sleeves” and working directly with 
+the development teams.
+3. Make time for people who have questions.
+#15: Track Record
+This dimension reflects a transactional facet of digital lead-
+ership, but regarding the leader themselves. This critical 
+reflection enables a down-to-earth self-assessment—perhaps 
+the leader needs to further build competencies, deal with 
+new disruption, or improve digital literacy. For track record, 
+successful transformation is also always about measurable 
+results, whether positive or negative (Prince 2018). Several 
+business results metrics could be included here—for example, 
+improved outcomes and increased customer experience. 
+Rather than listing them out, we chose to keep the measure-
+ment at a higher level—namely, did the digital initiative pro-
+duce meaningful results?
+Working Definition: An assessment of the leader’s dig-
+ital initiatives to produce meaningful results.
+As a leader of digital initiatives, I …
+1. Changed an aspect of business using digital methods.
+2. Reduced the cycle time or operational cost of the business 
+significantly.
+3. Created an overall better customer experience.
+Managerial Implications
+We hypothesized and found support for the fact that the 
+human dimensions of digital leaders are the foundation  
+of digital transformation success. We recommend leaders 
+focus on these 15 key dimensions we outline in our Digital 
+Leadership Scale. We highlight three key takeaways:
+1. Building trust and credibility are at the core of effective 
+digital leadership. Credible leaders walk the talk, and 
+employees learn by observing their leaders.
+2. Employees should be at the center of your digital strategy. 
+Align employees with business goals and clearly commu-
+nicate your plan and vision for the company to them. Listen 
+to your employees, understand what they are thinking, 
+and integrate employee feedback into your communica-
+tions and operations strategy. Doing so will help you build 
+an innovative, transparent, and inclusive culture.
+3. Digital leaders must make conscious efforts to ensure 
+trustworthiness in the use of digital technologies such as 
+AI and machine learning. They must ensure these tech-
+nologies are used in a way that’s fair, respectful of indi-
+vidual privacy, and beneficial to society.
+Future research
+We identified 15 human dimensions of digital leadership that 
+we consider key to digital transformation success. Given the 
+urgency and importance of digital transformation and the 
+critical role digital leaders play in successful execution, we 
+are currently working on two initiatives.
+We are developing a Digital Leadership Scale to measure 
+these 15 dimensions on a five-point Likert scale. We will 
+administer this scale to digital leaders. Using statistical meth-
+ods (for example, principal component analysis), we will 
+develop a statistically valid and reliable scale that measures 
+key dimensions of digital leadership.
+Based on the scale, we plan to create a user-friendly 
+self-assessment tool and make it available for free to anyone 
+leading a digital initiative—at the project, function, business 
+Participatory leaders engage in 
+“stimulated but focused listening” 
+and listen as much or more than 
+they talk, and they are usually 
+engaged with whomever they are 
+listening to.
+
+--- [PAGE 10] ---
+Digital Transformation Leadership May—June 2022 | 47
+unit, or company level. We emphasize the term self-assess-
+ment because we intend for the scale to inspire leaders to 
+reflect and improve upon aspects of their leadership based 
+on science rather than others’ expectations of them.
+Limitations
+The dimensions presented should be checked for their dis-
+tinctiveness. Within the research discussions, for example, 
+it emerged that the Storytelling dimension can be a sub-item 
+of the Inspire Engagement dimension. Measuring character 
+traits is admittedly difficult, especially since the measure-
+ments are mostly self-reported questionnaires. As a reflexive 
+assessment, such a measurement fulfills the criterion of 
+practical relevance and can be classified as useful. 
+Nevertheless, we recommend a supplementary review and 
+discussion of the dimensions to increase objectivity and use-
+fulness. Additionally, the inductive reasoning approach used 
+is limited as it begins with our observation of the role of 
+digital leadership in digital transformation success. Our 
+observations are based on a set of interviews, yet we may 
+have inadvertently overlooked important factors. Future 
+research should focus on quantitative studies to investigate 
+the aspects found in this study—namely, its intercorrelations 
+and their relevance depending on industry and company 
+demographics.
+Conclusion
+We presented a prescriptive assessment for leaders in digital 
+transformation by identifying the human dimensions required 
+to successfully lead a digital transformation initiative. In line 
+with the motto “reflection enables insight for improvement,” 
+we intend for the Digital Leadership Scale to inspire leaders 
+to improve their leadership style based on science. Leaders 
+can use the 15 dimensions we identified for critical self-reflec-
+tion. The overarching insight derived from this study is that 
+the human dimensions of leadership are critical to a successful 
+digital transformation.
+references
+Abbu, H., Mugge, P., Gudergan, G., and Kwiatkowski, A. 2020. 
+DIGITAL LEADERSHIP – Character and competency differ-
+entiates digitally mature organizations. In Proceedings of IEEE 
+International Conference on Engineering, Technology and Innovation 
+(ICE/ITMC) 1–9. doi:10.1109/ICE/ITMC49519.2020.9198576
+Ashton, M. C., and Lee, K. 2009. The HEXACO–60: A short 
+measure of the major dimensions of personality. Journal of 
+Personality Assessment 91(4): 340–45. doi:10.1080/00223 
+890902935878
+Ashwell, M. L. 2017. The digital transformation of intelligence 
+analysis. Journal of Financial Crime 24(3): 393–411. 
+doi:10.1108/JFC-03-2017-0020
+Baggett, B. 1997. Power Serve: 236 Inspiring Ideas on Servant 
+Leadership. Germantown, TN: Saltillo Press.
+Berman, S., and Korsten P. 2014. Leading in the connected era. 
+Strategy & Leadership 42(1): 37–46. doi:10.1108/SL-10-2013- 
+0078
+Bernstein, E. S. 2017. Making transparency transparent: The 
+evolution of observation in management theory. Academy of 
+Management Annals 11(1): 217–66. doi:10.5465/annals.2014. 
+0076
+Bhatti, H. M., Ju, Y., Akram, U., Akram, Z., and Bilal, M. 2019. 
+Impact of participative leadership on organizational citizen-
+ship behavior: Mediating role of trust and moderating role 
+of continuance commitment: Evidence from the Pakistan 
+hotel industry. Sustainability 11(4): 1170. doi:10.3390/
+su11041170
+Bisson, P., Hall, B., McCarthy, B., and Rifai, K. 2018. Breaking 
+away: The secrets to scaling analytics. McKinsey & Co, July 
+14. https://www.mckinsey.com/business-functions/mck-
+insey-analytics/our-insights/breaking-away-the-secrets-  
+to-scaling-analytics
+Boal, K. B., and Schultz, P. L. 2007. Storytelling, time, and evo-
+lution: The role of strategic leadership in complex adaptive 
+systems. The Leadership Quarterly 18(4): 411–28. doi:10.1016/ 
+j.leaqua.2007.04.008
+Boe, O., and Torgersen, G-E. 2018. Norwegian ‘Digital Border 
+Defense’ and competence for the unforeseen: A grounded 
+theory approach. Frontiers in Psychology 9:555. doi:10.3389/
+fpsyg.2018.00555
+Brown, M. E., and Treviño, L. K. 2006. Ethical leadership: A 
+review and future directions. The Leadership Quarterly 17(66): 
+595–616. doi:10.1016/j.leaqua.2006.10.004
+Brown, M. E., Treviño, L. K., and Harrison, D. A. 2005. Ethical 
+leadership: A social learning perspective for construct devel-
+opment and testing. Organizational Behavior and Human 
+Decision Processes 97(2): 117–34. doi:10.1016/j.obhdp.2005. 
+03.002
+Carpenter, M. T. H. 2012. Cheerleader, opportunity seeker, and 
+master strategist: ARL directors as entrepreneurial leaders. 
+College & Research Libraries 73(1): 11–32. doi:10.5860/
+crl-192
+Carretero, S., Vuorikari, R., and Punie, Y. 2017. DigComp 2.1: 
+The digital competence framework for citizens with eight 
+proficiency levels and examples of use. Publications Office. 
+doi:10.2760/38842
+Carte, T. A., Chidambaram, L., and Becker, A. 2006. Emergent 
+leadership in self-managed virtual teams. Group Decision and 
+Negotiation 15(4): 323–43. doi:10.1007/s10726-006-9045-7
+Chetty, K., Qigui, L., Gcora, N., Josie, J., Wenwei, L., and Fang, 
+C. 2018. Bridging the digital divide: Measuring digital literacy. 
+Economics: The Open-Access, Open-Assessment E-Journal 12(2-18-
+23): 1–20. doi:10.5018/economics-ejournal.ja.2018-23
+Cortellazzo, L., Bruni, E., and Zampieri, R. 2019. The role of 
+leadership in a digitalized world: A review. Frontiers in 
+Psychology 10:1–21. doi:10.3389/fpsyg.2019.01938
+Covey, S. M. R. 2006. The Speed of Trust: The One Thing That 
+Changes Everything. New York: Free Press.
+Creusen, U., Eschemann, N-R., and Johann, T. 2010. Positive 
+leadership: Psychologie erfolgreicher führung erweiterte 
+strategien zur anwendung des grid-modells. Wiesbaden: 
+Gabler Verlag/GWV Fachverlage GmbH Wiesbaden. doi: 
+10.1007/978-3-8349-8953-6
+Davis, D. E., McElroy, S., Choe, E., Westbrook, C. J., DeBlaere, 
+C., Van Tomgeren, D., Hook, J., Sandage, S., and Placeres, V. 
+2017. Development of the experiences of humility scale. 
+Journal of Psychology and Theology 45(1): 3–16. doi:10.1177/ 
+009164711704500101
+
+--- [PAGE 11] ---
+48 | Research-Technology Management Digital Transformation Leadership
+DeBrusk, C. 2018. The risk of machine learning bias (and how 
+to prevent it). MIT Sloan Management Review, March 26. 
+https://sloanreview.mit.edu/article/the-risk-of-machine-  
+learning-bias-and-how-to-prevent-it/
+Dweck, C. S. 1999. Self-theories: Their Role in Motivation, Personality, 
+and Development. 1st ed. New York: Pyschology Press.
+Dweck, C. S. 2016. What having a ‘growth mindset’ actually 
+means. Harvard Business Review, January 13. https://hbr.
+org/2016/01/what-having-a-growth-mindset-actually-  
+means
+Eberl, J., and Drews, P. 2021. Digital leadership–Mountain or 
+molehill? A Literature Review. 16th International Conference 
+on WirtschaftsinformatikAt: Duisburg & Essen, Germany.
+Gottfredson, R., and Reina, C. 2020. To be a great leader, you 
+need the right mindset. Harvard Business Review, January 17. 
+https://hbr.org/2020/01/to-be-a-great-leader-you-need-  
+the-right-mindset
+Gudergan, G., Mugge, P., Kwiatkowski, A., Abbu, H., Hoeborn, 
+G., and Conrad, R. 2021. Digital leadership: Which leadership 
+dimensions contribute to digital transformation success? In 
+Proceedings of IEEE International Conference on Engineering, 
+Technology and Innovation (ICE/ITMC) 1–8. doi:10.1109/ICE/
+ITMC52061.2021.9570231
+Gudergan, G., Mugge, P., Kwiatkowski, A., Abbu, H., Michaelis, 
+T. L., and Krechting, D. 2019. Patterns of digitization – What 
+differentiates digitally mature organizations? In Proceedings of 
+IEEE International Conference on Engineering, Technology and 
+Innovation (ICE/ITMC) pp. 1–8. doi:10.1109/ICE.2019.8792585
+Horner-Long, P., and Schoenberg, R. 2002. Does e-business 
+require different leadership characteristics? An empirical 
+investigation. European Management Journal 20(6): 611–619. 
+http://www.sciencedirect.com/science/article/pii/
+S0263237302001123 doi:10.1016/S0263-2373(02)00112-3
+Hsieh, H-F., and Shannon, S. E. 2005. Three approaches to qual-
+itative content analysis. Qualitative Health Research 15(9): 
+1277–88. doi:10.1177/1049732305276687
+Jin, K-Y., Reichert, F., Cagasan, L. P., de La Torre, J., and Law, 
+N. 2020. Measuring digital literacy across three age cohorts: 
+Exploring test dimensionality and performance differences. 
+Computers & Education 157:103968. doi:10.1016/j.compedu. 
+2020.103968
+Jorgensen, H-H., Bruehl, O., and Franke, N. 2014. Making 
+change work …while the work keeps changing: IBM Institute 
+for Business Value. https://www.ibm.com/downloads/cas/
+ZBN3AV1J
+Kane, G. C., Phillips, A. N., Copulsky, J., and Andrus, G. 2019. 
+How digital leadership is(n’t) different. MIT Sloan Management 
+Review, March 12. https://sloanreview.mit.edu/article/how-digital- 
+leadership-isnt-different/
+Kouzes, J. M., and Posner, B. Z. 2011. Credibility: How leaders gain 
+and lose it, why people demand it. 2nd ed. San Francisco: 
+Jossey-Bass.
+Kraus, R., and Kreitenweis, T. 2020. Führung Messen: Inklusive 
+Toolbox Mit Messinstrumenten Und Fragebögen. 1st ed. 
+Berlin, Heidelberg: Springer Berlin Heidelberg.
+Lippmann, E., Pfister, A., and Jörg, U. eds. 2019. Handbuch 
+angewandte Psychologie für Führungskräfte: Führungs-
+kompetenz und Führungswissen. 5., vollständig überarbeit-
+ete Auflage. Berlin, Germany: Springer.
+Liu, J., Siu, O-I, and Shi, K. 2010. Transformational leadership 
+and employee well-being: The mediating role of trust in the 
+leader and self-efficacy. Applied Psychology 59(3): 454–79. 
+doi:10.1111/j.1464-0597.2009.00407.x
+Long, Y., Siau, K., and Howell, K. 2007. Measuring knowledge 
+sharing in open source software development teams. In 
+Proceedings of Association for Information Systems – 13th Americas 
+Conference on Information Systems 3429–3440.
+Maurer, R. 2019. Scaling up skills: Employers adopt a multi-
+pronged approach to drive workforce development. SHRM, 
+February 19. https://www.shrm.org/hr-today/news/hr-mag-
+azine/spring2019/pages/scaling-up-skills.aspx
+Merath, S., and Nau, A. 2017. Dein Wille geschehe: Führung 
+für Unternehmer. Der Weg zu Selbstbestimmung und 
+Freiheit. 1st ed. Dein Business v.456. Offenbach: GABAL 
+Verlag.
+Morgan, S., and Dennehy, R. F. 1997. The power of organiza-
+tional storytelling: A management development perspective. 
+Journal of Management Development 16(7): 494–501. 
+doi:10.1108/02621719710169585
+Mugge, P.Abbu, H., and Gudergan, G. 2021. Trust: The Winning 
+Formula for Digital Leaders: A Practical Guide to Digital 
+Transformation. Raleigh: Haroon Abbu.
+Mugge, P., Abbu, H., Michaelis, T. L., Kwiatkowski, A., and 
+Gudergan, G. 2020. Patterns of digitization: A practical guide 
+to digital transformation. Research-Technology Management 
+63(2): 27–35. doi:10.1080/08956308.2020.1707003
+Nielsen, R., and Marrone, J. A. 2018. Humility: Our current 
+understanding of the construct and its role in organizations. 
+International Journal of Management Reviews 20(4): 805–24. 
+doi:10.1111/ijmr.12160
+Palinkas, L. A., Horwitz, S. M., Green, C. A., Wisdom, J. P., 
+Duan, N., and Hoagwood, K. 2015. Purposeful sampling 
+for qualitative data collection and analysis in mixed 
+method Implementation research. Administration and Policy 
+in Mental Health  42(5): 533–44. doi: 10. 1007/s10488-013-  
+0528-y
+Pentland, A. 2018. The new science of building great teams. 
+Harvard Business Review, December 4. https://hbr.org/2012/04/
+the-new-science-of-building-great-teams
+Petrucci, T., and Rivera, M. 2018. Leading growth through the 
+digital leader. Journal of Leadership Studies 12(3): 53–56. 
+doi:10.1002/jls.21595
+Pratt, M. K., and Fruhlinger, J. 2019. What is business intelli-
+gence? Transforming data into business insights. CIO, October 
+16. https://www.cio.com/article/2439504/business-intelli-
+gence-definition-and-solutions.html.
+Prince, K. A. 2018. Digital Leadership: Transitioning into the Digital 
+Age. James Cook University.
+Rahmani, M., Roels, G., and Karmarkar, U. S. 2018. Team lead-
+ership and performance: Combining the roles of direction 
+and contribution. Management Science 64(11): 5234–49. 
+doi:10.1287/mnsc.2017.2911
+Rawlins, B. 2008. Give the emperor a mirror: Toward developing 
+a stakeholder measurement of organizational transparency. 
+Journal of Public Relations Research 21(1): 71–99. doi:10.1080/ 
+10627260802153421
+Renko, M., El Tarabishy, A., Carsrud, A. L., and Brännback, M. 
+2012. Entrepreneurial leadership and the family business. In 
+Understanding Family Businesses: Undiscovered Approaches, 
+Unique Perspectives, and Neglected Topics, edited by Alan L. 
+Carsrud and Malin Brännback, 169–84. New York, NY: 
+Springer Science + Business Media LLC.
+
+--- [PAGE 12] ---
+Digital Transformation Leadership May—June 2022 | 49
+Riggio, R. E., Zhu, W., Reina, C., and Maroosis, J. A. 2010. 
+Virtue-based measurement of ethical leadership: The leader-
+ship virtues questionnaire. Consulting Psychology Journal: 
+Practice and Research 62(4): 235–50. doi:10.1037/a0022286
+Rossetti, L., and Wall, T. 2017. The impact of story: Measuring 
+the impact of story for organisational change. Journal of Work-
+Applied Management 9(2): 170–84. doi:10.1108/JWAM-07- 
+2017-0020
+Rotter, J. B. 1967. A new scale for the measurement of inter -
+personal trust. Journal of Personality 35(4): 651–65. doi: 
+10.1111/j.1467-6494.1967.tb01454.x
+Russell, R. F., and Stone, A. G. 2002. A review of servant lead-
+ership attributes: Developing a practical model. Leadership & 
+Organization Development Journal 23(3): 145–57. doi:10.1108/ 
+01437730210424
+Sanders, J. O. 1994. Spiritual Leadership: Completely Updated Text 
+with Study Guide. 2nd Revision. Chicago: Moody Press.
+Satow, L. 2012. Big-Five-Persönlichkeitstest (B5T): Test-Und 
+Skalendokumentation. http://www.drsatow.de
+Schwarzmüller, T., Brosi, P., Duman, D., and Welpe, I. M. 2018. 
+How does the digital transformation affect organizations? Key 
+themes of change in work design and leadership. Management 
+Review 29(2): 114–38. doi:10.5771/0935-9915-2018-2- 
+114
+Spears, L. C., Greenleaf, R. K., and Covey, S. R. eds. 2002. Servant 
+Leadership: A Journey into the Nature of Legitimate Power and 
+Greatness. 25th ed. New York: Paulist Press.
+Tardieu, H., Daly, D., Esteban-Lauzán, J., Hall, J., and Miller, G. 
+2020. Deliberately Digital: Rewriting Enterprise DNA for 
+Enduring Success. 1st ed. Switzerland: Springer.
+Taylor, K. T. 2021 Innovators must be powerful storytellers. 
+Research-Technology Management 64(3): 43–47. doi:10.1080/ 
+08956308.2021.1893057
+Thomas, D. R. 2006. A general inductive approach for analyzing 
+qualitative evaluation data. American Journal of Evaluation 
+27(2): 237–46. doi:10.1177/1098214005283748
+UNESCO. 2018. Digital skills critical for jobs and social inclusion. 
+https://en.unesco.org/news/digital-skills-critical-jobs-  
+and-social-inclusion
+Wagner, A-S. 2014. Das Modell moderner Organisationsentwicklung: 
+Theoriegeleitete Strukturgleichungsmodellierung ausgewählter 
+Modellbestandteile. Wiesbaden: Springer Gabler.
+Weiner, J., Balijepally, V., and Tanniru, M. 2015. Integrating 
+strategic and operational decision making using data-driven 
+dashboards: The case of St. Joseph Mercy Oakland Hospital. 
+Journal of Healthcare Management 60(5): 319–30. doi:10.1097/ 
+00115514-201509000-00005
+Witemeyer, H., Ellen, P., and Straub, D. 2013. Validating a prac-
+tice-informed definition of employee engagement. In Proceedings 
+of Third Annual International Conference on Engaged Management 
+Scholarship, Atlanta, Georgia. doi:10.2139/ssrn.232789
+Woodard, C. R. 2004. Hardiness and the concept of courage. 
+Consulting Psychology Journal: Practice and Research 56(3): 173–
+85. doi:10.1037/1065-9293.56.3.173
+Woodard, C. R., and Pury, C. L. S. 2007. The construct of cour-
+age: Categorization and measurement. Consulting Psychology 
+Journal: Practice and Research 59(2): 135–47. doi:10.1037/ 
+1065-9293.59.2.135
+Yukl, G. A. 1998. Leadership in Organizations. 4th ed. London: 
+Prentice-Hall International.

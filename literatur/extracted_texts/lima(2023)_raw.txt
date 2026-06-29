@@ -1,0 +1,1700 @@
+
+--- [PAGE 1] ---
+Citation: Lima, B.F.; Neto, J.V.;
+Santos, R.S.; Caiado, R.G.G. A
+Socio-Technical Framework for Lean
+Project Management Implementation
+towards Sustainable Value in the
+Digital Transformation Context.
+Sustainability 2023, 15, 1756.
+https://doi.org/10.3390/
+su15031756
+Academic Editor: Janez Kušar
+Received: 21 November 2022
+Revised: 8 January 2023
+Accepted: 10 January 2023
+Published: 17 January 2023
+Copyright:
+© 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+sustainability
+Article
+A Socio-Technical Framework for Lean Project Management
+Implementation towards Sustainable Value in the Digital
+Transformation Context
+Bianca Felizardo Lima 1, Julio Vieira Neto 1, Renan Silva Santos 1,2,* and Rodrigo Goyannes Gusmão Caiado 2
+1
+LATEC—Laboratory of Technology, Business Management and Environment,
+Federal Fluminense University (UFF), Niterói, Rio de Janeiro 24000-000, Brazil
+2
+Industrial Engineering Department, Pontiﬁcal Catholic University of Rio de Janeiro (PUC-Rio),
+Rio de Janeiro 22541-041, Brazil
+*
+Correspondence: renansilvasantos@esp.puc-rio.br
+Abstract: Motivated by the project uncertainties of complex realities brought by the fourth industrial
+revolution, Industry 4.0 (I4.0), researchers must look at Lean project management (LPM) soft skills as
+a new mindset to have a holistic view of customer needs and to improve value to the organization. In
+the digital transformation era, it is essential that Lean practitioners develop socio-technical thinking
+while also prioritizing interpersonal soft skills that directly affect their ability to solve problems in
+order for the company to grow sustainably. This paper aims to identify the critical soft skills (CSSs) to
+implement LPM in the I4.0 era and to investigate, from the perspective of organizations, the latent
+factors for LPM implementation that generate sustainable value. For this purpose, a mixed-method
+approach was used, combining literature review and a survey with 166 Brazilian professionals. This
+empirical study intends to set the CSSs from a practice perspective and explore the beneﬁts they
+generate throughout the organization. Data analysis was conducted with descriptive statistics and
+factorial analysis. Research ﬁndings revealed convergences regarding the practitioners’ perception
+regarding the ten CSSs identiﬁed in the literature, and portray two latent factors, human and process
+factors, which can assist decision-makers in implementing LPM by offering a better perspective of the
+key factors that add sustainable value for companies in the digital transformation context. This study
+contributes to the debate on rethinking traditional skills, accentuates the need for adjustments, and
+proposes a socio-technical framework that can be used in a project manager’s routine to enable better
+Lean project execution, help with decision making, and increase the understanding and meeting of
+customer needs.
+Keywords: lean thinking; project management; critical soft skills (CSSs); digital transformation;
+sustainable value; empirical study
+1. Introduction
+Organizations need best practices that ﬁt the current reality, which include new man-
+agement methodologies and revisions of those already adopted. Today, project management
+is a strategic activity for any company that is crucial for gaining competitive advantage.
+However, according to [1], the model currently adopted must be reassessed, given that the
+reality in which projects are inserted has become much more uncertain, agile, and complex.
+During the 1980s, it was understood that the success of a project revolved around
+meeting the goals of the deadline, cost, quality speciﬁcations, and scope [2,3]. As early as
+the 1990s, authors began to point out that success is no longer based on speciﬁc concepts,
+but rather in a multidimensional category that is perceived differently by all stakeholders
+involved [4]. Through this, we realize that project management today, in the age of digital
+transformation, must reﬂect this multidimensionality, that is, consider the requirements of
+all stakeholders and understand all aspects that can inﬂuence the project. Organizations
+Sustainability 2023, 15, 1756. https://doi.org/10.3390/su15031756
+https://www.mdpi.com/journal/sustainability
+
+--- [PAGE 2] ---
+Sustainability 2023, 15, 1756
+2 of 21
+must deploy new methodologies and practices in project management that are more
+consistent with reality, which seek better use of resources and internal capacity [5].
+A comprehensive model that understands how work is actually performed knows
+how to deal with uncertainties and brings vital concepts to the activities of a project such
+as control, ﬂow, and value generation, and constitutes a new way to manage projects [1].
+According to [6], projects should be related to a structure that reduces production costs,
+increase efficiency/effectiveness, links project objectives to the company’s strategic goals,
+increases communication across the organization, and uses common resources to level usage.
+These concepts are widely discussed in Lean methodology. Its application has been
+promoting improvements and reducing waste, mainly in the areas of production and manu-
+facturing, where its application is widespread due to the high aggregation of value [7]. Once
+Lean methodology emphasizes the efﬁciency of the activities and project management effec-
+tiveness; this union develops a new approach that improves the projects’ performance [8]
+and guarantees the main objective of the organizations: the complete fulﬁllment of their
+stakeholders’ needs.
+Lean approaches can be supported by digital technologies, such as the Internet of
+Things (IoT), Data Analytics, or autonomous robots to help the organization be more
+efﬁcient, have less waste, be precise in production, and have faster times [9]. Many of the
+tools used in Lean approaches, such as Value Stream Mapping (VSM), the PDCA (Plan-Do-
+Check-Act) Cycle, and A3 thinking can be improved by digitalization, making them more
+easily accessible, integrated, and less dependent on manual inputs [10].
+According to [11], the challenges and opportunities of the current market, coupled
+with the different problems that arise, demand solutions and methodologies that are also
+different, which ensure ﬂexibility and agility in projects. This reality reveals that it is
+necessary to rethink how projects are conducted to manage the workﬂow better, control
+project processes, reduce activities that do not add value and, especially, emphasize those
+that deliver value to the customer. Given its proven results in production management,
+Lean methodology presents itself as a very suitable option for managing projects in this
+environment of high complexity and uncertainty, achieving promising results and success
+in projects [1].
+The context of digital transformation has contributed to the ever-increasing challenges
+that organizations face. Digital transformation can be seen as a project in itself and, thus,
+demands the use of project management tools to achieve its results. Nonetheless, it is usu-
+ally difﬁcult to establish how project managers must deal with digital transformation [12].
+One particularly critical aspect is the digital transformation team organization, since the
+digital transformation team must present various skills to support the process fully.
+The Lean project management (LPM) approach emphasizes added value, decreases
+waste and unproductivity, and helps control project risks, costs, complexity, and time [13].
+According to [14], to achieve such goals, LPM considers all of the people and processes
+involved in the project and simpliﬁes them to meet the stakeholders’ needs in the shortest
+possible time, minimizing the stress of those involved. Also, according to the author, “any
+project worth doing is worth doing quickly”.
+LPM can also be viewed as a set of technical and cultural tools that helps the organiza-
+tion attain higher operational efﬁciency. Although Lean technical skills are important, the
+cultural part of Lean philosophy is of utmost importance for dealing with more complex
+problems. Nonetheless, deﬁning and training these Critical Soft Skills (CSSs) is a difﬁcult
+task, given the complexity and need for innovative teaching methods [15]. This difﬁculty
+can lead to an incomplete comprehension of Lean philosophy within an organization,
+mitigating the added value of Lean initiatives [16].
+LPM in I4.0 and digitalization processes have been studied by several authors [15,17–19],
+who ﬁnd that aside from the technical facet, cultural and social aspects are crucial for LPM
+in this context. This encompasses a series of soft skills that Lean practitioners must have
+in order to successfully implement LPM in an organization [15,18,20,21]. Nonetheless,
+research on the need to identify which are the critical soft skills of LPM in the age of digital
+
+--- [PAGE 3] ---
+Sustainability 2023, 15, 1756
+3 of 21
+transformation is scarce [15]. Although theoretical studies can be useful in understanding
+these skills an empirical perspective is also needed, since the main challenges, in this case,
+are socio-cultural, given that the technical aspect of Lean practices is well documented.
+In this context, a more holistic view of Lean Digital Transformation is needed, one that
+encompasses the socio-technical nature of these processes. Thus, an increased interest
+has arisen in need for artifacts that help guide LPM [15,18,19] toward sustainable value.
+Therefore, the following research questions are posed:
+RQ1: What are the CSSs for implementing LPM in the digital transformation era?
+RQ2: From the organizations’ perspective, what are the latent factors for LPM imple-
+mentation that generate sustainable value in the digital transformation era?
+Within this context, the goals of this paper are: (i) to identify the CSSs for imple-
+menting LPM in the digital transformation era and (ii) to obtain the latent factors that
+order themselves into a framework to facilitate the socio-technical implementation of Lean,
+adding sustainable value in project management from the perspective of project managers
+in a developing country.
+This research contributes to identifying CSSs for combining Lean methodology and
+project management in the I4.0, generating a new framework for LPM. Applying the
+proposed critical soft skills can contribute to developing a new organization’s mentality,
+focused on management by processes and people in all its axes. According to [22], practical
+strategies should be employed to develop new processes and new thinking focused on
+project management, increasing the company’s competitiveness. Also, according to the
+authors, a process- and project-aware organizational culture evolves in terms of continuous
+improvement, well-sustained processes, and successful projects.
+Moreover, in today’s VUCA (volatile, uncertain, complex, and ambiguous) world, the
+proposed socio-technical framework for LPM, based on CSSs for I4.0 (e.g., agile mindset),
+can lead to the successful and sustainable delivery of value in projects. The management of
+risks and uncertainties is critical to the success of any project [23], so the implementation of
+an agility strategy, which can include the use of Lean thinking [24], is key to successfully
+navigating the complexities of I4.0 needs. Also, the integration of socio-technical aspects,
+leveraging both social and technical systems, also plays a crucial role in the success of
+projects, particularly in the context of sustainable development [25,26]. This integration can
+lead to improved efﬁciency and effectiveness in the delivery of projects. Thus, the novelty of
+this work is due to a proposal of a managerial artifact that combines CSS-based LPM, digital
+transformation, and sustainable value through an empirical study in a developing country.
+The work is structured as follows: Section 2 presents a literature review on the themes
+of Lean Project Management, Digital Transformation, and Critical soft Skills for Industry 4.0.
+Section 3 presents the methodology employed, including the research workﬂow, survey
+details, and data analysis techniques used. In Section 4, the descriptive and inferential re-
+sults extracted from the data analysis are shown. Finally, Section 5 presents the conclusions
+and implications, as well as a research agenda. Appendix A presents a list of abbreviations
+used throughout this work.
+2. Literature Review
+2.1. Link between Project Management and Lean Philosophy
+According to the PMBOK Guide [27], a project is “a temporary effort undertaken to
+create a unique product, service, or result” that has a deﬁned beginning and end. Technical
+problem-solving is an old view of projects that has been replaced by a new understanding
+in which projects are triggers for change, business development, and a starting point for
+companies to achieve their goals [28]. Therefore, Ref. [29] states that managing projects
+is based on planning, organizing, monitoring, and controlling everything that involves a
+project, seeking to achieve the goals according to the schedule, budget, and performance
+criteria established safely.
+Given this, it is possible to realize that the concept of project management is based
+on project performance [30]; however, there are many uncertainties throughout a project,
+
+--- [PAGE 4] ---
+Sustainability 2023, 15, 1756
+4 of 21
+making it impossible for project management to be based on an illusion of certainty [1].
+Therefore, from 1950 until today, project management methodology has greatly changed,
+and has been appropriating methods that seek to create more value for the end customer,
+reducing the use of resources and improving the processes involved in the project. Such
+methods are based on the Lean philosophy, which is widely used in industry and has
+proven to be a successful approach to conducting projects and product development,
+making them more efﬁcient, elastic, and cost-effective [31].
+The Lean methodology was perceived as a solution that suited complex realities,
+aiming to respond better to customer demands, reducing costs and waste with the speed
+that the customer requires [32]. In the early 1990s, “Lean was seen as a contradictory
+alternative to the traditional Fordist production model” [33], and there were still some
+limitations, mainly in how to deal with demand variability and with the human aspects that
+demanded high performance [34]. However, over the years, companies have increasingly
+applied Lean principles to see value in Lean principles [32]. Such principles are described
+in [35]: the generation of value to the ﬁnal customer, the elimination of waste in the
+production system, and the management of the value stream, that is, the ability to ﬂow
+the production. Soon, the model showed that through Lean thinking, it was possible to
+produce more with less [36].
+According to [34], many have the old thought that Lean principles apply only to the
+factory ﬂoor, but this limited vision that restricts the methodology’s ability to achieve
+all the expected beneﬁts needs to be replaced by a contemporary vision. A vision based
+on the application of Lean along the entire value chain, encompassing the entire opera-
+tions network of organizations aiming to generate value for the end customer and grow
+sustainably [34,37].
+According to [36], it is necessary to go beyond traditional project management concepts
+and explore Lean thinking to deal with the challenges of the current competitive context.
+LPM is a combination of continuous improvement tools and socio-compartmental
+abilities, and to be effective it must be adopted from the shop ﬂoor to executive manage-
+ment [16]. It is expected that Lean practitioners develop and express a set of behaviors and
+values, such as openness to change, a continuous improvement mindset, and the ability to
+actively listen to their peers and subordinates [38]. These soft skills are as important as, if
+not more than, the technical tools of LPM.
+Speciﬁcally in the Industry 4.0 digitalization context, LPM can be leveraged as a
+tool to increase the efﬁciency of digital initiatives, providing less waste of resources and
+improving decision-making and team engagement [9]. These advantages of LPM in the
+digitalization context can be perceived in several areas, such as supply chains, management,
+and services [9,39].
+2.2. LPM and Digital Transformation
+According to [40], “projects are temporary systems, and when these systems are structured
+to deliver products while maximizing their value and minimizing waste, they are considered
+Lean projects.” Project management encompasses the entire project, the operation and
+improvement of such production systems, and attempts to optimize the process and value-
+adding activities [41].
+The Lean project management approach emphasizes added value, decreases waste and
+unproductivity, and helps control project risks, costs, complexity, and time [13]. According
+to [14], to achieve such goals, LPM considers all of the people and processes involved in the
+project and simpliﬁes them to meet the stakeholders’ needs in the shortest possible time,
+minimizing the stress of those involved. Also, according to the author, “any project worth
+doing is worth doing quickly”.
+The fact that the Lean methodology has been consolidated in manufacturing generates
+a false perception that it is only applied in this area and will not beneﬁt other business
+processes [42]. However, as seen previously, its application covers several areas and its
+beneﬁts can be widely reaped within organizations. According to [41], “LPM uses noble
+
+--- [PAGE 5] ---
+Sustainability 2023, 15, 1756
+5 of 21
+approaches in management methods seeking to create a ﬂat structure in the organization
+that executes projects more efﬁciently”. The conventional project management approach
+may not bring as many advantages when the nature of projects is uncertain and complex,
+making agile/Lean methods better suited to environments with these characteristics [11].
+The Lean methodology applies to project management to improve existing methods
+and standards, and its evolution will lead to Lean project management [43,44]. LPM has
+a holistic view of traditional project management, affecting how the project is controlled,
+optimized, and evaluated [41].
+The main goal of LPM (through the above characteristics) is to improve the value of a
+project [8]. Ref. [40] points out that the LPM differs signiﬁcantly from traditional project
+management, not only by optimizing activities that add value to the customer and reduce
+waste but also by being present in all phases of a project in the relationship between them
+and the people involved in each phase.
+For the perception that the processes are efﬁcient, the companies often do not see
+the need to apply Lean thinking. However, this thought forces a review of all business
+processes, reveals inefﬁciencies, and has already proven beneﬁts in several processes [42].
+Ref. [45] state that Lean “should be seen as a direction, not as a state to be reached after a certain
+time”, so all company processes should move in that direction. Ref. [37] states that Lean is a
+revolution, so it requires a change in the entire organization’s mindset, from the highest
+management levels to the operational level, including all business processes. Ref. [46] state
+that Lean thinking should integrate people, processes, and technology, promoting change
+and learning.
+LPM practices can be suitably coupled with digital transformation to draw out syner-
+gies between both in a way that can largely improve organizational performance [47]. In this
+context, the success of both approaches depends on a set of critical soft skills [16,38,48,49], which
+encompass the socio-cultural aspects of both digital transformation and Lean philosophy.
+To implement this thinking and enjoy its beneﬁts, several critical soft skills will be
+presented on the following topic, requiring immersion in the principles and concepts estab-
+lished here, and the willingness to change all the practices previously used in organizations.
+2.3. Critical Soft Skills for LPM in Industry 4.0 Era
+Among the many critical success factors that can affect a project, there are the soft
+skills of the project team. Soft skills can be generally deﬁned as personal attributes that
+enable someone to interact effectively and harmoniously with other people and shape
+how ﬂexible and cooperative a person can be, directly affecting their ability to solve
+problems and make decisions in speciﬁc contexts [48,50]. In the PM context, soft skills
+such as communication, adaptability, ﬂexibility, and a continuous growth mindset are
+highly desirable, especially in managers [49]. Even among soft skills, some can be more
+relevant than others, depending on the context. These are then deﬁned as Critical Soft Skills
+(CSS). In the following paragraphs, CSSs for Lean in the context of digital transformation
+is presented.
+The Lean approach requires planning, vision, and willingness to systematically change
+according to customer needs [51]. Ref. [46] state that Lean thinking must integrate people,
+processes, and technology, promoting change and learning. To implement this thinking
+and enjoy its beneﬁts, it is necessary to immerse oneself in the principles and concepts
+discussed below.
+Lean is a systematic and integrative method that involves doing things differently,
+separating non-value-added processes, creating a robust, truly Lean process, and reducing
+everything that does not add value to the end customer [13,42,52]. Problems such as wasted
+time, materials, redundant procedures, rework, lack of communication, and time spent
+waiting are realities that cannot exist, giving way to the search for solutions aimed at
+reducing costs and deadlines and increasing efﬁciency [9,36,53]. Therefore, the ﬁrst CSS
+states the need to implement a culture of waste elimination in the company, simplifying all
+activities involved in the project.
+
+--- [PAGE 6] ---
+Sustainability 2023, 15, 1756
+6 of 21
+From this basic pillar of Lean implementation, the following CSS is about implement-
+ing widely spread methodologies and concepts applied to LPM culture. The second CSS is
+based on fostering agile methodologies and quality management tools/concepts [54].
+Ref. [43] states that Lean management and quality management overlap, as the quality
+management principles described in ISO 9000 are also principles of Lean management,
+such as customer focus, continuous improvement, and process approach [55]. Companies
+that choose to use methods with 5S, JIT, and total quality management (TQM) show
+improvements in their delivery times, productivity, and customer satisfaction [32].
+The third CSS focuses on ensuring that the changes required throughout the project are
+fully executed. Ref. [14] states that all projects will undergo changes. The author points out
+that rigorous change management is essential for effective projects and delivering value to
+stakeholders. According to [42], many project managers see change as a problem, depriving
+themselves of its beneﬁts. However, in contrast with this intrinsic thought of managers,
+this same author emphasizes that Lean thinking is to think outside the box, that is, to be
+open to review processes, even if they seem to be efﬁcient, and to implement changes even
+if there is initially perceived of lack of tangible beneﬁts [9].
+Extending the focus of CSS to the behavioral sphere, the fourth factor focuses on
+encouraging the project team to go to the Gemba and develop a broad view of everything
+that happens on and impacts a project, what we call the “big picture view” [56]. Gemba
+is the Japanese word for the “real place” where things happen. Going to the Gemba is an
+allusion to the “go-see” principle, which consists of leaving your workplace and seeing
+for yourself the activity performed in the Gemba, following the processes, helping to
+identify the causes, and solving the problems that occur [57]. Going to the Gemba improves
+production processes, helps build relationships, ensures that everyone involved in the
+activity has the same view of the whole, and aids in decision making [57,58].
+Ref. [59] emphasizes that only when leaders put themselves in the shoes of the em-
+ployees where they perform their activities can they understand the problems and their
+root causes, contributing to an environment of process improvement and complex analysis
+of all factors that impact it.
+Aiming to encompass all project stakeholders, the ﬁfth CSS points to the need for the
+project team to involve the customer in all project phases [55]. According to [42], Lean
+thinking starts with the customer and the deﬁnition of value. Value is everything the
+customer is willing to pay for, and should be determined at the beginning of the project
+and described in terms of scope, cost, and schedule, based on an interactive dialog between
+the customer and supplier [60].
+To deliver value to the customer, its purpose and constraints must be understood. In
+addition, it is necessary to provide what he wants, help him decide what he wants and
+the possible consequences of these desires [60]. According to [37], a solid understanding
+of what generates value for the customer is what moves a project forward, generating
+transparency, alignment, and reducing risks. Furthermore, [52] also reports that working
+directly with the customer and joining technical capabilities during project management
+generates innovation and speed in the project.
+The sixth CSS involves a phase after the delivery of the project which is vital for
+the success of future projects. It is the sharing of knowledge obtained in each project, so
+those who succeed can have access to the positive and negative knowledge accumulated
+thus far [61]. Continuous improvement in TPS requires learning at the organizational
+level [46]. Establishing new ways of doing work through reusable, known, and visible
+standards means that the company is learning [62] and, consequently, applying the concept
+of knowledge management.
+The author also points out that evolving through improvement and learning should
+be a character when using the Lean system, because an organization that learns and adapts
+improves its performance, generates value for stakeholders, and ensures its survival. The
+seventh CSS ensures that all factors are fully executed and disseminated. It deals with the
+need to ensure that communication ﬂows well among all project stakeholders [54,61].
+
+--- [PAGE 7] ---
+Sustainability 2023, 15, 1756
+7 of 21
+Ref. [36] reafﬁrms that the more people are involved in a project, the greater the
+complexity, so the need for effective communication becomes even more essential. Ref. [51]
+emphasizes that the human skills of communication, problem-solving, and teamwork are
+vital to the success of Lean projects.
+The eighth CSS corroborates, and is a tool that ensures the propagation of clear and
+accessible communication to all, as it is based on the visual availability of the primary
+information related to projects within the company [10]. Visual management uses visual
+resources and tools/graphic representations to make information available in the workplace
+to facilitate the ﬂow of information, make it accessible, and facilitate creative ideas [37,63].
+Having information available to all team members at any time of the day ensures the
+ﬂow of information, highlights problems, improves project planning and performance,
+reduces complexity, enables rapid decision-making, and breaks down internal functional
+barriers [36,37,40]. One way to ensure that visible information is constantly analyzed and
+addressed is the focus of the ninth CSS, which refers to holding regular agile meetings
+(known as obeyas) to manage smaller, achievable deliverables.
+Ref. [64] approaches the tool called obeya, a Japanese term used to designate the word
+“big room”. This is a meeting room with visual resources which count on the presence of
+representatives of each discipline of the project with the objective that all have easy access
+to information, can make decisions, and solve operational problems [10,63,65]. The obeya
+is one of the visual tools that facilitates communication, the delegation of activities in the
+context of operations management, reduction of reworks and unnecessary discussions,
+efﬁciency throughout the project, and quality of the resulting product [46,65].
+Finally, the tenth CSS comes as a link that unites all of the other factors toward a
+common theme: the encouragement by management for all employees to be engaged in
+the Lean theme. The implementation of the Lean methodology describes the cooperation
+between employees and leaders pursuing continuous improvement, working together
+as a team, and being engaged, leading to a better understanding of the overall project
+goals [12,36,59].
+Such a culture of active participation and employee engagement is an enabler for the
+operator for sustainable and successful Lean operations, promoting increased employee
+conﬁdence to face future challenges and strengthening teamwork [32]. In addition, the
+human skills of communication, teamwork, and cultural change are vital to the success of
+Lean management [51].
+Lean is a transformation throughout the company; a corporate culture that preaches
+change in people’s skills and habits, requiring the engagement of the parties in the search for
+the formation of a dynamic mechanism aimed at generating value and reducing waste [66].
+2.4. Research Gaps
+Although the literature on LPM and digital transformation is useful in identifying
+the CSSs for LPM in digital transformation, there is still a need for empirical studies that
+not only relate LPM with CSSs in digital transformation but are able to translate this
+knowledge into managerial artifacts to help guide decision making [26], enabling managers
+and practitioners to better understand the challenges posed by digital transformation in
+the VUCA [23–25] world as well as use LPM practices to tackle them.
+Thus, after the CSSs for implementing LPM in the digital transformation era are iden-
+tiﬁed, this research intends to establish the latent factors for LPM in digital transformation
+so that it can be translated into a framework to help understand the socio-technical aspects
+of LPM in digital transformation.
+3. Methodology
+3.1. Research Steps
+The steps of the research are shown in Figure 1 below:
+
+--- [PAGE 8] ---
+Sustainability 2023, 15, 1756
+8 of 21
+Figure 1. Research steps.
+The ﬁrst step of the research encompasses a narrative review to identify the CSSs and
+was performed in the Scopus database, using keywords related to: “Project Management”,
+“Lean”, “Lean Manufacturing”, “Lean Project Management”, “digital transformation”
+and “Industry 4.0”. As inclusion criteria, only articles published in Engineering, Business,
+management and accounting, Economics, Econometrics and Finance, Multidisciplinary areas were
+considered from a total of 2.835 articles to a bibliographic portfolio (BP) of 33 articles,
+selected after reading titles and abstracts and screening for the items that dealt with LPM
+in the context of digital transformation. Based on BP, CSSs were identiﬁed, as shown
+in the literature review. Hence, these were all of the articles that, to a certain extent,
+referred to factors of LPM implementation within digital transformation. In order to
+synthesize knowledge in a replicable and transparent way, a content analysis technique
+was used. It was based on the work of [21] through the following steps: (1) discussion and
+delimitation of the relevant material to be analyzed: 24 selected articles, (2) descriptive
+analysis of formal characteristics using Microsoft Excel worksheet, (3) selection of CSSs
+for LPM implementation in the context of digital transformation in an inductive way and
+(4) evaluation of the material according to the factors identifying how these CSSs can add
+value to Brazilian organizations. The literature review is summarized in Table 1.
+
+--- [PAGE 9] ---
+Sustainability 2023, 15, 1756
+9 of 21
+Table 1. Literature Review of Critical Soft Skills of Lean Project Management implementation in digital transformation.
+ID
+CSS of LPM Implementation in
+Digital Transformation
+(Aas & Alaassar,
+2018) [63]
+(Aasland & Blankenburg,
+2012) [65]
+(Andriole,
+2018) [54]
+(Ballard,
+2008) [60]
+(Ballard &
+Howell,
+2003) [40]
+(Bhamu &
+Sangwan,
+2014) [32]
+(Bhasin &
+Burcher,
+2006) [51]
+(Cifone et al.,
+2021) [9]
+(Dabestani
+et al.,
+2017) [41]
+1
+Implement a culture of waste elimination by
+simplifying project activities (CUL)
+x
+x
+x
+2
+Encourage the use of agile methodologies and quality
+management tools/concepts (AGI)
+x
+x
+x
+3
+Ensure that necessary changes throughout the project
+are fully executed (CHA)
+x
+x
+4
+Have the project team go to the Gemba and develop a
+vision of the whole (GEM)
+x
+x
+x
+x
+x
+5
+Involve the customer in all phases of the
+project (CUS)
+x
+x
+x
+6
+Share the knowledge gained from each project (KNO)
+x
+x
+7
+Ensure that communication ﬂows well between all
+project stakeholders (COM)
+x
+x
+8
+Make project information visually available, clear,
+and accessible (INF)
+x
+x
+9
+Hold regular, agile meetings (obeyas) to manage
+smaller, achievable deliverables (OBE)
+x
+x
+x
+10
+Stimulate Lean engagement among employees (ENG)
+x
+x
+Number of factors cited
+2
+1
+1
+2
+4
+8
+6
+6
+1
+ID
+(Dhamangaonkar,
+2020) [10]
+(Dombrowski
+& Mielke,
+2014) [59]
+(Fernandez &
+Fernandez,
+2008) [11]
+(Guinan et al., 2019) [12]
+(Hines
+et al.,
+2004) [34]
+(Howell &
+Koskela,
+2000) [1]
+(Kadarova
+& Demecko,
+2016) [53]
+(Lander &
+Liker,
+2007) [62]
+(Leach,
+2005) [14]
+(Liker,
+2020) [64]
+(Liker & Morgan,
+2006) [46]
+(Melton,
+2003) [52]
+(Melton,
+2004) [42]
+1
+x
+x
+x
+x
+x
+x
+x
+x
+2
+x
+x
+x
+3
+x
+x
+x
+x
+x
+x
+4
+x
+x
+x
+x
+x
+5
+x
+x
+x
+x
+x
+6
+x
+x
+7
+x
+8
+x
+x
+x
+x
+x
+9
+x
+x
+x
+10
+x
+x
+x
+2
+2
+1
+1
+2
+2
+4
+4
+7
+2
+4
+4
+6
+ID
+(Melton,
+2005) [37]
+(Coster &
+Wijk,
+2013) [44]
+(Reusch &
+Reusch,
+2013) [43]
+(Samudio
+et al.,
+2011) [58]
+(Shah &
+Ward,
+2007) [67]
+(Sohi et al.,
+2016) [36]
+(Tyagi
+et al.,
+2015) [57]
+(van Laar
+et al.,
+2017) [61]
+(Venumuddala
+& Kamath,
+2021) [55]
+(Warner &
+Wäger,
+2019) [56]
+(Zhang
+et al.,
+2020) [66]
+Value within the organization
+Total
+citations
+per factor
+1
+x
+x
+x
+x
+Increases efﬁciency and productivity
+15
+2
+x
+x
+x
+x
+Ensures continuous improvement
+10
+3
+Reduces the risk of error and rework
+8
+4
+x
+x
+x
+x
+x
+x
+x
+Assists in the delivery of
+complex projects
+17
+5
+x
+x
+x
+x
+x
+Root cause problem solving
+13
+6
+x
+x
+x
+x
+x
+Increases productivity
+9
+7
+x
+x
+x
+x
+Stimulates elimination of waste
+and rework
+8
+8
+x
+x
+x
+x
+Greater focus on the customer
+10
+9
+x
+x
+Reduces project delivery lead time
+7
+10
+x
+x
+x
+Creation of a more ﬂexible environment
+7
+6
+3
+5
+1
+6
+6
+2
+2
+2
+1
+4
+
+--- [PAGE 10] ---
+Sustainability 2023, 15, 1756
+10 of 21
+From the identiﬁcation of the CSSs, a quantitative analysis was conducted through an
+empirical study to analyze the agreement of project specialists regarding implementing
+these CSSs and the value they generate for the organization. To this end, a questionnaire
+was prepared with ten direct questions, each one referring to one of these CSSs. First, a
+pilot was applied to three experts with high experience and knowledge of LPM initiatives
+to examine content validity and test readability of the dimensions identiﬁed [68]. The pilot
+questionnaire provided a better reﬁnement of the questions, ensuring clarity and objectivity
+in answering the questions that composed the web questionnaire [21].
+3.2. Questionnaire Survey and Data Collection
+The survey instrument was divided into two main sections: information about the
+respondent, and the value of CSSs in implementing the LPM. The proﬁle of each respondent
+and their experience is detailed in the ﬁrst section; considered a valid sample of respondents
+who have already been involved with projects in their organizations.
+The second section focuses on evaluating whether the implementation of each vari-
+able, based on the literature, can really bring beneﬁts (also found in the literature) to the
+organization. The questionnaire had closed-ended questions, and its answers were based
+on the Likert Scale from “Strongly Disagree” to “Strongly Agree” as the expected answer
+for each question. The ﬁve Likert levels are as follows: 1 = strongly disagree, 2 = disagree,
+3 = indifferent, 4 = agree, 5 = strongly agree.
+The web survey was sent from 1 March to 31 March 2021 to the most relevant and
+representative professional groups existing on LinkedIn®. After a period of four weeks
+of research, 199 experts agreed to participate. Of this total, 33 responses were excluded,
+totaling 166 valid responses representing a return of 83% and ﬁtting the minimum sample
+size criteria of 120 respondents, which means at least ﬁve times the number of variables
+(24 items) analyzed [69]. In addition, this study also exceeds the minimum size of 119 re-
+spondents to cover the largest possible population (with a margin of error of 5 3% and α 5
+5%), according to [70].
+As in [68], the sample is considered non-probabilistic (convenience sampling) since the
+researcher does not know the probability that an element of the population should belong
+to the sample (Sekaran and Bougie, 2010) and that the sample audiences were selected
+according to the criteria of accessibility and availability [71].
+3.3. Data Analysis
+The statements present in the research instrument point directly to each of the variables
+found in the literature. The data obtained by applying the instrument are intended to
+confront these statements. Through this, we expected to generate a model that enables
+managers better to execute their projects within the digital transformation paradigm,
+meeting the client’s needs with excellence. In order to estimate the reliability of the
+questionnaire, Cronbach’s alpha coefﬁcient was used, which is one of the most reliable
+measures used in organizational research. It aims to specify the extent to which the
+questionnaire items characterize a common concept and have an interrelationship with
+each other [72]. It is the average correlation between the questions in a questionnaire,
+expressed by a number ranging from 0 to 1; the higher the value, the more reliable the scale
+generated [73,74]. Cronbach’s alpha coefﬁcient can be calculated as follows:
+α =
+
+k
+k −1
+ 
+1 −∑k
+i=1 σ2
+y
+σ2x
+!
+(1)
+where k is the number of items, σ2
+y is the variance associated with items i and σ2
+x is the
+variance associated with all items.
+To determine the reliability, validity, and objectivity of the collected data, other tests
+were applied, for example, the Kaiser-Meyer-Olkin criterion (KMO) and Bartlett’s sphericity
+test. Based on these mentioned coefﬁcients and with the objective of elaborating a ﬁnal
+
+--- [PAGE 11] ---
+Sustainability 2023, 15, 1756
+11 of 21
+research product that is more summarized and applicable to the daily lives of managers,
+a multivariate data analysis method known as Factor Analysis was used. This method
+identiﬁes strongly interrelated variables and proposes latent factors that summarize or
+explain the original set of variables with minimal loss of information, preserving the
+character of the original variable and simplifying the analysis [69]. With this, it is possible
+to compile the variables found in the literature into latent factors, which will be the product
+of a more straightforward understanding and application in the organizational context.
+3.4. Reliability and Validity
+Reliability and validity analyses were performed following some crucial steps pro-
+posed by [75]. First, the reliability of the questionnaire was veriﬁed by Cronbach’s alpha
+coefﬁcient (α). According to [69], Cronbach’s alpha is a reliability coefﬁcient that assesses
+the consistency of the entire scale, where the lower limit for the generally accepted Cron-
+bach’s alpha is 0.70, although it may decrease to 0.60 in exploratory research. In the present
+study, the value of α = 0.7 will be adopted as the acceptable minimum, and α = 0.9 as the
+acceptable maximum, since an acceptable or good internal consistency is desired [76].
+Moreover, as in previous studies [77,78], content analysis was also achieved as the
+dimensions and items identiﬁed were obtained from the narrative literature review. As
+in [75], construct validity was calculated with PCA, which uses OBLIMIN rotation, con-
+sidering eigenvalues greater than 1 [69]. Factorability was examined by KMO test (which
+measures the sampling adequacy) (KMO > 0.50) and Bartlett’s sphericity test (signiﬁcant
+at the 5% level) [79]. In addition, as suggested in previous studies [78], all dimensions are
+one-dimensional.
+4. Results and Discussion
+4.1. Descriptive Results
+Table 2 shows the results concerning the ﬁrst section of the questionnaire, where
+information about the respondent’s proﬁle is presented. The main selection criterion of the
+sample in this one was the respondent’s involvement with a project in his/her organization.
+Based on this, the amount of experience and the position held in the organization was
+questioned, and it was possible to observe that more than half of the respondents held
+leadership positions within their organizations, contributing to a sample with greater
+relevance and credibility in the research context.
+Table 2. Respondents proﬁle (n = 166).
+Variables
+Percentage
+Role within organization
+Director
+8%
+Manager
+19%
+Leader
+31%
+Project Team Member
+42%
+Other
+1%
+Experience in Projects
+0–5 years
+54%
+6–9 years
+27%
+10–14 years
+8%
+15–19 years
+6%
+20 or more years
+6%
+Seeking to validate the second section of the research instrument, Cronbach’s alpha
+was calculated considering a value of 10 variables, ﬁnding a value of 0.828. On the scale
+presented by [80], this index is considered satisfactory to validate the research instrument,
+remaining between the acceptance criteria of 0.7 and 0.9 [69].
+
+--- [PAGE 12] ---
+Sustainability 2023, 15, 1756
+12 of 21
+Seeking to analyze the behavior of each critical factor individually, Table 3 presents
+the relative frequency of each perception pointed out by the respondents, following the
+Likert scale.
+Table 3. Relative frequency of answer per question.
+ID
+Variable
+1
+2
+3
+4
+5
+Strongly Disagree
+Disagree
+Indifferent
+Agree
+Strongly Agree
+1
+Implement a culture of waste elimination by
+simplifying project activities
+0%
+1%
+2%
+33%
+65%
+2
+Encourage the use of agile methodologies
+and quality management tools/concepts
+0%
+1%
+3%
+32%
+63%
+3
+Ensure that necessary changes throughout
+the project are fully executed
+0%
+2%
+3%
+40%
+53%
+4
+Have the project team go to the Gemba and
+develop a vision of the whole
+0%
+5%
+7%
+37%
+49%
+5
+Involve the customer in all phases of
+the project
+0%
+3%
+7%
+47%
+41%
+6
+Share the knowledge gained from
+each project
+0%
+1%
+3%
+31%
+64%
+7
+Ensure that communication ﬂows well
+between all project stakeholders
+0%
+0%
+0%
+25%
+75%
+8
+Make project-related information visually
+available, clear, and accessible
+0%
+0%
+3%
+34%
+63%
+9
+Hold regular, agile meetings (obeyas) to
+manage smaller, achievable deliverables
+1%
+0%
+4%
+28%
+66%
+10
+Stimulate Lean engagement
+among employees
+0%
+0%
+1%
+27%
+73%
+Table 3 indicates that all respondents considered the CSSs surveyed by the literature
+exposed in this paper as relevant to the successful implementation of LPM in organizations.
+In addition, it is noteworthy that all variables (except 9) did not obtain any “strongly
+disagree” answers, which further reinforces the foregoing paragraph. Furthermore, none
+of the variables achieved more than 7% in “disagree” or “indifferent” responses.
+4.2. Inferential Results
+The method of multivariate data analysis called Factor Analysis aims to analyze
+relationships between variables to identify among them a set with similar characteristics,
+that is, to form groups of variables that give rise to latent factors [69]. Thus, it was possible
+to identify two latent factors emerging from the variables found in the literature review,
+whose application by the manager within his projects brings considerable value to the
+organization. These values are described in Table 4, found in the researched literature.
+Initially, the correlation matrix between variables was generated, representing the
+intercorrelations between all variables [69]. These correlations are important to determine
+if factor analysis is suitable. It was noticed that there is a signiﬁcant amount of correlations
+greater than 0.3 (highlighted in the table below), which according to [69], justiﬁes the
+application of factor analysis.
+Once the correlation matrix was obtained, the Bartlett’s test of sphericity was applied.
+According to [69], the Barlett’s test of sphericity is “a statistical test of the overall signiﬁcance
+of all correlations in a correlation matrix. It provides the statistical probability that the
+correlation matrix has signiﬁcant correlations between at least some of the variables, where
+the signiﬁcance (sig) found should be less than 0.05.
+
+--- [PAGE 13] ---
+Sustainability 2023, 15, 1756
+13 of 21
+Table 4. Correlation Matrix. Correlations higher than 0.3 are highlighted in gray with bold text.
+Correlation Coefﬁcient
+V1
+V2
+V3
+V4
+V5
+V6
+V7
+V8
+V9
+V10
+V1
+1
+0.379
+0.395
+0.293
+0.299
+0.376
+0.286
+0.336
+0.457
+0.442
+V2
+0.379
+1
+0.467
+0.165
+0.270
+0.365
+0.296
+0.460
+0.428
+0.472
+V3
+0.395
+0.467
+1
+0.421
+0.341
+0.435
+0.314
+0.438
+0.408
+0.371
+V4
+0.293
+0.165
+0.421
+1
+0.339
+0.248
+0.283
+0.270
+0.280
+0.236
+V5
+0.299
+0.270
+0.341
+0.339
+1
+0.243
+0.223
+0.331
+0.448
+0.346
+V6
+0.376
+0.365
+0.435
+0.248
+0.243
+1
+0.428
+0.433
+0.340
+0.400
+V7
+0.286
+0.296
+0.314
+0.283
+0.223
+0.428
+1
+0.442
+0.377
+0.431
+V8
+0.336
+0.460
+0.438
+0.270
+0.331
+0.433
+0.442
+1
+0.379
+0.460
+V9
+0.457
+0.428
+0.408
+0.280
+0.448
+0.340
+0.377
+0.379
+1
+0.539
+V10
+0.442
+0.472
+0.371
+0.236
+0.346
+0.400
+0.431
+0.460
+0.539
+1
+Furthermore, according to [69], the KMO test is also used to quantify the degree of
+correlations between variables, where its results can be interpreted as follows:
+(1)
+Factorial loads in the range of ±0.30 to ±0.40 are considered to meet the minimum
+level for structure interpretation;
+(2)
+Loads of ±0.50 or greater are considered to be virtually signiﬁcant;
+(3)
+Loads exceeding ±0.70 are considered indicative of a well-deﬁned structure and are
+the goal of any factor analysis.
+The principal component analysis method uses the criterion of the latent root, which
+according to [69], is a technique in which “any individual factor must explain the variance
+of at least one variable if it is to be maintained for interpretation. This criterion enables
+the determination of the number of latent factors, where only the factors that have a latent
+root greater than 1 can be considered signiﬁcant and kept for interpretation. From the
+variables identiﬁed in the literature, 2 latent factors (marked in red) were extracted using
+the explained criterion, as can be seen in the Scree plot from Figure 2 below: The Scree
+plot shows the eigenvalues associated with the correlation matrix. The underlying logic
+for the scree plot is that if there exists a speciﬁc number of m major common factors, then
+there will be m relatively large eigenvalues, and the other eigenvalues will be small in
+comparison. These other eigenvalues can be considered noise or random inﬂuences [81].
+Figure 2. Eigenvalues for the latent root criterion.
+
+--- [PAGE 14] ---
+Sustainability 2023, 15, 1756
+14 of 21
+According to [69], the criterion of variance percentage can be used to guarantee
+practical signiﬁcance for the determining factors. This criterion is based on the speciﬁed
+cumulative percentage of total variance extracted by successive factors. The authors state
+that it is satisfactory when the number of factors extracted explains 60% of the total variance,
+but there is an additional variant for this criterion. For practical reasons, there may be
+a certain pre-speciﬁed commonality for each variable, so the researcher may include as
+many factors as he or she considers sufﬁcient to represent the original variables adequately.
+The total variance presents the variance accounted for by the extracted factors prior to
+rotation. After rotation, the total amount of variance accounted for by the factors will be the
+same, but this variance will be redistributed across the two factors [81]. The total variance
+explained is shown in Table 5.
+Table 5. Total variance explained.
+COMPONENT
+Initial Eigenvalues
+Sums of Squared Loadings Extraction
+Sums of Squared
+Loadings Rotation
+Total
+Variance%
+Cumulative %
+Total
+Variance%
+Cumulative %
+Total
+1
+4.168
+41.680
+41.680
+4.168
+41.680
+41.680
+4.013
+2
+0.973
+9.733
+51.413
+0.973
+9.733
+51.413
+2.042
+3
+0.912
+9.118
+60.532
+4
+0.835
+8.354
+68.886
+5
+0.715
+7.153
+76.038
+6
+0.592
+5.917
+81.956
+7
+0.557
+5.569
+87.524
+8
+0.484
+4.836
+92.360
+9
+0.397
+3.966
+96.326
+10
+0.367
+3.674
+100.000
+Extraction Method: Principal Component Analysis.
+Ref. [69] address rotational methods that simplify the rows and columns of the factorial
+matrix to facilitate the rotated matrix interpretation. Whenever an oblique rotation is used,
+the rotated factor loading matrix is referred to as the pattern matrix. This is the matrix that
+should be the primary basis of interpretation. Its coefﬁcients can be thought of as similar
+to standardized partial regression coefﬁcients in which common factors predict measured
+variables (i.e., a factor loading is the standardized unit of increase in the measured variable
+for each standardized unit of increase in the common factor). Thus, these loadings represent
+the impact of the factor on the item controlling for the impact of other factors in the model
+on the same item [81]. This simpliﬁcation involves making as many row and column values
+as close to zero as possible. Thus, we proceeded to the OBLIMIN rotation step of the matrix
+in question. The rotated matrix can be found in Appendix B. Figure 3 presents the graphical
+representation of factor structures, with the latent factors and the related variables.
+ 
+Figure 3. Graphical representation of exploratory factor analysis.
+
+--- [PAGE 15] ---
+Sustainability 2023, 15, 1756
+15 of 21
+From the Factor Analysis, it was possible to subdivide the variables into two di-
+mensions. Dimension 1 encompasses variables 1, 2, 3, 6, 7, 8, 9, and 10, where a strong
+connection to implementing the LPM through processes was identiﬁed. It can be inferred
+through this dimension that it is of great importance that organizations implement speciﬁc
+processes so that the LPM is working. These processes are change management, knowledge
+management, communication management, visual management, people management, and
+quality management. All of these processes are part of a combination of attitudes that an
+organization chooses to take so that Lean is developed and fully applied within the reality
+of projects.
+From the variables related to Dimension 1, a strong connection with the need for
+the company to implement processes so that the Lean methodology could be added to
+process management was identiﬁed. From such processes, one can list: change manage-
+ment, knowledge management, communication management, visual management, people
+management, and quality management. All of these processes are part of a combination of
+attitudes that an organization chooses to take, so that Lean is developed and fully applied
+within the reality of projects.
+As for dimension 2, which encompasses variables 4 and 5, there is a dependence
+on human relations for the variables to be employed. Such relationships are vital to the
+establishment of Lean methodology that [62] emphasizes that as people get used to and
+understand the new way of working, their mental model also begins to change.
+Ref. [62] points out that a true Lean system is constantly adapting its technical and
+social systems for the sake of value generation, improved performance, and long-term
+survival. Building social and technical capabilities that ﬁt the circumstances, using ﬂexible
+processes/tools, and having people committed to controlling variations in their processes
+form a set of principles that encompass dimensions 1 and 2, the purpose of which is to
+ground Lean within project management.
+Ref. [64] states that for an organization to become Lean and open to learning, it is
+essential to have a combination of processes, people, problem-solving, and long-term com-
+mitment. Ref. [66] reafﬁrms this thought by noting that Lean is a deep transformation of the
+corporate system; it is the construction of a cultural atmosphere focused on improvement.
+The company must build dynamic processes oriented to Lean thinking and tie this to
+cultivating people’s skills and habits, forming a new corporate culture. This process can
+also be called Lean sustainability.
+According to [66], Lean sustainability is deﬁned as “the establishment of the long-
+term Lean implementation concept, the use of Lean for deep transformation, continuous
+optimization, and the effectuation of a Lean cultural atmosphere within the company. The
+union of dimensions 1 and 2 revealed after the factor analysis aims precisely to implement
+Lean in the long = term through people and processes, consolidating this methodology in
+the company and generating organizational value; therefore, Figure 4 below can be named
+Lean sustainability.
+Ref. [82] already emphasized that “the management of a system requires knowledge
+of the interrelationships among all the sub-processes within the system and all those who
+work in it. Conﬁrming this reasoning, Ref. [67] points out that Lean manufacturing is
+not a singular concept and cannot be tied only to continuous improvement processes, JIT,
+or employee involvement; but rather to the mutual support of various components to
+constitute the whole system.
+Finally, inspired by [66], organization’s sustainability requires a Lean mindset when
+looking at everything that involves project management and, complementary to this, it
+must live, breathe and be Lean-oriented in all aspects, especially in the context of ongoing
+digital transformation.
+
+--- [PAGE 16] ---
+Sustainability 2023, 15, 1756
+16 of 21
+ 
+Figure 4. Socio-technical Framework for Sustainable Value.
+LPM is a methodology aimed at lowering waste and increasing efﬁciency, adding value
+to the organization. Nonetheless, in the context of digital transformation in companies,
+it can be seen that the results point to a need to observe not only the development of
+technical and managerial skills, but also interpersonal soft skills so that the company grows
+in a sustainable way. The socio-technical characteristics of LPM in the digital age can be
+seen in both dimensions. Dimension 1 encompasses both purely process-related factors
+(such as factors 3 and 8) but shows that the manager needs to be able to motivate the team
+(expressed, for example, in factors 2 and 10) in order to achieve project goals. Dimension
+2 can be seen as the dimension which encompasses the interpersonal relations of LPM
+in digital transformation, since it has both a factor (factor 4) regarding the interpersonal
+collaboration of the project team by going to the Gemba and a customer-centric factor
+(factor 5).
+It can be seen that from the technical point of view of the processes that the most
+important CSSs are those related to the use of agile methodologies and the need to stimulate
+engagement in the adoption of Lean methodologies. This is consistent with the ﬁndings
+of [24,32,43,54,55,83] for other countries (e.g., USA, Canada, and Mexico), which show that
+an agile mindset and the use of agile practices are important pillars in LPM, and also with
+work that shows that engagement in LPM practices plays a vital role in the implementation
+of Lean practices [12,36,59].
+Regarding the people aspect, the most important CSS is related to guaranteeing that
+the LPM teams go to the Gemba. Other research shows that the Gemba is an important tool
+in the so-called shop ﬂoor management in that managers can use it to view, interact and
+empathize with the professionals at more operational levels [54,58,59].
+5. Conclusions
+The purpose of this paper was to present critical soft skills for LPM implementation
+and highlight the sustainable value they can generate for organizations in the age of digital
+transformation. To achieve this goal, two latent factors were identiﬁed and structured in
+a socio-technical framework that aims to be a guideline for how to transform traditional
+project management into a Lean approach by eliminating waste, managing change initia-
+tives, developing communication, knowledge, quality, and agile principles and creating
+
+--- [PAGE 17] ---
+Sustainability 2023, 15, 1756
+17 of 21
+different solutions for the old PM issues in a collaborative way. The proposed framework in-
+tends to implement system-wide Lean thinking throughout organizational culture, paving
+the way for successful digital projects. This socio-technical approach is particularly prone to
+adding value in companies that deal with digital transformation, since the Lean approach
+can both affect and be affected positively by digital tools. The latent factors identiﬁed and
+their composition show that soft skills are important both from the technical (process) and
+cultural (people) points of view. Furthermore, the CSSs affect all stakeholders, from the
+project leaders/managers to the customer.
+5.1. Theoretical Implications
+The contributions of this article are as follows. First, a thorough study of the exist-
+ing literature was conducted by identifying ten critical factors for implementing LPM.
+Through survey research, these factors were validated by professionals working in the
+project management ﬁeld in Brazil. Second, two latent factors, called “implementation
+through processes” and “implementation through people,” were identiﬁed in the principal
+component analysis. In parallel with establishing LPM in digital transformation through
+business processes and human resources, the company must develop a production pro-
+cess that will turn into selling products. The paper highlights the ever-increasing need to
+conjugate both technical and social aspects of LPM in view of the industry 4.0 paradigm [17]
+5.2. Practical Implications
+These factors can guide decision making at the strategic level and project leaders of
+organizations when it comes to implementing LPM toward digital transformation. Thirdly,
+this article shows a comprehensive theoretical framework that analyzes the existence of
+critical factors in the literature and practice for implementing LPM. The proposed frame-
+work can help managers to guide decision making in LPM implementation by prioritizing
+the development of critical soft skills, which will help LPM to succeed [15] and can also
+accelerate the transition to Industry 4.0
+5.3. Suggestions for Further Research
+Therefore, future studies are expected to be conducted more comprehensively, com-
+paring critical and latent factors of LPM implementation in different countries to make the
+research more generalizable in a global scenario. It is also suggested that in future studies,
+the latent dimensions found in this paper are applied to a case study to verify the market
+response to research and to improve each latent factor further. The main limitations of this
+article are the delimitation of the survey to professionals working in Brazilian companies
+and a sample size that was conditioned by the number of respondents of the questionnaire
+distributed electronically. Although it presents the above limits, it is possible to consider
+this research as academically vital because it presents content that can serve as a source of
+future studies in synergy with the theme of project management, since leaders of organiza-
+tions can, from the identiﬁed critical skills and latent factors, promote actions that prioritize
+them and assist the implementation of LPM.
+Author Contributions: Conceptualization, B.F.L., J.V.N. and R.G.G.C.; Data curation, B.F.L., J.V.N.
+and R.G.G.C.; Formal analysis, B.F.L., J.V.N. and R.S.S.; Funding acquisition, R.G.G.C.; Investigation,
+B.F.L. and J.V.N.; Methodology, B.F.L., J.V.N., R.S.S. and R.G.G.C.; Project administration, J.V.N.
+and R.G.G.C.; Resources, B.F.L. and J.V.N.; Software, B.F.L., J.V.N., R.S.S. and R.G.G.C.; Supervi-
+sion, J.V.N. and R.G.G.C.; Validation, J.V.N. and R.G.G.C.; Visualization, B.F.L., J.V.N. and R.S.S.;
+Writing—original draft, B.F.L. and J.V.N.; Writing—review & editing, R.S.S. and R.G.G.C. All authors
+have read and agreed to the published version of the manuscript.
+Funding: This work was supported by the Coordenação de Aperfeiçoamento de Pessoal de Nível
+Superior–Brasil–CAPES [Finance Code 001]; Brazilian National Council for Scientiﬁc and Technologi-
+cal Development–CNPq [307173/2022-4]; Carlos Chagas Filho Foundation for Research Support of
+the State of Rio de Janeiro–FAPERJ [Grant number E-26/201.363/2021; E26/211.298/2021].
+
+--- [PAGE 18] ---
+Sustainability 2023, 15, 1756
+18 of 21
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the study.
+Data Availability Statement: Not applicable.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+Appendix A
+Table A1. Abbreviation table.
+Abbreviation
+Terms
+CSS
+Critical Soft Skills
+LPM
+Leal Project Management
+VSM
+Value Stream Mapping
+PMBOK
+Project Management Body of Knowledge
+PM
+Project Management
+JIT
+Just in Time
+TQM
+Total Quality Management
+BP
+Bibliographic Portfolio
+KMO
+Kaiser-Meyer-Olkin
+PCA
+Principal Component Analysis
+PDCA
+Plan, Do, Check, Act
+Appendix B
+Table A2. Rotated component matrix.
+Component
+Factor
+1
+2
+V1
+0.619
+V2
+0.820
+V3
+0.534
+V4
+0.910
+V5
+0.526
+V6
+0.730
+V7
+0.520
+V8
+0.690
+V9
+0.586
+V10
+0.777
+Extraction Method: Principal Component Analysis.
+Rotation Method: Oblimin with Kaiser Normalization.
+a. Rotation converged in 6 iterations.
+References
+1.
+Howell, G.; Koskela, L. Reforming project management: The role of lean construction. J. Manag. 2000. Available online:
+http://usir.salford.ac.uk/9428/ (accessed on 12 December 2022).
+2.
+Shenhar, A.J.; Dvir, D.; Levy, O.; Maltz, A.C. Project success: A multidimensional strategic concept. Long Range Plan. 2001, 34,
+699–725. [CrossRef]
+3.
+Todorovi´c, M.L.; Petrovi´c, D. ˇC.; Mihi´c, M.M.; Obradovi´c, V.L.; Bushuyev, S.D. Project success analysis framework: A knowledge-
+based approach in project management. Int. J. Proj. Manag. 2015, 33, 772–783. [CrossRef]
+4.
+Koskela, L.; Howell, G. The underlying theory of project management is obsolete. IEEE Eng. Manag. Rev. 2008, 36, 22–34.
+[CrossRef]
+5.
+Gomes, J.; Romao, M. Improving project success: A case study using beneﬁts and project management. Procedia Comput. Sci. 2016,
+100, 489–497. [CrossRef]
+6.
+Perrotta, D.; Araujo, M.; Fernandes, G.; Tereso, A.; Faria, J. Towards the development of a methodology for managing industrial-
+ization projects. Procedia Comput. Sci. 2017, 121, 874–882. [CrossRef]
+7.
+Hines, P. Value Stream Management: Strategy and Excellence in the Supply Chain; Financial Times Management: Harlow, UK, 1999.
+8.
+Horman, M.; Kenley, R. The application of lean production to project management. In Proceedings of the 4th Annual International
+Group for Lean Construction, Birmingham, UK, 27–29 November 2018.
+
+--- [PAGE 19] ---
+Sustainability 2023, 15, 1756
+19 of 21
+9.
+Cifone, F.D.; Hoberg, K.; Holweg, M.; Staudacher, A.P. ‘Lean 4.0’: How can digital technologies support lean practices? Int. J.
+Prod. Econ. 2021, 241, 108258. [CrossRef]
+10.
+Dhamangaonkar, M.P. Digitalization of Lean Tools—Digital A3. Int. J. Sci. Res. Publ. 2020, 10, 967–973. [CrossRef]
+11.
+Fernandez, D.J.; Fernandez, J.D. Agile Project Management—Agilism versus Traditional Approaches. J. Comput. Inf. Syst. 2008,
+49, 10–17.
+12.
+Guinan, P.J.; Parise, S.; Langowitz, N. Creating an innovative digital project team: Levers to enable digital transformation. Bus.
+Horiz. 2019, 62, 717–727. [CrossRef]
+13.
+Amran, T.G.; Saraswati, D.; Harahap, E.F. Evaluating Storage Tank Cap 10000L Manufacturer by Using Lean Project Management.
+In Proceedings of the 11th International Seminar on Industrial Engineering and Management: Technology and Innovation
+Challenges Towards Industry 4.0 Era, ISIEM 2018, Makassar, Indonesia, 27–29 November 2018; Institute of Physics Publishing:
+Bristol, UK, 2019; Volume 528.
+14.
+Leach, L.P. Lean Project Management: Eight Principles for Success; Advanced Projects: Cosby, UK, 2005.
+15.
+Lista, A.P.; Tortorella, G.L.; Bouzon, M.; Thürer, M.; Jurburg, D. Soft and hard skills development in lean management trainings.
+Int. J. Lean Six Sigma 2022, 13, 1137–1158. [CrossRef]
+16.
+DE Jesus, R.C.; Vieira, G.P.; DE Gouvêa, D.G.T.; Filho, E.D.J. O Impacto das Soft Skills na Gestão Lean no Setor de Facilities no Rio
+de Janeiro. In Proceedings of the Anais do XLI Encontro Nacional de Engenharia de Produção, Foz do Iguaçu, Paraná, Brazil,
+18–21 October 2021. [CrossRef]
+17.
+Tortorella, G.; Fogliatto, F.S.; Kumar, M.; Gonzalez, V.; Pepper, M. Effect of Industry 4.0 on the relationship between socio-technical
+practices and workers’ performance. J. Manuf. Technol. Manag. 2022; ahead-of-print. [CrossRef]
+18.
+Agostinho, V.; Baldo, C.R. Assessment of the impact of Industry 4.0 on the skills of Lean professionals. Procedia CIRP 2021, 96,
+225–229. [CrossRef]
+19.
+Nascimento, D.L.D.M.; Quelhas, O.L.G.; Caiado, R.; Tortorella, G.L.; Garza-Reyes, J.A.; Rocha-Lona, L. A lean six sigma framework
+for continuous and incremental improvement in the oil and gas sector. Int. J. Lean Six Sigma 2019, 11, 577–595. [CrossRef]
+20.
+Tortorella, G.L.; Vergara, L.G.L.; Ferreira, E.P. Lean manufacturing implementation: An assessment method with regards to
+socio-technical and ergonomics practices adoption. Int. J. Adv. Manuf. Technol. 2017, 89, 3407–3418. [CrossRef]
+21.
+Lins, M.G.; Zotes, L.P.; Caiado, R. Critical factors for lean and innovation in services: From a systematic review to an empirical
+investigation. Total Qual. Manag. Bus. Excell. 2021, 32, 606–631. [CrossRef]
+22.
+Sousa, P.; Tereso, A.; Alves, A.; Gomes, L. Implementation of project management and lean production practices in a SME
+Portuguese innovation company. Procedia Comput. Sci. 2018, 138, 867–874. [CrossRef]
+23.
+Muniz, M.V.P.; Lima, G.B.A.; Caiado, R.G.G.; Quelhas, O.L.G. Bow tie to improve risk management of natural gas pipelines.
+Process Saf. Prog. 2018, 37, 169–175. [CrossRef]
+24.
+Bouchard, S.; Abdulnour, G.; Gamache, S. Agility and Industry 4.0 Implementation Strategy in a Quebec Manufacturing SME.
+Sustainability 2022, 14, 7884. [CrossRef]
+25.
+Caiado, R.G.G.; Lima, G.B.A.; Gaviáo, L.O.; Quelhas, O.L.G.; Paschoalino, F.F. Sustainability Analysis in Electrical Energy
+Companies by Similarity Technique to Ideal Solution. IEEE Lat. Am. Trans. 2017, 15, 675–681. [CrossRef]
+26.
+Batista, M.; Caiado, R.G.G.; Quelhas, O.L.G.; Lima, G.B.A.; Filho, W.L.; Yparraguirre, I.T.R. A framework for sustainable and
+integrated municipal solid waste management: Barriers and critical factors to developing countries. J. Clean. Prod. 2021,
+312, 127516. [CrossRef]
+27.
+Project Management Institute. Guide to the Project Management Body of Knowledge (PMBOK Guide); Project Management Institute:
+Newtown Square, PA, USA, 2021.
+28.
+Andersen, E.S.; Jessen, S.A. Project maturity in organisations. Int. J. Proj. Manag. 2003, 21, 457–461. [CrossRef]
+29.
+International Project Management Association—IPMA. Individual Competence Baseline for Project Management; IPMA Standards:
+Nijkerk, The Netherlands, 2015.
+30.
+Radujkovi´c, M.; Sjekavica, M. Project Management Success Factors. In Proceedings of the Creative Construction Conference, CCC
+2017, Primosten, Croatia, 19–22 June 2017; Hajdu, M., Skibniewski, M.E., Eds.; Elsevier Ltd.: Amsterdam, The Netherlands, 2017;
+Volume 196, pp. 607–615.
+31.
+Lishner, I.; Shtub, A. Measuring the success of lean and agile projects: Are cost, time, scope and quality equally important? J. Mod.
+Proj. Manag. 2019, 7, 138–145.
+32.
+Bhamu, J.; Sangwan, K.S. Lean manufacturing: Literature review and research issues. Int. J. Oper. Prod. Manag. 2014, 34, 876–940.
+[CrossRef]
+33.
+Womack, J.P.; Jones, D.T.; Roos, D. The Machine That Changed the World: The Story of Lean Production, Toyota’s Secret Weapon in the
+Global Car Wars That Is Now Revolutionizing World Industry; Free Press: New York, NY, USA, 1990.
+34.
+Hines, P.; Holwe, M.; Rich, N. Learning to evolve—A review of contemporary lean thinking. Int. J. Oper. Prod. Manag. 2004, 24,
+994–1011. [CrossRef]
+35.
+Womack, J.P.; Jones, D.T. Lean Thinking; Free Press: New York, NY, USA, 2003.
+36.
+Sohi, A.J.; Hertogh, M.; Bosch-Rekveldt, M.; Blom, R. Does lean & agile project management help coping with project complexity?
+In Proceedings of the 29th IPMA World Congress WC2015, Panama City, Panama, 28 September–1 October 2015; Volume 226, pp.
+252–259. [CrossRef]
+
+--- [PAGE 20] ---
+Sustainability 2023, 15, 1756
+20 of 21
+37.
+Melton, T. The beneﬁts of lean manufacturing—What lean thinking has to offer the process industries. Chem. Eng. Res. Des. 2005,
+83, 662–673. [CrossRef]
+38.
+van Dun, D.H.; Hicks, J.N.; Wilderom, C.P.M. Values and behaviors of effective lean managers: Mixed-methods exploratory
+research. Eur. Manag. J. 2017, 35, 174–186. [CrossRef]
+39.
+Freitag, A.E.B.; Santos, J.D.C.; Reis, A.D.C. Lean Ofﬁce and digital transformation: A case study in a services company. Braz. J.
+Oper. Prod. Manag. 2018, 15, 588–594. [CrossRef]
+40.
+Ballard, G.; Howell, G.A. Lean project management. Build. Res. Inf. 2003, 31, 119–133. [CrossRef]
+41.
+Dabestani, R.; Baerz, A.M.; Azar, A.; Shahin, A. Proposing a model for evaluating lean project management performance using
+grounded theory. Int. J. Product. Qual. Manag. 2017, 22, 521. [CrossRef]
+42.
+Melton, T. To lean or not to lean? (that is the question!). Chem. Eng. 2004, 34–37.
+43.
+Reusch, P.J.A.; Reusch, P. How to develop lean project management? In Proceedings of the 2013 IEEE 7th International Conference
+on Intelligent Data Acquisition and Advanced Computing Systems, IDAACS 2013, Berlin, Germany, 12–14 September 2013;
+Volume 2, pp. 547–550.
+44.
+Coster, C.J.; van Wijk, S. “Lean project management—An exploratory research into lean project management in the Swedish
+public and private sector”. Master’s Thesis, Umeå School of Business and Economics, Umeå, Sweden, 2015. Available online:
+https://www.diva-portal.org/smash/get/diva2:850350/FULLTEXT01.pdf (accessed on 12 December 2022).
+45.
+Karlsson, C.; Ahlstrom, P. Assessing changes towards lean production. Int. J. Oper. Prod. Manag. 1996, 16, 24–41. [CrossRef]
+46.
+Liker, J.K.; Morgan, J.M. The Toyota Way Fieldbook: A Practical Guide for Implementing Toyota’s 4P; McGraw-Hill: New York, NY,
+USA, 2006.
+47.
+Rossini, M.; Cifone, F.D.; Kassem, B.; Costa, F.; Portioli-Staudacher, A. Being lean: How to shape digital transformation in the
+manufacturing sector. J. Manuf. Technol. Manag. 2021, 32, 239–259. [CrossRef]
+48.
+Mabe, K.; Bwalya, K.J. Critical soft skills for information and knowledge management practitioners in the fourth industrial
+revolution. SA J. Inf. Manag. 2022, 24, 11. [CrossRef]
+49.
+Gulati, R.; Reaiche, C.H. Soft Skills: A Key Driver for Digital Transformation. In Proceedings of the ICDS 2020: The Fourteenth
+International Conference on Digital Society Soft, Valencia, Spain, 21–25 November 2020; pp. 40–43.
+50.
+Nagy, Z. The Importance of Soft Skills. In Soft Skills to Advance Your Developer Career; Apress: Berkeley, CA, USA, 2019; pp. 1–28.
+[CrossRef]
+51.
+Bhasin, S.; Burcher, P. Lean viewed as a philosophy. J. Manuf. Technol. Manag. 2006, 17, 56–72. [CrossRef]
+52.
+Melton, T. Agile project management for API projects: Get Agile—deliver faster. In Proceedings of the ISPE European Conference
+2003, Madeira, Portugal, 26–30 July 2003.
+53.
+Kadarova, J.; Demecko, M. New approaches in Lean Management. In Proceedings of the 3rd Global Conference on Business,
+Economics, Management and Tourism, Rome, Italy, 26–28 November 2015; Volume 39, pp. 11–16. [CrossRef]
+54.
+Andriole, S.J. Skills and Competencies for Digital Transformation. IT Prof. 2018, 20, 78–81. [CrossRef]
+55.
+Venumuddala, V.R.; Kamath, R. Lean 4.0 for customer-centric digital transformation: Analysis through a work systems framework.
+SSRN Electron. 2021, 643, 1–11. [CrossRef]
+56.
+Warner, K.S.R.; Wäger, M. Building dynamic capabilities for digital transformation: An ongoing process of strategic renewal.
+Long Range Plan. 2019, 52, 326–349. [CrossRef]
+57.
+Tyagi, S.; Choudhary, A.; Cai, X.M.; Yang, K. Value stream mapping to reduce the lead-time of a product development process.
+Int. J. Prod. Econ. 2015, 160, 202–212. [CrossRef]
+58.
+Samudio, M.; Alves, T.d.C.L.; Chambers, D. Employing the principle of “going and seeing” to construction. Lean Constr. J. IGLC
+Spec. Issue 2011, 41–53.
+59.
+Dombrowski, U.; Mielke, T. Lean Leadership-15 Rules for a sustainable Lean Implementation. Procedia CIRP 2014, 17, 565–570.
+[CrossRef]
+60.
+Ballard, G. The lean project delivery system: An update. Lean Constr. J. 2008, 5, 1–19.
+61.
+van Laar, E.; van Deursen AJA, M.; van Dijk JAG, M.; de Haan, J. The relation between 21st-century skills and digital skills: A
+systematic literature review. Comput. Human Behav. 2017, 72, 577–588. [CrossRef]
+62.
+Lander, E.; Liker, J.K. The Toyota Production System and art: Making highly customized and creative products the Toyota way.
+Int. J. Prod. Res. 2007, 45, 3681–3698. [CrossRef]
+63.
+Aas, T.H.; Alaassar, A. The Impact of Visual Performance Management on Decision-Making in the Entrepreneurial Process. Int. J.
+Innov. Manag. 2018, 22, 5. [CrossRef]
+64.
+Liker, J.K. The Toyota Way: 14 Management Principles from the World’s Greatest Manufacturer; McGraw-Hill: New York, NY, USA, 2020.
+65.
+Aasland, K.; Blankenburg, D. An analysis of the uses and properties of the Obeya. In Proceedings of the 2012 18th International
+Conference on Engineering, Technology and Innovation, ICE 2012, Munich, Germany, 18–20 June 2012. [CrossRef]
+66.
+Zhang, B.; Niu, Z.W.; Liu, C.C. Lean Tools, Knowledge Management, and Lean Sustainability: The Moderating Effects of Study
+Conventions. Sustainability 2020, 12, 956. [CrossRef]
+67.
+Shah, R.; Ward, P.T. Deﬁning and developing measures of lean production. J. Oper. Manag. 2007, 25, 785–805. [CrossRef]
+68.
+Kruger, C.; Caiado, R.G.G.; Franca, S.L.B.; Quelhas, O.L.G. A holistic model integrating value co-creation methodologies towards
+the sustainable development. J. Clean. Prod. 2018, 191, 400–416. [CrossRef]
+69.
+Hair, J.F., Jr.; Black, W.C.; Babin, B.J.; Anderson, R.E.; Tatham, R.L. Análise Multivariada de Dados; Bookman: Porto Alegre, Brazil, 2009.
+
+--- [PAGE 21] ---
+Sustainability 2023, 15, 1756
+21 of 21
+70.
+Bartlett, J.E., II; Kotrlik, J.W.; Higgins, C.C. Determing appropriate sample size in survey research. Inf. Technol. Learn. Perform. J.
+2001, 19, 43–50.
+71.
+Megliorini, E.; Weffort, E.F.J.; de Holanda, V.B. Amostragem. In Pesquisa Operacional Para Decisão em Contabilidade e Administração:
+Contabilometria; Atlas: São Paulo, Brazil, 2004; pp. 19–74.
+72.
+Tavakol, M.; Dennick, R. Making sense of Cronbach’s alpha. Int. J. Med. Educ. 2011, 2, 53–55. [CrossRef]
+73.
+Santos, J.R.A. Cronbach’s Alpha: A Tool for Assessing the Reliability of Scales. J. Ext. 1999, 37, 2.
+74.
+Da Hora, H.R.M.; Rego Monteiro, G.T.; Arica, J. Conﬁabilidade em Questionários para Qualidade: Um Estudo com o Coeﬁciente
+Alfa de Cronbach. Prod. Produção 2010, 11, 2. [CrossRef]
+75.
+Tarí, J.J.; García-Fernández, M. A proposal for a scale measuring innovation in a total quality management context. Total Qual.
+Manag. Bus. Excell. 2020, 31, 1703–1717. [CrossRef]
+76.
+Caiado, R.G.G.; Quelhas, O.L.G.; Nascimento, D.L.D.; Anholon, R.; Leal, W. Towards sustainability by aligning operational
+programmes and sustainable performance measures. Prod. Plan. Control 2019, 30, 413–425. [CrossRef]
+77.
+Saraph, J.V.; Benson, P.G.; Schroeder, R.G. An Instrument for Measuring the Critical Factors of Quality Management. Decis. Sci.
+1989, 20, 810–829. [CrossRef]
+78.
+Xiong, J.J.; He, Z.; Ke, B.; Zhang, M. Development and validation of a measurement instrument for assessing quality management
+practices in hospitals: An exploratory study. Total Qual. Manag. Bus. Excell. 2016, 27, 465–478. [CrossRef]
+79.
+Blok, V.; Wesselink, R.; Studynka, O.; Kemp, R. Encouraging sustainability in the workplace: A survey on the pro-environmental
+behaviour of university employees. J. Clean. Prod. 2015, 106, 55–67. [CrossRef]
+80.
+George, D.; Mallery, P. IBM SPSS Statistics 27 Step by Step; Routledge: London, UK, 2021. [CrossRef]
+81.
+Fabrigar, L.R.; Wegener, D.T. Exploratory Factor Analysis. Understanding Statistics; Oxford University Press: Oxford, UK, 2011.
+82.
+Deming, W.E. Out of the Crisis; MIT Press: Cambridge, MA, USA, 1982.
+83.
+García-Alcaraz, J.L.; Flor-Montalvo, F.J.; Avelar-Sosa, L.; Sánchez-Ramírez, C.; Jiménez-Macías, E. Human Resource Abilities and
+Skills in TQM for Sustainable Enterprises. Sustainability 2019, 11, 6488. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
